@@ -1,10 +1,11 @@
 = Life
 
-- Punishment vs Discipline, Care and Reason - Ruff Lott
-- Punishment and Rewards vs Care and Reason - Alfie Kohn, Samuel P. Oliner + Pearl M. Oliner [Altruistic Personality + Samuel Oliner Testimony], Miki Kashtan [Exiting the Either/Or Trap - 17th minute]
+- Punishment vs Discipline, Care, Love and Reason - Ruff Lott
+- Punishment and Rewards vs Care, Love and Reason - Alfie Kohn, Samuel P. Oliner + Pearl M. Oliner [Altruistic Personality + Samuel Oliner Testimony], Miki Kashtan [Exiting the Either/Or Trap - 17th minute]
 - Production and Comsumption vs Care and Freedom - David Graeber [O Bullsh*t Jobs - 49:18-49:44]
 - Gratitude vs Reward, Praise and Compliments- M. B. Rosenberg, Alfie Kohn, Peter Gray
-- Criticism, Praise and Compliments vs Observation, Feeling, Need and Request - M. B. Rosenberg
+- Criticism, Punishment, Praise and Compliments vs Observation, Feeling, Need, Request and Unconditional Love - M. B. Rosenberg, Alfie Kohn
+- Criticism, Punishment, Praise and Compliments vs Unconditional Love - Alfie Kohn [OFJCC - 26:10-27:28-30:04]
 - Criticism and Blame vs Honesty - M. B. Rosenberg [Making life wonderful - part 1/4 - somewhere at the beginning]
 - Feedback vs Evaluation and Judgement - Alfie Kohn
 - Request vs Demand
@@ -39,8 +40,21 @@ Quotes
 
 "Can you live with it?" - Miki Kashtan [Maximizing Willingness - 1:02:10-1:02:16]
 
-the montessori method:
-- 4:56-6:23
-- 8:08-8:17
-- 10:45-11:20
-- associate object, word and stimuli
+*The Montessori Method*
+
+* Chapter 15: Intellectual Education
+** 0:49-1:33
+    *** The directress intervenes to lead the child from sensations to ideas, from the concrete to the abstract and to the association of ideas. For this, she uses a method which isolates the inner attention of the child and to focus it upon the perceptions. As in the first lessons, his objective attention was fixed in isolation upon single stimuli. The teacher, in other words, when she gives a lesson limits the field of the child's consciousness to the object of the lesson. As, for example, during the sense education, she isolated the sense which she whished the child to exercise.
+** 4:56-6:23
+    *** But, if he has not done this, that is, if he makes a mistake, she does not correct him, but suspends her lesson to take it up another day. Indeed, why correct him? If the child has not succeeded in associating the name with the object, the only way in which he succeeds would be to repeat both the action of the sense stimuli and the name. In other words, to repeat the lesson. But when the child has failed, we know, that he was not at that moment ready for the psychic association which we wished to provoke in him. Therefore, we choose another moment. If we correct the child by saying "No, you have made a mistake!", all these words, which, being in the form of reprove, would strike him more forcibly and would remain in the mind of the child retarding the learning. On the contrary, the silence which follows the error leaves the field of consciousness clear and the next lesson may successfully follow the first. In fact, by revealing the error we may lead the child to make an undue effort to remember, or we may discourage him. And it is our responsibility to avoid, as much as possible, all unnatural effort, and all the pressure.
+** 8:08-8:17
+    *** The teacher carefully watches when and how the child arrives at the generalization of ideas.
+** 10:50-11:20
+    *** We can not create observers by saying "Observe!", but by giving them the power and the abilities for these observations. And these abilities are obtained through the education of the senses. Once we have aroused such an activity, auto-education is assured. Refined, well-trained senses, lead us to a closer observation of the environment, and this with its infinite variety attracts the attention and continues the psychosensory education.
+
+Few parents have the courage and independence to care for the children's happines than about their success.
+[Erich Fromm; Alfie Kohn - Unconditional Parenting: Moving from Rewards and Punishments to Love and Reason: ch. 5 - "Pushed to succeed", p. 75
+; Alfie Kohn at the OFJCC - Performance vs. Learning - The Costs of Overemphasizing Achievement: ???]
+
+... because if I persuade you that something ... you're doing with kids is getting in the way, not what I happen to like, but of your own long-term goals for other people then either you have to rethink the practice or you have to rethink the outcome.
+[Alfie Kohn at the OFJCC - Performance vs. Learning - The Costs of Overemphasizing Achievement: 10:45-11:04]
