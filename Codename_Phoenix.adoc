@@ -1,8 +1,7 @@
 = Life
 
-- Punishment vs Discipline, Care, Love and Reason - Ruff Lott
-- Punishment and Rewards vs Care, Love and Reason - Alfie Kohn, Samuel P. Oliner + Pearl M. Oliner [Altruistic Personality + Samuel Oliner Testimony], Miki Kashtan [Exiting the Either/Or Trap - 17th minute]
-- Production and Comsumption vs Care and Freedom - David Graeber [O Bullsh*t Jobs - 49:18-49:44]
+- Punishment and Rewards vs Discipline, Care, Love and Reason - link:https://www.youtube.com/watch?v=Qk8fOOMWOGc[Shaping Discipline with a Restorative Approach - Part 4], Alfie Kohn, Samuel P. Oliner + Pearl M. Oliner [Altruistic Personality + Samuel Oliner Testimony], Miki Kashtan [Exiting the Either/Or Trap - 17th minute]
+- Production and Comsumption vs Care and Freedom - David Graeber [On Bullsh*t Jobs - 49:18-49:44]
 - Gratitude vs Reward, Praise and Compliments- M. B. Rosenberg, Alfie Kohn, Peter Gray
 - Criticism, Punishment, Praise and Compliments vs Observation, Feeling, Need, Request and Unconditional Love - M. B. Rosenberg, Alfie Kohn
 - Criticism, Punishment, Praise and Compliments vs Unconditional Love - Alfie Kohn [OFJCC - 26:10-27:28-30:04]
@@ -11,9 +10,9 @@
 - Request vs Demand
 - Power over vs Power with - Mary Parker Follett, Miki Kashtan [Exiting the Either/Or Trap - 30th minute], M. B. Rosenberg, Alfie Kohn, Mark Shepard
 - Authority based on 'power over' model vs Authority based on 'power with' model - M. B Rosenberg [interview with paula gloria]
-- Obedience vs Responsibility - M. B. Rosenberg-Workshop Denmark
-- Obedience vs Respect
-- Fear vs Respect
+- Obedience vs Responsibility - link:https://www.youtube.com/watch?v=HLgGt7yLhJg&feature=youtu.be&t=3373[Atelier communication non violente - Marshall Rosenberg - Danemark - sous-titres français: 56:13-57:15]
+- Obedience vs Respect - link:https://www.youtube.com/watch?v=HLgGt7yLhJg&feature=youtu.be&t=3373[Atelier communication non violente - Marshall Rosenberg - Danemark - sous-titres français: 56:13-57:15], link:https://www.youtube.com/watch?v=Qk8fOOMWOGc[Shaping Discipline with a Restorative Approach - Part 4]
+- Fear vs Respect - link:https://www.youtube.com/watch?v=Qk8fOOMWOGc[Shaping Discipline with a Restorative Approach - Part 4],
 - Empathy, Power with and Respect vs Obedience - M. B. Rosenberg [NVC Workshop Portland OR - 1:34:41]
 - Intrinsic motivation vs Extrinsic motivation vs Internal motivation - Alfie Kohn [OFJCC Overemphasizing achievement]
 - Excellence vs Superiority - Daniel Markovits-The Meritocracy Trap (e.g. Is Meritocracy a Sham - 19min video)
