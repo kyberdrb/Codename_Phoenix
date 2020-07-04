@@ -1,33 +1,55 @@
-= Life
+= Codename _Phoenix_
+
+Reborn from ashes.
+
+== Human needs / Menschliche Bedürfnisse / Ľudské potreby
+
+by / nach / podľa Manfred Max-Neef, Marshall B. Rosenberg and me
+
+* subsistence
+
+== Feelings at fulfilled needs
+
+* free
+
+== Feelings at unfulfilled needs
+
+What needs of mine are not being met?
+
+What needs of the other are not being met?
+
+* anxious
+
+== Comparisons
 
 - Punishment and Rewards vs Discipline, Care, Love and Reason - link:https://www.youtube.com/watch?v=Qk8fOOMWOGc[Shaping Discipline with a Restorative Approach - Part 4], Alfie Kohn, Samuel P. Oliner + Pearl M. Oliner [Altruistic Personality + Samuel Oliner Testimony], Miki Kashtan [Exiting the Either/Or Trap - 17th minute]
-- Production and Comsumption vs Care and Freedom - David Graeber [On Bullsh*t Jobs - 49:18-49:44]
+- Production and Comsumption vs Care and Freedom - link:https://www.youtube.com/watch?v=kikzjTfos0s&feature=youtu.be&t=2958[On Bullsh*t Jobs | David Graeber | RSA Replay: 49:18-49:44]
 - Gratitude vs Reward, Praise and Compliments- M. B. Rosenberg, Alfie Kohn, Peter Gray
 - Criticism, Punishment, Praise and Compliments vs Observation, Feeling, Need, Request and Unconditional Love - M. B. Rosenberg, Alfie Kohn
 - Criticism, Punishment, Praise and Compliments vs Unconditional Love - Alfie Kohn [OFJCC - 26:10-27:28-30:04]
-- Criticism and Blame vs Honesty - M. B. Rosenberg [Making life wonderful - part 1/4 - somewhere at the beginning]
+- Honesty vs Criticism and Blame - M. B. Rosenberg [Making life wonderful - part 1/4 - somewhere at the beginning]
 - Feedback vs Evaluation and Judgement - Alfie Kohn
-- Request vs Demand
-- Power over vs Power with - Mary Parker Follett, Miki Kashtan [Exiting the Either/Or Trap - 30th minute], M. B. Rosenberg, Alfie Kohn, Mark Shepard
-- Authority based on 'power over' model vs Authority based on 'power with' model - M. B Rosenberg [interview with paula gloria]
+- Request vs Demand - M. B. Rosenberg - Portland Workshop+resolving conflicts with children workshop
+- Power over (people and nature) vs Power with (people and nature) - Mary Parker Follett, link:https://sci-hub.st/10.5840/pom20033221[Power, Freedom and Authority in Management: Mary Parker Follett’s ‘PowerWith’ - Domènec Melé, Josep M. Rosanas] Miki Kashtan [Exiting the Either/Or Trap - 30th minute], M. B. Rosenberg, Alfie Kohn, Mark Shepard-"Power over nature vs Power with nature"
+- Authority based on 'power over' model vs Authority based on 'power with' model - M. B Rosenberg [interview with paula gloria], Mary Parker Follett
 - Obedience vs Responsibility - link:https://www.youtube.com/watch?v=HLgGt7yLhJg&feature=youtu.be&t=3373[Atelier communication non violente - Marshall Rosenberg - Danemark - sous-titres français: 56:13-57:15]
-- Obedience vs Respect - link:https://www.youtube.com/watch?v=HLgGt7yLhJg&feature=youtu.be&t=3373[Atelier communication non violente - Marshall Rosenberg - Danemark - sous-titres français: 56:13-57:15], link:https://www.youtube.com/watch?v=Qk8fOOMWOGc[Shaping Discipline with a Restorative Approach - Part 4]
-- Fear vs Respect - link:https://www.youtube.com/watch?v=Qk8fOOMWOGc[Shaping Discipline with a Restorative Approach - Part 4],
-- Empathy, Power with and Respect vs Obedience - M. B. Rosenberg [NVC Workshop Portland OR - 1:34:41]
-- Intrinsic motivation vs Extrinsic motivation vs Internal motivation - Alfie Kohn [OFJCC Overemphasizing achievement]
-- Excellence vs Superiority - Daniel Markovits-The Meritocracy Trap (e.g. Is Meritocracy a Sham - 19min video)
+- Respect vs Obedience - link:https://www.youtube.com/watch?v=HLgGt7yLhJg&feature=youtu.be&t=3373[Atelier communication non violente - Marshall Rosenberg - Danemark - sous-titres français: 56:13-57:15], link:https://www.youtube.com/watch?v=Qk8fOOMWOGc[Shaping Discipline with a Restorative Approach - Part 4]
+- Respect vs Fear - link:https://www.youtube.com/watch?v=Qk8fOOMWOGc[Shaping Discipline with a Restorative Approach - Part 4],
+- Respect vs Approval - link:https://www.youtube.com/watch?v=Qvmqeeme42M&feature=youtu.be&t=1008[(Miki Kashtan: Exiting the Either/Or Trap - Beyond Consensus vs. Command and Control: 16:48-22:20)]
+- Empathy, Power with People and Respect vs Obedience - link:https://www.youtube.com/watch?v=NqJ-0EIsy9U&feature=youtu.be&t=5658[Marshall Rosenberg - NVC Workshop 2004 Portland, OR: 1:34:18-1:36:18], Mary Parker Follett, Power, Freedom and Authority in Management: Mary Parker Follett’s ‘PowerWith’-Domènec Melé and Josep M Rosanas-10.5840@pom20033221
+- Intrinsic motivation vs Extrinsic motivation - Alfie Kohn [OFJCC Overemphasizing achievement]
+- Internal motivation vs Extrinsic motivation - Alfie Kohn [OFJCC Overemphasizing achievement]
+- Excellence vs Superiority - Is Meritocracy a Sham? | Amanpour and Company: link:https://www.youtube.com/watch?v=BLEvJUNfyBY&feature=youtu.be&t=592[9:52-11:32], link:https://www.youtube.com/watch?v=BLEvJUNfyBY&feature=youtu.be&t=910[15:10-16:24]
 - Duty and Obligation vs Freedom and Choice - Maria Montessori, Peter Gray, Alfie Kohn, M. B. Rosenberg
-- We have been taught: "There is a right and a good way to do everything. ..." - Portland Workshop 2004 Rosenberg - 1:59:58-2:00:40
-- As much as possible in as little time as possible vs As best as possible in whatever time necessary - Manfred Max-Neef - The Benefits of a Slow Life - 1:38-1:51
-- Retributive justice vs Restorative Justice - Howard Zehr, M. B. Rosenberg, Miki Kashtan
-- Oikonomia vs Chrematistike - Aristoteles, Manfred Max-Neef
+- Retributive justice vs Restorative justice - M. B. Rosenberg, Miki Kashtan, Howard Zehr
+- Oikonomia vs Chrematistike - Aristoteles, link:https://www.youtube.com/watch?v=5EURJI9x9Qs&feature=youtu.be&t=273[(Manfred Max-Neef, Father of "Barefoot Economics" - Keynote at Zermatt Summit 2012: 4:33-6:41)], link:https://sci-hub.st/10.2307/40295009[Oikonomia versus Chrematistike: Learning from Aristotle about the Future Orientation of Business Management  - Claus Dierksmeier, Michael Pirson]
 - Agriculture vs Permaculture - Mark Shepard
-- Efficiency vs Sufficiency and Well-being - Manfred Max-Neef[Collision course - article]
-- Rule and Dogma - M. B. Rosenberg [Consentual rules: Resolving conflicts with children workshop]
-- Education vs Indoctrination - Manfred Max-Neef, Peter Gray
+- Efficiency vs Sufficiency and Well-being - link:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3357638/#Sec4title[Manfred Max-Neef - The World on a Collision Course and the Need for a New Economy: Chapter "Crisis of Crises"]
 - School vs Education - Peter Gray
-- Codependency vs Interdependency
-- Process vs Product - Rachel Rainbolt, Peter Gray
+- Education vs Indoctrination - link:https://www.youtube.com/watch?v=5EURJI9x9Qs&feature=youtu.be&t=771[(Manfred Max-Neef, Father of "Barefoot Economics" - Keynote at Zermatt Summit 2012: 12:51-13:41)], Peter Gray
+- Rule and Dogma - M. B. Rosenberg [Consentual rules: Resolving conflicts with children workshop], link:https://www.youtube.com/watch?v=5EURJI9x9Qs&feature=youtu.be&t=771[(Manfred Max-Neef, Father of "Barefoot Economics" - Keynote at Zermatt Summit 2012: 12:51-13:41)]
+- Interdependency vs Codependency - ???
+- Process vs Product - Rachel Rainbolt - episode with peter gray, Peter Gray-play
 - Empathy vs Sympathy - Yoram Mosenzon
 
 Culturally learned beliefs:
@@ -35,24 +57,61 @@ Culturally learned beliefs:
 - no pain, no gain
 - Čím väčším peklom si prejdeš, tým silnejší z toho výjdeš. Ak z toho výjdeš. - Jaroslav Slávik, Československo má talent
 
-Quotes
+== Quotes
 
 "Can you live with it?" - Miki Kashtan [Maximizing Willingness - 1:02:10-1:02:16]
 
 *The Montessori Method*
+
 * Chapter 15: Intellectual Education
+
 ** 0:49-1:33
+
     *** The directress intervenes to lead the child from sensations to ideas, from the concrete to the abstract and to the association of ideas. For this, she uses a method which isolates the inner attention of the child and to focus it upon the perceptions. As in the first lessons, his objective attention was fixed in isolation upon single stimuli. The teacher, in other words, when she gives a lesson limits the field of the child's consciousness to the object of the lesson. As, for example, during the sense education, she isolated the sense which she whished the child to exercise.
+
 ** 4:56-6:23
+
     *** But, if he has not done this, that is, if he makes a mistake, she does not correct him, but suspends her lesson to take it up another day. Indeed, why correct him? If the child has not succeeded in associating the name with the object, the only way in which he succeeds would be to repeat both the action of the sense stimuli and the name. In other words, to repeat the lesson. But when the child has failed, we know, that he was not at that moment ready for the psychic association which we wished to provoke in him. Therefore, we choose another moment. If we correct the child by saying "No, you have made a mistake!", all these words, which, being in the form of reprove, would strike him more forcibly and would remain in the mind of the child retarding the learning. On the contrary, the silence which follows the error leaves the field of consciousness clear and the next lesson may successfully follow the first. In fact, by revealing the error we may lead the child to make an undue effort to remember, or we may discourage him. And it is our responsibility to avoid, as much as possible, all unnatural effort, and all the pressure.
+
 ** 8:08-8:17
+
     *** The teacher carefully watches when and how the child arrives at the generalization of ideas.
+
 ** 10:50-11:20
+
     *** We can not create observers by saying "Observe!", but by giving them the power and the abilities for these observations. And these abilities are obtained through the education of the senses. Once we have aroused such an activity, auto-education is assured. Refined, well-trained senses, lead us to a closer observation of the environment, and this with its infinite variety attracts the attention and continues the psychosensory education.
 
-Few parents have the courage and independence to care for the children's happines than about their success.
+* Few parents have the courage and independence to care for the children's happines than about their success.
 [Erich Fromm; Alfie Kohn - Unconditional Parenting: Moving from Rewards and Punishments to Love and Reason: ch. 5 - "Pushed to succeed", p. 75
 ; Alfie Kohn at the OFJCC - Performance vs. Learning - The Costs of Overemphasizing Achievement: ???]
 
-... because if I persuade you that something ... you're doing with kids is getting in the way, not what I happen to like, but of your own long-term goals for other people then either you have to rethink the practice or you have to rethink the outcome.
-[Alfie Kohn at the OFJCC - Performance vs. Learning - The Costs of Overemphasizing Achievement: 10:45-11:04]
+* ... because if I persuade you that something ... you're doing with kids is getting in the way, not what I happen to like, but of your own long-term goals for other people then either you have to rethink the practice or you have to rethink the outcome.
+(Alfie Kohn at the OFJCC - Performance vs. Learning - The Costs of Overemphasizing Achievement: 10:45-11:04)
+
+* I found that 4 year olds learn this process much faster than adults. And on much deeper level. ... [Nonviolent communication] is faster [to learn] when people have the purpose of it in mind. ... *The purpose is not to get people to get what you want, but to create the quality of connection that everybody's needs get met [compassionately].* That is a radicaly different story that most of us have been taught. *We have been taught, there is a right and a wrong way to do everything. The authorities know what's right. If you want to make it in this world, you have to do what the authorities say is right.* link:https://www.youtube.com/watch?v=NqJ-0EIsy9U[(Marshall Rosenberg - NVC Workshop 2004 Portland, OR: 1:59:39-2:00:38)]
+
+* Leadership is not defined by the exercise of power but by the capacity to increase sense of power among those led. The most essential work of the leader is to create more leaders. link:https://scontent.fbts2-1.fna.fbcdn.net/v/t1.0-9/31781853_10156828091695628_8027792006530990080_n.png?_nc_cat=106&_nc_sid=8024bb&_nc_ohc=sdfVZfeBPpoAX84ENlX&_nc_ht=scontent.fbts2-1.fna&oh=35dff8d3e47555a204245ba9ae13be32&oe=5F25FD09[(Mary Parker Follett)]
+
+* There are three ways of dealing with difference: domination, compromise and integration. By domination only one side gets what it wants; by compromise neither side gets what it wants; by integration we find a way by which both sides may get what they wish. [NVC supports integration ;) ] link:https://www.toolshero.com/toolsheroes/mary-parker-folett/#:~:text=Mary%20Parker%20Follett%20quotes,is%20to%20create%20more%20leaders.%E2%80%9D[Mary Parker Follett], link:miki.kashtan_2020[(Miki Kashtan: Exiting the Either/Or Trap - Beyond Consensus vs. Command and Control: 30:14-32:57)]
+
+* Internalized Powerlessness: link:https://www.youtube.com/watch?v=Qvmqeeme42M&feature=youtu.be&t=1008[(Miki Kashtan: Exiting the Either/Or Trap - Beyond Consensus vs. Command and Control: 16:48-22:20)]
+
+    ** "Can I ...?" - that's how it starts. Alternative questions: "Will I take <something>/Will I <do an action>? What do you say?"
+    ** When I say someone, e.g. a child, that he can not do something, then I interfere with what is true physically. I not only control the other, but also mess with their understanding of the reality. If I tell the somebody *No, you can not turn on the TV* when in reality I'm saying *I really don't want you to turn on the TV, and if you turn on the TV I will punish you!*
+    ** Between the somebody's action and my reaction is my choice.
+    ** We are not sufficiently inner oriented to our own needs and our willingness to decide which consequence to my action am I willing accept. So Nonviolence is to face whatever will be the consequeces of our action so long as they are inline with our needs.
+    ** If we are trained to be fearful of our consequeces we're less likely to feel powerful.
+    ** Samuel P. Oliner, Pearl M. Oliner - The Altruistic Personality
+        *** *People who saved Jews, tended to come from nonpunitive households.*
+        *** [big]*If you come from a nonpunitive houshold, you're less oriented towards fear, and more more oriented towards needs and intrinsic motivation.*
+
+* Flatpack Democracy - Frome, England link:https://www.youtube.com/watch?v=Qvmqeeme42M&feature=youtu.be&t=4434[(Miki Kashtan: Exiting the Either/Or Trap - Beyond Consensus vs. Command and Control: 1:13:54-1:14:39)]
+    ** ... if you don't have facilitation, you're less likely to have an integrated result.
+
+* *Instead of believing somebody's words to be true, I believe their experience to be true.* ... So I put my focus on their feelings and needs.  ... On their experience behind the words. And the whole art is the art of guessing. [Focus on their humanity, on their observation, feelings and needs and requests.] link:...[(Nonviolent Communication (NVC): Yoram Mosenzon full workshop: 'Connecting in Conflict': 1:15:15-1:15:59)]
+
+* As much as possible in as little time as possible vs The best of possible in whatever time necessary to do it. link:https://www.youtube.com/watch?v=bux3TJWvyqE&feature=youtu.be&t=98[(Manfred Max-Neef - The Benefits of a Slow Life: 1:38-1:51)]
+
+== Questions
+
+* Can you live without that? link:https://www.youtube.com/watch?v=6rFMoUY6KpM&feature=youtu.be&t=3730[(Making Collaboration Real: Miki Kashtan: Maximizing Willingness for Collaboration Decision-Making: 1:02:10-1:02:15)]
