@@ -6,7 +6,295 @@ Reborn from ashes.
 
 by / nach / podľa Manfred Max-Neef, Marshall B. Rosenberg and me
 
-* subsistence
+---
+
+* *subsistence / das Lebensunterhalt / živobytie* +
+* long life / langes Leben +
+* air / die Luft +
+* fresh air / frische Luft +
+* clean air / saubere Luft +
+* water / das Wasser +
+* drinking water / Trinkwasser +
+* nature / Nature
+* physical health / physische Gesundheit +
+* mental health / psychysche Gesundheit +
+* clothes / Kleidung +
+* food / Essen +
+* movement / Bewegung +
+* sleep / Schlaf +
+* shelter / Obdach +
+* cleanliness / Sauberkeit +
+* bodily flexibility / körperliche Gelenkigkeit / telesná pružnosť +
+* warmth / Wärme +
+* people / Menschen +
+* energy / Energie +
+* enrichment / Bereicherung +
+* to enrich life / das Leben bereichern +
+* to make life wonderful / das Leben wunderbar machen +
+* light / das Licht +
+* sunlight / Sonnenlicht +
+* hygiene / Hygiene +
+* _pain / Schmerz_ +
+* _illness / Krankheit_ +
+
+---
+
+* *protection / die Schutz / ochrana* +
+* stability / Stabilität +
+* safety / Sicherheit +
+* security / Sicherheit +
+* equality / Gleichheit +
+* predictability / Vorsehbarkeit +
+* power / Macht +
+* strength / Kraft +
+* protective use of force / beschützende Nutzung der Kraft +
+* protecting the nature / Umweltschutz +
+* ecology / Ökologie +
+* sustainability / Nachhaltigkeit / udržateľnosť +
+* preservation / Erhaltung / zachovanie/udržanie +
+* durability / Haltbarkeit / trvácnosť +
+* recycling / Wiederverwendung / recyklácia, znovupoužiteľnosť +
+* cautiousness / Vorsichtigkeit / opatrnosť +
+* economy, thrift / Sparsamkeit / úspornosť, šetrnosť +
+* justice, fairness, equity / Gerechtigkeit / spravodlivosť +
+* compensation / Ausgleich / kompenzácia, odškodnenie - nie ako odplata alebo trest, ale pomoc pri napĺňaní nenaplnených potrieb +
+[line-through]#war / Krieg - that's a strategy# +
+[line-through]#violence / die Gewalt - that's not a need# +
+
+---
+
+* *affection / Zuwendung / náklonnosť* +
+* generosity / Großzügigkeit / veľkorysosť +
+* sensuality / Sinnlichkeit +
+* love / Liebe +
+* empathy / Empathie (Precondition: courage / Mut) +
+* honesty / Ehrlichkeit (Precondition: vulnerability / Verletzlichkeit) +
+* intimacy / Intimität +
+* support / Unterstützung +
+* communication / Kommunikation +
+* closeness / Nähe +
+* friendship / Freundlichkeit +
+* trust / Vertrauen +
+* sexuality / Sexualität +
+* touch / Berührung +
+* mourning / Trauern +
+* consideration / Rücksicht / ohľad +
+* respekt / Respekt +
+* honor / Ehre / úcta +
+* care / Pflege / starostlivosť +
+* tenderness / Zärtlichkeit / neha +
+* control / Kontrolle / kontrola - možnosť ovplyvniť prostredie okolo seba +
+* connection / Verbindung / spojenie, kontakt +
+* reassurance / Beschwichtigung / uistenie +
+* importance / Wichtigkeit / dôležitosť - vecí alebo potrieb druhého +
+* consciousness that my needs matter / Bewusstsein, dass meine Bedürfnisse wichtig sind / vedomie, že na mojich potrebách záleží, že moje potreby sú dôležité a brané do úvahy +
+* relationships / Beziehungen / vzťahy +
+* tolerance / Toleranz +
+* nurturing, upbringing / Erziehung / výchova +
+* help / Hilfe +
+* dignity / Würde / dôstojnosť +
+* _recognition, acknowledgement / Anerkennung / uznanie_ +
+* _appretiation / Wertschätzung / ocenenie_ +
+* _gratitude / Dankbarkeit / vďačnosť_ +
+* [line-through]#apology / Verzeihung - that's a strategy# +
+* [line-through]#approval / Genehmigung / dovolenie#
+* [line-through]#affirmation / Bestätigung / potvrdenie#
+
+---
+
+* *understanding / Verständnis / porozumenie* +
+* critical thinking / kritisches Denken +
+* logical thinking / logisches Denken +
+* curiosity / Neugier / zvedavosť +
+* interest / Interesse / záujem +
+* intuition / Intuition +
+* concentration / Konzentration / sústredenie +
+* learning / Lernen +
+* competence / Fähigkeit / schopnosť +
+* utility / Nutzen / úžitok +
+* sense, purpose / Sinn, Zweck / zmysel +
+* effectivity (does it work, or not? - boolean) / Effektivität / efektivita +
+* efficiency (as much as possible in as little time as possible, e.g. efficient algorithm; how well does it work? (in comparison to other things, not people) - e.g. 0-100%) / Effizienz / efektivita+
+* growth / Wachstum / rast +
+* development / Entwicklung / rozvoj, vývoj +
+* consciousness / Bewusstsein / vedomie +
+* repetition / Wiederholung / opakovanie +
+* solution / Lösung / riešenie +
+* answer / Antwort / odpoveď +
+* feedback / Rückmeldung / spätná väzba +
+* understandability, clarity / Verständlichkeit, Klarheit / zrozumiťeľnosť +
+* education / Ausbildung / vzdelanie +
+* overview / Überblick / prehľad +
+* explanation / Erklärung / vysvetlenie +
+* knowledge / Kenntnise / vedomosti +
+* expertise / Fachkenntnisse / odborné znalosti, odbornosť, expertíza +
+* randomness / Zufälligkeit / náhodnosť +
+* compatibility / Kompatibilität / kompatibilita +
+* completeness / Vollständigkeit / úplnosť +
+* depth / die Tiefe / hĺbka
+* uniformity (in Data) / Uniformität, Einheitlichkeit / uniformita +
+* readability / Lesbarkeit / čitateľnosť +
+* brevity / Kürze / stručnosť +
+* thoroughness / Gründlichkeit / dôkladnosť +
+* correctness / Richtigkeit / správnosť +
+* validity / Gültigkeit / platnosť +
+* seriousness / Ernsthaftigkeit / vážnosť +
+* transparency / Transparenz / transparentnosť, priehľadnosť +
+* links, coherences, context / Zusammenhänge, Kontext / súvislosti +
+* _complication / Komplikation_ +
+* _problem / Problem_ +
+* _mistake / Fehler / chyba_ +
+* [line-through]#chaos / Chaos, Durcheinander# +
+* [line-through]#school / Schule / škola# +
+* [line-through]#work / Arbeit / práca# +
+
+---
+
+* *participation / Teilnahme / účasť* +
+* community / Gemeinschaft +
+* acceptance (by others) / Annahme / prijatie +
+* receptiveness (from others) / Annahmefähigkeit / prijímanie +
+* belonging / Zugehörigkeit / spolupatričnosť +
+* cooperation / Zusammenarbeit / spolupráca +
+* presence / Anwesendheit / prítomnosť +
+* company / Gesellschaft / spoločnosť (ľudí) +
+* sharing / Teilen / zdieľanie +
+* inclusion / Integration +
+* voluntariness / Freiwilligkeit / dobrovoľnosť +
+* oneness, unity / Einheit / jednotnosť +
+* solidarity / Solidarität +
+* common good / Gemeinwohl / verejné blaho +
+* [line-through]#competition / Wettbewerb / súťaž# +
+* [line-through]#competition / Konkurenz / konkurencia# +
+* [line-through]#race / Rennen / závodenie# +
+
+---
+
+* *leisure / Freizeit / voľný čas* +
+* serenity / Gelassenheit / pokoj +
+* peace / Frieden / mier +
+* rest / Erholung / oddych +
+* joy / Freude / radosť +
+* harmony / Harmonie +
+* calmness / Ruhe / pokoj +
+* awareness / Aufmerksamkeit / pozornosť +
+* celebration / Feier / oslava +
+* mindfulness / Achtsamkeit / vnímavosť +
+* fun / Spaß / zábava
+* humor / Humor +
+* amusement / Vergnügen / potešenie +
+* enjoyment / Genuss / pôžitok +
+* softness / Weichheit / mäkkosť +
+* culture / Kultur / kultúra +
+* silence / Stille / ticho +
+* contentment / Zufriedenheit / spokojnosť +
+* relaxation / Entspannung / uvoľnenie +
+* well-being / Wohlergehen, Wohlbefinden / blaho, spokojnosť +
+* relax / Erholung / oddych +
+* comfort / Bequemheit / pohodlie +
+* gratification / Befriedigung / uspokojenie +
+* satisfaction / Zufriedenheit / spokojnosť +
+* balance / Gleichgewicht / rovnováha +
+* gentleness / Sanftheit / jemnosť +
+* agility / Beweglichkeit / pohyblivosť +
+* _discomfort / Unbehagen / nepohodlie_ +
+* [line-through]#instant gratification / sofortige Befriedigung / okamžité uspokojenie# +
+
+---
+
+* *creation / Schöpfung / tvorivosť* +
+* imagination / Fantasie, Vorstellungskraft +
+* inventiveness / Ideenreichtum / nápaditosť +
+* play / Spiel / hra +
+* beauty / Schönheit / krása +
+* inspiration / Inspiration +
+* art / Kunst +
+* challenge / Herausforderung / výzva +
+* discovery / Entdeckung / objav +
+* stimulation / Anregung / podnietenie +
+* music / Musik / hudba +
+* rhythm / Rhythmus +
+* adaptability / Anpassbarkeit / prispôsobiteľnosť +
+* _smell / der Gestank / zápach_ +
+* smell, scent / der Duft / vôňa +
+* flow (Mihaly Csikszentmihalyi) / Flow, Strömung / prúdenie +
+* change / Änderung / zmena +
+* intrinsic motivation / eigene Motivation / vlastná motivácia +
+* productivity / Produktivität / produktivita +
+* fulfilment / Erfüllung / naplnenie +
+* quality / Qualität / kvalita +
+* innovation / Innovation, Erneuerung / inovácia +
+* performance / Leistungsfähigkeit / výkonnosť +
+* flexibility / Flexibilität / pružnosť, prispôsobiteľnosť +
+* freshness / Frischheit / čerstvosť +
+* handling (e.g. of a car) / Handling / ovládateľnosť +
+* tightness / Dichtheit / tesnosť +
+* thickness / Dichte / hustota +
+* elasticity / Elasizität / elasticita, pružnosť +
+* plasticity / Plastizität / plasticita +
+* viscosity / Viskosität / viskozita +
+* style / Stil / štýl +
+* alternative / Alternative / alternatíva +
+* cohesion / Kohäsion / kohézia, súdržnosť +
+* coupling / Kopplung / väzbovosť +
+
+---
+
+* *identity / Identität / identita* +
+* consistency / Konsistenz +
+* integrity / Integrität +
+* authenticity / Authentizität +
+* spontaneity / Spontaneität +
+* reliability / Verlässlichkeit / spoľahlivosť +
+* accuracy / Genauigkeit / presnosť +
+* precision / Präzision / precíznosť +
+* privacy / Privatsphäre / súkromie +
+* responsibility / Verantwortung / zodpovednosť +
+* order / Ordnung / poriadok +
+* simplicity /Einfachheit / jednoduchosť  +
+* punctuality / Pünklichkeit / dochvíľnosť +
+* trustworthiness / Glaubwürdigkeit / dôveryhodnosť +
+* spirituality / Spiritualität / spiritualita +
+* lightness / Leichtigkeit / ľahkosť +
+* fluency / Flüssigkeit / plynulosť +
+* gracefulness / Anmut / ladnosť +
+* endurance / Ausdauer / vytrvalosť +
+* naturalness / Natürlichkeit / prirodzenosť +
+* resonance / Resonanz / rezonancia, súzvuk +
+* determination / Entschlossenheit / rozhodnosť +
+* intensity / Intensität / intenzita +
+* dedication / Einsatz / nasadenie +
+* self-fullness / Selbsvölligkeit / sebanaplnenie +
+* maintainability / Wartbarkeit, Wartungsfreundlichkeit / udržovateľnosť +
+* patience / Geduldigkeit / trpezlivosť +
+* speed / Geschwindigkeit / rýchlosť +
+* repartee / Schlagfertigkeit / pohotovosť, bystrosť +
+* tradition / Tradition / tradícia +
+* habit / Gewohnheit / zvyk +
+* courage / Mut / odvaha +
+* [line-through]#power / Macht / moc# link:...[Ökonomische Pseudowerte: https://www.youtube.com/watch?v=7mRe1ntgbj8&feature=youtu.be&t=1260]
+* [line-through]#money / Geld / peniaze#
+* [line-through]#success / Erfolg / úspech#
+* [line-through]#status (social) / Status / stav, postavenie#
+* [line-through]#individualism / Individualismus / individualizmus#
+* [line-through]#ownership (to have and to have more) / Eigentum / vlastníctvo#
+
+---
+
+* *freedom / Freiheit / sloboda* +
+* risk / Risiko +
+* hope / Hoffnung / nádej +
+* space / Raum / priestor +
+* happiness / Glück +
+* choice / Auswahl / voľba +
+* availibility / Verfügbarkeit /  dostupnosť +
+* time / Zeit +
+* access / Zugriff / prístup +
+* mobility / Mobilität +
+* transportation / Transport +
+* autonomy / Selbstständigkeit, Autonomie / samostatnosť +
+* faith / Glaube / viera +
+* willingness / Bereitschaft / ochota +
 
 == Feelings at fulfilled needs
 
@@ -29,8 +317,8 @@ What needs of the other are not being met?
 - Criticism, Punishment, Praise and Compliments vs Observation, Feeling, Need, Request and Unconditional Love - M. B. Rosenberg, Alfie Kohn
 - Criticism, Punishment, Praise and Compliments vs Unconditional Love - Alfie Kohn [OFJCC - 26:10-27:28-30:04]
 - Honesty vs Criticism and Blame - M. B. Rosenberg [Making life wonderful - part 1/4 - somewhere at the beginning]
-- Feedback vs Evaluation and Judgement - Alfie Kohn
-- Request vs Demand - M. B. Rosenberg - Portland Workshop+resolving conflicts with children workshop
+- Feedback and life-serving Judgement and Evaluation for decision-making vs moralistic Evaluation and Judgement, Praise, Compliments, Reward, Blame, Criticism and Punishment - Alfie Kohn
+- Request vs Demand - M. B. Rosenberg - Portland Workshop time: ??? + resolving conflicts with children workshop time: ???
 - Power over (people and nature) vs Power with (people and nature) - Mary Parker Follett, link:https://sci-hub.st/10.5840/pom20033221[Power, Freedom and Authority in Management: Mary Parker Follett’s ‘PowerWith’ - Domènec Melé, Josep M. Rosanas] Miki Kashtan [Exiting the Either/Or Trap - 30th minute], M. B. Rosenberg, Alfie Kohn, Mark Shepard-"Power over nature vs Power with nature"
 - Authority based on 'power over' model vs Authority based on 'power with' model - M. B Rosenberg [interview with paula gloria], Mary Parker Follett
 - Obedience vs Responsibility - link:https://www.youtube.com/watch?v=HLgGt7yLhJg&feature=youtu.be&t=3373[Atelier communication non violente - Marshall Rosenberg - Danemark - sous-titres français: 56:13-57:15]
@@ -59,25 +347,24 @@ Culturally learned beliefs - Life-harming beliefs:
 - no pain, no gain
 - Čím väčším peklom si prejdeš, tým silnejší z toho výjdeš. Ak z toho výjdeš. - Jaroslav Slávik, Československo má talent
 
-??? Phases of restorative justice by NVC ???
-
 == Questions
 
 * Can you live without that? link:https://www.youtube.com/watch?v=6rFMoUY6KpM&feature=youtu.be&t=3730[(Making Collaboration Real: Miki Kashtan: Maximizing Willingness for Collaboration Decision-Making: 1:02:10-1:02:15)]
 
-* Questions of justice
+* Questions of justice - Phases of restorative justice by NVC
 
 ** link:https://slideplayer.com/slide/6835782/[Building Positive Relationships Through Restorative Justice - Joan Packer]
-** link:https://www.youtube.com/watch?v=Ccz55SO4Ah4&feature=youtu.be&t=2221[Howard Zehr - Human Rights Meets Restorative Justice: 37:01-]
+** link:https://www.youtube.com/watch?v=Ccz55SO4Ah4&feature=youtu.be&t=2221[Howard Zehr - Human Rights Meets Restorative Justice: 37:01-???]
+** link:...[NVC Life serving system within yourself ???]
 
 [options="header"]
 |===========================
-| Justice system | Retributive | Restorative
-| | What law was broken? | What happened?
-| | Who broke that rule? |  - How are they feeling? +
-                            - What needs are not being fulfilled? +
-                            - Why did it happen?
-| | What the punishment will be? | What can we do to repair the harm?
+| Retributive | Restorative (H. Zehr) | Restorative (M. B. Rosenberg [NVC] )
+| What law was broken? | What happened? | What happened?
+| Who broke that rule? | Why did it happen? | How are they feeling? +
+                                              What needs are not being fulfilled?
+| What the punishment will be? | What can we do to repair the harm? | What can we do to fulfil the needs? +
+                                                                      What can we do to repair the harm?
 |===========================
 
 == Quotes
@@ -119,12 +406,12 @@ Culturally learned beliefs - Life-harming beliefs:
 
 * Internalized Powerlessness: link:https://www.youtube.com/watch?v=Qvmqeeme42M&feature=youtu.be&t=1008[(Miki Kashtan: Exiting the Either/Or Trap - Beyond Consensus vs. Command and Control: 16:48-22:20)]
 
-    ** "Can I ...?" - that's how it starts. Alternative questions: "Will I take <something>/Will I <do an action>? What do you say?"
+    ** "Can I ...?" - that's how it starts. Alternative questions: "Will I take <something> / Will I <do an action>? / I want to <...> What do you say?"
     ** When I say someone, e.g. a child, that he can not do something, then I interfere with what is true physically. I not only control the other, but also mess with their understanding of the reality. If I tell the somebody *No, you can not turn on the TV* when in reality I'm saying *I really don't want you to turn on the TV, and if you turn on the TV I will punish you!*
     ** Between the somebody's action and my reaction is my choice.
     ** We are not sufficiently inner oriented to our own needs and our willingness to decide which consequence to my action am I willing accept. So Nonviolence is to face whatever will be the consequeces of our action so long as they are inline with our needs.
     ** If we are trained to be fearful of our consequeces we're less likely to feel powerful.
-    ** Samuel P. Oliner, Pearl M. Oliner - The Altruistic Personality
+    ** Samuel P. Oliner, Pearl M. Oliner - *The Altruistic Personality*
         *** *People who saved Jews, tended to come from nonpunitive households.*
         *** [big]*If you come from a nonpunitive houshold, you're less oriented towards fear, and more more oriented towards needs and intrinsic motivation.*
 
@@ -135,7 +422,8 @@ Culturally learned beliefs - Life-harming beliefs:
 
 * As much as possible in as little time as possible vs The best of possible in whatever time necessary to do it. link:https://www.youtube.com/watch?v=bux3TJWvyqE&feature=youtu.be&t=98[(Manfred Max-Neef - The Benefits of a Slow Life: 1:38-1:51)]
 
-* Book - James Gilligan - Violence: Our Deadly Epidemic and its Causes. Every act of violence somewhere is an attempt to create justice to right a wrong that happened before. That wrong may happen two seconds before or might have happened 50 years before. But there's somewhere in the person's deep organism some wrong that have happend that needs to be righted, and the violence is an expression of that. Now we can all understand the pull to justice *but why does it go to violence rather than to other means? Because we feel shame. All the people that he had talked with essentially without exception were carrying boatloads of shame* in them about who they are, about what has happened to them, about what they want, and most particulary, about anything that had to do with tenderness, with any need for love, for connection, for appreciation.* They had so much shame about it. One of the things that are so clear coming out of this is that *punishment makes things worse because it increases shame. If shame is at the root of violence, punishment is not going to work. It only going to make the person get into a deeper loop* about who they are now. "Not only I'm ashamed about everything else, now I'm ashamed about the things that I've done and I've been punished,  I've been ostricized, there's  no room for me." link:https://www.youtube.com/watch?v=msWYVhmuQhw&feature=youtu.be&t=604[(Albany Addresses Bullying: Miki Kashtan: A Compassionate Perspective on Bullying 3/5/2011: 10:04-12:43)]
+* _Book - James Gilligan - Violence: Our Deadly Epidemic and its Causes_. +
+Every act of violence somewhere is an attempt to create justice to right a wrong that happened before. That wrong may happen two seconds before or might have happened 50 years before. But there's somewhere in the person's deep organism some wrong that have happend that needs to be righted, and the violence is an expression of that. Now we can all understand the pull to justice *but why does it go to violence rather than to other means? Because we feel shame. All the people that he had talked with essentially without exception were carrying boatloads of shame* in them about who they are, about what has happened to them, about what they want, and most particulary, about anything that had to do with tenderness, with any need for love, for connection, for appreciation.* They had so much shame about it. One of the things that are so clear coming out of this is that *punishment makes things worse because it increases shame. If shame is at the root of violence, punishment is not going to work. It only going to make the person get into a deeper loop* about who they are now. "Not only I'm ashamed about everything else, now I'm ashamed about the things that I've done and I've been punished,  I've been ostricized, there's  no room for me." link:https://www.youtube.com/watch?v=msWYVhmuQhw&feature=youtu.be&t=604[(Albany Addresses Bullying: Miki Kashtan: A Compassionate Perspective on Bullying 3/5/2011: 10:04-12:43)]
 
 * Authorities figures tend just by nature to use shame. link:https://www.youtube.com/watch?v=2KXwnbsQUrI&feature=youtu.be&t=123[(Restorative Justice Continuum - Howard Zehr Ph.D EM 2:03-2:12)]
 
@@ -145,5 +433,14 @@ Culturally learned beliefs - Life-harming beliefs:
 
 * So, I suggested that instead of production and consumption we substitute care and freedom. Perhaps caregiving and care is really that work we do which maintains and increases other people's freedom of which the paradigm would be *play*. Because play is action done for itself. Because what is caregiving labor? You take care of kids so they can play. link:https://www.youtube.com/watch?v=kikzjTfos0s&feature=youtu.be&t=2958[On Bullsh*t Jobs | David Graeber | RSA Replay: 49:18-49:38]
 
+* This is what I love about friends. Good friends agree with my jackal. Actually, that's the most dangerous thing on the planet. If somebody else  agrees with my jackal, now I can believe my jackal to be true. This is in the society how we create jackals. We call it *"sympathy party"*. It's very different than empathy. Sympathy party is to agree with someone else's jackal. ... In that moment it's the most delicious for her. "Oooh! Thank you! Finally somebody agrees that I'm right and he's wrong!". *It's a pleasure for a short term* because then you go back home, pumped up by this sympathy party, you come to the other person, and you say: "You see? There's really something wrong with you!". And then you'll have a bigger fight. link:https://youtu.be/KX_tgRM84RA?t=370[(Nonviolent Communication (NVC): Yoram Mosenzon full workshop: 'Connecting in Conflict': 6:10-8:08)]
 
-* This is what I love about friends. Good friends agree with my jackal. Actually, that's the most dangerous thing on the planet. If somebody else  agrees with my jackal, now I can believe my jackal to be true. This is in the society how we create jackals. We call it *"sympathy party"*. It's very different than empathy. Sympathy party is to agree with someone else's jackal. ... In that moment it's the most delicious for her. "Oooh! Thank you! Finally somebody agrees that I'm the right and he's wrong!". *It's a pleasure for a short term* because then you go back home, pumped up by this sympathy party, you come to the other person, and you say: "You see? There's really something wrong with you!". And then you'll have a bigger fight. link:https://youtu.be/KX_tgRM84RA?t=370[(Nonviolent Communication (NVC): Yoram Mosenzon full workshop: 'Connecting in Conflict': 6:10-8:08)]
+* link:[(M. B. Rosenberg - Nonviolent Communication Audiobook ~4:43:00-???)]
+
+* Request vs Demand [(M. B. Rosenberg San Francisco Workshop 1:16:19-1:19:46)]
+
+* How a person responds when it's burdened by a request link:[(M. B. Rosenberg San Francisco Workshop 1:26:17-1:29:52)]
+
+* Please and Thank you link:[(M. B. Rosenberg San Francisco Workshop ~1:30:00-???)]
+
+* Criticism = Pain + Unmet Need link:[(M. B. Rosenberg San Francisco Workshop ~1:34:00-1:42:29, M .B. Rosenberg Resolvng Conflicts with Children ???-???)]
