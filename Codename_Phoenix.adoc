@@ -6,50 +6,53 @@ Reborn from ashes.
 
 by / nach / podľa Manfred Max-Neef, Marshall B. Rosenberg and me
 
+* *primary need / das primäre Bedürfniss / primárna potreba* +
+* _not a need - feedback / kein Bedürfniss - eine Rückmeldung / nie je potreba - spätná väzba_ +
+* [line-through]#not a need - a strategy / kein Bedürfniss - eine Strategie / nie je potreba - stratégia# +
+
 ---
 
 * *subsistence / das Lebensunterhalt / živobytie* +
-* long life / langes Leben +
-* air / die Luft +
-* fresh air / frische Luft +
-* clean air / saubere Luft +
-* water / das Wasser +
-* drinking water / Trinkwasser +
-* nature / Nature
-* physical health / physische Gesundheit +
-* mental health / psychysche Gesundheit +
-* clothes / Kleidung +
-* food / Essen +
-* movement / Bewegung +
-* sleep / Schlaf +
-* shelter / Obdach +
-* cleanliness / Sauberkeit +
+* long life / langes Leben / dlhý život +
+* air / die Luft / vzduch +
+* fresh air / frische Luft / čerstvý vzduch +
+* clean air / saubere Luft / čistý vzduch +
+* water / das Wasser / voda +
+* drinking water / Trinkwasser / pitná voda +
+* nature / Nature / príroda +
+* physical health / physische Gesundheit / fyzické zdravie +
+* mental health / psychische Gesundheit / mentálne zdravie +
+* clothes / die Kleidung / oblečenie +
+* food / das Essen / jedlo +
+* movement / Bewegung / pohyb +
+* sleep / der Schlaf / spánok +
+* shelter / Obdach / prístrešie +
+* cleanliness / Sauberkeit / čistota +
 * bodily flexibility / körperliche Gelenkigkeit / telesná pružnosť +
-* warmth / Wärme +
-* people / Menschen +
-* energy / Energie +
-* enrichment / Bereicherung +
-* to enrich life / das Leben bereichern +
+* warmth / Wärme / teplo +
+* people / Menschen / ľudia +
+* energy / Energie / energia +
+* enrichment of life / Bereicherung des Lebens / obohatenie života +
 * to make life wonderful / das Leben wunderbar machen +
-* light / das Licht +
-* sunlight / Sonnenlicht +
-* hygiene / Hygiene +
-* _pain / Schmerz_ +
-* _illness / Krankheit_ +
+* light / das Licht / svetlo +
+* sunlight / Sonnenlicht / slnečné svetlo +
+* hygiene / Hygiene / hygiena +
+* _pain / Schmerz_ / bolesť +
+* _illness / Krankheit_ / choroba +
 
 ---
 
 * *protection / die Schutz / ochrana* +
-* stability / Stabilität +
-* safety / Sicherheit +
-* security / Sicherheit +
-* equality / Gleichheit +
-* predictability / Vorsehbarkeit +
-* power / Macht +
-* strength / Kraft +
-* protective use of force / beschützende Nutzung der Kraft +
-* protecting the nature / Umweltschutz +
-* ecology / Ökologie +
+* stability / Stabilität / stabilita +
+* safety / Sicherheit / bezpečnosť, istota +
+* security / Sicherheit / bezpečnosť, zabezpečenie +
+* equality / Gleichheit / rovnosť +
+* predictability / Vorsehbarkeit / predvídateľnosť +
+* power / Macht / moc +
+* strength / Kraft / sila +
+* protective use of force / beschützende Nutzung der Kraft / ochranné použitie sily +
+* protecting the nature / Umweltschutz / ochrana prírody +
+* ecology / Ökologie / ekológia +
 * sustainability / Nachhaltigkeit / udržateľnosť +
 * preservation / Erhaltung / zachovanie/udržanie +
 * durability / Haltbarkeit / trvácnosť +
@@ -58,28 +61,28 @@ by / nach / podľa Manfred Max-Neef, Marshall B. Rosenberg and me
 * economy, thrift / Sparsamkeit / úspornosť, šetrnosť +
 * justice, fairness, equity / Gerechtigkeit / spravodlivosť +
 * compensation / Ausgleich / kompenzácia, odškodnenie - nie ako odplata alebo trest, ale pomoc pri napĺňaní nenaplnených potrieb +
-[line-through]#war / Krieg - that's a strategy# +
-[line-through]#violence / die Gewalt - that's not a need# +
+[line-through]#war / Krieg / vojna# +
+[line-through]#violence / die Gewalt / násilie# +
 
 ---
 
 * *affection / Zuwendung / náklonnosť* +
 * generosity / Großzügigkeit / veľkorysosť +
-* sensuality / Sinnlichkeit +
-* love / Liebe +
-* empathy / Empathie (Precondition: courage / Mut) +
-* honesty / Ehrlichkeit (Precondition: vulnerability / Verletzlichkeit) +
-* intimacy / Intimität +
-* support / Unterstützung +
-* communication / Kommunikation +
-* closeness / Nähe +
-* friendship / Freundlichkeit +
-* trust / Vertrauen +
-* sexuality / Sexualität +
-* touch / Berührung +
-* mourning / Trauern +
+* sensuality / Sinnlichkeit / zmyselnosť +
+* love / Liebe / láska +
+* empathy / Empathie (Precondition: courage / Mut) / empatia, súcit +
+* honesty / Ehrlichkeit (Precondition: vulnerability / Verletzlichkeit) / úprimnosť +
+* intimacy / Intimität / intimita +
+* support / Unterstützung / podpora +
+* communication / Kommunikation / komunikácia +
+* closeness / Nähe / blízkosť +
+* friendship / Freundlichkeit / priateľstvo +
+* trust / Vertrauen / dôvera +
+* sexuality / Sexualität / sexualita +
+* touch / Berührung / dotyk +
+* mourning / Trauern / smútenie +
 * consideration / Rücksicht / ohľad +
-* respekt / Respekt +
+* respekt / Respekt / rešpekt +
 * honor / Ehre / úcta +
 * care / Pflege / starostlivosť +
 * tenderness / Zärtlichkeit / neha +
@@ -87,17 +90,17 @@ by / nach / podľa Manfred Max-Neef, Marshall B. Rosenberg and me
 * connection / Verbindung / spojenie, kontakt +
 * reassurance / Beschwichtigung / uistenie +
 * importance / Wichtigkeit / dôležitosť - vecí alebo potrieb druhého +
-* consciousness that my needs matter / Bewusstsein, dass meine Bedürfnisse wichtig sind / vedomie, že na mojich potrebách záleží, že moje potreby sú dôležité a brané do úvahy +
+* consciousness that my needs matter, that my needs are important and taken into consideration / Bewusstsein, dass meine Bedürfnisse wichtig sind / vedomie, že na mojich potrebách záleží, že moje potreby sú dôležité a brané do úvahy +
 * relationships / Beziehungen / vzťahy +
-* tolerance / Toleranz +
+* tolerance / Toleranz / tolerancia +
 * nurturing, upbringing / Erziehung / výchova +
-* help / Hilfe +
+* help / Hilfe / pomoc +
 * dignity / Würde / dôstojnosť +
 * _recognition, acknowledgement / Anerkennung / uznanie_ +
 * _appretiation / Wertschätzung / ocenenie_ +
 * _gratitude / Dankbarkeit / vďačnosť_ +
-* [line-through]#apology / Verzeihung - that's a strategy# +
-* [line-through]#approval / Genehmigung / dovolenie#
+* [line-through]#apology (masked need for *empathy*: link:...[Marshall Rosenberg - Making Life Wonderful ???-which part???]) / Verzeihung / ospravedlnenie# +
+* [line-through]#approval / Genehmigung / dovolenie, odobrenie#
 * [line-through]#affirmation / Bestätigung / potvrdenie#
 
 ---
@@ -109,7 +112,7 @@ by / nach / podľa Manfred Max-Neef, Marshall B. Rosenberg and me
 * interest / Interesse / záujem +
 * intuition / Intuition +
 * concentration / Konzentration / sústredenie +
-* learning / Lernen +
+* learning / Lernen / učenie sa +
 * competence / Fähigkeit / schopnosť +
 * utility / Nutzen / úžitok +
 * sense, purpose / Sinn, Zweck / zmysel +
@@ -147,6 +150,7 @@ by / nach / podľa Manfred Max-Neef, Marshall B. Rosenberg and me
 * [line-through]#chaos / Chaos, Durcheinander# +
 * [line-through]#school / Schule / škola# +
 * [line-through]#work / Arbeit / práca# +
+* [line-through]#consumption / Konsum / spotreba# +
 
 ---
 
@@ -159,14 +163,14 @@ by / nach / podľa Manfred Max-Neef, Marshall B. Rosenberg and me
 * presence / Anwesendheit / prítomnosť +
 * company / Gesellschaft / spoločnosť (ľudí) +
 * sharing / Teilen / zdieľanie +
-* inclusion / Integration +
+* inclusion / Integration / integrácia, začlenenie +
 * voluntariness / Freiwilligkeit / dobrovoľnosť +
 * oneness, unity / Einheit / jednotnosť +
-* solidarity / Solidarität +
+* solidarity / Solidarität / solidarita +
 * common good / Gemeinwohl / verejné blaho +
 * [line-through]#competition / Wettbewerb / súťaž# +
 * [line-through]#competition / Konkurenz / konkurencia# +
-* [line-through]#race / Rennen / závodenie# +
+* [line-through]#race / Rennen / závodenie, preteky# +
 
 ---
 
@@ -208,7 +212,7 @@ by / nach / podľa Manfred Max-Neef, Marshall B. Rosenberg and me
 * play / Spiel / hra +
 * beauty / Schönheit / krása +
 * inspiration / Inspiration +
-* art / Kunst +
+* art / Kunst / umenie +
 * challenge / Herausforderung / výzva +
 * discovery / Entdeckung / objav +
 * stimulation / Anregung / podnietenie +
@@ -217,7 +221,7 @@ by / nach / podľa Manfred Max-Neef, Marshall B. Rosenberg and me
 * adaptability / Anpassbarkeit / prispôsobiteľnosť +
 * _smell / der Gestank / zápach_ +
 * smell, scent / der Duft / vôňa +
-* flow (Mihaly Csikszentmihalyi) / Flow, Strömung / prúdenie +
+* flow / Flow, Strömung / prúdenie +
 * change / Änderung / zmena +
 * intrinsic motivation / eigene Motivation / vlastná motivácia +
 * productivity / Produktivität / produktivita +
@@ -230,6 +234,8 @@ by / nach / podľa Manfred Max-Neef, Marshall B. Rosenberg and me
 * handling (e.g. of a car) / Handling / ovládateľnosť +
 * tightness / Dichtheit / tesnosť +
 * thickness / Dichte / hustota +
+* humidity / Feuchtigkeit / vlhkosť +
+* dryness / Trockenheit / sucho +
 * elasticity / Elasizität / elasticita, pružnosť +
 * plasticity / Plastizität / plasticita +
 * viscosity / Viskosität / viskozita +
@@ -237,14 +243,15 @@ by / nach / podľa Manfred Max-Neef, Marshall B. Rosenberg and me
 * alternative / Alternative / alternatíva +
 * cohesion / Kohäsion / kohézia, súdržnosť +
 * coupling / Kopplung / väzbovosť +
+* match / Übereinstimmung / zhoda
 
 ---
 
 * *identity / Identität / identita* +
-* consistency / Konsistenz +
-* integrity / Integrität +
-* authenticity / Authentizität +
-* spontaneity / Spontaneität +
+* consistency / Konsistenz / pravidelnosť, vytrvalosť +
+* integrity / Integrität / integrita, súlad +
+* authenticity / Authentizität / autenticita, svojskosť +
+* spontaneity / Spontaneität / spontánnosť +
 * reliability / Verlässlichkeit / spoľahlivosť +
 * accuracy / Genauigkeit / presnosť +
 * precision / Präzision / precíznosť +
@@ -296,17 +303,208 @@ by / nach / podľa Manfred Max-Neef, Marshall B. Rosenberg and me
 * faith / Glaube / viera +
 * willingness / Bereitschaft / ochota +
 
-== Feelings at fulfilled needs
-
-* free
-
 == Feelings at unfulfilled needs
 
 What needs of mine are not being met?
 
 What needs of the other are not being met?
 
-* anxious
+*Sweet pain - Girrafe mourning*
+
+* terrified / erschrocken / vystrašený (vystrašiť, báť sa)
+* frightened / verängstigt / vystrašený (vystrašiť)
+* alarmed / erschrocken / vystrašený (vystrašiť)
+* scared / erschrocken / vyľakaný (vyľakať)
+* anxious / besorgt / ustarostený (robiť si starosti, mať starosti, obávať sa)
+* fearful / ängstlich / ustarostený ustarostený (robiť si starosti, mať starosti, obávať sa)
+* concerned / bekümmert / ustarostený ustarostený (robiť si starosti, mať starosti, obávať sa)
+* worried / besorgt / ustarostený (robiť si starosti, mať starosti, obávať sa)
+* shocked / schockiert / šokovaný (šokovať)
+* surprised / überrascht / prekvapený (prekvapiť)
+* disturbed / beunruhigt / znepokojený, rozrušený (znepokojiť, rozrušiť)
+* irritated / irritiert / iritovaný, nervózny (iritovať, znervózniť)
+* nervous / nervös / nervózny (znervózniť)
+* discontented / unzufrieden / nespokojný
+* disturbed / gestört / vyrušený, znepokojený (vyrušiť, znepokojiť)
+* tense / angespannt / napätý (napínať)
+* frustrated / frustriert / frustrovaný (frustrovať)
+* disgusted / geeckelt, angeeckelt / znechutený (znechutiť)
+* sick (e.g. upset stomach) / übel (z.B. Magen-Verdauungsbeschwerden) / zle, nevoľno (napr. od žalúdka)
+* hesitant / zögernd / váhavý (váhať)
+* distrusting / misstrauend / nedôverčivý (nedôverovať)
+* doubting / zweifelnd / pochybovačný (pochybovať)
+* sceptical / skeptisch / skeptický, pochybovaťný (pochybovať)
+* imatient / ungeduldig / netrpezlivý (I can't wait / ich kann nicht warten / nevedieť sa dočkať)
+* confused / durcheinander / zmätený (zmiasť)
+* bewildered / verwirrt / zmätený (zmiasť)
+* discouraged / entmutigt / odradený (odradiť)
+* lonely / einsam / osamelý
+* apathetic / apathisch / apatický, ľahostajný (to loose interest in something, burn out / die Interesse an etwas [Akk.] verlieren, ausbrennen / stratiť záujem, vyhorieť)
+* bored / gelangweilt / znudený (unudiť)
+* indifferent
+* tired
+* exhausted
+* regretful
+* powerless
+* disappointed
+* sad
+* hurt
+* hopeless
+* desperate
+* vulnerable
+* leiden / suffer / trpieť
+* suffer / sich quälen / trápiť sa
+
+*Bitter pain - Alarm feelings / Bittere Schmerzen - Weckgefühle*
+
+Disconnected from needs / Unterbunden von Bedürfnissen
+
+* *angry*
+* indignant
+* furious
+* mad
+* enraged
+* hating
+* *depressed*
+* *guilty*
+* *ashamed*
+* envious
+* jealous
+* embarassed
+
+*Not-feelings - thoughts, analyses, diagnoses, interpretations, criticisms / Nicht Gefühle / ne-pocity*
+
+* resentful
+* overwhelmed
+* lost
+* abandoned
+* abused
+* attacked
+* belitted
+* betrayed
+* blamed
+* bullied
+* boxed in
+* caged
+* cheated
+* coerced
+* cornered
+* critcized
+* discounted
+* diminished
+* disliked
+* distrusted
+* dumped on
+* harassed
+* hassled
+* ignored
+* insulted
+* interrupted
+* intimidated
+* invisible
+* isolated
+* judged
+* left out
+* let down
+* manipulated
+* mistrusted
+* misunderstood
+* neglected
+* overpowered
+* patronized
+* pressured
+* provoked
+* put down
+* rejected -> disappointed
+* ripped off
+* screwed
+* smothered
+* suffocated
+* taken for granted
+* threatened
+* trampled
+* walked on
+* tricked
+* unaccepted
+* unappreciated
+* unheard
+* unloved
+* unseen
+* unsupported
+* unwanted
+* used
+* victimized
+* violated
+* wronged
+* resentful
+
+*Not feelings - Moralistic judgements*
+
+* smart
+* dumb
+* generous
+* lazy
+* considerate
+* inconsiderate
+* responsible
+* irresponsible
+* guilty
+* innocent
+* good
+* bad
+* right
+* wrong
+* normal
+* abnormal
+* weird
+* awkward
+* sick
+* awesome
+* nice
+* sinful
+* wretched
+* creepy
+* perverse
+* unfair
+* pretty
+* handsome
+* ugly
+* handsome
+* sexy
+* reasonable
+* unreasonable
+* lucky
+* unlucky
+* hyperactive
+* crazy
+* professional
+* unprofessional
+* amateur
+* _all vulgarisms_
+* vulgar
+* ridiculous
+* decent
+* appropriate
+* selfisch
+* generous
+* disrespectful
+* spoiled
+* naïve
+* fast
+* slow
+* competent
+* incompetent
+* inadequate
+* inferior
+* unimportant
+* insignificant
+
+== Feelings at fulfilled needs
+
+Celebration of life
+
+* free
+* passionate
 
 == Comparisons
 
@@ -341,6 +539,7 @@ What needs of the other are not being met?
 - Interdependency vs Codependency - Alfie Kohn
 - Process vs Product - Rachel Rainbolt - episode with peter gray, Peter Gray-play
 - Empathy vs Sympathy - link:...[M. B. Rosenberg], link:https://youtu.be/KX_tgRM84RA?t=370[(Nonviolent Communication (NVC): Yoram Mosenzon full workshop: 'Connecting in Conflict': 6:10-8:08)]
+- link:https://www.fachverband-gfk.org/wp-documents/anlage_3_schluesselunterscheidungen.pdf[und mehr ...]
 
 Culturally learned beliefs - Life-harming beliefs:
 - spare the rod, spoil the child - Bible, Proverbs 13:24
@@ -363,8 +562,7 @@ Culturally learned beliefs - Life-harming beliefs:
 | What law was broken? | What happened? | What happened?
 | Who broke that rule? | Why did it happen? | How are they feeling? +
                                               What needs are not being fulfilled?
-| What the punishment will be? | What can we do to repair the harm? | What can we do to fulfil the needs? +
-                                                                      What can we do to repair the harm?
+| What the punishment will be? | What can we do to repair the harm? | What can we do to fulfil the needs?
 |===========================
 
 == Quotes
@@ -439,8 +637,24 @@ Every act of violence somewhere is an attempt to create justice to right a wrong
 
 * Request vs Demand [(M. B. Rosenberg San Francisco Workshop 1:16:19-1:19:46)]
 
-* How a person responds when it's burdened by a request link:[(M. B. Rosenberg San Francisco Workshop 1:26:17-1:29:52)]
+* How a person responds when it's burdened by a request link:...[(M. B. Rosenberg San Francisco Workshop 1:26:17-1:29:52)]
 
-* Please and Thank you link:[(M. B. Rosenberg San Francisco Workshop ~1:30:00-???)]
+* Please and Thank you link:...[(M. B. Rosenberg San Francisco Workshop ~1:30:00-???)]
 
-* Criticism = Pain + Unmet Need link:[(M. B. Rosenberg San Francisco Workshop ~1:34:00-1:42:29, M .B. Rosenberg Resolvng Conflicts with Children ???-???)]
+* Criticism = Pain + Unmet Need link:...[(M. B. Rosenberg San Francisco Workshop ~1:34:00-1:42:29, M .B. Rosenberg Resolvng Conflicts with Children ???-???)]
+
+* hear the yes behind the no
+
+* please! please!! please!!! link:...[Marshall Rosenberg Making Life Wonderful cca 1:13:00-1:25:00]
+
+* Eye for an eye and the world goes blind link:...[ghandi], link:...[detroit become human]
+
+* the importance of present request link:...[Marshall Rosenberg Making Life Wonderful cca 1:31:36-1:33:35]
+
+* ... because *all human beings have the same needs.*
+
+* Quotes link:https://www.youtube.com/watch?v=RDkh1al3P9k&feature=youtu.be&t=2487[Speaking Peace - M.B.Rosenberg]
+
+* ??? link:...[(M. B. Rosenberg San Francisco Workshop ~2:26:00-???)]
+
+* No human being is good, but all are sacred. link:https://www.youtube.com/watch?v=LdOFhyKACxE[Dr. James Gilligan - On How All Human Beings Are Sacred]
