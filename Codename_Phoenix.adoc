@@ -6,279 +6,287 @@ Reborn from ashes.
 
 by / nach / podľa Manfred Max-Neef, Marshall B. Rosenberg and me
 
-* *primary need / das primäre Bedürfniss / primárna potreba* +
-* _not a need - feedback / kein Bedürfniss - eine Rückmeldung / nie je potreba - spätná väzba_ +
-* [line-through]#not a need - a strategy / kein Bedürfniss - eine Strategie / nie je potreba - stratégia# +
+---
+
+The needs is the reason, why I'm feeling the way I feeling.
 
 ---
 
-* *subsistence / das Lebensunterhalt / živobytie* +
-* long life / langes Leben / dlhý život +
-* air / die Luft / vzduch +
-* fresh air / frische Luft / čerstvý vzduch +
-* clean air / saubere Luft / čistý vzduch +
-* water / das Wasser / voda +
-* drinking water / Trinkwasser / pitná voda +
-* nature / Nature / príroda +
-* physical health / physische Gesundheit / fyzické zdravie +
-* mental health / psychische Gesundheit / mentálne zdravie +
-* clothes / die Kleidung / oblečenie +
-* food / das Essen / jedlo +
-* movement / Bewegung / pohyb +
-* sleep / der Schlaf / spánok +
-* shelter / Obdach / prístrešie +
-* cleanliness / Sauberkeit / čistota +
-* bodily flexibility / körperliche Gelenkigkeit / telesná pružnosť +
-* warmth / Wärme / teplo +
-* people / Menschen / ľudia +
-* energy / Energie / energia +
-* enrichment of life / Bereicherung des Lebens / obohatenie života +
-* to make life wonderful / das Leben wunderbar machen +
-* light / das Licht / svetlo +
-* sunlight / Sonnenlicht / slnečné svetlo +
-* hygiene / Hygiene / hygiena +
-* _pain / Schmerz_ / bolesť +
-* _illness / Krankheit_ / choroba +
+* *primary need / das primäre Bedürfniss / primárna potreba*
+* _not a need - feedback / kein Bedürfniss - eine Rückmeldung / nie je potreba - spätná väzba_ - Only as a feedback that the needs were or were not fulfilled. / Nur als Rückmeldung, dass die Bedürfnisse erfült oder nicht erfüllt wurden.
+* [line-through]#not a need - a strategy / kein Bedürfniss - eine Strategie / nie je potreba - stratégia#
 
 ---
 
-* *protection / die Schutz / ochrana* +
-* stability / Stabilität / stabilita +
-* safety / Sicherheit / bezpečnosť, istota +
-* security / Sicherheit / bezpečnosť, zabezpečenie +
-* equality / Gleichheit / rovnosť +
-* predictability / Vorsehbarkeit / predvídateľnosť +
-* power / Macht / moc +
-* strength / Kraft / sila +
-* protective use of force / beschützende Nutzung der Kraft / ochranné použitie sily +
-* protecting the nature / Umweltschutz / ochrana prírody +
-* ecology / Ökologie / ekológia +
-* sustainability / Nachhaltigkeit / udržateľnosť +
-* preservation / Erhaltung / zachovanie/udržanie +
-* durability / Haltbarkeit / trvácnosť +
-* recycling / Wiederverwendung / recyklácia, znovupoužiteľnosť +
-* cautiousness / Vorsichtigkeit / opatrnosť +
-* economy, thrift / Sparsamkeit / úspornosť, šetrnosť +
-* justice, fairness, equity / Gerechtigkeit / spravodlivosť +
-* compensation / Ausgleich / kompenzácia, odškodnenie - nie ako odplata alebo trest, ale pomoc pri napĺňaní nenaplnených potrieb +
-[line-through]#war / Krieg / vojna# +
-[line-through]#violence / die Gewalt / násilie# +
+* *subsistence / das Lebensunterhalt / živobytie*
+* long life / langes Leben / dlhý život
+* air / die Luft / vzduch
+* fresh air / frische Luft / čerstvý vzduch
+* clean air / saubere Luft / čistý vzduch
+* water / das Wasser / voda
+* drinking water / Trinkwasser / pitná voda
+* nature / Nature / príroda
+* physical health / physische Gesundheit / fyzické zdravie
+* mental health / psychische Gesundheit / mentálne zdravie
+* clothes / die Kleidung / oblečenie
+* food / das Essen / jedlo
+* movement / Bewegung / pohyb
+* sleep / der Schlaf / spánok
+* shelter / Obdach / prístrešie
+* cleanliness / Sauberkeit / čistota
+* bodily flexibility / körperliche Gelenkigkeit / telesná pružnosť
+* warmth / Wärme / teplo
+* people / Menschen / ľudia
+* energy / Energie / energia
+* enrichment of life / Bereicherung des Lebens / obohatenie života
+* to make life wonderful / das Leben wunderbar machen
+* light / das Licht / svetlo
+* sunlight / Sonnenlicht / slnečné svetlo
+* hygiene / Hygiene / hygiena
+* _pain / Schmerz_ / bolesť
+* _illness / Krankheit_ / choroba
 
 ---
 
-* *affection / Zuwendung / náklonnosť* +
-* generosity / Großzügigkeit / veľkorysosť +
-* sensuality / Sinnlichkeit / zmyselnosť +
-* love / Liebe / láska +
-* empathy / Empathie (Precondition: courage / Mut) / empatia, súcit +
-* honesty / Ehrlichkeit (Precondition: vulnerability / Verletzlichkeit) / úprimnosť +
-* intimacy / Intimität / intimita +
-* support / Unterstützung / podpora +
-* communication / Kommunikation / komunikácia +
-* closeness / Nähe / blízkosť +
-* friendship / Freundlichkeit / priateľstvo +
-* trust / Vertrauen / dôvera +
-* sexuality / Sexualität / sexualita +
-* touch / Berührung / dotyk +
-* mourning / Trauern / smútenie +
-* consideration / Rücksicht / ohľad +
-* respekt / Respekt / rešpekt +
-* honor / Ehre / úcta +
-* care / Pflege / starostlivosť +
-* tenderness / Zärtlichkeit / neha +
-* control / Kontrolle / kontrola - možnosť ovplyvniť prostredie okolo seba +
-* connection / Verbindung / spojenie, kontakt +
-* reassurance / Beschwichtigung / uistenie +
-* importance / Wichtigkeit / dôležitosť - vecí alebo potrieb druhého +
-* consciousness that my needs matter, that my needs are important and taken into consideration / Bewusstsein, dass meine Bedürfnisse wichtig sind / vedomie, že na mojich potrebách záleží, že moje potreby sú dôležité a brané do úvahy +
-* relationships / Beziehungen / vzťahy +
-* tolerance / Toleranz / tolerancia +
-* nurturing, upbringing / Erziehung / výchova +
-* help / Hilfe / pomoc +
-* dignity / Würde / dôstojnosť +
-* _recognition, acknowledgement / Anerkennung / uznanie_ +
-* _appretiation / Wertschätzung / ocenenie_ +
-* _gratitude / Dankbarkeit / vďačnosť_ +
-* [line-through]#apology (masked need for *empathy*: link:...[Marshall Rosenberg - Making Life Wonderful ???-which part???]) / Verzeihung / ospravedlnenie# +
+* *protection / die Schutz / ochrana*
+* stability / Stabilität / stabilita
+* safety / Sicherheit / bezpečnosť, bezpečie, istota
+* security / Sicherheit / bezpečnosť, zabezpečenie
+* equality / Gleichheit / rovnosť
+* predictability / Vorsehbarkeit / predvídateľnosť
+* power / Macht / moc
+* strength / Kraft / sila
+* protective use of force / beschützende Nutzung der Kraft / použitie sily na obranu
+* protecting the nature / Umweltschutz / ochrana prírody
+* ecology / Ökologie / ekológia
+* sustainability / Nachhaltigkeit / udržateľnosť
+* preservation / Erhaltung / zachovanie/udržanie
+* durability / Haltbarkeit / trvácnosť
+* recycling / Wiederverwendung / recyklácia, znovupoužiteľnosť
+* cautiousness / Vorsichtigkeit / opatrnosť
+* economy, thrift / Sparsamkeit / úspornosť, šetrnosť
+* justice, fairness, equity / Gerechtigkeit / spravodlivosť
+* compensation / Ausgleich / kompenzácia, odškodnenie - nie ako odplata alebo trest, ale ako pomoc pri napĺňaní nenaplnených potrieb pre niekoho iného
+[line-through]#war / Krieg / vojna#
+[line-through]#violence / die Gewalt / násilie#
+
+---
+
+* *affection / Zuwendung / náklonnosť*
+* love / Liebe / láska
+* tenderness / Zärtlichkeit / neha
+* sensuality / Sinnlichkeit / zmyselnosť
+* sexuality / Sexualität / sexualita
+* passion / Leidenschaft / vášeň
+* touch / Berührung / dotyk
+* intimacy / Intimität / intimita
+* closeness / Nähe / blízkosť
+* trust / Vertrauen / dôvera
+* care / Pflege / starostlivosť
+* connection / Verbindung / spojenie, kontakt
+* empathy _(Giraffe Dance)_ / Empathie (Precondition: courage / Mut) / empatia, súcit
+* honesty _(Giraffe Dance)_ / Ehrlichkeit (Precondition: vulnerability / Verletzlichkeit) / úprimnosť
+* generosity / Großzügigkeit / veľkorysosť
+* support / Unterstützung / podpora
+* communication / Kommunikation / komunikácia
+* friendship / Freundlichkeit / priateľstvo
+* mourning / Trauern / smútenie
+* consideration / Rücksicht / ohľad
+* respekt / Respekt / rešpekt
+* honor / Ehre / úcta
+* control / Kontrolle / kontrola - možnosť ovplyvniť prostredie okolo seba
+* reassurance / Beschwichtigung / uistenie
+* importance / Wichtigkeit / dôležitosť (potrieb)
+* consciousness that my needs matter, that my needs are important and taken into consideration / Bewusstsein, dass meine Bedürfnisse wichtig sind / vedomie, že na mojich potrebách záleží, že moje potreby sú dôležité a brané do úvahy
+* relationships / Beziehungen / vzťahy
+* tolerance / Toleranz / tolerancia
+* nurturing, upbringing / Erziehung / výchova
+* help / Hilfe / pomoc
+* dignity / Würde / dôstojnosť
+* _recognition, acknowledgement / Anerkennung / uznanie_
+* _appretiation / Wertschätzung / ocenenie_
+* _gratitude / Dankbarkeit / vďačnosť_
+* [line-through]#apology (masked need for *empathy*: link:...[Marshall Rosenberg - Making Life Wonderful ???-which part???]) / Verzeihung / ospravedlnenie#
 * [line-through]#approval / Genehmigung / dovolenie, odobrenie#
 * [line-through]#affirmation / Bestätigung / potvrdenie#
 
 ---
 
-* *understanding / Verständnis / porozumenie* +
-* critical thinking / kritisches Denken +
-* logical thinking / logisches Denken +
-* curiosity / Neugier / zvedavosť +
-* interest / Interesse / záujem +
-* intuition / Intuition +
-* concentration / Konzentration / sústredenie +
-* learning / Lernen / učenie sa +
-* competence / Fähigkeit / schopnosť +
-* utility / Nutzen / úžitok +
-* sense, purpose / Sinn, Zweck / zmysel +
-* effectivity (does it work, or not? - boolean) / Effektivität / efektivita +
-* efficiency (as much as possible in as little time as possible, e.g. efficient algorithm; how well does it work? (in comparison to other things, not people) - e.g. 0-100%) / Effizienz / efektivita+
-* growth / Wachstum / rast +
-* development / Entwicklung / rozvoj, vývoj +
-* consciousness / Bewusstsein / vedomie +
-* repetition / Wiederholung / opakovanie +
-* solution / Lösung / riešenie +
-* answer / Antwort / odpoveď +
-* feedback / Rückmeldung / spätná väzba +
-* understandability, clarity / Verständlichkeit, Klarheit / zrozumiťeľnosť +
-* education / Ausbildung / vzdelanie +
-* overview / Überblick / prehľad +
-* explanation / Erklärung / vysvetlenie +
-* knowledge / Kenntnise / vedomosti +
-* expertise / Fachkenntnisse / odborné znalosti, odbornosť, expertíza +
-* randomness / Zufälligkeit / náhodnosť +
-* compatibility / Kompatibilität / kompatibilita +
-* completeness / Vollständigkeit / úplnosť +
+* *understanding / Verständnis / porozumenie*
+* critical thinking / kritisches Denken
+* logical thinking / logisches Denken
+* curiosity / Neugier / zvedavosť
+* interest / Interesse / záujem
+* intuition / Intuition
+* concentration / Konzentration / sústredenie
+* learning / Lernen / učenie sa
+* competence / Fähigkeit / schopnosť
+* utility / Nutzen / úžitok
+* sense, purpose / Sinn, Zweck / zmysel
+* effectivity (does it work, or not? - boolean) / Effektivität / efektivita
+* efficiency (as much as possible in as little time as possible, e.g. efficient algorithm; how well does it work? (in comparison to other things, not people) - e.g. 0-100%) / Effizienz / efektivita
+* growth / Wachstum / rast
+* development / Entwicklung / rozvoj, vývoj
+* consciousness / Bewusstsein / vedomie
+* repetition / Wiederholung / opakovanie
+* solution / Lösung / riešenie
+* answer / Antwort / odpoveď
+* feedback / Rückmeldung / spätná väzba
+* understandability, clarity / Verständlichkeit, Klarheit / zrozumiťeľnosť
+* education / Ausbildung / vzdelanie
+* overview / Überblick / prehľad
+* explanation / Erklärung / vysvetlenie
+* knowledge / Kenntnise / vedomosti
+* expertise / Fachkenntnisse / odborné znalosti, odbornosť, expertíza
+* randomness / Zufälligkeit / náhodnosť
+* compatibility / Kompatibilität / kompatibilita
+* completeness / Vollständigkeit / úplnosť
+* holism / der Holismus / celostnosť
 * depth / die Tiefe / hĺbka
-* uniformity (in Data) / Uniformität, Einheitlichkeit / uniformita +
-* readability / Lesbarkeit / čitateľnosť +
-* brevity / Kürze / stručnosť +
-* thoroughness / Gründlichkeit / dôkladnosť +
-* correctness / Richtigkeit / správnosť +
-* validity / Gültigkeit / platnosť +
-* seriousness / Ernsthaftigkeit / vážnosť +
-* transparency / Transparenz / transparentnosť, priehľadnosť +
-* links, coherences, context / Zusammenhänge, Kontext / súvislosti +
-* _complication / Komplikation_ +
-* _problem / Problem_ +
-* _mistake / Fehler / chyba_ +
-* [line-through]#chaos / Chaos, Durcheinander# +
-* [line-through]#school / Schule / škola# +
-* [line-through]#work / Arbeit / práca# +
-* [line-through]#consumption / Konsum / spotreba# +
+* uniformity (in Data) / Uniformität, Einheitlichkeit / uniformita
+* readability / Lesbarkeit / čitateľnosť
+* brevity / Kürze / stručnosť
+* thoroughness / Gründlichkeit / dôkladnosť
+* correctness / Richtigkeit / správnosť
+* validity / Gültigkeit / platnosť
+* seriousness / Ernsthaftigkeit / vážnosť
+* transparency / Transparenz / transparentnosť, priehľadnosť
+* links, coherences, context / Zusammenhänge, Kontext / súvislosti
+* _complication / Komplikation_
+* _problem / Problem_
+* _mistake / Fehler / chyba_
+* [line-through]#chaos / Chaos, Durcheinander#
+* [line-through]#school / Schule / škola#
+* [line-through]#work / Arbeit / práca#
+* [line-through]#consumption / Konsum / spotreba#
 
 ---
 
-* *participation / Teilnahme / účasť* +
-* community / Gemeinschaft +
-* acceptance (by others) / Annahme / prijatie +
-* receptiveness (from others) / Annahmefähigkeit / prijímanie +
-* belonging / Zugehörigkeit / spolupatričnosť +
-* cooperation / Zusammenarbeit / spolupráca +
-* presence / Anwesendheit / prítomnosť +
-* company / Gesellschaft / spoločnosť (ľudí) +
-* sharing / Teilen / zdieľanie +
-* inclusion / Integration / integrácia, začlenenie +
-* voluntariness / Freiwilligkeit / dobrovoľnosť +
-* oneness, unity / Einheit / jednotnosť +
-* solidarity / Solidarität / solidarita +
-* common good / Gemeinwohl / verejné blaho +
-* [line-through]#competition / Wettbewerb / súťaž# +
-* [line-through]#competition / Konkurenz / konkurencia# +
-* [line-through]#race / Rennen / závodenie, preteky# +
+* *participation / Teilnahme / účasť*
+* community / Gemeinschaft
+* acceptance (by others) / Annahme / prijatie
+* receptiveness (from others) / Annahmefähigkeit / prijímanie
+* belonging / Zugehörigkeit / spolupatričnosť
+* cooperation / Zusammenarbeit / spolupráca
+* presence / Anwesendheit / prítomnosť
+* company / Gesellschaft / spoločnosť (ľudí)
+* sharing / Teilen / zdieľanie
+* inclusion / Integration / integrácia, začlenenie
+* voluntariness / Freiwilligkeit / dobrovoľnosť
+* oneness, unity / Einheit / jednotnosť
+* solidarity / Solidarität / solidarita
+* common good / Gemeinwohl / verejné blaho
+* [line-through]#competition / Wettbewerb / súťaž#
+* [line-through]#competition / Konkurenz / konkurencia#
+* [line-through]#race / Rennen / závodenie, preteky#
 
 ---
 
-* *leisure / Freizeit / voľný čas* +
-* serenity / Gelassenheit / pokoj +
-* peace / Frieden / mier +
-* rest / Erholung / oddych +
-* joy / Freude / radosť +
-* harmony / Harmonie +
-* calmness / Ruhe / pokoj +
-* awareness / Aufmerksamkeit / pozornosť +
-* celebration / Feier / oslava +
-* mindfulness / Achtsamkeit / vnímavosť +
+* *leisure / Freizeit / voľný čas*
+* serenity / Gelassenheit / pokoj
+* peace / Frieden / mier
+* rest / Erholung / oddych
+* joy / Freude / radosť
+* harmony / Harmonie
+* calmness / Ruhe / pokoj
+* awareness / Aufmerksamkeit / pozornosť
+* celebration / Feier / oslava
+* mindfulness / Achtsamkeit / vnímavosť
 * fun / Spaß / zábava
-* humor / Humor +
-* amusement / Vergnügen / potešenie +
-* enjoyment / Genuss / pôžitok +
-* softness / Weichheit / mäkkosť +
-* culture / Kultur / kultúra +
-* silence / Stille / ticho +
-* contentment / Zufriedenheit / spokojnosť +
-* relaxation / Entspannung / uvoľnenie +
-* well-being / Wohlergehen, Wohlbefinden / blaho, spokojnosť +
-* relax / Erholung / oddych +
-* comfort / Bequemheit / pohodlie +
-* gratification / Befriedigung / uspokojenie +
-* satisfaction / Zufriedenheit / spokojnosť +
-* balance / Gleichgewicht / rovnováha +
-* gentleness / Sanftheit / jemnosť +
-* agility / Beweglichkeit / pohyblivosť +
-* _discomfort / Unbehagen / nepohodlie_ +
-* [line-through]#instant gratification / sofortige Befriedigung / okamžité uspokojenie# +
+* humor / Humor
+* amusement / Vergnügen / potešenie
+* enjoyment / Genuss / pôžitok
+* softness / Weichheit / mäkkosť
+* culture / Kultur / kultúra
+* silence / Stille / ticho
+* contentment / Zufriedenheit / spokojnosť
+* relaxation / Entspannung / uvoľnenie
+* well-being / Wohlergehen, Wohlbefinden / blaho, spokojnosť
+* relax / Erholung / oddych
+* comfort / Bequemheit / pohodlie
+* gratification / Befriedigung / uspokojenie
+* satisfaction / Zufriedenheit / spokojnosť
+* balance / Gleichgewicht / rovnováha
+* gentleness / Sanftheit / jemnosť
+* agility / Beweglichkeit / pohyblivosť
+* _discomfort / Unbehagen / nepohodlie_
+* [line-through]#instant gratification / sofortige Befriedigung / okamžité uspokojenie#
 
 ---
 
-* *creation / Schöpfung / tvorivosť* +
-* imagination / Fantasie, Vorstellungskraft +
-* inventiveness / Ideenreichtum / nápaditosť +
-* play / Spiel / hra +
-* beauty / Schönheit / krása +
-* inspiration / Inspiration +
-* art / Kunst / umenie +
-* challenge / Herausforderung / výzva +
-* discovery / Entdeckung / objav +
-* stimulation / Anregung / podnietenie +
-* music / Musik / hudba +
-* rhythm / Rhythmus +
-* adaptability / Anpassbarkeit / prispôsobiteľnosť +
-* _smell / der Gestank / zápach_ +
-* smell, scent / der Duft / vôňa +
-* flow / Flow, Strömung / prúdenie +
-* change / Änderung / zmena +
-* intrinsic motivation / eigene Motivation / vlastná motivácia +
-* productivity / Produktivität / produktivita +
-* fulfilment / Erfüllung / naplnenie +
-* quality / Qualität / kvalita +
-* innovation / Innovation, Erneuerung / inovácia +
-* performance / Leistungsfähigkeit / výkonnosť +
-* flexibility / Flexibilität / pružnosť, prispôsobiteľnosť +
-* freshness / Frischheit / čerstvosť +
-* handling (e.g. of a car) / Handling / ovládateľnosť +
-* tightness / Dichtheit / tesnosť +
-* thickness / Dichte / hustota +
-* humidity / Feuchtigkeit / vlhkosť +
-* dryness / Trockenheit / sucho +
-* elasticity / Elasizität / elasticita, pružnosť +
-* plasticity / Plastizität / plasticita +
-* viscosity / Viskosität / viskozita +
-* style / Stil / štýl +
-* alternative / Alternative / alternatíva +
-* cohesion / Kohäsion / kohézia, súdržnosť +
-* coupling / Kopplung / väzbovosť +
+* *creation / Schöpfung / tvorivosť*
+* imagination / Fantasie, Vorstellungskraft
+* inventiveness / Ideenreichtum / nápaditosť
+* play / Spiel / hra
+* beauty / Schönheit / krása
+* inspiration / Inspiration
+* art / Kunst / umenie
+* challenge / Herausforderung / výzva
+* discovery / Entdeckung / objav
+* stimulation / Anregung / podnietenie
+* music / Musik / hudba
+* rhythm / Rhythmus
+* adaptability / Anpassbarkeit / prispôsobiteľnosť
+* _smell / der Gestank / zápach_
+* smell, scent / der Duft / vôňa
+* flow / Flow, Strömung / prúdenie
+* change / Änderung / zmena
+* intrinsic motivation / eigene Motivation / vlastná motivácia
+* productivity / Produktivität / produktivita
+* fulfilment / Erfüllung / naplnenie
+* quality / Qualität / kvalita
+* innovation / Innovation, Erneuerung / inovácia
+* performance / Leistungsfähigkeit / výkonnosť
+* flexibility / Flexibilität / pružnosť, prispôsobiteľnosť
+* freshness / Frischheit / čerstvosť
+* handling (e.g. of a car) / Handling / ovládateľnosť
+* tightness / Dichtheit / tesnosť
+* thickness / Dichte / hustota
+* humidity / Feuchtigkeit / vlhkosť
+* dryness / Trockenheit / sucho
+* elasticity / Elasizität / elasticita, pružnosť
+* plasticity / Plastizität / plasticita
+* viscosity / Viskosität / viskozita
+* style / Stil / štýl
+* alternative / Alternative / alternatíva
+* cohesion / Kohäsion / kohézia, súdržnosť
+* coupling / Kopplung / väzbovosť
 * match / Übereinstimmung / zhoda
 
 ---
 
-* *identity / Identität / identita* +
-* consistency / Konsistenz / pravidelnosť, vytrvalosť +
-* integrity / Integrität / integrita, súlad +
-* authenticity / Authentizität / autenticita, svojskosť +
-* spontaneity / Spontaneität / spontánnosť +
-* reliability / Verlässlichkeit / spoľahlivosť +
-* accuracy / Genauigkeit / presnosť +
-* precision / Präzision / precíznosť +
-* privacy / Privatsphäre / súkromie +
-* responsibility / Verantwortung / zodpovednosť +
-* order / Ordnung / poriadok +
-* simplicity /Einfachheit / jednoduchosť  +
-* punctuality / Pünklichkeit / dochvíľnosť +
-* trustworthiness / Glaubwürdigkeit / dôveryhodnosť +
-* spirituality / Spiritualität / spiritualita +
-* lightness / Leichtigkeit / ľahkosť +
-* fluency / Flüssigkeit / plynulosť +
-* gracefulness / Anmut / ladnosť +
-* endurance / Ausdauer / vytrvalosť +
-* naturalness / Natürlichkeit / prirodzenosť +
-* resonance / Resonanz / rezonancia, súzvuk +
-* determination / Entschlossenheit / rozhodnosť +
-* intensity / Intensität / intenzita +
-* dedication / Einsatz / nasadenie +
-* self-fullness / Selbsvölligkeit / sebanaplnenie +
-* maintainability / Wartbarkeit, Wartungsfreundlichkeit / udržovateľnosť +
-* patience / Geduldigkeit / trpezlivosť +
-* speed / Geschwindigkeit / rýchlosť +
-* repartee / Schlagfertigkeit / pohotovosť, bystrosť +
-* tradition / Tradition / tradícia +
-* habit / Gewohnheit / zvyk +
-* courage / Mut / odvaha +
+* *identity / Identität / identita*
+* consistency / Konsistenz / pravidelnosť, vytrvalosť
+* integrity / Integrität / integrita, súlad
+* authenticity / Authentizität / autenticita, svojskosť
+* spontaneity / Spontaneität / spontánnosť
+* reliability / Verlässlichkeit / spoľahlivosť
+* accuracy / Genauigkeit / presnosť
+* precision / Präzision / precíznosť
+* privacy / Privatsphäre / súkromie
+* responsibility / Verantwortung / zodpovednosť
+* order / Ordnung / poriadok
+* simplicity /Einfachheit / jednoduchosť
+* punctuality / Pünklichkeit / dochvíľnosť
+* trustworthiness / Glaubwürdigkeit / dôveryhodnosť
+* spirituality / Spiritualität / spiritualita
+* lightness / Leichtigkeit / ľahkosť
+* fluency / Flüssigkeit / plynulosť
+* gracefulness / Anmut / ladnosť
+* endurance / Ausdauer / vytrvalosť
+* naturalness / Natürlichkeit / prírodnosť, prirodzenosť
+* resonance / Resonanz / rezonancia, súzvuk
+* determination / Entschlossenheit / rozhodnosť
+* intensity / Intensität / intenzita
+* dedication / Einsatz / nasadenie
+* self-fullness / Selbsvölligkeit / sebanaplnenie
+* maintainability / Wartbarkeit, Wartungsfreundlichkeit / udržovateľnosť
+* patience / Geduldigkeit / trpezlivosť
+* speed / Geschwindigkeit / rýchlosť
+* repartee / Schlagfertigkeit / pohotovosť, bystrosť
+* tradition / Tradition / tradícia
+* habit / Gewohnheit / zvyk
+* courage / Mut / odvaha
 * [line-through]#power / Macht / moc# link:...[Ökonomische Pseudowerte: https://www.youtube.com/watch?v=7mRe1ntgbj8&feature=youtu.be&t=1260]
 * [line-through]#money / Geld / peniaze#
 * [line-through]#success / Erfolg / úspech#
@@ -288,20 +296,20 @@ by / nach / podľa Manfred Max-Neef, Marshall B. Rosenberg and me
 
 ---
 
-* *freedom / Freiheit / sloboda* +
-* risk / Risiko +
-* hope / Hoffnung / nádej +
-* space / Raum / priestor +
-* happiness / Glück +
-* choice / Auswahl / voľba +
-* availibility / Verfügbarkeit /  dostupnosť +
-* time / Zeit +
-* access / Zugriff / prístup +
-* mobility / Mobilität +
-* transportation / Transport +
-* autonomy / Selbstständigkeit, Autonomie / samostatnosť +
-* faith / Glaube / viera +
-* willingness / Bereitschaft / ochota +
+* *freedom / Freiheit / sloboda*
+* risk / Risiko
+* hope / Hoffnung / nádej
+* space / Raum / priestor
+* happiness / Glück
+* choice / Auswahl / voľba
+* availibility / Verfügbarkeit /  dostupnosť
+* time / Zeit
+* access / Zugriff / prístup
+* mobility / Mobilität
+* transportation / Transport
+* autonomy / Selbstständigkeit, Autonomie / samostatnosť
+* faith / Glaube / viera
+* willingness / Bereitschaft / ochota
 
 == Feelings at unfulfilled needs
 
@@ -325,7 +333,7 @@ What needs of the other are not being met?
 * irritated / irritiert / iritovaný, nervózny (iritovať, znervózniť)
 * nervous / nervös / nervózny (znervózniť)
 * discontented / unzufrieden / nespokojný
-* disturbed / gestört / vyrušený, znepokojený (vyrušiť, znepokojiť)
+* disturbed / gestört / vyrušený, znepokojený (rušiť, vyrušiť, znepokojiť)
 * tense / angespannt / napätý (napínať)
 * frustrated / frustriert / frustrovaný (frustrovať)
 * disgusted / geeckelt, angeeckelt / znechutený (znechutiť)
@@ -338,20 +346,21 @@ What needs of the other are not being met?
 * confused / durcheinander / zmätený (zmiasť)
 * bewildered / verwirrt / zmätený (zmiasť)
 * discouraged / entmutigt / odradený (odradiť)
-* lonely / einsam / osamelý
+* lonely (this one manifests as a pain and weakness in heart) / einsam / osamelý
 * apathetic / apathisch / apatický, ľahostajný (to loose interest in something, burn out / die Interesse an etwas [Akk.] verlieren, ausbrennen / stratiť záujem, vyhorieť)
-* bored / gelangweilt / znudený (unudiť)
-* indifferent
-* tired
-* exhausted
-* regretful
-* powerless
-* disappointed
-* sad
-* hurt
-* hopeless
-* desperate
-* vulnerable
+* bored / gelangweilt / znudený (nudiť sa, unudiť)
+* indifferent / gleichgültig / ľahostajný (lose interest / Interesse verlieren / stratiť záujem)
+* tired / müde / unavený (unaviť)
+* exhausted / erschöpft / vyčerpaný (vyčerpať)
+* regretful / bedauernd / byť ľúto
+* helpless / hilflos / bezradný (nevedieť si rady, nevedieť si poradiť)
+* powerless / machtlos / bezmocný
+* disappointed / enttäuscht / sklamaný (sklamať)
+* sad / traurig / smutný (smútiť)
+* hurt / verletzt / ranený, zranený, dotknutý
+* hopeless / hoffnungslos / beznádejný (stratiť nádej)
+* desperate / verzweifelt / zúfalý (zúfať)
+* vulnerable / verletzlich / zraniteľný
 * leiden / suffer / trpieť
 * suffer / sich quälen / trápiť sa
 
@@ -359,20 +368,22 @@ What needs of the other are not being met?
 
 Disconnected from needs / Unterbunden von Bedürfnissen
 
-* *angry*
-* indignant
-* furious
-* mad
-* enraged
-* hating
-* *depressed*
-* *guilty*
-* *ashamed*
-* envious
-* jealous
-* embarassed
+* *angry / ärgerlich / nahnevaný (hnevať sa)*
+* indignant / empört / rozhorčený (rozhorčiť sa)
+* furious / wütend / zúrivý (zúriť)
+* mad / zornig / zúrivý (zúriť)
+* enraged / aufgebracht / zúrivý (zúriť)
+* hating / hassend / nenávidiaci, nenávistný (nenávidieť)
+* *depressed / deprimiert (in Depression fallen) / deprimovaný (upadnúť do depresie)*
+* *guilty / schuldig / vinný*
+* *ashamed / beschämt / zahanbený (hanbiť sa)*
+* envious / neidisch / závistlivý (závidieť)
+* jealous / eifersüchtig / žiarlivý (žiarliť)
+* embarassed / verlegen / rozpačitý, v rozpakoch
 
 *Not-feelings - thoughts, analyses, diagnoses, interpretations, criticisms / Nicht Gefühle / ne-pocity*
+
+link:...[Source]
 
 * resentful
 * overwhelmed
@@ -390,6 +401,7 @@ Disconnected from needs / Unterbunden von Bedürfnissen
 * coerced
 * cornered
 * critcized
+* disconnected
 * discounted
 * diminished
 * disliked
@@ -397,6 +409,7 @@ Disconnected from needs / Unterbunden von Bedürfnissen
 * dumped on
 * harassed
 * hassled
+* horny / geil / nadržaný
 * ignored
 * insulted
 * interrupted
@@ -485,7 +498,7 @@ Disconnected from needs / Unterbunden von Bedürfnissen
 * ridiculous
 * decent
 * appropriate
-* selfisch
+* selfish
 * generous
 * disrespectful
 * spoiled
@@ -494,17 +507,83 @@ Disconnected from needs / Unterbunden von Bedürfnissen
 * slow
 * competent
 * incompetent
+* adequate
 * inadequate
 * inferior
+* important
 * unimportant
+* significant
 * insignificant
+* charismatic
 
-== Feelings at fulfilled needs
+== Feelings at fulfilled needs - Dream Feelings - Flow
 
-Celebration of life
+How do I want to feel?
 
-* free
-* passionate
+Flow - a state of optimal human performance and happiness +
+optimal human performance = happiness
+
+Celebration of life / Feier des Lebens / oslava života
+
+link:https://sci-hub.st/10.1080/10413200290103545[The Dream - *Dream Feelings*: Doug Newburg]
+
+link:...[Nonviolent Communication (NVC) - Feelings at fulfilled needs]
+
+[quote, Marshall B. Rosenberg - Chief from one of the tribes in northern Nigeria, Making Life Wonderful ?/4; San Francisco Workshop]
+____
+*Quote* Block
+
+If we know how to speak this language, we don't have to kill each other.
+____
+
+link:...[Flow - Mihály Csíkszentmihályi]
+
+* free /
+* relaxed /
+* excited /
+* courageous /
+* energetic /
+* optimitstic /
+* concentrated, focused /
+* calm /
+* curious /
+* interested /
+* glad /
+* cheerful /
+* friendly /
+* peaceful /
+* joyful /
+* happy /
+* confident /
+* safe /
+* light /
+* fulfilled /
+* content /
+* satisfied / befriedigt /
+* eingetaucht /
+* strong /
+* powerful /
+* attentive /
+* determined /
+* blissful /
+* lively /
+* hungry /
+* unstoppable /
+* dedicated /
+* patient /
+* full of expectations /
+* sleepy /
+* vigorous /
+* on fire /
+* rested /
+* deeply rooted /
+* impressed /
+* touched /
+* relieved /
+* encouraged /
+* hopeful /
+* gut (vague feeling - needs to be more closely specified in order to make a closer connection) /
+* passionate / leidenschaftlich / vášnivý
 
 == Comparisons
 
@@ -658,3 +737,7 @@ Every act of violence somewhere is an attempt to create justice to right a wrong
 * ??? link:...[(M. B. Rosenberg San Francisco Workshop ~2:26:00-???)]
 
 * No human being is good, but all are sacred. link:https://www.youtube.com/watch?v=LdOFhyKACxE[Dr. James Gilligan - On How All Human Beings Are Sacred]
+
+* https://www.youtube.com/watch?v=bH9t1lAX2UQ Training Session # 2 Marshall Rosenberg CNVC org - 49:20-49:42
+
+* https://www.youtube.com/watch?v=bH9t1lAX2UQ Training Session # 2 Marshall Rosenberg CNVC org - 58:10-1:07:00
