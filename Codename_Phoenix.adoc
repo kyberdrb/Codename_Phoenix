@@ -2,17 +2,51 @@
 
 Reborn from ashes.
 
+== Why did I create this?
+
+Chcel som sa vyliečiť z tráviacich problémov. Bolestí žalúdka, nafukovania, únavy po jedle.
+
+Chcel som si konečne začať užívať život, potom, čo som asi šesť krát vyhorel. Asi som vymyslel prevenciu proti vyhoreniu a zachovanie radosti zo života. Ale berte to s rezervou: žiadne, že buď 100% garancia spokojnosti, alebo vrátenie peniazí ;) Ale pomohlo mi to začať odznova. A menej sa nenávidieť za chyby :/
+
+Lebo môžem byť neviemaký odborník, keď neviem vychádzať s ľuďmi.
+
+Chcem sa cítiť dobre medzi ostatnými ľuďmi.
+
+Odbornosť nie je všetko. Odbornosť je jedna časť.
+
+Ďalšia časť je ľudskosť.
+
+Ľudskosť rozvíjam empatiou.
+
+Empatia mi pomáha spájať sa so sebou samým a s ostatnými ľuďmi a rozumieť dobrým dôvodom, pocitom a potrebám, prečo ľudia robia to, čo robia.
+
+Empatia lieči rany na duši rýchlejšie a do väčšej hĺbky než psychoterapia, pretože empatia sa odohráva v prítomnosti. Pri psychoterapii sa rozpráva o minulosti, lenže rozprávanie o minulosti a jej analyzovanie spomaľuje liečbu a môže jej dokonca brániť. Psychoterapia poskytuje skôr intelektuálne porozumenie než súcit - empatiu.
+
+Empatia je súčasťou emocionálnej inteligencie.
+
+Lenže väčšina škôl a väčšina pedagógov používa praktiky, ktoré bránia rozvoju empatie a emocionálnej inteligencie. Veď akoby aj mohli. Pedagógovia sa trápia, lebo oni sami nevedia veľa o emocionálnej inteligencii a jej dôležitosti, a aj väčšina školských inštitúcii je  navrhnutá tak, aby kládli väčší dôraz na výkon, výsledky a poslušnosť, než na starostlivosť, ochotu, súcit a zodpovednosť.
+
+A namiesto altruistických ľudí vychovávajú ľudí sebeckých.
+
+V takomto prostredí potom trpia nielen študenti, ale aj učitelia a vedenie.
+
+A podľa mňa, nízka úroveň emocionálnej inteligencie umožňuje, aby sa takýto systém udržal.
+
+A chcem sa vedieť smiať na svojich chybách.
+
+Chcem sa učiť zo svojich chýb a prestať sa nenávidieť za to, že robím chyby.
+
 == Human needs / Menschliche Bedürfnisse / Ľudské potreby
 
 by / nach / podľa Manfred Max-Neef, Marshall B. Rosenberg and me
 
 ---
 
-The needs is the reason, why I'm feeling the way I feeling.
+The needs is *the only reason*, why I'm feeling the way I feeling.
 
 ---
 
-* *primary need / das primäre Bedürfniss / primárna potreba*
+* *need [bold face] / das Bedürfniss [dick geschrieben] / potreba [tučne zvýraznené]*
 * _not a need - feedback / kein Bedürfniss - eine Rückmeldung / nie je potreba - spätná väzba_ - Only as a feedback that the needs were or were not fulfilled. / Nur als Rückmeldung, dass die Bedürfnisse erfült oder nicht erfüllt wurden.
 * [line-through]#not a need - a strategy / kein Bedürfniss - eine Strategie / nie je potreba - stratégia#
 
@@ -123,6 +157,8 @@ The needs is the reason, why I'm feeling the way I feeling.
 * competence / Fähigkeit / schopnosť
 * utility / Nutzen / úžitok
 * sense, purpose / Sinn, Zweck / zmysel
+* goal / Ziel / cieľ
+* common purpose / gemeinsames Ziel / spoločný cieľ
 * effectivity (does it work, or not? - boolean) / Effektivität / efektivita
 * efficiency (as much as possible in as little time as possible, e.g. efficient algorithm; how well does it work? (in comparison to other things, not people) - e.g. 0-100%) / Effizienz / efektivita
 * growth / Wachstum / rast
@@ -252,6 +288,10 @@ The needs is the reason, why I'm feeling the way I feeling.
 * cohesion / Kohäsion / kohézia, súdržnosť
 * coupling / Kopplung / väzbovosť
 * match / Übereinstimmung / zhoda
+* roughness / ??? / ???
+* smoothness / ??? / ???
+* diversity / Vielfalt(igkeit) / rôznorodosť, diverzita
+* ??? / Durchsichtigkeit / priehľadnosť
 
 ---
 
@@ -282,7 +322,7 @@ The needs is the reason, why I'm feeling the way I feeling.
 * self-fullness / Selbsvölligkeit / sebanaplnenie
 * maintainability / Wartbarkeit, Wartungsfreundlichkeit / udržovateľnosť
 * patience / Geduldigkeit / trpezlivosť
-* speed / Geschwindigkeit / rýchlosť
+* speed, velocity / Geschwindigkeit, Schnelligkeit / rýchlosť
 * repartee / Schlagfertigkeit / pohotovosť, bystrosť
 * tradition / Tradition / tradícia
 * habit / Gewohnheit / zvyk
@@ -290,7 +330,8 @@ The needs is the reason, why I'm feeling the way I feeling.
 * [line-through]#power / Macht / moc# link:...[Ökonomische Pseudowerte: https://www.youtube.com/watch?v=7mRe1ntgbj8&feature=youtu.be&t=1260]
 * [line-through]#money / Geld / peniaze#
 * [line-through]#success / Erfolg / úspech#
-* [line-through]#status (social) / Status / stav, postavenie#
+* [line-through]#[social] status / [soziales] Status / [spoločenský] status,  stav, postavenie#
+* [line-through]#popularity, to be liked by other people / Popularität, unter Leuten beliebt zu sein / popularita, byť oblúbený medzi ľuďmi#
 * [line-through]#individualism / Individualismus / individualizmus#
 * [line-through]#ownership (to have and to have more) / Eigentum / vlastníctvo#
 
@@ -329,11 +370,10 @@ What needs of the other are not being met?
 * worried / besorgt / ustarostený (robiť si starosti, mať starosti, obávať sa)
 * shocked / schockiert / šokovaný (šokovať)
 * surprised / überrascht / prekvapený (prekvapiť)
-* disturbed / beunruhigt / znepokojený, rozrušený (znepokojiť, rozrušiť)
+* disturbed / beunruhigt, gestört / znepokojený, rozrušený, vyrušený (znepokojiť, rozrušiť, rušiť, vyrušovať, rozptyľovať, vadiť)
 * irritated / irritiert / iritovaný, nervózny (iritovať, znervózniť)
 * nervous / nervös / nervózny (znervózniť)
 * discontented / unzufrieden / nespokojný
-* disturbed / gestört / vyrušený, znepokojený (rušiť, vyrušiť, znepokojiť)
 * tense / angespannt / napätý (napínať)
 * frustrated / frustriert / frustrovaný (frustrovať)
 * disgusted / geeckelt, angeeckelt / znechutený (znechutiť)
@@ -363,6 +403,7 @@ What needs of the other are not being met?
 * vulnerable / verletzlich / zraniteľný
 * leiden / suffer / trpieť
 * suffer / sich quälen / trápiť sa
+* pain / der Schmerz(en) / bolesť
 
 *Bitter pain - Alarm feelings / Bittere Schmerzen - Weckgefühle*
 
@@ -515,13 +556,23 @@ link:...[Source]
 * significant
 * insignificant
 * charismatic
+* würdig
+* unwürdig
 
 == Feelings at fulfilled needs - Dream Feelings - Flow
 
-How do I want to feel?
+Gefühle bei erfüllten Bedürfnissen / Pocity pri naplnených potrebách.
+
+How do I want to feel? [RPM]
+
+---
+
+[line-through]#Ich kann meine Gefühle beschreiben, die ich bei meinen Traumaktivitäten erleben möchte, weil ich nicht den Wortschatz an Gefühle habe. Ich brauche mir die Äußerung meiner Gefühle erreichern. Ich brauche die Fähigkeit, die Gefühle in mir bewusst werden und sie benennen. Dann kann ich mir an maine Traumgefühle erinnern und sie gleich wiederherstellen.#
+
+---
 
 Flow - a state of optimal human performance and happiness +
-optimal human performance = happiness
+optimal human performance = happiness link:...[(Cedric Dumont - TEDx; Flow - Mihály Csíkszentmihályi)]
 
 Celebration of life / Feier des Lebens / oslava života
 
@@ -531,66 +582,74 @@ link:...[Nonviolent Communication (NVC) - Feelings at fulfilled needs]
 
 [quote, Marshall B. Rosenberg - Chief from one of the tribes in northern Nigeria, Making Life Wonderful ?/4; San Francisco Workshop]
 ____
-*Quote* Block
 
 If we know how to speak this language, we don't have to kill each other.
+
 ____
 
-link:...[Flow - Mihály Csíkszentmihályi]
+Wie will ich mich fühlen wenn ich: +
+spreche, mit jemandem spreche, schreibe, zuhöre, mich dusche, mich mit kaltem Wasser dusche, programmiere, UML-Diagramme zeichne, lerne, Algorithmen ausdenke, nachdenke, Akkordeon spiele, nach etwas suche, esse, Wäsche wasche, Wäsche aufhänge, einkaufe, schlafe, einschlafe, Pilates übe, Yoga übe, laufe, TRX übe, Augen übe, Atem übe, übe, mich bewege, ausruhe, meditiere, plane, Fremdsprachen lerne, Bücher lese, Bücher höre, zu gesprochenem Wort höre, Musik höre, mir Videos anschaue, Artikel lese, Artikel schreibe, lehre, forsche, in C++ programmiere, in Fremdsprachen Geschichten schreibe, zu Projekten beitrage, "Nein" höre, ein Auto fahre, mich vorbereite, Musik komponiere, übersetze, Musik in Noten überschreibe, Aussagen in gewaltfreie Kommunikation übersetze, Noten eines Liedes lese, experimentiere, Fehler mache, nach Zusammenhängigkeiten suche, von Fehlern lerne, präsentiere, einen Quellcode lese, einen fremden Quellcode lese, einen fremden Quellcode lese, einen fremden Quellcode ändere, einen fremden Quellcode bearbeite, einen komplizierten Quellcode ändere, einen komplizierten Quellcode bearbeite, einen kompliziertes Software entwerfe, einen, ein kompliziertes Software entwickle, ein kompliziertes Software analysiere, ein fremdes Software analysiere, schnell an die Tastatur schreibe, schnell programmiere, Probleme löse, Fragen beantworte, mich in mich oder anderen hineinfühle, Empathie zeige, Konflikte löse, Fragen beantworte, mich mit meinen Gefühlen und Bedürfnissen verbinde, Fragen stelle, aufräume, mir das Essen vorbereite, das Geschirr spüle, die Gefühle und Bedürfnisse hinter jeder Aussage rate, programmieren lerne, Programmiersprache lerne...
 
-* free /
-* relaxed /
-* excited /
-* courageous /
-* energetic /
-* optimitstic /
-* concentrated, focused /
-* calm /
-* curious /
-* interested /
-* glad /
-* cheerful /
-* friendly /
-* peaceful /
-* joyful /
-* happy /
-* confident /
-* safe /
-* light /
-* fulfilled /
-* content /
-* satisfied / befriedigt /
-* eingetaucht /
-* strong /
-* powerful /
-* attentive /
-* determined /
-* blissful /
-* lively /
-* hungry /
-* unstoppable /
-* dedicated /
-* patient /
-* full of expectations /
-* sleepy /
-* vigorous /
-* on fire /
-* rested /
-* deeply rooted /
-* impressed /
-* touched /
-* relieved /
-* encouraged /
-* hopeful /
-* gut (vague feeling - needs to be more closely specified in order to make a closer connection) /
+^^ Das mache ich...
+
+... und so will ich mich dabei fühlen:
+
+* free / frei / voľný, slobodný
+* relaxed / entspannt / uvoľnený
+* excited / erregt / vzrušený
+* courageous / mutig / odvážny
+* energetic, full of energy / energisch / energický
+* optimitstic / optimistisch / optimistický
+* concentrated, focused / konzentriert, fokusiert / sústredený
+* calm / ruhig / pokojný
+* curious / neugierig / zvedavý
+* interested / interessiert / zaujímajúci sa
+* wondering / wundernd / čudujúci sa
+* glad / froh / rád
+* cheerful / fröhlich / radostný
+* friendly / freundlich / priateľský
+* joyful / freudvoll / veselý (tešiť sa, zabaviť sa, pobaviť, zasmiať sa z ...)
+* happy / glücklich / šťastný
+* confident / selbstsicher / sebaistý
+* safe / sicher, geborgen / v bezpečí
+* light / leicht / ľahký
+* fulfilled / erfüllt / naplnený
+* content / zufrieden / spokojný
+* satisfied / befriedigt / uspokojený
+* immersed / eingetaucht / ponorený
+* strong / stark / silný
+* powerful / kräftig, kraftvoll / silný
+* mighty / machtvoll / mocný
+* attentive / aufmerksam / pozorný
+* determined / entschlossen / rozhodný
+* blissful / glückselich / blažený
+* lively / lebendig / nažive
+* vigorous / lebhaft / húževnatý
+* hungry (before exercising) / hungrig / hladný
+* unstoppable / unaufhaltbar / nezastaviteľný
+* dedicated / eingesetzt / v nasadení
+* patient / geduldig / trpezlivý
+* full of expectations / erwartungsvoll / plný očakávaní
+* sleepy / schläfrig / ospalý
+* on fire (at hardening) / in Brand gesetzt (bei Härten) / ako v ohni (pri otužovaní)
+* rested / erholt / oddýchnutý
+* deeply rooted / tief verwurzelt / hlboko zakorenený
+* impressed / beeindruckt / ohúrený
+* touched / berührt / dojatý
+* relieved / erleichtert / uľavený (uľaviť)
+* encouraged / ermutigt / odhodlaný
+* hopeful / hoffnungsvoll / plný nádeje
+* goot (vague feeling - needs to be more closely specified in order to make a closer connection) / gut / dobre
 * passionate / leidenschaftlich / vášnivý
+
+^^ Dream feelings [Doug Newburg - RPM]. Diese Gefühle habe ich bei erfühlten Bedürfnissen. [NVC Buch]
 
 == Comparisons
 
-- Punishment and Rewards vs Discipline, Care, Love and Reason - link:https://www.youtube.com/watch?v=Qk8fOOMWOGc[Shaping Discipline with a Restorative Approach - Part 4], Alfie Kohn, Samuel P. Oliner + Pearl M. Oliner [Altruistic Personality + Samuel Oliner Testimony], Miki Kashtan [Exiting the Either/Or Trap - 17th minute]
-- Shame and Punishment vs Safety, Respect, Responsibility, Care and Love - Miki Kashtan-Bullying, link:https://www.youtube.com/watch?v=2KXwnbsQUrI&feature=youtu.be&t=87[Restorative Justice Continuum - Howard Zehr Ph.D EM 1:27-2:12], link:https://www.youtube.com/watch?v=0pleCht2jN4&feature=youtu.be&t=439[NVC Guilt and Shame - Kirsten Kristensen: startTime-endTime]
+- Punishment and Rewards vs Discipline, Care, Unconditional Love and Reason - link:https://www.youtube.com/watch?v=Qk8fOOMWOGc[Shaping Discipline with a Restorative Approach - Part 4], Alfie Kohn, Samuel P. Oliner + Pearl M. Oliner [Altruistic Personality + Samuel Oliner Testimony], Miki Kashtan [Exiting the Either/Or Trap - 17th minute]
+- Shame and Punishment vs Safety, Respect, Responsibility, Care and Unconditional Love - Miki Kashtan-Bullying, link:https://www.youtube.com/watch?v=2KXwnbsQUrI&feature=youtu.be&t=87[Restorative Justice Continuum - Howard Zehr Ph.D EM 1:27-2:12], link:https://www.youtube.com/watch?v=0pleCht2jN4&feature=youtu.be&t=439[NVC Guilt and Shame - Kirsten Kristensen: startTime-endTime]
 - Production and Comsumption vs Care and Freedom - link:https://www.youtube.com/watch?v=kikzjTfos0s&feature=youtu.be&t=2958[On Bullsh*t Jobs | David Graeber | RSA Replay: 49:18-49:44]
-- Gratitude vs Reward, Praise and Compliments- M. B. Rosenberg, Alfie Kohn, Peter Gray
+- Gratitude and Appreciation vs Reward, Praise and Compliments- M. B. Rosenberg, Alfie Kohn, Peter Gray
 - Criticism, Punishment, Praise and Compliments vs Observation, Feeling, Need, Request and Unconditional Love - M. B. Rosenberg, Alfie Kohn
 - Criticism, Punishment, Praise and Compliments vs Unconditional Love - Alfie Kohn [OFJCC - 26:10-27:28-30:04]
 - Honesty vs Criticism and Blame - M. B. Rosenberg [Making life wonderful - part 1/4 - somewhere at the beginning]
@@ -600,9 +659,9 @@ link:...[Flow - Mihály Csíkszentmihályi]
 - Authority based on 'power over' model vs Authority based on 'power with' model - M. B Rosenberg [interview with paula gloria], Mary Parker Follett
 - Obedience vs Responsibility - link:https://www.youtube.com/watch?v=HLgGt7yLhJg&feature=youtu.be&t=3373[Atelier communication non violente - Marshall Rosenberg - Danemark - sous-titres français: 56:13-57:15]
 - Respect vs Obedience - link:https://www.youtube.com/watch?v=HLgGt7yLhJg&feature=youtu.be&t=3373[Atelier communication non violente - Marshall Rosenberg - Danemark - sous-titres français: 56:13-57:15], link:https://www.youtube.com/watch?v=Qk8fOOMWOGc[Shaping Discipline with a Restorative Approach - Part 4]
-- Respect vs Fear - link:https://www.youtube.com/watch?v=Qk8fOOMWOGc[Shaping Discipline with a Restorative Approach - Part 4],
+- Respect vs Fear - link:https://www.youtube.com/watch?v=Qk8fOOMWOGc[Shaping Discipline with a Restorative Approach - Part 4]
 - Respect vs Approval - link:https://www.youtube.com/watch?v=Qvmqeeme42M&feature=youtu.be&t=1008[(Miki Kashtan: Exiting the Either/Or Trap - Beyond Consensus vs. Command and Control: 16:48-22:20)]
-- Empathy, Power with People and Respect vs Obedience - link:https://www.youtube.com/watch?v=NqJ-0EIsy9U&feature=youtu.be&t=5658[Marshall Rosenberg - NVC Workshop 2004 Portland, OR: 1:34:18-1:36:18], Mary Parker Follett, Power, Freedom and Authority in Management: Mary Parker Follett’s ‘PowerWith’-Domènec Melé and Josep M Rosanas-10.5840@pom20033221
+- Empathy, Power with People and Respect vs Obedience - link:https://www.youtube.com/watch?v=NqJ-0EIsy9U&feature=youtu.be&t=5658[Marshall Rosenberg - NVC Workshop 2004 Portland, OR: 1:34:18-1:36:18], Mary Parker Follett, Power, Freedom and Authority in Management: Mary Parker Follett’s ‘Power With’-Domènec Melé and Josep M Rosanas-10.5840@pom20033221
 - Intrinsic motivation vs Extrinsic motivation - Alfie Kohn [OFJCC Overemphasizing achievement]
 - Internal motivation vs Extrinsic motivation - Alfie Kohn [OFJCC Overemphasizing achievement]
 - Excellence vs Superiority - Is Meritocracy a Sham? | Amanpour and Company: link:https://www.youtube.com/watch?v=BLEvJUNfyBY&feature=youtu.be&t=592[9:52-11:32], link:https://www.youtube.com/watch?v=BLEvJUNfyBY&feature=youtu.be&t=910[15:10-16:24]
@@ -616,66 +675,326 @@ link:...[Flow - Mihály Csíkszentmihályi]
 - Education vs Indoctrination - link:https://www.youtube.com/watch?v=5EURJI9x9Qs&feature=youtu.be&t=771[(Manfred Max-Neef, Father of "Barefoot Economics" - Keynote at Zermatt Summit 2012: 12:51-13:41)], Peter Gray
 - Rule and Dogma - M. B. Rosenberg [Consentual rules: Resolving conflicts with children workshop], link:https://www.youtube.com/watch?v=5EURJI9x9Qs&feature=youtu.be&t=771[(Manfred Max-Neef, Father of "Barefoot Economics" - Keynote at Zermatt Summit 2012: 12:51-13:41)]
 - Interdependency vs Codependency - Alfie Kohn
-- Process vs Product - Rachel Rainbolt - episode with peter gray, Peter Gray-play
+- Process vs Product - Rachel Rainbolt - episode with peter gray, Peter Gray - Play
 - Empathy vs Sympathy - link:...[M. B. Rosenberg], link:https://youtu.be/KX_tgRM84RA?t=370[(Nonviolent Communication (NVC): Yoram Mosenzon full workshop: 'Connecting in Conflict': 6:10-8:08)]
-- link:https://www.fachverband-gfk.org/wp-documents/anlage_3_schluesselunterscheidungen.pdf[und mehr ...]
+- Empathy vs Forgiveness - link:...[maybe Creating Life Serving System Withing Ourselves???]
+* Intensity vs Consistency - link:???[Simon Sinek]
+- link:https://www.fachverband-gfk.org/wp-documents/anlage_3_schluesselunterscheidungen.pdf[und mehr Unterschiede...]
 
 Culturally learned beliefs - Life-harming beliefs:
-- spare the rod, spoil the child - Bible, Proverbs 13:24
-- no pain, no gain
-- Čím väčším peklom si prejdeš, tým silnejší z toho výjdeš. Ak z toho výjdeš. - Jaroslav Slávik, Československo má talent
+- spare the rod, spoil the child - Bible, Proverbs 13:24, Rosenberg - Resolving conflicts with children
+- No pain, no gain.
+- Čím väčším peklom si prejdeš, tým silnejší z toho výjdeš. Ak z toho výjdeš. - (Jaroslav Slávik, Československo má talent)
+- Tréning robí majstra.
+
+== Resonance Performance Model [RPM]
+
+by Doug Newburg
+
+*The goal:* C++ programmer in Austria
+
+*Das Ziel:* C++ Programmierer in Österreich
+
+*1.) The Dream / Der Traum*
+
+*Dream feelings / Traumgefühle:* +
+
+* joy of learning / Freude an Lernen
+* joyful creativity / fröhliche Kreativität
+* relaxed speed / entspannte Geschwindigkeit
+* easy effort / einfache Mühe
+* persistence of steel / Ausdauer aus Stahl
+* joyful persistence / fröhliche Ausdauer
+* connection to feelings and needs under all circumstances / Verbindung mit Gefühlen und Bedürfnissen unter allen Umständen
+* empathic connection before correction / empathische Verbindung vor der Korrektur
+* fast reflexes / schnelle Reflexe
+* huge and accurate memory / riesengroßes und genaues Gedächtnis
+* energy of a powerhouse / Energie eines Kraftwerkes
+* empathy for everyone everytime / Empathie für jeden jederzeit
+* tough-minded optimism / hart-gesinnter Optimismus
+* deep focus / tiefe Konzentration
+* educated risk-taking / ausgebildete Risikoannahme
+* calm limbs / ruhige Glieder
+* energy without violence - joyful energy / Energie ohne Gewalt - freudvolle Energie
+* success without victory - collective success / Erfolg ohne Sieg - gemeinsamer Erfolg
+* programming with joy and lightness / Programmieren mit Freude und Leichtigkeit
+* empathy with the ease of a hot knife cutting through a butter / Empathie mit der Leichtigkeit eines Messers, das durch die Butter geht
+* joy of every single line of code that I write / Freude an jeder Zeile des Codes, die ich schreibe
+* fulfilment of my needs that will be more effective and less costly to my and other people / die Erfüllung meiner Bedürfnisse, die effektiver und weniger kostlich für mich und andere Menschen ist
+* fast reflexes / schnelle Reflexe
+* calm limbs / ruhige Glieder
+* quick reading with understanding / schnelles Lesen mit Verständnis
+
+*2.) Preparation / Vrobereitung*
+
+* Training
+* Exercise / Übung
+** body / Körper
+** mind / Geist
+* (Perfect) preparation precedes mastery. +
+  (Perfekte) Vorbereitung geht der Meisterschaft voraus. +
+  link:???[Cedric Dumont - From Fear to Flow: ???-???]
+
+*3.) Obstacles, Successes / Hindernisse, Erfolge*
+
+* Gefühle, erfüllte Bedürfnisse, Erfolge und Ergebnisse bei der Vorbereitung
+* loosing connection with dream feelings / die Verbindung zu meinen Traumgefühlen wird schwächer
+
+*3.5) Obstacle-Preparation Loop / Hindernis-Vorbereitungs-Schleife
+
+* Burn-out spiral / Ausbrennungsspirale
+* Lose of interest, energy, meaning, intrinsic motivation
+* Depression
+* ...
+
+*4.) Revisiting the dream / Wiederverbindung mit dem Traum*
+
+* Reconnection with my dream feelings. / Wiederverbindung mit meinen Traumgefühlen.
+* Ask myself "how do I want to feel?". / Ich frage mich "wie ich mich fühlen will?".
+* Revisit my feelings, needs and the dream. / Meine Gefühle, Bedürfnisse, und den Traum wiederholen
+* Revisit the feelings at unfulfilled and fulfilled needs. / Die Gefühle bei unerfüllten und erfüllten Bedürfnissen wiederholen.
+* Burn-out prevention / Ausbrennungsprävention / Prevencia proti vyhoreniu.
+* Expressing gratitude / Dankbarkeit äußern
+* Empathize / Fühle dich hinein
+* Empathy / Empathie
+* Nonviolent Communication - NVC / Gewaltfreie Kommunikation - GFK
+* Expressive writing link:...[(James Pennebaker - Researchgate link???)]
+** Showing empathy to me, my inner educator and my inner chooser through NVC - talking about my feelings and needs *in the present moment*, stimulated by various events. Talking about the past is the domain of psychotherapy and doesn't contribute to the healing of the pain. The more we spend in the past, the less healing takes place.
+* How you feel is more important than what you do. +
+  Wie du dich fühlst ist wichtiger als das, was du machst. +
+  link:???[Cedric Dumont - From Fear to Flow: ???-???]
+* Attitude is more important than aptitude. +
+  Innere Einstellung ist wichtiger als Fähigkeit. +
+  link:???[Cedric Dumont - From Fear to Flow: ???-???]
+* The act of learning is more important than how well [or fast] I'm learning.
+  Das, dass ich lerne ist wichtiger, als das, wie gut [oder schnell] ich lerne. +
+  link:???[Alfie Kohn ??? + Cedric Dumont - From Fear to Flow ???]
+* People who I let myself to inspire from / Leute von denen ich mich inspirieren lasse
+** Ivo Toman - TAXUS Learninig - Lernen einer Fremdsprache durch gleichzeitiges Hören und Lesen eines wortwortlichen Textes in der Mutter- oder Fremdsprache, der zu dem gehörtem Text gehört.
+** *Wim Hof - Wim Hof Methode*
+** Marie Kondo - Konmari-Methode
+** Blue Zones / Blaue Zonen - Forschung; überdurchschnittliche Gebiete mit überdurchschnittlicher Lebenslänge, z. B. Moai: Okinawa-Japan
+** Simon Sinek - Intensity vs Consistency
+** Josh Millburn & Ryan Nycodemus - minimalizmus
+** Fumio Sasaki - minimalizmus
+** *Maria Montessori - education; Buch: Montessori method*
+** *Lucia Rolcekova - Pilates, Fysiotherapie*
+** *Kristina Zanova - Yoga; Rücken Rollen*
+** Matus Chochlik - FRI UNIZA -> GlobalLogic
+** Zdenko Pavlik - Scheid & Bachmann Zilina - Tankstellenabteilung -> GlobalLogic
+** James Pennebaker - expressive writing
+** *Marshall B. Rosenberg - NVC: Nonviolent Communication*
+** *Alfie Kohn - education, parenting*
+** *Peter Gray - SDE: Self-Directed Education; play; Buch: Free to Play*
+** Bethany Butzer - Stop trying so hard. Achieve more by doing less. Reference to Doug Newburg's research.
+** *Doug Newburg - RPM: Resonance Performance Model*
+** Milan Ondrasovic - Referenz zu Autophagozytose von Yoshinori Ohsumi
+** Yoshinori Ohsumi - Autophagozytose
+** *Mihály Csíkszentmihályi - Flow*
+** Cedric Dumont - From fear to Flow
+** Miki Kashtan - NVC Management and Leadership
+** *Daniel Markovits - Buch: The Meritocracy Trap*; Excellence vs. Superiority; "It's not about working hard, it's about doing the hard work. - connection to research from _Doug Newburg: Resonance Performance Model_"
+** Lawrence Chong - Economy of Communion
+** *Manfred Max-Neef - Barefoot Economy*: Economy based on fulfilling of each other's needs; **Human Scale Development**
+** Christian Felber - Economy of Common Good / Gemeinwohl-Ökonomie
+** Scott Meyers - Effective C++, More Effective C++
+** Martin Fowler - Refactoring to Patterns
+** Howard Zehr - Restorative Justice
+** David Barter - Restorative Justice with NVC
+** Carl R. Rogers - Humanistic Psychology; Humanism; Reference from M. B. Rosenberg and Alfie Kohn
+** Mark Shepard - Permaculture; Buch: Restoration Agriculture
+** Peter Kropotkin (Pyotr Alexeyevich Kropotkin) - Anarcho-Communism, Anarchist Communism, Kommunistischer Anarchismus; Bücher: Anarchist Communism: Its Basis and Principles; The Conquest of Bread
+** David Harvey - Buch: Contradiction of Capitalism
+** Samuel P. Oliner, Pearl M. Oliner - Buch: The Altruistic Personality
+** Sepp Holzer - Permakultur; Buch: Zahrada k nakousnuti
 
 == Questions
 
-* Can you live without that? link:https://www.youtube.com/watch?v=6rFMoUY6KpM&feature=youtu.be&t=3730[(Making Collaboration Real: Miki Kashtan: Maximizing Willingness for Collaboration Decision-Making: 1:02:10-1:02:15)]
+* Ist daran etwas schlechtes?
+* ???
 
-* Questions of justice - Phases of restorative justice by NVC
+* "Can you live with it?" link:https://www.youtube.com/watch?v=6rFMoUY6KpM&feature=youtu.be&t=3730[(Making Collaboration Real: Miki Kashtan: Maximizing Willingness for Collaboration Decision-Making: 1:02:10-1:02:15)]
 
-** link:https://slideplayer.com/slide/6835782/[Building Positive Relationships Through Restorative Justice - Joan Packer]
-** link:https://www.youtube.com/watch?v=Ccz55SO4Ah4&feature=youtu.be&t=2221[Howard Zehr - Human Rights Meets Restorative Justice: 37:01-???]
-** link:...[NVC Life serving system within yourself ???]
+=== Restorative justice
+
+A form of justice that concentrates on the restoring the relationships in the human, and between the human and the community. link:???[Barter - What is Restorative Justice - Youtube]
+
+* Questions of justice
+
+. What was the observable behavior of the perpetrator?
+. Empathy of the perpetrator for the victim. - What needs was the perpetrator trying to meet? - Empathy with the perpetrator's inner chooser. Empathy with the victim's unfulfilled needs. The cost or impact of the perpetrator's behavior to the needs of other people.
+. Giraffe mourning on the part of the perpertator. - What needs the perpetrator didn't meet by his/her behavior? - Self-forgiveness within the perpetrator
+. Searching for ways to get everybody's needs met that would be more efficient and less costly. - Repairing the harm and healing the pain with concrete activities of the perpetrator that will contribute to life well-being of others.
 
 [options="header"]
 |===========================
-| Retributive | Restorative (H. Zehr) | Restorative (M. B. Rosenberg [NVC] )
-| What law was broken? | What happened? | What happened?
-| Who broke that rule? | Why did it happen? | How are they feeling? +
-                                              What needs are not being fulfilled?
-| What the punishment will be? | What can we do to repair the harm? | What can we do to fulfil the needs?
+| Retributive Justice | Restorative Justice (H. Zehr) | Restorative Justice (M. B. Rosenberg [NVC])
+| What law was broken? | What happened during the crime? +
+                         What happened before the crime? |
+                                                           1.) What was the  observable behavior of the perpetrator? +
+                                                           2.) What was the  observable behavior of the victim? +
+| Who broke that rule? | Why did it happen? | 1.) How did the perpetrator feel? +
+                                              2.) What needs was the perpetrator trying to meet? +
+                                              3.) How dit the victim feel? +
+                                              4.) What needs weren't met by the victim? +
+                                              5.) What needs weren't met on the part of the perpetrator?
+| What the punishment will be? | What can we do to repair the harm? | 1.) What can we do to fulfil these needs?
 |===========================
+
+** link:https://slideplayer.com/slide/6835782/[Building Positive Relationships Through Restorative Justice - Joan Packer]
+** link:https://www.youtube.com/watch?v=Ccz55SO4Ah4&feature=youtu.be&t=2221[Howard Zehr - Human Rights Meets Restorative Justice: 37:01-???]
+** Phases of restorative justice by NVC link:...[NVC Creating a life serving system within yourself ???]
+
+== Play
+
+by Peter Gray, author of _Self-Directed Education [SDE]_
+
+Ich kämpfe nicht. Ich übersetze alles in die Sprache des Lebens.
+
+Ich arbeite nicht. Ichspiele. Ich lerne. Ich mache.
+
+Hypothese: Jede Aktivität hat in sich Elemente eines Spiels.
+
+Hypothese: Jede Aktivität ist ein Spiel, solange sie unsere Bedürfnisse erfüllt.
+
+Hypothese: Alles, was ich mache, mache ich, um meine Bedürfnisse zu erfüllen.
+
+* *Don't do anything that isn't play.* link:...[M.B. Rosenberg: ???-???; Joseph Campbell]
+
+** How to make every activity a play? +
+
+*** *It will be play if you're connected to your needs.* link:...[M.B. Rosenberg: ???-???]
+*** Everything I do is play.
+*** I do everything that serves life as if it was play.
+*** I do everything as if it was play. [At least I try :P ]
+
+*What is play?* +
+Play is an activity that has following _[5 - may be more, may be less]_ characteristics:
+
+. It's freely chosen and self-directed.
+
+    * Freedom to change the rules.
+    * Freedom to choose the activity.
+    * Freedom to quit the activity at any time.
+    * Balance between skills and challenge: what you can do and what can be done [Flow]. link:???[Happiness and Its Causes - Mihály Csíkszentmihályi 2014 Living in Flow: ???-???]
+
+. *You are doing it for its own sake.*
+
+    * The activity is autotelic. link:???[Happiness and Its Causes - Mihály Csíkszentmihályi 2014 Living in Flow: ???-???]
+    * You are not doing it for some reward that's outside of the play itself.
+    * Means over the end.
+    * Process over product.
+    * Skill over result.
+    * Intrinsic over extrinsic.
+    * The joy of play is in the doing, not in the end product.
+    * You do the activity do make the next step in the activity. link:???[Happiness and Its Causes - Mihály Csíkszentmihályi 2014 Living in Flow: ???-???]
+    * You do the activity not because of the end result. +
+    You do the activity because you want to do the activity. Because you like how you feel when you do the activity. And you like it so much you want to do it every day. link:???[bromont - Doug Newburg - RPM - Resonance Performance Model: ???-???]
+    * How you feel is more important than what you do. link:???[Cedric Dumont - From Fear to Flow: ???-???]
+    * The act of learning is more important than how well you are learning. link:???[Alfie Kohn: ???-???]
+
+. *Play is always guided by rules.*
+
+    * The rules create the structure. The structure is the rules.
+    * There is no such thing as unstructured play. Play always has a structure. Play is not a random activity. link:???[Rachel Rainbolt - Episode ??? - Peter Gray: ???-???]
+    * The structure is always determined by the players. The players themselves choose which rules they want to follow. link:???[Rachel Rainbolt - Episode ??? - Peter Gray: ???-???]
+    * Consensual rules [M.B. Rosenberg]
+
+. *Play involves elements of imagination.*
+
+    * Play encourages hypothetical thining: "If this was true, what follows from that?" link:???[Rachel Rainbolt - Episode ??? - Peter Gray: ???-???]
+    * *Hypothetical thinking is the highest form of human thinking. _[IQ]_* link:???[Rachel Rainbolt - Episode ??? - Peter Gray: ???-???]
+    * *Observing without evaluating is the highest form of human intelligence. _[EQ]_* link:???[Jiddu Krishnamurti]
+    * That's why we can plan for the future, prepare for tomorrow, invent things. link:???[Rachel Rainbolt - Episode ??? - Peter Gray: ???-???]
+    * None of these abilities can be taught by lecturing, although they are essential life skills. These abilities can only be obtaines through practical experience, through practice. For children is this practical experience, mainly, play. They are preparing themselves for a responsible life. link:???[Rachel Rainbolt - Episode ??? - Peter Gray: ???-???]
+    * Both, hypothetical thinking and observing without evaluating helps me to concentrate on what's alive in me and other people - our feelings and needs. Even if it involved screaming my feelings and needs!
+
+. *Play involves relaxed, highly attentive, but not highly stressed attitude.*
+
+    * Why not highly stressed?
+    ** Because there are no consequences to it.
+    ** You are free to fail.
+    ** You are not going to blame anybody. [There is no need for it.]
+    ** There is no trophy, there is no cake. [The cake is a lie.]
+    ** You are not going to get an F from some teacher.
+    ** You are free to quit.
+    ** You are not concerned about even succeeding. link:???[Happiness and Its Causes - Mihály Csíkszentmihályi 2014 Living in Flow: ???-???]
+
+. *Play always involves challenges.*
+
+    * One of the challenge is: "How much fear can I tolerate?".
+    * You are playing with your own fear.
+    * We develop a sense of our own abilities.
+    * We learn how to manage fear.
+    * *I can feel fear, and I can survive it.*
+        ** This discovery can be very empowering. It makes you less affraid of life. It helps you live your life courageously. Things can happen that are scary and I can deal with them.
+        ** If you are deprived of this kind of risky play that involves deliberately putting yourself into a scary situation, then the first time you feel a real emergency in your life, you might fall apart because you didn't have the opportunity to practice how to deal with fear, how to control your body, how to control your mind, [how to control your own emotions and show yourself empathy,] when you feel fear.
+    * If something serious happens, [or you get stuck,] ask for help.
+    * *To protect children from any possible harm by nnot allowing them adventures or risky play, and never allowing them to get out of our sight and control, is having harmful long-term consequences on children.*
+    * Someone who is willing to take more eisks in the daily life will not only become better and improve, expand the comfort zone, but also more fulfilled, happy and satisfied. link:???[Cedric Dumont - From Fear to Flow: ???-???]
+    * You'll learn how to accept and learn from failure. It leads to sustainable resuslts, more engagement, satisfaction, [instrinsic] motivation. link:???[Cedric Dumont - From Fear to Flow: ???-???]
+    * When you stop taing risks, you stop living a life. link:???[Cedric Dumont - From Fear to Flow: ???-???]
 
 == Quotes
 
-"Can you live with it?" - Miki Kashtan [Maximizing Willingness - 1:02:10-1:02:16]
-
 *The Montessori Method*
 
-* Chapter 15: Intellectual Education
+* Chapter 15: Intellectual Education (librivox)
 
 ** 0:49-1:33
 
-    *** The directress intervenes to lead the child from sensations to ideas, from the concrete to the abstract and to the association of ideas. For this, she uses a method which isolates the inner attention of the child and to focus it upon the perceptions. As in the first lessons, his objective attention was fixed in isolation upon single stimuli. The teacher, in other words, when she gives a lesson limits the field of the child's consciousness to the object of the lesson. As, for example, during the sense education, she isolated the sense which she whished the child to exercise.
+    *** The directress/educator intervenes to lead the child from sensations to ideas, from the concrete to the abstract and to the association of ideas. For this, she uses a method which isolates the inner attention of the child and to focus it upon the perceptions. As in the first lessons, his objective attention was fixed in isolation upon single stimuli. The teacher, in other words, when she gives a lesson limits the field of the child's consciousness to the object of the lesson. As, for example, during the sense education, she isolated the sense which she whished the child to exercise.
+        **** When the teacher gives a lesson, he limits the field of consciousness of the student to a single stimuli - to the object of the lesson - e.g. by exercising only one of the student's senses at a time.
+
+** 1:39-1:53
+
+    *** The educator limits his/her intervention to the greatest possible extent, and at the same time shows care for the other person's well-being by *requesting* the other person to stop the autoeducation when the educator sees that the other person feels tired.
+    **** Intervention: As much as necessary, but as little as possible.
 
 ** 4:56-6:23
 
-    *** But, if he has not done this, that is, if he makes a mistake, she does not correct him, but suspends her lesson to take it up another day. Indeed, why correct him? If the child has not succeeded in associating the name with the object, the only way in which he succeeds would be to repeat both the action of the sense stimuli and the name. In other words, to repeat the lesson. But when the child has failed, we know, that he was not at that moment ready for the psychic association which we wished to provoke in him. Therefore, we choose another moment. If we correct the child by saying "No, you have made a mistake!", all these words, which, being in the form of reprove, would strike him more forcibly and would remain in the mind of the child retarding the learning. On the contrary, the silence which follows the error leaves the field of consciousness clear and the next lesson may successfully follow the first. In fact, by revealing the error we may lead the child to make an undue effort to remember, or we may discourage him. And it is our responsibility to avoid, as much as possible, all unnatural effort, and all the pressure.
+    *** But, if he has not done this, that is, if he makes a mistake, she does not correct him, but suspends her lesson to take it up another day. Indeed, why correct him? If the child has not succeeded in associating the name with the object, the only way in which he succeeds would be to repeat both the action of the sense stimuli and the name. In other words, to repeat the lesson. But when the child has failed, we know, that he was not at that moment ready for the psychic association which we wished to provoke in him. Therefore, we choose another moment. If we correct the child by saying "No, you have made a mistake!", all these words, which, being in the form of reprove, would strike him more forcibly and would remain in the mind of the child retarding the learning. On the contrary, the silence which follows the error leaves the field of consciousness clear and the next lesson may successfully follow the first. In fact, by revealing the error we may lead the child to make an undue effort to remember, or we may discourage him. And it is our responsibility to avoid, as much as possible, all unnatural effort, and all the pressure [depression].
 
 ** 8:08-8:17
 
     *** The teacher carefully watches when and how the child arrives at the generalization of ideas.
 
+** 9:13-9:21
+
+    *** The goal of education is to promote the *spontaneous* development of a human. / Das Ziel der Ausbildung ist, die spontane Entwicklung des Menschen zu unterstützen.
+
 ** 10:50-11:20
 
     *** We can not create observers by saying "Observe!", but by giving them the power and the abilities for these observations. And these abilities are obtained through the education of the senses. Once we have aroused such an activity, auto-education is assured. Refined, well-trained senses, lead us to a closer observation of the environment, and this with its infinite variety attracts the attention and continues the psychosensory education.
 
+** 13:16-13:28
+
+    *** The spontaneous development of the child continues indefinitely and is in direct relation to the psychic potentiality of the child himself and not with the work of the teacher.
+
+** 13:28-13:39
+
+    *** The spontaneous activity starts from the education of the senses, and is maintained by observation.
+
+** 13:29-13:49
+
+    *** The human receives his/her ability, not from the education given by the master, but from special acuteness/sensitivity of his/her senses.
+
+** 13:49-14:03
+
+    *** When somebody is in an environment where he/she can apply his senses in his/her's spontaneous activity, the activity itself gives him/her the pleasure, joy and fulfillment
+
+    **** Develpoment of intrinsic motivation (Alfie Kohn)
+    **** The activity becomes *autotelic* (Mihály Csíkszentmihályi - Flow)
+    **** Process over Product (Rachel Rainbolt, Peter Gray)
+
 * Few parents have the courage and independence to care for the children's happines than about their success.
 [Erich Fromm; Alfie Kohn - Unconditional Parenting: Moving from Rewards and Punishments to Love and Reason: ch. 5 - "Pushed to succeed", p. 75
-; Alfie Kohn at the OFJCC - Performance vs. Learning - The Costs of Overemphasizing Achievement: ???]
+; Alfie Kohn at the OFJCC - Performance vs. Learning - The Costs of Overemphasizing Achievement: ???-???]
 
 * ... because if I persuade you that something ... you're doing with kids is getting in the way, not what I happen to like, but of your own long-term goals for other people then either you have to rethink the practice or you have to rethink the outcome.
 (Alfie Kohn at the OFJCC - Performance vs. Learning - The Costs of Overemphasizing Achievement: 10:45-11:04)
 
-* I found that 4 year olds learn this process much faster than adults. And on much deeper level. ... [Nonviolent communication] is faster [to learn] when people have the purpose of it in mind. ... *The purpose is not to get people to get what you want, but to create the quality of connection that everybody's needs get met [compassionately].* That is a radicaly different story that most of us have been taught. *We have been taught, there is a right and a wrong way to do everything. The authorities know what's right. If you want to make it in this world, you have to do what the authorities say is right.* link:https://www.youtube.com/watch?v=NqJ-0EIsy9U[(Marshall Rosenberg - NVC Workshop 2004 Portland, OR: 1:59:39-2:00:38)]
+* There was less cheating when [the teachers] made it clear that the point was to enjoy the learning, when understanding mattered more than memorizing, and when mistakes were accepted as a natural result of exploration. link:alfiekohn.org/???[Alfie Kohn - Who's Cheating Whom, paragraph 11]
 
 * Leadership is not defined by the exercise of power but by the capacity to increase sense of power among those led. The most essential work of the leader is to create more leaders. link:https://scontent.fbts2-1.fna.fbcdn.net/v/t1.0-9/31781853_10156828091695628_8027792006530990080_n.png?_nc_cat=106&_nc_sid=8024bb&_nc_ohc=sdfVZfeBPpoAX84ENlX&_nc_ht=scontent.fbts2-1.fna&oh=35dff8d3e47555a204245ba9ae13be32&oe=5F25FD09[(Mary Parker Follett)]
 
@@ -686,7 +1005,7 @@ Culturally learned beliefs - Life-harming beliefs:
     ** "Can I ...?" - that's how it starts. Alternative questions: "Will I take <something> / Will I <do an action>? / I want to <...> What do you say?"
     ** When I say someone, e.g. a child, that he can not do something, then I interfere with what is true physically. I not only control the other, but also mess with their understanding of the reality. If I tell the somebody *No, you can not turn on the TV* when in reality I'm saying *I really don't want you to turn on the TV, and if you turn on the TV I will punish you!*
     ** Between the somebody's action and my reaction is my choice.
-    ** We are not sufficiently inner oriented to our own needs and our willingness to decide which consequence to my action am I willing accept. So Nonviolence is to face whatever will be the consequeces of our action so long as they are inline with our needs.
+    ** We are not sufficiently inner oriented to our own needs and our willingness to decide which consequence to my action am I willing to accept. So Nonviolence is to face whatever will be the consequeces of our action so long as they are inline with our needs.
     ** If we are trained to be fearful of our consequeces we're less likely to feel powerful.
     ** Samuel P. Oliner, Pearl M. Oliner - *The Altruistic Personality*
         *** *People who saved Jews, tended to come from nonpunitive households.*
@@ -708,11 +1027,91 @@ Every act of violence somewhere is an attempt to create justice to right a wrong
 
 * There's a moral transformation, transformation of basic political categories which what a revolution really is. But I think in order to go further with this we need to change our basic categories of what labor is. It's just as in the 19th century, the idea of labor theory of value as material production, was incredibly effective, although it turned out to have very real limits which allowed it to be reversed. We need to change our conceptions of labor to one that starts from caring labor. *What society is, is a process of the mutual creation of human beings. So not just the creation of material world, it's a creation of each other.* That's what we're doing. That's what we're doing right now here. Caring, education are the primary things. There is a free education movement right now in Amsterdam and London, there is a huge student movement emerging. I find this very exciting. One of the first things that they're putting in their plank is that *"We've been told that the purpose of education is to improve economy. We want it backwards. The purpose of the economy is to improve education. To give the people the freedom and leisure to understand the world. To learn things."* Our perspectives are totally backwards. *If you take education as part of that broader process of caring, mutual nurture and mutual support that creates the world by which we create each other.* I think that if we begin to look at the world that way, well of course that's the way the most people who ever lived get see the world. Most societies it's just assumed that material production is just one subordinate moment in a broader process by which we create each other - creating people. *Thus factory labor is a form of carying labor if the stuff you're producing in a factory is that people care about, is that people need. But it's sort of second order form. It's things that are useful in what's the really primary business of human life which is our taking care of each other. And I think that if we transform our categories, begin to rethink the world in that and make that common sense, then we'll truly have achieved a revolution.* link:https://www.youtube.com/watch?v=2QUdrdgPI-I&feature=youtu.be&t=1837[(David Graeber: All Economies are Ultimately Human Economies (2015): 30:37-33:23)]
 
-* So, I suggested that instead of production and consumption we substitute care and freedom. Perhaps caregiving and care is really that work we do which maintains and increases other people's freedom of which the paradigm would be *play*. Because play is action done for itself. Because what is caregiving labor? You take care of kids so they can play. link:https://www.youtube.com/watch?v=kikzjTfos0s&feature=youtu.be&t=2958[On Bullsh*t Jobs | David Graeber | RSA Replay: 49:18-49:38]
+* So, I suggested that instead of production and consumption we substitute care and freedom. Perhaps caregiving and care is really that work we do which maintains and increases other people's freedom of which the paradigm would be *play*. Because play is action done for itself. Because what is caregiving labor? You take care of kids so they can play. link:https://www.youtube.com/watch?v=kikzjTfos0s&feature=youtu.be&t=2958[On Bullsh*t Jobs | David Graeber | RSA Replay: 49:18-49:38, link to Peter's Gray - Play ???]
 
-* This is what I love about friends. Good friends agree with my jackal. Actually, that's the most dangerous thing on the planet. If somebody else  agrees with my jackal, now I can believe my jackal to be true. This is in the society how we create jackals. We call it *"sympathy party"*. It's very different than empathy. Sympathy party is to agree with someone else's jackal. ... In that moment it's the most delicious for her. "Oooh! Thank you! Finally somebody agrees that I'm right and he's wrong!". *It's a pleasure for a short term* because then you go back home, pumped up by this sympathy party, you come to the other person, and you say: "You see? There's really something wrong with you!". And then you'll have a bigger fight. link:https://youtu.be/KX_tgRM84RA?t=370[(Nonviolent Communication (NVC): Yoram Mosenzon full workshop: 'Connecting in Conflict': 6:10-8:08)]
+* Practice does not make perfect. Only perfect practice makes perfect. +
+ Übung macht nicht perfekt. Perfekte Übung macht perfekt. +
+ Tréning nerobí majstra. Majstrovský tréning robí majstra. +
+ link:...[(Vince Lombardi - baseball player)]
 
-* link:[(M. B. Rosenberg - Nonviolent Communication Audiobook ~4:43:00-???)]
+* It's not practice that makes perfect... but perfect practice that makes perfect. +
+  Es ist nicht Übung die perfekt macht..., sondern perfekte Übung, die perfekt macht. +
+  Nie je to tréning, ktorý robí majstra..., ale perfektný tréning, ktorý robí majstra. +
+  link:???[(Cal Ripken Sr.)], link:???[(Daniel Markovits - Meritocracy and its Discontents: 48:40-49:30)]
+
+* Our greatest glory is not in never falling, but in rising every time we fall. +
+  Unsere größte Ehre liegt nicht darin, nie zu fallen, sondern darin, dass wir jedes Mal aufstehen, wenn wir fallen. +
+  link:???[Confucius]
+
+* I've learned that people will forget what you said, people will forget what you did, but *people will remember how they felt with you.* +
+  Ich habe gelernt, dass Leute vergessen, was du gesagt hast, Leute vergessen, was du gemacht hast, aber Leute werden sich daran erinnern, wie sie sich bei dir gefühlt haben. +
+  link:???[Maya Angelou]
+
+* This is what I love about friends. Good friends agree with my jackal. Actually, that's the most dangerous thing on the planet. If somebody else  agrees with my jackal, now I can believe my jackal to be true. This is in the society how we create jackals. We call it *"sympathy party"*. It's very different than empathy. Sympathy party is to agree with someone else's jackal. ... In that moment it's the most delicious for her. "Oooh! Thank you! Finally somebody agrees that I'm right and he's wrong!". *It's a pleasure for a short term* because then you go back home, pumped up by this sympathy party, you come to the other person, and you say: "You see? There's really something wrong with you!". *And then you'll have a bigger fight.* link:https://youtu.be/KX_tgRM84RA?t=370[(Nonviolent Communication (NVC): Yoram Mosenzon full workshop: 'Connecting in Conflict': 6:10-8:08)]
+
+* Out beyond the ideas of right and wrong there is a field. I'll meet you there. / We'll meet us there. +
+  Jenseits den Ideen von richtig und falsch gibt es einen Platz. Ich treffe dich da. / Wir treffen uns da. +
+  Za hranicou dobrých a zlých myšlienok je miesto. Tam ťa stretnem. / Tam sa stretneme. +
+  link:???[Rumi - poet]
+
+* If you need to do something, you can do it badly. +
+  Wenn du etwas tun brauchst, kannst du das schlecht tun. +
+  Keď niečo potrebuješ urobiť, môžeš to urobiť zle. +
+  link:???[Gilbert Keith Chesteron]
+
+* Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away. +
+  Perfektion wird nicht erreicht, wenn es nicht mehr dazuzugeben gibt, sondern wenn es nicht mehr etwas wegzunehmen gibt.
+  link:???[Antoine de Saint-Exupéry]
+
+* Pane, ty sa postaraj. Dôverujem Ti. (Otec Ľuboš ???)
+
+* Minimalism doesn't mean to have as little things as possible, but to have such amount of particular kind of things that one necessarily needs and are important for him/her. +
+  Minimalismus bedeutet nicht so wenig Sachen wie möglich haben, sondern so viel solchen Sachen haben, die er/sie notwendig braucht, und sind wichtig für ihn/sie. +
+  Minimalizmus neznamená mať čo najmenej vecí, ale mať iba toľko takých vecí, ktoré nevyhnutne potrebuje a zaleží mu/jej na nich. (me)
+
+* At shopping as yourself: "Will this thing bring value to my life?" [What needs will this thing fulfil in my life?] +
+  Beim Einkaufen frage dich: "Wird dieses Ding Wert in mein Leben bringen?" [Welche Bedürfnisse erfüllt dieses Ding in meinem Leben?] +
+  Pri nakupovani sa pytaj: "Prinesie toto hodnotu do mojho zivota?" [Aké potreby naplní táto vec v mojom živote?] +
+  link:???[The Minimalists - Youtube Podcast]
+
+* Pravidlo 20/20 - ak neplanujem pouzivat nejaku vec viac ako 20 minut alebo nebude stat viac ako 20 Eur, mozno by bolo lepsie, pozicat si ju. +
+  link:???[The Minimalists - Youtube Podcast]
+
+* Pravidlo 90/90 - pouzil som danu vec pred 90 dnami? budem danu vec potrebovat nasledujucich 90 dni? ak nie, bolo by lepsie sa jej zbavit. najprv odlozit _nepotrebnu_ vec bokom na chvilu (par dni, tyzdnov, mesiacov). Pokial ju nebudem potrebovat pocas toho ako bude odlozena, zbavim sa jej.
+
+* The world is shaped by people who believe and trust the future and their past experiences, abilities and intuition. The more you can trust the future, the more you can engage in the present moment. And vice versa. link:???[Cedric Dumont - From Fear to Flow: 13:19-???]
+
+* Educated risk-takers enjoy to study things on their own. We know the consequences. We know there is something at stake. Everything is prepared. Preparation plays a vital role. link:???[Cedric Dumont - From Fear to Flow: ???-???]
+
+* If the risk is bigger that the satisfaction, don't do it. +
+  If the satisfaction is bigger than the risk, do it. +
+  link:???[Cedric Dumont - From Fear to Flow: ???-???]
+
+* *Emotions -> Actions -> Habits -> Life -> Destiny* +
+  The more more positive the emotions are, the more chances that the rest will follow. Fear is a necessity in a high rist environment. It reinds you that you're onto something important with high consequences. +
+  link:???[Cedric Dumont - From Fear to Flow: ???-???]
+
+* Staying in touch with your own mortality helps you to make decisions that are meaningful to you. link:???[Cedric Dumont - From Fear to Flow: ???-???]
+
+* Ich kämpfe nicht. Ich *übersetze* alles in gewaltfreie Kommunikation. In die Sprache des Lebens. In die Sprache der Beobachtungen, Gefühle, Bedürfnisse und Bitten. I do it for me. link:???[(M.B. Rosenberg)], link:???[Some Palestinian event video], (me)
+
+* Let's find another way of meeting your needs that will be more effective and less costly. [M.B. Rosenberg]
+
+* Everything everybody does at every moment, does it to fullfil his or her needs. [M.B. Rosenberg]
+
+* Ich mache nichts falsch. Ich mache keine Fehler. Giraffen machen keine Fehler. Giraffen machen nur Sachen, die ihre Bedürfnisse erfüllen. Wir machen keine Fehler. Wir machen nur Sachen, die wir nicht gemacht hätten, wenn wir damals gewusst hätten, was wir seitdem gelernt haben. Das bedeutet nicht, dass wir perfekt sind. Das Ziel des Lebens ist nicht perfekt zu sein. Das Ziel des Lebens ist, fortschreitend weniger dumm zu sein. Das Ziel des Lebens ist zu feiern, wenn unsere Bedürfnisse erfüllt werden, und trauern, wenn nicht. [M.B. Rosenberg]
+
+* Empathy vs Forgiveness; If we try to forgive before we've got enough empathy, the forgiveness creates even more pain. Verzeihung bedeutet, dass ich etwas falsch gemacht habe. Niemand macht etwas schlecht oder falsch. Wir alle handeln in jedem Augenblick, um unsere Bedürfnisse zu erfüllen. link:???[M.B. Rosenberg - maybe Creating Life Serving System Withing Ourselves???]
+
+* Alle Bedürfnisse sind wichtig. Ihre Wichtigkeit ändert sich mit der Zeit,  Umständen und Präferenzen. [ich]
+
+* A *need* is a manifestation of life, of divine energy within us. All human beings have the same needs. A *value* is a need with a particular level of importance. The importance of a need changes with time, circumstances and preferences.
+
+* Being alive means to be connected to your feelings and needs. Whenever you feel angry, guilty, ashamed or depressed *take your time* to bring yourself to life [to reconnect with your feelings and needs]. link:...[M.B. Rosenberg Workshop Making Life Wonderful 1/4 55:12-???, M.B. Rosenberg - Take your time]
+
+* I found that 4 year olds learn this [NVC] process much faster than adults. And on much deeper level. ... [Nonviolent communication] is faster [to learn] when people have the purpose of it in mind. ... *The purpose is not to get people to do what you want, but to create the quality of connection that everybody's needs get met [compassionately].* That is a radicaly different story that most of us have been taught. *We have been taught, there is a right and a wrong way to do everything. The authorities know what's right. If you want to make it in this world, you have to do what the authorities say is right.* link:https://www.youtube.com/watch?v=NqJ-0EIsy9U[(Marshall Rosenberg - NVC Workshop 2004 Portland, OR: 1:59:39-2:00:38)]
+
+* link:...[(M. B. Rosenberg - Nonviolent Communication Audiobook ~4:43:00-???)]
 
 * Request vs Demand [(M. B. Rosenberg San Francisco Workshop 1:16:19-1:19:46)]
 
@@ -722,22 +1121,197 @@ Every act of violence somewhere is an attempt to create justice to right a wrong
 
 * Criticism = Pain + Unmet Need link:...[(M. B. Rosenberg San Francisco Workshop ~1:34:00-1:42:29, M .B. Rosenberg Resolvng Conflicts with Children ???-???)]
 
-* hear the yes behind the no
+* Hear the yes behind the no. "No" is a "yes" to other needs. Hear the feelings and needs behind the "no". "No" is a tragic expression of a "yes". Say the need! link:...[(M.B. Rosenberg - San Francisco Workshop ???-???)]
 
-* please! please!! please!!! link:...[Marshall Rosenberg Making Life Wonderful cca 1:13:00-1:25:00]
+* Enjoy my pain, Caressing the Jackal [NVC Rosenberg, Mosenzon]
+
+* please! please!! please!!! link:youtube KdFc2B-tZLc[Marshall Rosenberg - Making Life Wonderful 2_4 - Nonviolent Communication NVC: cca 1:13:00-1:25:00]
 
 * Eye for an eye and the world goes blind link:...[ghandi], link:...[detroit become human]
 
 * the importance of present request link:...[Marshall Rosenberg Making Life Wonderful cca 1:31:36-1:33:35]
 
-* ... because *all human beings have the same needs.*
+* ... because *all human beings have the same needs.* link:...[(Film 02 SELF EMPATHY Session 1 - M. B. Rosenberg)]
+
+* Take your time to come fro man energy you choose to come from, not from an energy I've been programmed to come from.
 
 * Quotes link:https://www.youtube.com/watch?v=RDkh1al3P9k&feature=youtu.be&t=2487[Speaking Peace - M.B.Rosenberg]
 
 * ??? link:...[(M. B. Rosenberg San Francisco Workshop ~2:26:00-???)]
 
-* No human being is good, but all are sacred. link:https://www.youtube.com/watch?v=LdOFhyKACxE[Dr. James Gilligan - On How All Human Beings Are Sacred]
+* No human being is good [no human being is bad - judging is too easy], but all are sacred. link:https://www.youtube.com/watch?v=LdOFhyKACxE[Dr. James Gilligan - On How All Human Beings Are Sacred]
 
 * https://www.youtube.com/watch?v=bH9t1lAX2UQ Training Session # 2 Marshall Rosenberg CNVC org - 49:20-49:42
 
-* https://www.youtube.com/watch?v=bH9t1lAX2UQ Training Session # 2 Marshall Rosenberg CNVC org - 58:10-1:07:00
+* https://www.youtube.com/watch?v=bH9t1lAX2UQ Training Session # 2 Marshall Rosenberg CNVC org - 58:10-1:07:16
+
+* Never give them the power to submit or rebel link:...[(Training Session # 2 Marshall Rosenberg CNVC org - 58:10-???, M.B. Rosenberg - resolving conflicts with children, NVC San Fran workshop)]
+
+* The behavior of somebody else is never the cause of our feelings. The behavior of somebody else is only the *stimulus* for our feelings. The cause of our feelings is our *thoughts* stimulated by the behavior and our *unmet needs* behind our thoughts. ... If we're trying to convince ourselves or somebody else that their behavior is the cause for our feelings, then we're are trying to use *guilt* and *shame* to change the behavior of the other person. Guilt means that the other person is responsible for our feelings. This is not possible because we cannot be responsible for something else outside of ourselves. We are only responsible for our intentions, thoughts, words and actions. The other person is not responsible for my feelings, but it's responsible for his or her intentions, thoughts, words and actions. I'm responsible for how I respond to the response of the other person, and for what ear do I have on, giraffe or jackal, when I'm reacting to their response. Shame on the other hand means that the other person is _bad_ for what they're doing and _deserving_ punishment. By Dr. James Gilligan, shame and ebarassement without nonviolent stimulation is the most reliable predictor of future violence and recidivism. Shame increases violence. Punishment increases shame. Therefore, punishment causes higher rates of violence and recidivism. link:...[(M.B. Rosenberg, James Gilligan, Miki Kashtan)]
+
+* Sometimes I do things that i wouldn't have done if I knew then what I've since learned. +
+  Manchmal tue ich Dinge, die ich nicht getan hätte, wenn ich damals gewusst hätte, was ich seitdem gelernt habe. +
+  Niekedy robím veci, ktoré by som nebol urobil, keby som vtedy vedel, čo som sa odvtedy naučil. +
+  link:???[(M.B. Rosenberg - Fehler)], link:???[(M.B. Rosenberg one of the vimeo videos / corona series)]
+
+* Pokoj napĺňa každú bunku môjho tela. Moja myseľ sa sústredí a moje telo dýcha uvoľnením. +
+  Die Ruhe füllt jede Zelle meines Körpers. Mein Geist konzentriert sich und mein Körper atmet die Entspannung. +
+  The calmness fills every cell of my body. My mind concentrates and my body breaths the relaxation. +
+  (me)
+
+* *Rückmeldung bei unerfüllten Bedürfnissen: Kritik / Bitte:* +
+  *Beobachtung* [ein Satz] -> *Gefühle* [ein Satz] -> *Bedürfnisse* [nächster Satz] -> *Bitte* [der letzte Satz] +
+  oder +
+  *Gefühl* -> *Bitte* +
+  oder, wenn ich unter Zeitdruck bin: +
+  *Bitte* -> *Bedürfnisse* -> *Gefühle* -> *Beobachtung*
+
+* *Rückmeldung bei erfüllten Bedürfnissen: Dankbarkeit:* +
+  *Beobachtung* -> *Gefühle* -> *Bedürfnisse*
+
+* *Stimulus / Anreiz* +
+  Beobachtung / observation +
+  Erlebnis / experience +
+  Erinnerung / memory +
+  ↓ +
+  *Reaktion (innere Stimme, innerer Lehrer / inner voice, inner educator): +
+  Grund, Ursache / reason, cause* +
+  Gedanke (kann auch blitzschnell sein) / though (can also be very quick) +
+  Thoughts that are *disconnected from needs* and *violence provocative* + [M.B. Rosenberg - Film 02 SELF EMPATHY Session 1: 1:43:00]
+  ↓ +
+  *Reaktion (innere Stimme, innerer Lehrer / inner voice, inner educator): +
+  Gefühl / feeling* +
+  Wahrnehmungen im Körper / sensations in the body +
+  ↓ +
+  *Reaktion (innere Stimme, innerer Lehrer / inner voice, inner educator): +
+  Wurzel / root* +
+  erfüllte/unerfüllte Bedürfnisse (wenn wir mit den Bedürfnissen verbunden sind) +
+  Urteil, Analyse, Diagnose, Interpretation (wenn wir von den Bedürfnissen getrennt sind und mit einfühlungsblockierender Kommunikation verbunden sind)
+
+* Observing without evaluating is the highest form of human intelligence. +
+  Beobachten ohne zu bewerten ist die höchste Form der menschlichen Intelligenz. +
+  Pozorovanie bez posudzovania je najvyššou formou ľudskej inteligencie. +
+  link:???[Jiddu Krishnamurti]
+
+* When you're tense, you can't feel it. And when you can't feel it, you can't recreate it. [Relaxed attitude helps me to experience my dream feelings again.] link:???[Doug Newburg - RPM Researchgate link ???]
+
+== Warum will ich programmieren?
+
+* Lebo potrebujem prostredie, v ktorom sa budem cítiť v bezpečí.
+* Lebo potrebujem prostredie, v ktorom môžem rásť.
+* Lebo potrebujem tvorivé prostredie.
+* Lebo je to práca, pri ktorej môžem tvoriť.
+* Lebo programovania som sa bál.
+* Lebo sa bojím programovania.
+* Lebo pri programovaní sa cítim ponorený.
+* Lebo sa chcem naučiť improvizovať.
+* Lebo si chcem zlepšiť hypotetické myslenie.
+* Lebo chcem rozvíjať svoju fantáziu.
+* Lebo sa chcem naučiť samostatne programovať.
+* Lebo chcem pracovať cez deň.
+* Lebo chcem žiť svoj sen.
+* Lebo chcem mať okolo seba ľudí, od ktorých sa môžem niečo naučiť.
+* Lebo chcem mať prácu, ktorá mi umožní učiť sa stále niečo nové.
+* Lebo chcem mať prácu, ktorá mi dáva zmysel.
+* Lebo chcem každý deň dávať zo seba to najlepšie.
+* Lebo chcem mať prácu, ktorá pomáha ostatným.
+* Lebo chcem byť samostatný.
+* Lebo chcem mať moc.
+* Lebo chcem mať moc tvoriť veci.
+* Lebo chcem mať moc samostatne tvoriť veci.
+
+== Pilates + Yoga
+
+???
+
+== Programming
+
+???
+
+== Notes
+
+Emotional intelligence, empathy and the idea of communism look to me very similar +
+*Emotional inteligence:* The ability to recognize and manage one's own emotions and emotions of other people. link:https://www.skillsyouneed.com/general/emotional-intelligence.html[EI - Source] +
+*Empathy:* Awareness of the feelings and needs in myself and other people and being able to see things from the point of view of others. link:https://www.skillsyouneed.com/general/emotional-intelligence.html[Empathy - Source] +
+*Communism:* From each according to their abilities to each according to their needs. link:https://en.wikipedia.org/wiki/From_each_according_to_his_ability,_to_each_according_to_his_needs#:~:text=%22From%20each%20according%20to%20his,of%20goods%2C%20capital%20and%20services.[Idea of communism - Source]
+
+---
+
+*Paradox*: I'm ashamed when I speak to a girl, that I'm not good enough for her, and she's ashamed as well because she thinks she doesn't deserve love and is ashamed of her beauty.
+
+---
+
+stav horiacej zúrivosti ???
+
+---
+
+Čo je to _svedomie_ / Gewissen / [kenne nicht den Englischen Äquivalent :P ] ???
+
+---
+
+Čo si len ja počnem, +
+čo si len ja počať mám, +
+jablkový rezeň si ja na obed dám. +
+Juchuuu!
+
+---
+
+_Sonntag 9.8.2020_ +
+*Sladký život*
+
+Budeme sa hladkať, škrabkať, +
+objímať a bozkávať. +
+Budeme si hryzkať do uška +
+a šepkať sladké nezmysly. +
+
+Škrabkať sa vo vlasoch, +
+štekliť sa po nohách, +
+túliť sa pod perinou +
+v bezpečí, dôvere a radosti. +
+
+Ochutnám tvoje sladké pery, +
+stisnem tvoj mäkký zadoček, +
+nadýchnem sa tvojich vlasov, +
+nežne ťa pohryzkám na krk +
+a budem ťa škrabkať svojimi fúzami, +
+ktoré si už šiesty týždeň pestujem.
+
+Položím svoju hlavu na tvoju hruď, +
+a budem počúvať tlkot tvojho srdca +
+vo vzrušujúcom očakávaní.
+
+Stisneme si naše hrude +
+v horúcom objatí, +
+a budme tancovať +
+ako zemiačiky +
+vo vriacej vode +
+pôžitku a vášne.
+
+Unavíme sa +
+budeme spotení a smrdieť. +
+Potom zaspíme. +
+Budeme slintať do vankúša, +
+prdieť do periny, +
+hádzať rukami a nohami, +
+chrápať a škrípať zubami, +
+keď budeme v hlbokom spánku. +
+
+Bude sa nám snívať +
+o jednorožcoch, +
+v ružovom vesmíre, ktorí +
+skáču po obláčikoch, +
+grcajú dúhu, +
+a prdia motýle. +
+
+Jesť +
+eko, bio, racio, +
+raw, vegan, organic +
+bezlaktózové a bezlepkové +
+potraviny z dovozu. +
+Budeme grgať po každom jedle. +
+Ach, tá úľava.
+
+Zostarneme mladí, +
+a pôjdeme na predčasný dôchodok. +
+
+Ej! A budeme mať popiči život :D Bardzo zajebisty!
