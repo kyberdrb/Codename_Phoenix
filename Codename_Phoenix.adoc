@@ -1440,6 +1440,14 @@ link:???[Jiddu Krishnamurti]
   Wurzel / root* +
   erfüllte/unerfüllte Bedürfnisse (wenn wir mit den Bedürfnissen verbunden sind) +
   Urteil, Analyse, Diagnose, Interpretation (wenn wir von den Bedürfnissen getrennt sind und mit einfühlungsblockierender Kommunikation verbunden sind)
+  
+== Fundamental Attribution Error
+
+Who's Cheating Whom - Alfie Kohn
+
+Daniel Markovits - The Meritocracy Trap
+
+???
 
 == Warum will ich programmieren?
 
@@ -1472,13 +1480,51 @@ link:???[Jiddu Krishnamurti]
 
 == Pilates + Yoga
 
-???
-
-== Fundamental Attribution Error
-
-Who's Cheating Whom - Alfie Kohn
+Active Clinic
 
 ???
+
+== Food
+
+* Polysacharides
+** Millet/Hirse
+** Spelt/Dinkel
+** Buckwheat/Buchweizen
+
+* Calcium
+** Poppy seeds
+** Sesame seeds
+
+* Mineral waters with calcium
+** Gemerka
+** Baldovská
+** Kláštorná
+
+* Oils
+** Rapeseed oil + mineral water with calcium
+** Sunflower oil + mineral water with calcium
+** Poppy seeds
+** Sesame seeds
+
+* Probiotics
+** 5 stems, 50-60B: Custom Probiotic CP-1 Adult Formula
+** 11 stems, 11B: Advance Probio24
+** *Saccharomyces boulardii:* ExHelico / Yomogi (lactose) / Enterol (lactose)
+** Probio-fix inum / Probio-fix (lactose) / Probio-fix ATB assist
+** link:https://www.adc.sk/databazy/produkty/pil/uro-vaxom-243674.html[URO-VAXOM] (link:https://www.adc.sk/databazy/humanne-lieky/ucinna-latka/lyzat-escherichia-coli-6364.html[an alternative to Mutaflor]; only with prescription) / Hylak Forte
+
+* Food supplements
+
+** Dietary fiber
+*** link:https://www.lekaren-bella.sk/zbozi/3634053/#letak[Prebiolax] / Vemica Psyllium PROBIO PLUS / Vemica Inulín PROBIO PLUS
+** link:https://www.adc.sk/clanky/spravna-dispenzacia-digestiva-145.html[Digestion enzymes]
+*** Pankreolan forte / Pangrol 20 000 (lactose)
+
+** link:https://www.adc.sk/clanky/spravna-dispenzacia-systemova-enzymova-terapia-63.html[Enzymes]
+*** ProfiZYM Plus / link:shorturl.at/kqvwD[H-Protect Enzyme] / EnzyMAX V
+
+** Blood donation
+*** link:https://www.adc.sk/databazy/produkty/detail/salus-floradix-zelezo-754866.html[SALUS Floradix Železo]
 
 == Notes
 
