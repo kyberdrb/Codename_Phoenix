@@ -316,8 +316,6 @@ The needs is *the only reason*, why I'm feeling the way I feeling.
 * accuracy / Genauigkeit / presnosť
 * precision / Präzision / precíznosť
 * privacy / Privatsphäre / súkromie
-* responsibility / Verantwortung / zodpovednosť
-* order / Ordnung / poriadok
 * simplicity /Einfachheit / jednoduchosť
 * punctuality / Pünklichkeit / dochvíľnosť
 * trustworthiness / Glaubwürdigkeit / dôveryhodnosť
@@ -339,11 +337,15 @@ The needs is *the only reason*, why I'm feeling the way I feeling.
 * tradition / Tradition / tradícia
 * habit / Gewohnheit / zvyk
 * courage / Mut / odvaha
+* responsibility / Verantwortung / zodpovednosť
+* order / Ordnung / poriadok
+* consentual rurles / gemeinsam bestimmte Regeln / spoločne stanovené pravidlá
+* [line-through]#rules / Regeln / pravidlá#
 * [line-through]#power / Macht / moc# link:...[Ökonomische Pseudowerte: https://www.youtube.com/watch?v=7mRe1ntgbj8&feature=youtu.be&t=1260]
 * [line-through]#money / Geld / peniaze#
 * [line-through]#success / Erfolg / úspech#
 * [line-through]#[social] status / [soziales] Status / [spoločenský] status,  stav, postavenie#
-* [line-through]#popularity, to be liked by other people / Popularität, unter Leuten beliebt zu sein / popularita, byť oblúbený medzi ľuďmi#
+* [line-through]#popularity (to be liked by other people) / Popularität (unter Leuten beliebt zu sein) / popularita (byť oblúbený medzi ľuďmi)#
 * [line-through]#individualism / Individualismus / individualizmus#
 * [line-through]#ownership (to have and to have more) / Eigentum / vlastníctvo#
 
@@ -686,7 +688,7 @@ spreche, mit jemandem spreche, schreibe, zuhöre, mich dusche, mich mit kaltem W
 - Efficiency vs Sufficiency and Well-being - link:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3357638/#Sec4title[Manfred Max-Neef - The World on a Collision Course and the Need for a New Economy: Chapter "Crisis of Crises"]
 - School vs Education - Peter Gray
 - Education vs Indoctrination - link:https://www.youtube.com/watch?v=5EURJI9x9Qs&feature=youtu.be&t=771[(Manfred Max-Neef, Father of "Barefoot Economics" - Keynote at Zermatt Summit 2012: 12:51-13:41)], Peter Gray
-- Rule and Dogma - M. B. Rosenberg [Consentual rules: Resolving conflicts with children workshop], link:https://www.youtube.com/watch?v=5EURJI9x9Qs&feature=youtu.be&t=771[(Manfred Max-Neef, Father of "Barefoot Economics" - Keynote at Zermatt Summit 2012: 12:51-13:41)]
+- Consentual Rule and Dogma - M. B. Rosenberg [Consentual rules: Resolving conflicts with children workshop], link:https://www.youtube.com/watch?v=5EURJI9x9Qs&feature=youtu.be&t=771[(Manfred Max-Neef, Father of "Barefoot Economics" - Keynote at Zermatt Summit 2012: 12:51-13:41)]
 - Interdependency vs Codependency - Alfie Kohn
 - Process vs Product - Rachel Rainbolt - episode with peter gray, Peter Gray - Play
 - Empathy vs Sympathy - link:...[M. B. Rosenberg], link:https://youtu.be/KX_tgRM84RA?t=370[(Nonviolent Communication (NVC): Yoram Mosenzon full workshop: 'Connecting in Conflict': 6:10-8:08)]
@@ -1200,15 +1202,28 @@ and pursues with redemptive violence and without ethical or legal restraints goa
     **** The activity becomes *autotelic* (Mihály Csíkszentmihályi - Flow)
     **** Process over Product (Rachel Rainbolt, Peter Gray)
 
-* Montessor imanaged to ignite an explosion of ideas in children. Montessori method was starting to get more popularity and attention. Legislators, teachers, parents and doctors soon started to use this method in their practice. In 1909 she published a book _Il metodo della pedagogia scientifica applicato all'educazione infantile nelle case dei bambini_ which was in English version published as _The Montessori Method_. The book was translated into multiple languages and spread across the world. link:https://www.kpbs.org/news/2014/jul/16/extraordinary-women-maria-montessori/[Image: Popularity of Montessori method in the world in ~1912]. Almost the entire world wanted to use Montessori method. *Maria started a revolution in education*. ??? Benito Mussolini was also impressed ... by the discipline of the students educated by Montessori method. He wanted to build a new efficient and industrial country. Mussolini supported Montessori and her's education. ... Mussolini and Montessori cooperated, but neither of them were happy with it. *The trouble was that Montessori believed that children learn best as  [responsible,] independent, free thinkers.* But free thinking was not something that Il Duce was intrested in. *Mussolini's aim was to create a nation of [obedient,] disciplined and loyal fascist.* The idea of Montessori education was educating people to think for themselves, and act for themselves, and was *scientific* rather than political. ... *"The goal [of education of Mussolini and fascism] is total indoctrination. From childhood to the soldiers grade. Fascism shapes young minds with Italy's destiny and the beauty of war."* In 1931 Mussolini announced that all schools must conform to fascism. Maria refused outright. Maria Montessori and her partner left in a hurry. In 1931 she lef her homeland never to live there again. *Within months Mussolini closed all Montessori schools in Italy.* ... Maria Montessori met with Ghandi in London. They had a great connection. Ghandi supported her philosophy: the element of community, an education that can work with all children in all cultures. *Hitler closed down all Montessori schools in Germany. In Berlin, all Montessori books were thrown on burning piles.* [Mussolini and Hitler [and fascist] didn't like citizens that ask "Why?" and complain about regulations] link:https://www.youtube.com/watch?time_continue=7&v=TXqeTYHn0p4&feature=emb_logo[Maria Montessori: 26:58-38:47], link:???[Episode_143-Maria_Montessori-thehistorychicks: 1:24:01-1:40:38]
-
-* The world piece can only be achieved by the education of the children. link:https://www.youtube.com/watch?time_continue=7&v=TXqeTYHn0p4&feature=emb_logo[Maria Montessori: 43:19-43:28]
-
-* But in the absence of Maria Montessori, much of her work had been forgotten. link:https://www.youtube.com/watch?v=TXqeTYHn0p4&feature=youtu.be&t=2638[Maria Montessori: 43:58-44:04]
-
-* In 1945 Maria Montessori started to revive and reestablish her education in preschools and schools in Europe. Many of the creative people benefitted from early Montessori education. *The life should be challenging, and the challenge should be fun. [Larry Page & Sergey Brin - Founders of Google - both educated in Montessori method]* link:https://youtu.be/TXqeTYHn0p4?t=2647[Maria Montessori: 44:07-46:00]
-
-* Don't look at me. Look at the way I'm pointing. link:https://youtu.be/TXqeTYHn0p4?t=2647[Maria Montessori: 47:21-47:40]
+* Montessori put her theories into practice in *Casa dei Bambini* in San Lorenzo, 1907. +
+Until that time people had thought of children as empty vessels or cups which had to be filled with knowledge. Knowledge was simply poured into them. All he children had to do was to sit still and take it in. Maria Montessori observed that children learned in a very different way. That they spontaneously reached out for knowledge, that they explored they created. Looking at very young children we can see the spontaneity. And in fact, a lot of what was happening in schools was preventing that and stopping children [from being spontaneous]. +
+She believed that, if given the opportunity, children would rather focus their attention on work than idleness. +
+Montessori discovered so many years ago what modern research is confirming today: that children learn best from their own activity. They learn best when they're active and exploring. And she found a way to make this possible. +
+It was a scientific experiment. What she observed in a San Lorenzo project became the basis of Montessori education. She created a new environment. One completely diffrent from mainstream schools in Italy. +
+All inovation in Montessori education didn't come about necessarily because Montessori said "We have to do that!". She saw "Well, this is something that I observed children do, and I'm curious how this will affect their experience." And then she applied the science to it. +
+As she watched the children engaging with the new materials, she observed that this formally naughty children thrived on learning. They would work for the sake of working and would become completely engaged in their task. +
+One child of 4 became so engrosed in her work that when Maria had the other children dance around, and make as much noise and fuss as possible, the girl never deviated from her task. Maria then lifted her from her seat, but the girl just continued working. [Is this a demonstration of *Flow* by Mihály Csíkszentmihályi?] +
+Maria also observed that children had an innate love for order. +
+The parents often say "Oh, my child doesn't like to tidy up at all." But actually they enjoy doing it, they like the idea of putting something back in order so that it's ready for someone else to use. And at the end of the day you'll often find children on their own deciding around the children's house rolling up matts, making things straight on the shelf. It's a sense of caring for a space, caring for the community. [Is this a demonstration of *The Altruistic Personality* from Samuel and Pearl Oliner?] +
+She thought them simple acts of cleanliness, like how to blow their nose. No one had ever told them how to to this before. Montessori understood that children have a sense of personal dignity often not recognized by adults. Neither they require rewards or punishments. The acts they were engaged in were rewarding enough. But the most surprising and remarkable of all her observations was when these children without her orchestrating it taught themselves to read. She had introduced some paper letters mounted on wood as a multisensory tool. The children could trace them with their fingers, feelilng the shape and learning the sound of the letter. She gave them no other instructions. +
+The children began put together sounds of words they knew. When they heard a word they didn't know, they could decompose it to letters by sound and write it down. *Montessori managed to ignite an explosion of ideas in children.* +
+The *Casa dei Bambini* was an enormous success. Montessori method was starting to get more popularity and attention. Legislators, teachers, parents and doctors [were impressed by the results of this method and] soon started to use this method in their practice. In 1909 she published her book *Il metodo della pedagogia scientifica applicato all'educazione infantile nelle case dei bambini*. In 1912 this book was translated to English and published with the title *The Montessori Method*. The book was translated into multiple languages and spread across the world. link:https://www.kpbs.org/news/2014/jul/16/extraordinary-women-maria-montessori/[Image: Popularity of Montessori method in the world in ~1912]. *Almost the entire world wanted to use Montessori method.* Even the academia. Maria started a revolution in education. link:https://youtu.be/TXqeTYHn0p4?t=1282[(Maria Montessori: 21:22-28:03)] +
+By 1913 were in USA almost 100 Montessori schools. +
+Then in 1914 war broke out across the Europe. +
+To Maria, the appaling devastation convinced her that *there should be a connection between education and pacifism*. "Now comes the time for our work. We are working for peace and humanity midst the inhumanity of war. Our eyes are turned to a little child where lies the future and the hope of our world." +
+In France and Belgium Montessori schools were set up for the orphans of the conflict. +
+After the first world war, Maria Montessori returned to Italy, only to walk into the path of the world's most ambitious man. *Benito Mussolini* was impressed ... by the discipline of the students educated by Montessori method. He wanted to build a new efficient and industrial country. Mussolini supported Montessori and her's education. ... Mussolini and Montessori cooperated, but neither of them were happy with it. *The trouble was that Montessori believed that children learn best as  [responsible,] independent, free thinkers.* But free thinking was not something that Il Duce was intrested in. *Mussolini's aim was to create a nation of [obedient,] disciplined and loyal fascist.* The idea of Montessori education was educating people to think for themselves, and act for themselves, and was *scientific* rather than political. ... *"The goal [of education of Mussolini and fascism] is total indoctrination. From childhood to the soldiers grade. Fascism shapes young minds with Italy's destiny and the beauty of war."* In 1931 Mussolini announced that all schools must conform to fascism. Maria refused outright. Maria Montessori and her partner left in a hurry. In 1931 she lef her homeland never to live there again. *Within months Mussolini closed all Montessori schools in Italy.* ... Maria Montessori met with Ghandi in London. They had a great connection. Ghandi supported her philosophy: the element of community, an education that can work with all children in all cultures. *Hitler closed down all Montessori schools in Germany. In Berlin, all Montessori books were thrown on burning piles.* [Mussolini and Hitler (and fascist) didn't like citizens that ask "Why?" and complain about regulations] link:https://www.youtube.com/watch?v=TXqeTYHn0p4&feature=youtu.be&t=1785[Maria Montessori: 29:45-38:47], link:???[Episode_143-Maria_Montessori-thehistorychicks: 1:24:01-1:40:38] +
+The world piece can only be achieved by the education of the children. link:https://www.youtube.com/watch?time_continue=7&v=TXqeTYHn0p4&feature=emb_logo[Maria Montessori: 43:19-43:28] +
+But in the absence of Maria Montessori, much of her work had been forgotten. link:https://www.youtube.com/watch?v=TXqeTYHn0p4&feature=youtu.be&t=2638[Maria Montessori: 43:58-44:04] +
+In 1945 Maria Montessori started to revive and reestablish her education in preschools and schools in Europe. Many of the creative people benefitted from early Montessori education. *The life should be challenging, and the challenge should be fun. [Larry Page & Sergey Brin - Founders of Google - both educated in Montessori method]* link:https://youtu.be/TXqeTYHn0p4?t=2647[Maria Montessori: 44:07-46:00] +
+Don't look at me. Look at the way I'm pointing. link:https://youtu.be/TXqeTYHn0p4?t=2647[Maria Montessori: 47:21-47:40]
 
 * Maria Montessori didn't see any virtue in obeying. link:???[Episode_143-Maria_Montessori-thehistorychicks: 1:35:48-1:35:53]
 
@@ -1486,10 +1501,14 @@ Active Clinic
 
 == Food
 
-* Polysacharides
+* Slow sugars
 ** Millet/Hirse
 ** Spelt/Dinkel
 ** Buckwheat/Buchweizen
+
+* Quick sugars
+** Honey
+** Jams (prefferably home made)
 
 * Calcium
 ** Poppy seeds
@@ -1525,6 +1544,20 @@ Active Clinic
 
 ** Blood donation
 *** link:https://www.adc.sk/databazy/produkty/detail/salus-floradix-zelezo-754866.html[SALUS Floradix Železo]
+
+== Hygiene
+
+* Body
+** link:https://www.rosemont.sk/mydla/az-na-kozu-mydlo-musk-2366.html?search_query=az+na+kozu&results=40[MuSK]
+** link:https://www.rosemont.sk/mydla/olivove-jemne-mydlo-ponio-1261.html[Ponio] / link:https://www.rosemont.sk/mydla/bambucke-jemne-mydlo-ponio-1257.html[Ponio]
+
+* Teeth
+** Curaprox 5460
+** ApaCare Remineralisierende Zahncreme / link:https://zubne-pasty.heureka.sk/[dalsie zubne pasty]
+** Compostable dental floss - bambus
+** Interdental brushes: 0.4mm + 0.7mm
+** Tongue scraper
+** GC MI Paste Plus (with fluoride) / VOCO Remin Pro / ApaCare Repair / GC Tooth Mousse (without fluoride)
 
 == Notes
 
