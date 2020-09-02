@@ -2,59 +2,19 @@
 
 Reborn from ashes.
 
-== Why did I create this?
-
-Chcel som sa vyliečiť z tráviacich problémov. Bolestí žalúdka, nafukovania, únavy po jedle.
-
-Doktori to vzdali. Skúšali všetko možné. Nakoniec mi povedali: "Nevieme liečiť niečo, čo nevieme ani diagnostikovať".
-
-Ja som bol zúfalý a vyčerpaný z choroby. Lekári tiež. Tak som po dvoch rokoch prevzal zodpovednosť za svojou liečbu do vlastných rúk.
-
-Do ďalších dvoch rokoch sa môj zdravotný stav výrazne zlepšil. Mal som šťastie.
-
-Chcel som si konečne začať užívať život, potom, čo som asi šesť krát vyhorel. Asi som vymyslel prevenciu proti vyhoreniu a zachovanie radosti zo života. Ale berte to s rezervou: žiadne, že buď 100% garancia spokojnosti, alebo vrátenie peniazí ;) Ale pomohlo mi to začať odznova. Prekonať depriesie. Menej sa nenávidieť za chyby :/ A vylieči sa z choroby, keď lekári hovorili, že ma nevedia vyliečiť.
-
-*I just want to be healthy and live well! Do I want so much?!link:https://www.fileformat.info/info/unicode/char/203d/index.htm[‽]*
-
-*Why did I recreated everything to feel good again? Why isn't it here right from the beginning!?*
-
-Lebo môžem byť neviemaký odborník, keď neviem vychádzať s ľuďmi.
-
-To ma vždy bude vyrušovať pri učení sa čohokoľvek odborného.
-
-Chcem sa cítiť dobre medzi ostatnými ľuďmi.
-
-Odbornosť nie je všetko. Odbornosť je jedna časť.
-
-Ďalšia časť je ľudskosť.
-
-Ľudskosť rozvíjam empatiou.
-
-Empatia mi pomáha spájať sa so sebou samým a s ostatnými ľuďmi a rozumieť dobrým dôvodom, pocitom a potrebám, prečo ľudia robia to, čo robia.
-
-Empatia lieči rany na duši rýchlejšie a do väčšej hĺbky než psychoanalýza, pretože empatia sa zameriava na prítomnosť. Pri psychoanalýze sa rozpráva o minulosti, lenže rozprávanie o minulosti a jej analyzovanie spomaľuje liečbu a môže jej dokonca brániť. Psychoanalýza poskytuje skôr intelektuálne porozumenie než emocionálne liečenie: súcit - empatiu.
-
-Empatia je súčasťou emocionálnej inteligencie.
-
-Lenže väčšina škôl a väčšina pedagógov používa praktiky, ktoré bránia rozvoju empatie a emocionálnej inteligencie. Veď akoby aj mohli. Pedagógovia sa trápia, lebo oni sami nevedia veľa o emocionálnej inteligencii a jej dôležitosti, a aj väčšina školských inštitúcii je  navrhnutá tak, aby kládli väčší dôraz na výkon, výsledky, súťaživosť, povinnosť a poslušnosť, než na starostlivosť, ochotu, dobrovoľnosť, súcit a zodpovednosť.
-
-A namiesto altruistických ľudí vychovávajú ľudí sebeckých. Lebo, čo sa asi študent naučí? *Že ostatní ľudia sú potencionálnou prekážkou k jeho/jej úspechu.* A, že *ja dokážem uspieť iba vtedy, keď druhí zlyhajú.* link:???[Alfie Kohn - OFJCC], link:???[Daniel Markovits - Excellence vs Superiority]
-
-V takomto prostredí potom trpia nielen študenti, ale aj učitelia a vedenie. Podobne vo firmách, trpia zamestnanci aj menežéri, ktorí vyznávajú túto ideológiu.
-
-Som presvedčený, že nízka úroveň emocionálnej inteligencie umožňuje, aby sa takýto systém udržal.
-
-A chcem sa vedieť smiať na svojich chybách. Chcem sa učiť zo svojich chýb a prestať sa nenávidieť za to, že robím chyby.
-
-Výrazne mi v tom pomohlo štúdium a tréning nenásilnej komunikácie. Začal som v auguste 2019 _(14.8.2019)_. Pokračujem až dodnes. Vždy, keď ju použijem, uľaví sa mi. Máloktorá technika, ktorú som kedy skúšal bola tak spoľahlivá, ako je táto. Nenásilná komunikácia zvyšuje moju emocionálnu inteligenciu, vnímavosť, duševný pokoj a rovnováhu. Dáva mi nádej, že veci môžu byť aj inak. Lepšie. Udržateľné. Prospešné pre všetkých. Nielen iba pre elitu.
-
 == Human needs / Menschliche Bedürfnisse / Ľudské potreby
 
 by / nach / podľa Manfred Max-Neef, Marshall B. Rosenberg and me
 
 ---
 
-The needs is *the only reason*, why I'm feeling the way I feeling.
+The needs is *the only reason*, why I'm feeling the way I'm feeling. Not the actions of other people, or the state of the environment. These are only the stimulus for my feelings.
+
+---
+
+What is a need? / Was ist ein Bedürfnis?
+* Life seeking expression within oneself.
+* Manifestation of the divine energy in each living being.
 
 ---
 
@@ -100,21 +60,23 @@ The needs is *the only reason*, why I'm feeling the way I feeling.
 * security / Sicherheit / bezpečnosť, zabezpečenie
 * equality / Gleichheit / rovnosť
 * predictability / Vorsehbarkeit / predvídateľnosť
-* power / Macht / moc
+* power (with) / Macht (mit) / moc (s)
 * strength / Kraft / sila
 * protective use of force / beschützende Nutzung der Kraft / použitie sily na obranu
 * protecting the nature / Umweltschutz / ochrana prírody
 * ecology / Ökologie / ekológia
 * sustainability / Nachhaltigkeit / udržateľnosť
-* preservation / Erhaltung / zachovanie/udržanie
+* preservation / Erhaltung / zachovanie, udržanie
 * durability / Haltbarkeit / trvácnosť
+* robustness / Robustheit / odolnosť, robustnosť
 * recycling / Wiederverwendung / recyklácia, znovupoužiteľnosť
 * cautiousness / Vorsichtigkeit / opatrnosť
 * economy, thrift / Sparsamkeit / úspornosť, šetrnosť
 * justice, fairness, equity / Gerechtigkeit / spravodlivosť
 * compensation / Ausgleich / kompenzácia, odškodnenie - nie ako odplata alebo trest, ale ako pomoc pri napĺňaní nenaplnených potrieb pre niekoho iného
-[line-through]#war / Krieg / vojna#
-[line-through]#violence / die Gewalt / násilie#
+* [line-through]#war / Krieg / vojna#
+* [line-through]#violence / die Gewalt / násilie#
+* [line-through]#government / die Regierung / vláda#
 
 ---
 
@@ -122,7 +84,6 @@ The needs is *the only reason*, why I'm feeling the way I feeling.
 * love / Liebe / láska
 * tenderness / Zärtlichkeit / neha
 * sensuality / Sinnlichkeit / zmyselnosť
-* sexuality / Sexualität / sexualita
 * passion / Leidenschaft / vášeň
 * touch / Berührung / dotyk
 * intimacy / Intimität / intimita
@@ -143,7 +104,7 @@ The needs is *the only reason*, why I'm feeling the way I feeling.
 * control / Kontrolle / kontrola - možnosť ovplyvniť prostredie okolo seba
 * reassurance / Beschwichtigung / uistenie
 * importance / Wichtigkeit / dôležitosť (potrieb)
-* consciousness that my needs matter, that my needs are important and taken into consideration / Bewusstsein, dass meine Bedürfnisse wichtig sind / vedomie, že na mojich potrebách záleží, že moje potreby sú dôležité a brané do úvahy
+* consciousness that my needs matter, that my needs are important and taken into consideration / Bewusstsein, dass meine Bedürfnisse wichtig sind, und in Frage genommen sind / vedomie, že na mojich potrebách záleží, že moje potreby sú dôležité a brané do úvahy
 * relationships / Beziehungen / vzťahy
 * tolerance / Toleranz / tolerancia
 * nurturing, upbringing / Erziehung / výchova
@@ -152,18 +113,20 @@ The needs is *the only reason*, why I'm feeling the way I feeling.
 * _recognition, acknowledgement / Anerkennung / uznanie_
 * _appretiation / Wertschätzung / ocenenie_
 * _gratitude / Dankbarkeit / vďačnosť_
-* [line-through]#apology (masked need for *empathy*: link:...[Marshall Rosenberg - Making Life Wonderful ???-which part???]) / Verzeihung / ospravedlnenie#
+* [line-through]#apology (masked need for *empathy*: link:...[Marshall Rosenberg - Making Life Wonderful ???-which part???]), When we empathize, there is nothing to forgive. link:???[(SELF EMPATHY)], Forgiveness and empathy are the same thing [in the language of life.] link:???[(SELF EMPATHY)] / Verzeihung / ospravedlnenie#
 * [line-through]#approval / Genehmigung / dovolenie, odobrenie#
 * [line-through]#affirmation / Bestätigung / potvrdenie#
+* [line-through]#sex / Geschlechtsverkehr#
+* [line-through]#sexuality / Sexualität / sexualita#
 
 ---
 
 * *understanding / Verständnis / porozumenie*
-* critical thinking / kritisches Denken
-* logical thinking / logisches Denken
+* critical thinking / kritisches Denken / kritické myslenie
+* logical thinking / logisches Denken / logické myslenie
 * curiosity / Neugier / zvedavosť
 * interest / Interesse / záujem
-* intuition / Intuition
+* intuition / Intuition / intuícia
 * concentration / Konzentration / sústredenie
 * learning / Lernen / učenie sa
 * competence / Fähigkeit / schopnosť
@@ -171,8 +134,8 @@ The needs is *the only reason*, why I'm feeling the way I feeling.
 * sense, purpose / Sinn, Zweck / zmysel
 * goal / Ziel / cieľ
 * common purpose / gemeinsames Ziel / spoločný cieľ
-* effectivity (does it work, or not? - boolean) / Effektivität / efektivita
-* efficiency (as much as possible in as little time as possible, e.g. efficient algorithm; how well does it work? (in comparison to other things, not people) - e.g. 0-100%) / Effizienz / efektivita
+* effectivity [does it work, or not? - boolean] / Effektivität / efektivita
+* efficiency [as much as possible in as little time as possible, e.g. efficient algorithm; how well does it work?] (in comparison to other things, not people) - float, percent) / Effizienz / efektivita
 * growth / Wachstum / rast
 * development / Entwicklung / rozvoj, vývoj
 * consciousness / Bewusstsein / vedomie
@@ -211,17 +174,17 @@ The needs is *the only reason*, why I'm feeling the way I feeling.
 ---
 
 * *participation / Teilnahme / účasť*
-* community / Gemeinschaft
 * acceptance (by others) / Annahme / prijatie
+* community / Gemeinschaft / komunita, spoločenstvo, spoločnosť
 * receptiveness (from others) / Annahmefähigkeit / prijímanie
+* company / Gesellschaft / spoločnosť (ľudí)
+* oneness, unity / Einheit / jednotnosť
 * belonging / Zugehörigkeit / spolupatričnosť
 * cooperation / Zusammenarbeit / spolupráca
 * presence / Anwesendheit / prítomnosť
-* company / Gesellschaft / spoločnosť (ľudí)
 * sharing / Teilen / zdieľanie
 * inclusion / Integration / integrácia, začlenenie
-* voluntariness / Freiwilligkeit / dobrovoľnosť
-* oneness, unity / Einheit / jednotnosť
+* altruism / Altruismus / altruizmus
 * solidarity / Solidarität / solidarita
 * common good / Gemeinwohl / verejné blaho
 * [line-through]#competition / Wettbewerb / súťaž#
@@ -235,7 +198,7 @@ The needs is *the only reason*, why I'm feeling the way I feeling.
 * peace / Frieden / mier
 * rest / Erholung / oddych
 * joy / Freude / radosť
-* harmony / Harmonie
+* harmony / Harmonie / harmónia
 * calmness / Ruhe / pokoj
 * awareness / Aufmerksamkeit / pozornosť
 * celebration / Feier / oslava
@@ -273,21 +236,20 @@ The needs is *the only reason*, why I'm feeling the way I feeling.
 * discovery / Entdeckung / objav
 * stimulation / Anregung / podnietenie
 * music / Musik / hudba
-* rhythm / Rhythmus
+* rhythm / Rhythmus / rytmus
 * adaptability / Anpassbarkeit / prispôsobiteľnosť
 * _smell / der Gestank / zápach_
 * smell, scent / der Duft / vôňa
 * flow / Flow, Strömung / prúdenie
 * change / Änderung / zmena
 * intrinsic motivation / eigene Motivation / vlastná motivácia
-* productivity / Produktivität / produktivita
 * fulfilment / Erfüllung / naplnenie
 * quality / Qualität / kvalita
 * innovation / Innovation, Erneuerung / inovácia
 * performance / Leistungsfähigkeit / výkonnosť
 * flexibility / Flexibilität / pružnosť, prispôsobiteľnosť
 * freshness / Frischheit / čerstvosť
-* handling (e.g. of a car) / Handling / ovládateľnosť
+* handling (e.g. of a car) / Handling, Steuerungsfähigkeit / ovládateľnosť
 * tightness / Dichtheit / tesnosť
 * thickness / Dichte / hustota
 * humidity / Feuchtigkeit / vlhkosť
@@ -300,10 +262,11 @@ The needs is *the only reason*, why I'm feeling the way I feeling.
 * cohesion / Kohäsion / kohézia, súdržnosť
 * coupling / Kopplung / väzbovosť
 * match / Übereinstimmung / zhoda
-* roughness / ??? / ???
-* smoothness / ??? / ???
+* roughness / Rouheit / drsnosť
+* smoothness / Glätte / plynulosť, hladkosť
 * diversity / Vielfalt(igkeit) / rôznorodosť, diverzita
-* ??? / Durchsichtigkeit / priehľadnosť
+* transparency / Durchsichtigkeit / priehľadnosť
+* [line-through]#productivity / Produktivität / produktivita#
 
 ---
 
@@ -333,37 +296,38 @@ The needs is *the only reason*, why I'm feeling the way I feeling.
 * maintainability / Wartbarkeit, Wartungsfreundlichkeit / udržovateľnosť
 * patience / Geduldigkeit / trpezlivosť
 * speed, velocity / Geschwindigkeit, Schnelligkeit / rýchlosť
-* repartee / Schlagfertigkeit / pohotovosť, bystrosť
+* responsiveness / Schlagfertigkeit / promptnosť, pohotovosť, bystrosť
 * tradition / Tradition / tradícia
 * habit / Gewohnheit / zvyk
 * courage / Mut / odvaha
 * responsibility / Verantwortung / zodpovednosť
 * order / Ordnung / poriadok
-* consentual rurles / gemeinsam bestimmte Regeln / spoločne stanovené pravidlá
+* consentual rules / gemeinsam bestimmte Regeln / spoločne stanovené pravidlá
 * [line-through]#rules / Regeln / pravidlá#
-* [line-through]#power / Macht / moc# link:...[Ökonomische Pseudowerte: https://www.youtube.com/watch?v=7mRe1ntgbj8&feature=youtu.be&t=1260]
+* [line-through]#power (over) / Macht (über) / moc (nad)# link:...[Ökonomische Pseudowerte: https://www.youtube.com/watch?v=7mRe1ntgbj8&feature=youtu.be&t=1260]
 * [line-through]#money / Geld / peniaze#
 * [line-through]#success / Erfolg / úspech#
 * [line-through]#[social] status / [soziales] Status / [spoločenský] status,  stav, postavenie#
 * [line-through]#popularity (to be liked by other people) / Popularität (unter Leuten beliebt zu sein) / popularita (byť oblúbený medzi ľuďmi)#
 * [line-through]#individualism / Individualismus / individualizmus#
 * [line-through]#ownership (to have and to have more) / Eigentum / vlastníctvo#
+* [line-through]#religion / Religion / náboženstvo#
 
 ---
 
 * *freedom / Freiheit / sloboda*
-* risk / Risiko
+* risk / Risiko / riziko
 * hope / Hoffnung / nádej
 * space / Raum / priestor
-* happiness / Glück
 * choice / Auswahl / voľba
 * availibility / Verfügbarkeit /  dostupnosť
-* time / Zeit
+* time / Zeit / čas
 * access / Zugriff / prístup
-* mobility / Mobilität
-* transportation / Transport
+* mobility / Mobilität / prenosnosť
+* transportation / Transport / preprava, doprava, transport
 * autonomy / Selbstständigkeit, Autonomie / samostatnosť
 * faith / Glaube / viera
+* voluntariness / Freiwilligkeit / dobrovoľnosť
 * willingness / Bereitschaft / ochota
 
 == Feelings at unfulfilled needs
@@ -407,7 +371,7 @@ What needs of the other are not being met?
 * tired / müde / unavený (unaviť)
 * exhausted / erschöpft / vyčerpaný (vyčerpať)
 * regretful / bedauernd / byť ľúto
-* helpless / hilflos / bezradný (nevedieť si rady, nevedieť si poradiť)
+* helpless / hilflos, ratlos / bezradný (nevedieť si rady, nevedieť si poradiť)
 * powerless / machtlos / bezmocný
 * disappointed / enttäuscht / sklamaný (sklamať)
 * sad / traurig / smutný (smútiť)
@@ -661,10 +625,11 @@ spreche, mit jemandem spreche, schreibe, zuhöre, mich dusche, mich mit kaltem W
 == Comparisons
 
 - Punishment and Rewards vs Discipline, Care, Unconditional Love and Reason - link:https://www.youtube.com/watch?v=Qk8fOOMWOGc[Shaping Discipline with a Restorative Approach - Part 4], Alfie Kohn, Samuel P. Oliner + Pearl M. Oliner [Altruistic Personality + Samuel Oliner Testimony], Miki Kashtan [Exiting the Either/Or Trap - 17th minute]
-- Shame and Punishment vs Safety, Respect, Responsibility, Care and Unconditional Love - Miki Kashtan-Bullying, link:https://www.youtube.com/watch?v=2KXwnbsQUrI&feature=youtu.be&t=87[Restorative Justice Continuum - Howard Zehr Ph.D EM 1:27-2:12], link:https://www.youtube.com/watch?v=0pleCht2jN4&feature=youtu.be&t=439[NVC Guilt and Shame - Kirsten Kristensen: startTime-endTime]
+- Shame, Punishment and Revenge vs Safety, Respect, Responsibility, Care and Unconditional Love - Miki Kashtan-Bullying, link:https://www.youtube.com/watch?v=2KXwnbsQUrI&feature=youtu.be&t=87[Restorative Justice Continuum - Howard Zehr Ph.D EM 1:27-2:12], link:https://www.youtube.com/watch?v=0pleCht2jN4&feature=youtu.be&t=439[NVC Guilt and Shame - Kirsten Kristensen: ???-???, Alfie Kohn, James Gilligan - Shame]
 - Production and Comsumption vs Care and Freedom - link:https://www.youtube.com/watch?v=kikzjTfos0s&feature=youtu.be&t=2958[On Bullsh*t Jobs | David Graeber | RSA Replay: 49:18-49:44]
 - Gratitude and Appreciation vs Reward, Praise and Compliments- M. B. Rosenberg, Alfie Kohn, Peter Gray
 - Criticism, Punishment, Praise and Compliments vs Observation, Feeling, Need, Request and Unconditional Love - M. B. Rosenberg, Alfie Kohn
+- Observation vs Evaluation - Jiddu Krishnamurti, M.B. Rosenberg, link::https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=1711[Miki Kashtan - Social Change Series – Liberation in Three Chapters - 1: 28:31-29:40]
 - Criticism, Punishment, Praise and Compliments vs Unconditional Love - Alfie Kohn [OFJCC - 26:10-27:28-30:04]
 - Honesty vs Criticism and Blame - M. B. Rosenberg [Making life wonderful - part 1/4 - somewhere at the beginning]
 - Feedback and life-serving Judgement and Evaluation for decision-making vs moralistic Evaluation and Judgement, Praise, Compliments, Reward, Blame, Criticism and Punishment - Alfie Kohn
@@ -694,9 +659,13 @@ spreche, mit jemandem spreche, schreibe, zuhöre, mich dusche, mich mit kaltem W
 - Empathy vs Sympathy - link:...[M. B. Rosenberg], link:https://youtu.be/KX_tgRM84RA?t=370[(Nonviolent Communication (NVC): Yoram Mosenzon full workshop: 'Connecting in Conflict': 6:10-8:08)]
 - Empathy vs Forgiveness - link:...[maybe Creating Life Serving System Withing Ourselves???]
 * Intensity vs Consistency - link:???[Simon Sinek]
-- link:https://www.fachverband-gfk.org/wp-documents/anlage_3_schluesselunterscheidungen.pdf[und mehr Unterschiede...]
+* To deserve something vs To need something (me)
+* Robustness vs Perfection link:https://www.youtube.com/watch?v=kzHrBM6CHfE&feature=youtu.be&t=1889[An Interview with Elinor Ostrom: 31:29-31:53]
+* Participatory Democracy, Democratic Confederalism, Communalism, Stateless Democracy and Anarchist Communism, vs Autocracy, Representative Democracy, Authoritarianism, Populism, Fascism, Nazism and Nationalism link:https://mesopotamia.coop/the-internal-system-of-the-communes-in-rojava/[(THE INTERNAL SYSTEM OF THE COMMUNES IN ROJAVA)]
+* link:https://www.fachverband-gfk.org/wp-documents/anlage_3_schluesselunterscheidungen.pdf[und mehr Unterschiede...]
 
 Culturally learned beliefs - Life-harming beliefs:
+
 - spare the rod, spoil the child - Bible, Proverbs 13:24, Rosenberg - Resolving conflicts with children
 - No pain, no gain.
 - Čím väčším peklom si prejdeš, tým silnejší z toho výjdeš. Ak z toho výjdeš. - (Jaroslav Slávik, Československo má talent)
@@ -774,7 +743,7 @@ by Doug Newburg
 * Empathy / Empathie
 * Nonviolent Communication - NVC / Gewaltfreie Kommunikation - GFK
 * Expressive writing link:...[(James Pennebaker - Researchgate link???)]
-** Showing empathy to me, my inner educator and my inner chooser through NVC - talking about my feelings and needs *in the present moment*, stimulated by various events. Talking about the past is the domain of psychotherapy and doesn't contribute to the healing of the pain. The more we spend in the past, the less healing takes place.
+** Showing empathy to me, my inner educator and my inner chooser through NVC - talking or writing about my feelings and needs *in the present moment*, stimulated by various events. Talking about the past is the domain of psychotherapy and doesn't contribute to the healing of the pain. The more we spend in the past, the less healing takes place.
 * How you feel is more important than what you do. +
   Wie du dich fühlst ist wichtiger als das, was du machst. +
   link:???[Cedric Dumont - From Fear to Flow: ???-???]
@@ -793,18 +762,18 @@ by Doug Newburg
 ** Josh Millburn & Ryan Nycodemus - minimalizmus
 ** Fumio Sasaki - minimalizmus
 ** *Maria Montessori - education; Buch: Montessori method / Il metodo della pedagogia scientifica applicato all'educazione infantile nelle case dei bambini* link:[(Maria Montessori - thehistorychicks: 1:24:24-1:24:32)]
-** *Lucia Rolcekova - Pilates, Physiotherapie*
-** *Kristina Zanova - Yoga; Rücken Rollen*
+** *Lucia Rolcekova - Pilates, Physiotherapie; ActiveClinic*
+** *Kristina Zanova - Yoga; Rücken Rollen; ActiveClinic*
 ** Matus Chochlik - FRI UNIZA -> GlobalLogic
 ** Zdenko Pavlik - Scheid & Bachmann Zilina - Tankstellenabteilung -> GlobalLogic
-** James Pennebaker - expressive writing
+** James Pennebaker - Expressive writing
 ** *Marshall B. Rosenberg - NVC: Nonviolent Communication*
 ** *Alfie Kohn - education, parenting*
 ** *Peter Gray - SDE: Self-Directed Education; play; Buch: Free to Play*
 ** Bethany Butzer - Stop trying so hard. Achieve more by doing less. Reference to Doug Newburg's research.
 ** *Doug Newburg - RPM: Resonance Performance Model*
 ** Milan Ondrasovic - Referenz zu Autophagozytose von Yoshinori Ohsumi
-** Yoshinori Ohsumi - Autophagozytose
+** Yoshinori Ohsumi - Autophagozytose: Hungern und seine Folgen aufs Gesundheit
 ** *Mihály Csíkszentmihályi - Flow*
 ** Cedric Dumont - From fear to Flow
 ** Miki Kashtan - NVC Management and Leadership
@@ -820,8 +789,15 @@ by Doug Newburg
 ** Mark Shepard - Permaculture; Buch: Restoration Agriculture
 ** Peter Kropotkin (Pyotr Alexeyevich Kropotkin) - Anarcho-Communism, Anarchist Communism, Kommunistischer Anarchismus; Bücher: Anarchist Communism: Its Basis and Principles; The Conquest of Bread
 ** David Harvey - Buch: Contradiction of Capitalism
-** Samuel P. Oliner, Pearl M. Oliner - Buch: The Altruistic Personality
+** Samuel P. Oliner, Pearl M. Oliner - Buch: _The Altruistic Personality: Rescuers of Jews in Nazi Europe_
 ** Sepp Holzer - Permakultur; Buch: Zahrada k nakousnuti
+** Walter Kaufmann - Without Guilt and Justice: From Decidophobia to Autonomy
+    *** concept of "deserve" broken
+    *** retributive justice is suicidal
+** James Gilligan - Violence: Our Deadly Epidemic and its Causes
+** Elizabeth M. Elliott - Security, with Care: Restorative Justice and Healthy Societies
+** Elinor Ostrom - The Tragedy of the Commons + Design Principles for Collective Managing of a Shared Resource - Arguments against private [land] ownership and for collective ownership and decision making
+** Bruce Lipton, Peter Spork - Epigenetics
 
 == Questions
 
@@ -833,8 +809,8 @@ included...]
 ↓ +
 
 * How do you like to feel every day? link:https://www.youtube.com/watch?v=nraBwnT2XlY&feature=youtu.be&t=302[(bromont 1 - Doug Newburg - RPM - Resonance Performance Model: 5:02-5:12)]
-* *Does how you feel affect how you perform?* Everyone says "yes", and yet most of you don't know how you like to feel. link:https://www.youtube.com/watch?v=nraBwnT2XlY&feature=youtu.be&t=312[(bromont 1 - Doug Newburg - RPM - Resonance Performance Model: 5:12-5:22)]
-
+* *Does how you feel affect how you perform?* Everyone says "yes", and yet most of you don't know how you like to feel. [Is this applied *emotional intelligence*? That the most successful are not the ones who have the highest IQ, but the highest EQ?] link:https://www.youtube.com/watch?v=nraBwnT2XlY&feature=youtu.be&t=312[(bromont 1 - Doug Newburg - RPM - Resonance Performance Model: 5:12-5:22)]
+* * * *
 * *_How do I want to feel when I engage in my activities?_*
 * How do I want to feel every day?
 * How do I want to feel about my life in general?
@@ -1091,7 +1067,7 @@ Judge other people with moralistic judgements.
 ** Teach them that if other people behave bad, they deserve to suffer.
 ** We've been systematically educated in a way that makes violence enjoyable. [e.g. through media, television, society, institutions and religion]. ... Always for good reasons: to serve the God and serve the country. link:https://youtu.be/jArsTeP66FE?t=6222[Film 02 SELF EMPATHY Session 1 - M.B. Rosenberg: 1:43:42-1:44:56]
 ** The concept of deserve makes violence enjoyable.
-** There are whole cultures and countries who speak nonviolent communication. They have hardly any violence. They don't know what punishment means. It doesn't make any sense to them, why one person wanna hurt another person. It only makes sense when you believe they deserve it. Why do they deserve it? Because are labeled negatively by some moralistic judgements. link:https://www.youtube.com/watch?v=jArsTeP66FE&feature=youtu.be&t=6528[Film 02 SELF EMPATHY Session 1 - M.B. Rosenberg: 1:48:58-1:49:18]
+** There are whole cultures and countries who speak nonviolent communication [Rojava - northern Syria, Orang Asli - Malaysia]. They have hardly any violence. They don't know what punishment means. It doesn't make any sense to them, why one person wanna hurt another person. It only makes sense when you believe they deserve it. Why do they deserve it? Because are labeled negatively by moralistic judgements. link:https://www.youtube.com/watch?v=jArsTeP66FE&feature=youtu.be&t=6528[Film 02 SELF EMPATHY Session 1 - M.B. Rosenberg: 1:48:58-1:49:18]
 
 * Teach them that punishment is sometimes necessary. +
 Teach them to use punishment to get their needs met.
@@ -1223,7 +1199,7 @@ After the first world war, Maria Montessori returned to Italy, only to walk into
 The world piece can only be achieved by the education of the children. link:https://www.youtube.com/watch?time_continue=7&v=TXqeTYHn0p4&feature=emb_logo[Maria Montessori: 43:19-43:28] +
 But in the absence of Maria Montessori, much of her work had been forgotten. link:https://www.youtube.com/watch?v=TXqeTYHn0p4&feature=youtu.be&t=2638[Maria Montessori: 43:58-44:04] +
 In 1945 Maria Montessori started to revive and reestablish her education in preschools and schools in Europe. Many of the creative people benefitted from early Montessori education. *The life should be challenging, and the challenge should be fun. [Larry Page & Sergey Brin - Founders of Google - both educated in Montessori method]* link:https://youtu.be/TXqeTYHn0p4?t=2647[Maria Montessori: 44:07-46:00] +
-Don't look at me. Look at the way I'm pointing. link:https://youtu.be/TXqeTYHn0p4?t=2647[Maria Montessori: 47:21-47:40]
+*Don't look at me. Look at the way I'm pointing.* link:https://youtu.be/TXqeTYHn0p4?t=2647[Maria Montessori: 47:21-47:40]
 
 * Maria Montessori didn't see any virtue in obeying. link:???[Episode_143-Maria_Montessori-thehistorychicks: 1:35:48-1:35:53]
 
@@ -1261,6 +1237,8 @@ Don't look at me. Look at the way I'm pointing. link:https://youtu.be/TXqeTYHn0p
 
 * _Book - James Gilligan - Violence: Our Deadly Epidemic and its Causes_. +
 Every act of violence somewhere is an attempt to create justice to right a wrong that happened before. That wrong may happen two seconds before or might have happened 50 years before. But there's somewhere in the person's deep organism some wrong that have happend that needs to be righted, and the violence is an expression of that. Now we can all understand the pull to justice *but why does it go to violence rather than to other means? Because we feel shame. All the people that he had talked with essentially without exception were carrying boatloads of shame* in them about who they are, about what has happened to them, about what they want, and most particulary, about anything that had to do with tenderness, with any need for love, for connection, for appreciation.* They had so much shame about it. One of the things that are so clear coming out of this is that *punishment makes things worse because it increases shame. If shame is at the root of violence, punishment is not going to work. It only going to make the person get into a deeper loop* about who they are now. "Not only I'm ashamed about everything else, now I'm ashamed about the things that I've done and I've been punished,  I've been ostricized, there's  no room for me." link:https://www.youtube.com/watch?v=msWYVhmuQhw&feature=youtu.be&t=604[(Albany Addresses Bullying: Miki Kashtan: A Compassionate Perspective on Bullying 3/5/2011: 10:04-12:43)]
+
+* [Shame] is not only now more common, its purpose has shifted from protecting the group [,i.e. the community] to protecting the powerful. So *most of us walk around with some degree of shame that is just there in the background that keeps us from doing things.* And *we get shamed for what we want. If you look at early childhood, you are made to be ashamed for wanting what you want, for moving spontaneously, for going for what is of direct interest to you, for saying what is true for you, everything that is about being you is put into question.* ... This is why I decided to become 100% shameless. Why is this funny? Because the word _shameless_ describes someone who is a terrible person, totally outside of the norm. It's as if we're told that having a certain amount of shame, constatly, is a good thing. link:https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=2029[Miki Kashtan - Social Change Series – Liberation in Three Chapters - 1: 33:49-34:40, 34:51-35:23]
 
 * Authorities figures tend just by nature to use shame. link:https://www.youtube.com/watch?v=2KXwnbsQUrI&feature=youtu.be&t=123[(Restorative Justice Continuum - Howard Zehr Ph.D EM 2:03-2:12)]
 
@@ -1346,7 +1324,7 @@ Six hour of academics is more than enough.
 
 * Talk to your kids at home about what they're learning in school. Never about how well the teacher thinks they're learning!
 
-* If you need to give grades:
+* If you need to give grades [or evaluate / judge]:
     . write acomment or talk with the student *without* the grades and points. The students will be more interested in learning *only* when there is no letter or number attached to the comment.
     . let the student decide the final amount of points and the final grade or letter. *The good you've done by removing grades from the occasion [and consciousness] and the trust you've shown to the students _far_ outweights the situations in which some students use the system for their advantage.* +
     They will see that obedience contributes to vilence in the same way that grades or tests do.
@@ -1354,6 +1332,10 @@ Six hour of academics is more than enough.
 * Self-discipline is more important than empathy. [Alfie Kohn - OFJCC]
     
 * People of all ages are more likely to perservere when theu have a chance to make the decisions about the things that affect them. Therefore, if someone doesn't persist, he or shewas to some extent excluded from decision-making, rather than he or she didn't have enough self-discipline. [Alfie Kohn ???]
+
+* Miki
+
+* Kohn
 
 * link:https://www.youtube.com/watch?v=h4fQEn15NgI[The Gun Has No Trigger: David Graeber]
 ** link:https://www.youtube.com/watch?v=h4fQEn15NgI&feature=youtu.be&t=507[[8:27]-8:46] ... but if we would incorporate ourselves then we have to have a whole hierarchical structure, president, vicepresident, and those rules and regulations are enforced ultimately by violence ...
@@ -1402,17 +1384,19 @@ link:???[Jiddu Krishnamurti]
 
 * Eye for an eye and the world goes blind link:...[ghandi], link:...[detroit become human]
 
+* We have been trained to be quite habitual in things that are quite unnatural. 
+
 * the importance of present request link:...[Marshall Rosenberg Making Life Wonderful cca 1:31:36-1:33:35]
 
 * ... because *all human beings have the same needs.* link:...[(Film 02 SELF EMPATHY Session 1 - M. B. Rosenberg)]
 
-* Take your time to come fro man energy you choose to come from, not from an energy I've been programmed to come from.
+* Take your time to come from an energy you choose to come from, not from an energy you've been programmed to come from.
 
 * Quotes link:https://www.youtube.com/watch?v=RDkh1al3P9k&feature=youtu.be&t=2487[Speaking Peace - M.B.Rosenberg]
 
 * ??? link:...[(M. B. Rosenberg San Francisco Workshop ~2:26:00-???)]
 
-* No human being is good [no human being is bad - judging is too easy], but all are sacred. link:https://www.youtube.com/watch?v=LdOFhyKACxE[Dr. James Gilligan - On How All Human Beings Are Sacred]
+* No human being is good [no human being is bad - judging is too easy], but all are sacred. link:https://www.youtube.com/watch?v=LdOFhyKACxE[Dr. James Gilligan - On How All Human Beings Are Sacred], link:restoration_justice_part[Rosenberg - Creating a Life Serving System within Oneself]
 
 * https://www.youtube.com/watch?v=bH9t1lAX2UQ Training Session # 2 Marshall Rosenberg CNVC org - 49:20-49:42
 
@@ -1445,7 +1429,7 @@ link:???[Jiddu Krishnamurti]
   *Reaktion (innere Stimme, innerer Lehrer / inner voice, inner educator): +
   Grund, Ursache / reason, cause* +
   Gedanke (kann auch blitzschnell sein) / though (can also be very quick) +
-  Thoughts that are *disconnected from needs* and *violence provocative* + [M.B. Rosenberg - Film 02 SELF EMPATHY Session 1: 1:43:00]
+  Thoughts that are *disconnected from needs (i.e. life)* and *violence provocative* + [M.B. Rosenberg - Film 02 SELF EMPATHY Session 1: 1:43:00]
   ↓ +
   *Reaktion (innere Stimme, innerer Lehrer / inner voice, inner educator): +
   Gefühl / feeling* +
@@ -1455,6 +1439,14 @@ link:???[Jiddu Krishnamurti]
   Wurzel / root* +
   erfüllte/unerfüllte Bedürfnisse (wenn wir mit den Bedürfnissen verbunden sind) +
   Urteil, Analyse, Diagnose, Interpretation (wenn wir von den Bedürfnissen getrennt sind und mit einfühlungsblockierender Kommunikation verbunden sind)
+  
+Nothing anybody does can't make us angry. It's only a stimulus.
+  
+link:https://www.youtube.com/watch?v=jArsTeP66FE&feature=youtu.be&t=5863[Film 02 SELF EMPATHY Session 1: 1:37:43 (1:39:14)-]
+
+* The map is not the territory. [Alexander Korzhybsky - General semantics], link:???[Rosenberg: Experiencing Needs as a Gift]
+
+* selfish, selfless, self-full [M.B. Rosenberg - Experiencing Needs as a Gift]
   
 == Fundamental Attribution Error
 
@@ -1558,6 +1550,52 @@ Active Clinic
 ** Interdental brushes: 0.4mm + 0.7mm
 ** Tongue scraper
 ** GC MI Paste Plus (with fluoride) / VOCO Remin Pro / ApaCare Repair / GC Tooth Mousse (without fluoride)
+
+== Why did I create this?
+
+Chcel som sa vyliečiť z tráviacich problémov. Bolestí žalúdka, nafukovania, únavy po jedle.
+
+Doktori to vzdali. Skúšali všetko možné. Nakoniec mi povedali: "Nevieme liečiť niečo, čo nevieme ani diagnostikovať".
+
+Ja som bol zúfalý a vyčerpaný z choroby. Lekári tiež. Tak som po dvoch rokoch prevzal zodpovednosť za svojou liečbu do vlastných rúk.
+
+Do ďalších dvoch rokoch sa môj zdravotný stav výrazne zlepšil. Mal som šťastie.
+
+Chcel som si konečne začať užívať život, potom, čo som asi šesť krát vyhorel. Asi som vymyslel prevenciu proti vyhoreniu a zachovanie radosti zo života. Ale berte to s rezervou: žiadne, že buď 100% garancia spokojnosti, alebo vrátenie peniazí ;) Ale pomohlo mi to začať odznova. Prekonať depriesie. Menej sa nenávidieť za chyby :/ A vylieči sa z choroby, keď lekári hovorili, že ma nevedia vyliečiť.
+
+*I just want to be healthy and live well! Do I want so much?!link:https://www.fileformat.info/info/unicode/char/203d/index.htm[‽]*
+
+*Why did I recreated everything to feel good again? Why isn't it here right from the beginning!?*
+
+Lebo môžem byť neviemaký odborník, keď neviem vychádzať s ľuďmi.
+
+To ma vždy bude vyrušovať pri učení sa čohokoľvek odborného.
+
+Chcem sa cítiť dobre medzi ostatnými ľuďmi.
+
+Odbornosť nie je všetko. Odbornosť je jedna časť.
+
+Ďalšia časť je ľudskosť.
+
+Ľudskosť rozvíjam empatiou.
+
+Empatia mi pomáha spájať sa so sebou samým a s ostatnými ľuďmi a rozumieť dobrým dôvodom, pocitom a potrebám, prečo ľudia robia to, čo robia.
+
+Empatia lieči rany na duši rýchlejšie a do väčšej hĺbky než psychoanalýza, pretože empatia sa zameriava na prítomnosť. Pri psychoanalýze sa rozpráva o minulosti, lenže rozprávanie o minulosti a jej analyzovanie spomaľuje liečbu a môže jej dokonca brániť. Psychoanalýza poskytuje skôr intelektuálne porozumenie než emocionálne liečenie: súcit - empatiu.
+
+Empatia je súčasťou emocionálnej inteligencie.
+
+Lenže väčšina škôl a väčšina pedagógov používa praktiky, ktoré bránia rozvoju empatie a emocionálnej inteligencie. Veď akoby aj mohli. Pedagógovia sa trápia, lebo oni sami nevedia veľa o emocionálnej inteligencii a jej dôležitosti, a aj väčšina školských inštitúcii je  navrhnutá tak, aby kládli väčší dôraz na výkon, výsledky, súťaživosť, povinnosť a poslušnosť, než na starostlivosť, ochotu, dobrovoľnosť, súcit a zodpovednosť.
+
+A namiesto altruistických ľudí vychovávajú ľudí sebeckých. Lebo, čo sa asi študent naučí? *Že ostatní ľudia sú potencionálnou prekážkou k jeho/jej úspechu.* A, že *ja dokážem uspieť iba vtedy, keď druhí zlyhajú.* link:???[Alfie Kohn - OFJCC], link:???[Daniel Markovits - Excellence vs Superiority]
+
+V takomto prostredí potom trpia nielen študenti, ale aj učitelia a vedenie. Podobne vo firmách, trpia zamestnanci aj menežéri, ktorí vyznávajú túto ideológiu.
+
+Som presvedčený, že nízka úroveň emocionálnej inteligencie umožňuje, aby sa takýto systém udržal.
+
+A chcem sa vedieť smiať na svojich chybách. Chcem sa učiť zo svojich chýb a prestať sa nenávidieť za to, že robím chyby.
+
+Výrazne mi v tom pomohlo štúdium a tréning nenásilnej komunikácie. Začal som v auguste 2019 _(14.8.2019)_. Pokračujem až dodnes. Vždy, keď ju použijem, uľaví sa mi. Máloktorá technika, ktorú som kedy skúšal bola tak spoľahlivá, ako je táto. Nenásilná komunikácia zvyšuje moju emocionálnu inteligenciu, vnímavosť, duševný pokoj a rovnováhu. Dáva mi nádej, že veci môžu byť aj inak. Lepšie. Udržateľné. Prospešné pre všetkých. Nielen iba pre elitu.
 
 == Notes
 
