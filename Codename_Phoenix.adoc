@@ -14,7 +14,7 @@ The needs is *the only reason*, why I'm feeling the way I'm feeling. Not the act
 
 What is a need? / Was ist ein Bedürfnis?
 * Life seeking expression within oneself.
-* Manifestation of the divine energy in each living being.
+* Manifestation of the divine energy in each living phenomenon.
 
 ---
 
@@ -49,8 +49,9 @@ What is a need? / Was ist ein Bedürfnis?
 * light / das Licht / svetlo
 * sunlight / Sonnenlicht / slnečné svetlo
 * hygiene / Hygiene / hygiena
-* _pain / Schmerz_ / bolesť
-* _illness / Krankheit_ / choroba
+* environment / Umwelt / prostredie
+* _pain / Schmerz / bolesť_
+* _illness / Krankheit / choroba_
 
 ---
 
@@ -154,7 +155,7 @@ What is a need? / Was ist ein Bedürfnis?
 * completeness / Vollständigkeit / úplnosť
 * holism / der Holismus / celostnosť
 * depth / die Tiefe / hĺbka
-* uniformity (in Data) / Uniformität, Einheitlichkeit / uniformita
+* uniformity (in Data) / Uniformität, Einheitlichkeit, Gleichmäßigkeit / uniformita
 * readability / Lesbarkeit / čitateľnosť
 * brevity / Kürze / stručnosť
 * thoroughness / Gründlichkeit / dôkladnosť
@@ -230,7 +231,7 @@ What is a need? / Was ist ein Bedürfnis?
 * inventiveness / Ideenreichtum / nápaditosť
 * play / Spiel / hra
 * beauty / Schönheit / krása
-* inspiration / Inspiration
+* inspiration / Inspiration / inšpirácia
 * art / Kunst / umenie
 * challenge / Herausforderung / výzva
 * discovery / Entdeckung / objav
@@ -262,8 +263,8 @@ What is a need? / Was ist ein Bedürfnis?
 * cohesion / Kohäsion / kohézia, súdržnosť
 * coupling / Kopplung / väzbovosť
 * match / Übereinstimmung / zhoda
-* roughness / Rouheit / drsnosť
-* smoothness / Glätte / plynulosť, hladkosť
+* roughness / Rauheit / drsnosť
+* smoothness / Glätte / hladkosť
 * diversity / Vielfalt(igkeit) / rôznorodosť, diverzita
 * transparency / Durchsichtigkeit / priehľadnosť
 * [line-through]#productivity / Produktivität / produktivita#
@@ -284,7 +285,7 @@ What is a need? / Was ist ein Bedürfnis?
 * trustworthiness / Glaubwürdigkeit / dôveryhodnosť
 * spirituality / Spiritualität / spiritualita
 * lightness / Leichtigkeit / ľahkosť
-* fluency / Flüssigkeit / plynulosť
+* fluency, smoothness / Flüssigkeit / plynulosť
 * gracefulness / Anmut / ladnosť
 * endurance / Ausdauer / vytrvalosť
 * naturalness / Natürlichkeit / prírodnosť, prirodzenosť
@@ -330,21 +331,19 @@ What is a need? / Was ist ein Bedürfnis?
 * voluntariness / Freiwilligkeit / dobrovoľnosť
 * willingness / Bereitschaft / ochota
 
-== Feelings at unfulfilled needs
+== Feelings at unfulfilled needs (Sweet pain - Girrafe mourning)
 
 What needs of mine are not being met?
 
 What needs of the other are not being met?
-
-*Sweet pain - Girrafe mourning*
 
 * terrified / erschrocken / vystrašený (vystrašiť, báť sa)
 * frightened / verängstigt / vystrašený (vystrašiť)
 * alarmed / erschrocken / vystrašený (vystrašiť)
 * scared / erschrocken / vyľakaný (vyľakať)
 * anxious / besorgt / ustarostený (robiť si starosti, mať starosti, obávať sa)
-* fearful / ängstlich / ustarostený ustarostený (robiť si starosti, mať starosti, obávať sa)
-* concerned / bekümmert / ustarostený ustarostený (robiť si starosti, mať starosti, obávať sa)
+* fearful / ängstlich / ustarostený (robiť si starosti, mať starosti, obávať sa)
+* concerned / bekümmert / ustarostený (robiť si starosti, mať starosti, obávať sa)
 * worried / besorgt / ustarostený (robiť si starosti, mať starosti, obávať sa)
 * shocked / schockiert / šokovaný (šokovať)
 * surprised / überrascht / prekvapený (prekvapiť)
@@ -372,7 +371,9 @@ What needs of the other are not being met?
 * exhausted / erschöpft / vyčerpaný (vyčerpať)
 * regretful / bedauernd / byť ľúto
 * helpless / hilflos, ratlos / bezradný (nevedieť si rady, nevedieť si poradiť)
-* powerless / machtlos / bezmocný
+* powerless (often misunderstood as _stress_) / +
+machtlos (häufig verwechselt mit _Stress_) / +
+bezmocný (často zamieňaný so _stresom_)
 * disappointed / enttäuscht / sklamaný (sklamať)
 * sad / traurig / smutný (smútiť)
 * hurt / verletzt / ranený, zranený, dotknutý
@@ -381,7 +382,7 @@ What needs of the other are not being met?
 * vulnerable / verletzlich / zraniteľný
 * leiden / suffer / trpieť
 * suffer / sich quälen / trápiť sa
-* pain / der Schmerz(en) / bolesť
+* pain / der Schmerz / bolesť
 
 *Bitter pain - Alarm feelings / Bittere Schmerzen - Weckgefühle*
 
@@ -470,7 +471,7 @@ link:...[Source]
 * wronged
 * resentful
 
-*Not feelings - Moralistic judgements*
+*Not feelings - Moralistic judgements - Social constructs*
 
 * smart
 * dumb
@@ -545,16 +546,16 @@ How do I want to feel? [RPM]
 
 ---
 
-[line-through]#Ich kann meine Gefühle beschreiben, die ich bei meinen Traumaktivitäten erleben möchte, weil ich nicht den Wortschatz an Gefühle habe. Ich brauche mir die Äußerung meiner Gefühle erreichern. Ich brauche die Fähigkeit, die Gefühle in mir bewusst werden und sie benennen. Dann kann ich mir an maine Traumgefühle erinnern und sie gleich wiederherstellen.#
+[line-through]#(November 2019) Ich kann meine Gefühle beschreiben, die ich bei meinen Traumaktivitäten erleben möchte, weil ich nicht den Wortschatz an Gefühle habe. Ich brauche mir die Äußerung meiner Gefühle erreichern. Ich brauche die Fähigkeit, die Gefühle in mir bewusst werden und sie benennen. Dann kann ich mir an maine Traumgefühle erinnern und sie gleich wiederherstellen.#
 
 ---
 
 Flow - a state of optimal human performance and happiness +
-optimal human performance = happiness link:...[(Cedric Dumont - TEDx; Flow - Mihály Csíkszentmihályi)]
+*_optimal human performance_* means the same as *_happiness_* link:...[(Cedric Dumont - TEDx; Flow - Mihály Csíkszentmihályi)]
 
 Celebration of life / Feier des Lebens / oslava života
 
-link:https://sci-hub.st/10.1080/10413200290103545[The Dream - *Dream Feelings*: Doug Newburg]
+link:https://sci-hub.st/10.1080/10413200290103545[The Dream - Dream Feelings: Doug Newburg]
 
 link:...[Nonviolent Communication (NVC) - Feelings at fulfilled needs]
 
@@ -570,7 +571,7 @@ spreche, mit jemandem spreche, schreibe, zuhöre, mich dusche, mich mit kaltem W
 
 ^^ Das mache ich...
 
-... und so will ich mich dabei fühlen:
+\... und so will ich mich dabei fühlen:
 
 * free / frei / voľný, slobodný
 * relaxed / entspannt / uvoľnený
@@ -661,7 +662,7 @@ spreche, mit jemandem spreche, schreibe, zuhöre, mich dusche, mich mit kaltem W
 * Intensity vs Consistency - link:???[Simon Sinek]
 * To deserve something vs To need something (me)
 * Robustness vs Perfection link:https://www.youtube.com/watch?v=kzHrBM6CHfE&feature=youtu.be&t=1889[An Interview with Elinor Ostrom: 31:29-31:53]
-* Participatory Democracy, Democratic Confederalism, Communalism, Stateless Democracy and Anarchist Communism, vs Autocracy, Representative Democracy, Authoritarianism, Populism, Fascism, Nazism and Nationalism link:https://mesopotamia.coop/the-internal-system-of-the-communes-in-rojava/[(THE INTERNAL SYSTEM OF THE COMMUNES IN ROJAVA)]
+* Participatory Democracy, Flatpack Democracy (Frome), Democratic Confederalism, Communalism, Stateless Democracy and Anarchist Communism, vs Autocracy, Representative Democracy, Authoritarianism, Populism, Fascism, Nazism and Nationalism etc. link:https://mesopotamia.coop/the-internal-system-of-the-communes-in-rojava/[(THE INTERNAL SYSTEM OF THE COMMUNES IN ROJAVA)]
 * link:https://www.fachverband-gfk.org/wp-documents/anlage_3_schluesselunterscheidungen.pdf[und mehr Unterschiede...]
 
 Culturally learned beliefs - Life-harming beliefs:
@@ -670,6 +671,9 @@ Culturally learned beliefs - Life-harming beliefs:
 - No pain, no gain.
 - Čím väčším peklom si prejdeš, tým silnejší z toho výjdeš. Ak z toho výjdeš. - (Jaroslav Slávik, Československo má talent)
 - Tréning robí majstra.
+- Better get used to it! (BGUTI - Alfie Kohn)
+- Like it or not! (Alfie Kohn)
+- That's just how it is. link:https://veganvanguardpodcast.com/how-competition-dominates-our-lives/(Mexie - 2. The Trope of “Competition” Dominates Our Lives: 2:04-2:28)
 
 == Resonance Performance Model [RPM]
 
@@ -734,7 +738,7 @@ by Doug Newburg
 *4.) Revisiting the dream / Wiederverbindung mit dem Traum*
 
 * Reconnection with my dream feelings. / Wiederverbindung mit meinen Traumgefühlen.
-* Ask myself "how do I want to feel?". / Ich frage mich "wie ich mich fühlen will?".
+* Ask myself "How do I want to feel?". / Ich frage mich "Wie ich mich fühlen will?".
 * Revisit my feelings, needs and the dream. / Meine Gefühle, Bedürfnisse, und den Traum wiederholen
 * Revisit the feelings at unfulfilled and fulfilled needs. / Die Gefühle bei unerfüllten und erfüllten Bedürfnissen wiederholen.
 * Burn-out prevention / Ausbrennungsprävention / Prevencia proti vyhoreniu.
@@ -796,7 +800,7 @@ by Doug Newburg
     *** retributive justice is suicidal
 ** James Gilligan - Violence: Our Deadly Epidemic and its Causes
 ** Elizabeth M. Elliott - Security, with Care: Restorative Justice and Healthy Societies
-** Elinor Ostrom - The Tragedy of the Commons + Design Principles for Collective Managing of a Shared Resource - Arguments against private [land] ownership and for collective ownership and decision making
+** Elinor Ostrom - The Tragedy of the Commons + Design Principles for Collective Managing of a Shared Resource - Arguments for collective ownership and decision making and against capitalism, private [land] ownership
 ** Bruce Lipton, Peter Spork - Epigenetics
 
 == Questions
@@ -1236,9 +1240,9 @@ In 1945 Maria Montessori started to revive and reestablish her education in pres
 * As much as possible in as little time as possible vs The best of possible in whatever time necessary to do it. link:https://www.youtube.com/watch?v=bux3TJWvyqE&feature=youtu.be&t=98[(Manfred Max-Neef - The Benefits of a Slow Life: 1:38-1:51)]
 
 * _Book - James Gilligan - Violence: Our Deadly Epidemic and its Causes_. +
-Every act of violence somewhere is an attempt to create justice to right a wrong that happened before. That wrong may happen two seconds before or might have happened 50 years before. But there's somewhere in the person's deep organism some wrong that have happend that needs to be righted, and the violence is an expression of that. Now we can all understand the pull to justice *but why does it go to violence rather than to other means? Because we feel shame. All the people that he had talked with essentially without exception were carrying boatloads of shame* in them about who they are, about what has happened to them, about what they want, and most particulary, about anything that had to do with tenderness, with any need for love, for connection, for appreciation.* They had so much shame about it. One of the things that are so clear coming out of this is that *punishment makes things worse because it increases shame. If shame is at the root of violence, punishment is not going to work. It only going to make the person get into a deeper loop* about who they are now. "Not only I'm ashamed about everything else, now I'm ashamed about the things that I've done and I've been punished,  I've been ostricized, there's  no room for me." link:https://www.youtube.com/watch?v=msWYVhmuQhw&feature=youtu.be&t=604[(Albany Addresses Bullying: Miki Kashtan: A Compassionate Perspective on Bullying 3/5/2011: 10:04-12:43)]
+Every act of violence somewhere is an attempt to create justice to right a wrong that happened before. That wrong may happen two seconds before or might have happened 50 years before. But there's somewhere in the person's deep organism some wrong that have happend that needs to be righted, and the violence is an expression of that. Now we can all understand the pull to justice *but why does it go to violence rather than to other means? Because we feel shame. All the people that he had talked with essentially without exception were carrying boatloads of shame* in them about who they are, about what has happened to them, about what they want, and most particulary, about anything that had to do with tenderness, with any need for love, for connection, for appreciation.* They had so much shame about it. One of the things that are so clear coming out of this is that *punishment makes things worse because it increases shame. If shame is at the root of violence, punishment is not going to work. It only going to make the person get into a deeper loop* about who they are now. "Not only I'm ashamed about everything else, now I'm ashamed about the things that I've done and I've been punished,  I've been ostricized, there's no room for me." link:https://www.youtube.com/watch?v=msWYVhmuQhw&feature=youtu.be&t=604[(Albany Addresses Bullying: Miki Kashtan: A Compassionate Perspective on Bullying 3/5/2011: 10:04-12:43)]
 
-* [Shame] is not only now more common, its purpose has shifted from protecting the group [,i.e. the community] to protecting the powerful. So *most of us walk around with some degree of shame that is just there in the background that keeps us from doing things.* And *we get shamed for what we want. If you look at early childhood, you are made to be ashamed for wanting what you want, for moving spontaneously, for going for what is of direct interest to you, for saying what is true for you, everything that is about being you is put into question.* ... This is why I decided to become 100% shameless. Why is this funny? Because the word _shameless_ describes someone who is a terrible person, totally outside of the norm. It's as if we're told that having a certain amount of shame, constatly, is a good thing. link:https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=2029[Miki Kashtan - Social Change Series – Liberation in Three Chapters - 1: 33:49-34:40, 34:51-35:23]
+* [Shame] is not only now more common, its purpose has shifted from protecting the group [,i.e. the community] to protecting the powerful. So *most of us walk around with some degree of shame that is just there in the background that keeps us from doing things.* And *we get shamed for what we want. If you look at early childhood, you are made to be ashamed for wanting what you want, for moving spontaneously, for going for what is of direct interest to you, for saying what is true for you, everything that is about being you is put into question.* ... This is why I decided to become 100% shameless. Why is this funny? Because the word _shameless_ describes someone who is a terrible person, totally outside of the norm. It's as if we're told that having a certain amount of shame, constatly, is a good thing. link:https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=2029[Miki Kashtan - Social Change Series – Liberation in Three Chapters - 1: 33:49-34:40, 1:34:51-1:35:23]
 
 * Authorities figures tend just by nature to use shame. link:https://www.youtube.com/watch?v=2KXwnbsQUrI&feature=youtu.be&t=123[(Restorative Justice Continuum - Howard Zehr Ph.D EM 2:03-2:12)]
 
@@ -1606,6 +1610,17 @@ Emotional intelligence, empathy and the idea of communism look to me very simila
 
 ---
 
+Stres nie je pocit. Stres je úsudok. +
+... +
+...
+
+
+stres = napätie + bezmocnosť +
+Stress = Anspannung + Machtlosigkeit +
+stress = tension + powerlessness
+
+---
+
 *Paradox*: I'm ashamed when I speak to a girl, that I'm not good enough for her, and she's ashamed as well because she thinks she doesn't deserve love and is ashamed of her beauty.
 
 ---
@@ -1621,7 +1636,7 @@ stav horiacej zúrivosti ???
 
 ---
 
-Čo je to _svedomie_ / Gewissen / [kenne nicht den Englischen Äquivalent :P ] ???
+Čo je to _svedomie_ / Gewissen / conscience?
 
 ---
 
@@ -1695,8 +1710,8 @@ Ej! A budeme mať popiči život :D Bardzo zajebisty!
 
 ---
 
-*Chcieť môžeš.* Marshall Bertram Rosenberg +
-*Snívaj ďalej.* Doug Newburg
+*Chcieť môžeš.* Marshall Bertram Rosenberg - parody +
+*Snívaj ďalej.* Doug Newburg - parody
 
 ---
 
@@ -1708,3 +1723,10 @@ Ich gehe aus meiner eigenen Erfahrung aus. In der Grundschule, am Gymnasium, an 
 Ich will es beschleunigen. Ich möchte gewaltfreie Erziehung, Kommunikation, Ausbildung und Management erleben. Ich will gewaltfrei leben.
 
 ---
+
+https://www.rtvs.sk/televizia/archiv/13986/240457#973
+
+---
+
+Why the life is not fair? +
+Because the world is driven by capitalism which supports meritocracy.
