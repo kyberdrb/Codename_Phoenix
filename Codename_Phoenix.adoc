@@ -55,9 +55,9 @@ What is a need? / Was ist ein Bedürfnis?
 
 ---
 
-* *protection / die Schutz / ochrana*
+* *protection / die Schutz, Geborgenheit / ochrana*
 * stability / Stabilität / stabilita
-* safety / Sicherheit / bezpečnosť, bezpečie, istota
+* safety / Sicherheit, Geborgenheit / bezpečnosť, bezpečie, istota
 * security / Sicherheit / bezpečnosť, zabezpečenie
 * equality / Gleichheit / rovnosť
 * predictability / Vorsehbarkeit / predvídateľnosť
@@ -97,7 +97,7 @@ What is a need? / Was ist ein Bedürfnis?
 * generosity / Großzügigkeit / veľkorysosť
 * support / Unterstützung / podpora
 * communication / Kommunikation / komunikácia
-* friendship / Freundlichkeit / priateľstvo
+* friendship / Freundschaft / priateľstvo
 * mourning / Trauern / smútenie
 * consideration / Rücksicht / ohľad
 * respekt / Respekt / rešpekt
@@ -185,8 +185,6 @@ What is a need? / Was ist ein Bedürfnis?
 * presence / Anwesendheit / prítomnosť
 * sharing / Teilen / zdieľanie
 * inclusion / Integration / integrácia, začlenenie
-* altruism / Altruismus / altruizmus
-* solidarity / Solidarität / solidarita
 * common good / Gemeinwohl / verejné blaho
 * [line-through]#competition / Wettbewerb / súťaž#
 * [line-through]#competition / Konkurenz / konkurencia#
@@ -198,7 +196,6 @@ What is a need? / Was ist ein Bedürfnis?
 * serenity / Gelassenheit / pokoj
 * peace / Frieden / mier
 * rest / Erholung / oddych
-* joy / Freude / radosť
 * harmony / Harmonie / harmónia
 * calmness / Ruhe / pokoj
 * awareness / Aufmerksamkeit / pozornosť
@@ -211,13 +208,12 @@ What is a need? / Was ist ein Bedürfnis?
 * softness / Weichheit / mäkkosť
 * culture / Kultur / kultúra
 * silence / Stille / ticho
-* contentment / Zufriedenheit / spokojnosť
 * relaxation / Entspannung / uvoľnenie
 * well-being / Wohlergehen, Wohlbefinden / blaho, spokojnosť
 * relax / Erholung / oddych
 * comfort / Bequemheit / pohodlie
 * gratification / Befriedigung / uspokojenie
-* satisfaction / Zufriedenheit / spokojnosť
+* contentment, satisfaction / Zufriedenheit / spokojnosť
 * balance / Gleichgewicht / rovnováha
 * gentleness / Sanftheit / jemnosť
 * agility / Beweglichkeit / pohyblivosť
@@ -302,6 +298,9 @@ What is a need? / Was ist ein Bedürfnis?
 * habit / Gewohnheit / zvyk
 * courage / Mut / odvaha
 * responsibility / Verantwortung / zodpovednosť
+* altruism / Altruismus / altruizmus
+* solidarity / Solidarität / solidarita
+* humanity / die Menschlichkeit / ľudskosť
 * order / Ordnung / poriadok
 * consentual rules / gemeinsam bestimmte Regeln / spoločne stanovené pravidlá
 * [line-through]#rules / Regeln / pravidlá#
@@ -331,7 +330,7 @@ What is a need? / Was ist ein Bedürfnis?
 * voluntariness / Freiwilligkeit / dobrovoľnosť
 * willingness / Bereitschaft / ochota
 
-== Feelings at unfulfilled needs (Sweet pain - Girrafe mourning)
+== Feelings at unfulfilled needs (Sweet pain - Girrafe mourning) / Gefühle bei unerfüllten Bedürfnissen
 
 What needs of mine are not being met?
 
@@ -390,9 +389,7 @@ Disconnected from needs / Unterbunden von Bedürfnissen
 
 * *angry / ärgerlich / nahnevaný (hnevať sa)*
 * indignant / empört / rozhorčený (rozhorčiť sa)
-* furious / wütend / zúrivý (zúriť)
-* mad / zornig / zúrivý (zúriť)
-* enraged / aufgebracht / zúrivý (zúriť)
+* furious, mad, enraged / wütend, zornig, aufgebracht / zúrivý (zúriť)
 * hating / hassend / nenávidiaci, nenávistný (nenávidieť)
 * *depressed / deprimiert (in Depression fallen) / deprimovaný (upadnúť do depresie)*
 * *guilty / schuldig / vinný*
@@ -688,30 +685,24 @@ by Doug Newburg
 *Dream feelings / Traumgefühle:* +
 
 * joy of learning / Freude an Lernen
-* joyful creativity / fröhliche Kreativität
+* courage to make mistakes / Mut, Fehler zu machen
 * relaxed speed / entspannte Geschwindigkeit
 * easy effort / einfache Mühe
 * persistence of steel / Ausdauer aus Stahl
-* joyful persistence / fröhliche Ausdauer
 * connection to feelings and needs under all circumstances / Verbindung mit Gefühlen und Bedürfnissen unter allen Umständen
 * empathic connection before correction / empathische Verbindung vor der Korrektur
 * fast reflexes / schnelle Reflexe
 * huge and accurate memory / riesengroßes und genaues Gedächtnis
 * energy of a powerhouse / Energie eines Kraftwerkes
 * empathy for everyone everytime / Empathie für jeden jederzeit
-* tough-minded optimism / hart-gesinnter Optimismus
-* deep focus / tiefe Konzentration
-* educated risk-taking / ausgebildete Risikoannahme
 * calm limbs / ruhige Glieder
+* quick reading with understanding / schnelles Lesen mit Verständnis
 * energy without violence - joyful energy / Energie ohne Gewalt - freudvolle Energie
 * success without victory - collective success / Erfolg ohne Sieg - gemeinsamer Erfolg
 * programming with joy and lightness / Programmieren mit Freude und Leichtigkeit
 * empathy with the ease of a hot knife cutting through a butter / Empathie mit der Leichtigkeit eines Messers, das durch die Butter geht
 * joy of every single line of code that I write / Freude an jeder Zeile des Codes, die ich schreibe
 * fulfilment of my needs that will be more effective and less costly to my and other people / die Erfüllung meiner Bedürfnisse, die effektiver und weniger kostlich für mich und andere Menschen ist
-* fast reflexes / schnelle Reflexe
-* calm limbs / ruhige Glieder
-* quick reading with understanding / schnelles Lesen mit Verständnis
 
 *2.) Preparation / Vrobereitung*
 
@@ -733,7 +724,7 @@ by Doug Newburg
 * Burn-out spiral / Ausbrennungsspirale
 * Lose of interest, energy, meaning, intrinsic motivation
 * Depression
-* ...
+* ???
 
 *4.) Revisiting the dream / Wiederverbindung mit dem Traum*
 
@@ -793,6 +784,7 @@ by Doug Newburg
 ** Mark Shepard - Permaculture; Buch: Restoration Agriculture
 ** Peter Kropotkin (Pyotr Alexeyevich Kropotkin) - Anarcho-Communism, Anarchist Communism, Kommunistischer Anarchismus; Bücher: Anarchist Communism: Its Basis and Principles; The Conquest of Bread
 ** David Harvey - Buch: Contradiction of Capitalism
+** Ha-Joon Chang - Buch: 23 Thing They Don't Tell You About Capitalism
 ** Samuel P. Oliner, Pearl M. Oliner - Buch: _The Altruistic Personality: Rescuers of Jews in Nazi Europe_
 ** Sepp Holzer - Permakultur; Buch: Zahrada k nakousnuti
 ** Walter Kaufmann - Without Guilt and Justice: From Decidophobia to Autonomy
@@ -1563,9 +1555,21 @@ Doktori to vzdali. Skúšali všetko možné. Nakoniec mi povedali: "Nevieme lie
 
 Ja som bol zúfalý a vyčerpaný z choroby. Lekári tiež. Tak som po dvoch rokoch prevzal zodpovednosť za svojou liečbu do vlastných rúk.
 
-Do ďalších dvoch rokoch sa môj zdravotný stav výrazne zlepšil. Mal som šťastie.
+Do ďalších dvoch rokoch sa môj zdravotný stav výrazne zlepšil. Asi som mal šťastie. Ale liečba psychosomatickej choroby, syndrómu dráždivého čreva (IBS - Irritable Bowel Syndrome), je komplikovaná a zdĺhavá. A nie len vnútorné, ale aj vonkajšie prostredie, hrá rovnako významnú úlohu pri liečbe. Toto tvrdenie potvrdzuje aj vedecká disciplína *epigenetika*. Ak naozaj vonkajšie prostredie ovplyvňuje biológiu človeka, t. j. jeho epigenóm, potom dokážeme vytvoriť vzťah medzi spoločnosťou a zdravím človeka, a medzi telom a dušou človeka, jeho pocitmi, potrebami, zážitkami, vnímaním vonkajšieho prostredia.
 
-Chcel som si konečne začať užívať život, potom, čo som asi šesť krát vyhorel. Asi som vymyslel prevenciu proti vyhoreniu a zachovanie radosti zo života. Ale berte to s rezervou: žiadne, že buď 100% garancia spokojnosti, alebo vrátenie peniazí ;) Ale pomohlo mi to začať odznova. Prekonať depriesie. Menej sa nenávidieť za chyby :/ A vylieči sa z choroby, keď lekári hovorili, že ma nevedia vyliečiť.
+Čo vytvára našu realitu?
+
+* Výchova
+* Vzdelanie
+* Vonkajšie prostredie
+** Médiá
+** Spoločnosť
+** Inštitúcie
+** Náboženstvo
+
+A teraz, vďaka epigenetike vieme zmerať, od ako vonkajšie prostredie vplýva na zdravie človeka. Vieme vytvoriť spojenie medzi spoločenskými vplyvmi a biológiou človeka. link:???[(Peter Spork - Gesundheit is kein Zufall)], link:???[(Zitat)]
+
+Chcel som si konečne začať užívať život, potom, čo som asi šesť krát vyhorel. Asi som vymyslel prevenciu proti vyhoreniu a zachovanie radosti zo života. Ale berte to s rezervou: žiadne, že buď 100% garancia spokojnosti, alebo vrátenie peniazí ;) Ale pomohlo mi to začať odznova. Postupne prekonávať depriesie. Menej sa nenávidieť za chyby :/ A pomaly sa liečiť z chorôb, keď lekári hovorili, že ma nevedia vyliečiť.
 
 *I just want to be healthy and live well! Do I want so much?!link:https://www.fileformat.info/info/unicode/char/203d/index.htm[‽]*
 
@@ -1575,7 +1579,7 @@ Lebo môžem byť neviemaký odborník, keď neviem vychádzať s ľuďmi.
 
 To ma vždy bude vyrušovať pri učení sa čohokoľvek odborného.
 
-Chcem sa cítiť dobre medzi ostatnými ľuďmi.
+Chcem sa cítiť dobre s druhými ľuďmi.
 
 Odbornosť nie je všetko. Odbornosť je jedna časť.
 
@@ -1595,7 +1599,7 @@ A namiesto altruistických ľudí vychovávajú ľudí sebeckých. Lebo, čo sa 
 
 V takomto prostredí potom trpia nielen študenti, ale aj učitelia a vedenie. Podobne vo firmách, trpia zamestnanci aj menežéri, ktorí vyznávajú túto ideológiu.
 
-Som presvedčený, že nízka úroveň emocionálnej inteligencie umožňuje, aby sa takýto systém udržal.
+Som presvedčený, že nízka úroveň emocionálnej inteligencie a hrozba násilím umožňuje, aby sa takýto systém udržal.
 
 A chcem sa vedieť smiať na svojich chybách. Chcem sa učiť zo svojich chýb a prestať sa nenávidieť za to, že robím chyby.
 
@@ -1730,3 +1734,7 @@ https://www.rtvs.sk/televizia/archiv/13986/240457#973
 
 Why the life is not fair? +
 Because the world is driven by capitalism which supports meritocracy.
+
+---
+
+No one deserves anything. But everybody needs something. Everybody needs the same things. What differs immensely is the strategies in which we fulfil our needs.
