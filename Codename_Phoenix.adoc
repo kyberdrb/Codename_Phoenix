@@ -49,7 +49,7 @@ What is a need? / Was ist ein Bedürfnis?
 * light / das Licht / svetlo
 * sunlight / Sonnenlicht / slnečné svetlo
 * hygiene / Hygiene / hygiena
-* environment / Umwelt / prostredie
+* environment / Umwelt, Umgebung / prostredie
 * _pain / Schmerz / bolesť_
 * _illness / Krankheit / choroba_
 
@@ -59,9 +59,11 @@ What is a need? / Was ist ein Bedürfnis?
 * stability / Stabilität / stabilita
 * safety / Sicherheit, Geborgenheit / bezpečnosť, bezpečie, istota
 * security / Sicherheit / bezpečnosť, zabezpečenie
+* order / Ordnung / poriadok
 * equality / Gleichheit / rovnosť
 * predictability / Vorsehbarkeit / predvídateľnosť
 * power (with) / Macht (mit) / moc (s)
+* direct democracy / direkte Demokratie / priama demokracia
 * strength / Kraft / sila
 * protective use of force / beschützende Nutzung der Kraft / použitie sily na obranu
 * protecting the nature / Umweltschutz / ochrana prírody
@@ -71,7 +73,7 @@ What is a need? / Was ist ein Bedürfnis?
 * durability / Haltbarkeit / trvácnosť
 * robustness / Robustheit / odolnosť, robustnosť
 * recycling / Wiederverwendung / recyklácia, znovupoužiteľnosť
-* cautiousness / Vorsichtigkeit / opatrnosť
+* cautiousness, carefulness / Vorsichtigkeit / opatrnosť
 * economy, thrift / Sparsamkeit / úspornosť, šetrnosť
 * justice, fairness, equity / Gerechtigkeit / spravodlivosť
 * compensation / Ausgleich / kompenzácia, odškodnenie - nie ako odplata alebo trest, ale ako pomoc pri napĺňaní nenaplnených potrieb pre niekoho iného
@@ -94,6 +96,8 @@ What is a need? / Was ist ein Bedürfnis?
 * connection / Verbindung / spojenie, kontakt
 * empathy _(Giraffe Dance)_ / Empathie (Precondition: courage / Mut) / empatia, súcit
 * honesty _(Giraffe Dance)_ / Ehrlichkeit (Precondition: vulnerability / Verletzlichkeit) / úprimnosť
+* reassurance / Beschwichtigung / uistenie, utešenie
+* help / Hilfe / pomoc
 * generosity / Großzügigkeit / veľkorysosť
 * support / Unterstützung / podpora
 * communication / Kommunikation / komunikácia
@@ -102,23 +106,23 @@ What is a need? / Was ist ein Bedürfnis?
 * consideration / Rücksicht / ohľad
 * respekt / Respekt / rešpekt
 * honor / Ehre / úcta
-* control / Kontrolle / kontrola - možnosť ovplyvniť prostredie okolo seba
-* reassurance / Beschwichtigung / uistenie
-* importance / Wichtigkeit / dôležitosť (potrieb)
+* dignity / Würde / dôstojnosť
+* tolerance / Toleranz / tolerancia
+* importance (of my needs) / Wichtigkeit (meiner Bedürfnisse) / dôležitosť (potrieb)
 * consciousness that my needs matter, that my needs are important and taken into consideration / Bewusstsein, dass meine Bedürfnisse wichtig sind, und in Frage genommen sind / vedomie, že na mojich potrebách záleží, že moje potreby sú dôležité a brané do úvahy
 * relationships / Beziehungen / vzťahy
-* tolerance / Toleranz / tolerancia
 * nurturing, upbringing / Erziehung / výchova
-* help / Hilfe / pomoc
-* dignity / Würde / dôstojnosť
 * _recognition, acknowledgement / Anerkennung / uznanie_
 * _appretiation / Wertschätzung / ocenenie_
 * _gratitude / Dankbarkeit / vďačnosť_
-* [line-through]#apology (masked need for *empathy*: link:...[Marshall Rosenberg - Making Life Wonderful ???-which part???]), When we empathize, there is nothing to forgive. link:???[(SELF EMPATHY)], Forgiveness and empathy are the same thing [in the language of life.] link:???[(SELF EMPATHY)] / Verzeihung / ospravedlnenie#
+* [line-through]#apology Verzeihung / ospravedlnenie#
+** (*masked need for empathy*: link:...[Marshall Rosenberg - Making Life Wonderful ???-which part???]), When we empathize, there is nothing to forgive. link:???[(San Fran Workshop)], Forgiveness and empathy are the same thing [in the language of life.] link:???[(SELF EMPATHY)]
 * [line-through]#approval / Genehmigung / dovolenie, odobrenie#
 * [line-through]#affirmation / Bestätigung / potvrdenie#
 * [line-through]#sex / Geschlechtsverkehr#
 * [line-through]#sexuality / Sexualität / sexualita#
+* [line-through]#duty, obligation / die Pflicht / nutnosť, povinnosť#
+* [line-through]#commitment / Verpflichtung / obetavosť, oddanosť#
 
 ---
 
@@ -147,6 +151,7 @@ What is a need? / Was ist ein Bedürfnis?
 * understandability, clarity / Verständlichkeit, Klarheit / zrozumiťeľnosť
 * education / Ausbildung / vzdelanie
 * overview / Überblick / prehľad
+* control / Kontrolle / kontrola - možnosť ovládať prostredie okolo seba
 * explanation / Erklärung / vysvetlenie
 * knowledge / Kenntnise / vedomosti
 * expertise / Fachkenntnisse / odborné znalosti, odbornosť, expertíza
@@ -184,7 +189,8 @@ What is a need? / Was ist ein Bedürfnis?
 * cooperation / Zusammenarbeit / spolupráca
 * presence / Anwesendheit / prítomnosť
 * sharing / Teilen / zdieľanie
-* inclusion / Integration / integrácia, začlenenie
+* inclusion / Einbeziehung / začlenenie
+* integration / Integration / integrácia
 * common good / Gemeinwohl / verejné blaho
 * [line-through]#competition / Wettbewerb / súťaž#
 * [line-through]#competition / Konkurenz / konkurencia#
@@ -203,7 +209,7 @@ What is a need? / Was ist ein Bedürfnis?
 * mindfulness / Achtsamkeit / vnímavosť
 * fun / Spaß / zábava
 * humor / Humor
-* amusement / Vergnügen / potešenie
+* amusement / Vergnügen / potešenie, zábava
 * enjoyment / Genuss / pôžitok
 * softness / Weichheit / mäkkosť
 * culture / Kultur / kultúra
@@ -301,7 +307,6 @@ What is a need? / Was ist ein Bedürfnis?
 * altruism / Altruismus / altruizmus
 * solidarity / Solidarität / solidarita
 * humanity / die Menschlichkeit / ľudskosť
-* order / Ordnung / poriadok
 * consentual rules / gemeinsam bestimmte Regeln / spoločne stanovené pravidlá
 * [line-through]#rules / Regeln / pravidlá#
 * [line-through]#power (over) / Macht (über) / moc (nad)# link:...[Ökonomische Pseudowerte: https://www.youtube.com/watch?v=7mRe1ntgbj8&feature=youtu.be&t=1260]
@@ -381,7 +386,7 @@ bezmocný (často zamieňaný so _stresom_)
 * vulnerable / verletzlich / zraniteľný
 * leiden / suffer / trpieť
 * suffer / sich quälen / trápiť sa
-* pain / der Schmerz / bolesť
+* pain (to ache) / der Schmerz (wehtun) / bolesť (bolieť)
 
 *Bitter pain - Alarm feelings / Bittere Schmerzen - Weckgefühle*
 
@@ -662,15 +667,18 @@ spreche, mit jemandem spreche, schreibe, zuhöre, mich dusche, mich mit kaltem W
 * Participatory Democracy, Flatpack Democracy (Frome), Democratic Confederalism, Communalism, Stateless Democracy and Anarchist Communism, vs Autocracy, Representative Democracy, Authoritarianism, Populism, Fascism, Nazism and Nationalism etc. link:https://mesopotamia.coop/the-internal-system-of-the-communes-in-rojava/[(THE INTERNAL SYSTEM OF THE COMMUNES IN ROJAVA)]
 * link:https://www.fachverband-gfk.org/wp-documents/anlage_3_schluesselunterscheidungen.pdf[und mehr Unterschiede...]
 
-Culturally learned beliefs - Life-harming beliefs:
+Culturally learned beliefs - Life-harming beliefs - irrational beliefs:
 
 - spare the rod, spoil the child - Bible, Proverbs 13:24, Rosenberg - Resolving conflicts with children
 - No pain, no gain.
 - Čím väčším peklom si prejdeš, tým silnejší z toho výjdeš. Ak z toho výjdeš. - (Jaroslav Slávik, Československo má talent)
 - Tréning robí majstra.
 - Better get used to it! (BGUTI - Alfie Kohn)
-- Like it or not! (Alfie Kohn)
+- Like it or not! [Alfie Kohn]
 - That's just how it is. link:https://veganvanguardpodcast.com/how-competition-dominates-our-lives/(Mexie - 2. The Trope of “Competition” Dominates Our Lives: 2:04-2:28)
+- There is no alternative. [M. Thatcher]
+- Für jeden Preis.
+- Es war schwierig zu schreiben, deshalb muss es schwierig zu sein, das zu lesen. [Kevlin Henney]
 
 == Resonance Performance Model [RPM]
 
@@ -688,8 +696,7 @@ by Doug Newburg
 * courage to make mistakes / Mut, Fehler zu machen
 * relaxed speed / entspannte Geschwindigkeit
 * easy effort / einfache Mühe
-* persistence of steel / Ausdauer aus Stahl
-* connection to feelings and needs under all circumstances / Verbindung mit Gefühlen und Bedürfnissen unter allen Umständen
+* connection to feelings and needs also under the most painful circumstances / Verbindung mit Gefühlen und Bedürfnissen auch unter den schmerzhaftesten Umständen
 * empathic connection before correction / empathische Verbindung vor der Korrektur
 * fast reflexes / schnelle Reflexe
 * huge and accurate memory / riesengroßes und genaues Gedächtnis
@@ -737,7 +744,7 @@ by Doug Newburg
 * Empathize / Fühle dich hinein
 * Empathy / Empathie
 * Nonviolent Communication - NVC / Gewaltfreie Kommunikation - GFK
-* Expressive writing link:...[(James Pennebaker - Researchgate link???)]
+* Expressive writing link:...[(James W. Pennebaker - Researchgate link???)]
 ** Showing empathy to me, my inner educator and my inner chooser through NVC - talking or writing about my feelings and needs *in the present moment*, stimulated by various events. Talking about the past is the domain of psychotherapy and doesn't contribute to the healing of the pain. The more we spend in the past, the less healing takes place.
 * How you feel is more important than what you do. +
   Wie du dich fühlst ist wichtiger als das, was du machst. +
@@ -761,7 +768,7 @@ by Doug Newburg
 ** *Kristina Zanova - Yoga; Rücken Rollen; ActiveClinic*
 ** Matus Chochlik - FRI UNIZA -> GlobalLogic
 ** Zdenko Pavlik - Scheid & Bachmann Zilina - Tankstellenabteilung -> GlobalLogic
-** James Pennebaker - Expressive writing
+** James W. Pennebaker - Expressive writing
 ** *Marshall B. Rosenberg - NVC: Nonviolent Communication*
 ** *Alfie Kohn - education, parenting*
 ** *Peter Gray - SDE: Self-Directed Education; play; Buch: Free to Play*
@@ -783,7 +790,7 @@ by Doug Newburg
 ** Carl R. Rogers - Humanistic Psychology; Humanism; Reference from M. B. Rosenberg and Alfie Kohn
 ** Mark Shepard - Permaculture; Buch: Restoration Agriculture
 ** Peter Kropotkin (Pyotr Alexeyevich Kropotkin) - Anarcho-Communism, Anarchist Communism, Kommunistischer Anarchismus; Bücher: Anarchist Communism: Its Basis and Principles; The Conquest of Bread
-** David Harvey - Buch: Contradiction of Capitalism
+** David Harvey - Buch: The 17 Contradiction of Capitalism
 ** Ha-Joon Chang - Buch: 23 Thing They Don't Tell You About Capitalism
 ** Samuel P. Oliner, Pearl M. Oliner - Buch: _The Altruistic Personality: Rescuers of Jews in Nazi Europe_
 ** Sepp Holzer - Permakultur; Buch: Zahrada k nakousnuti
@@ -792,7 +799,7 @@ by Doug Newburg
     *** retributive justice is suicidal
 ** James Gilligan - Violence: Our Deadly Epidemic and its Causes
 ** Elizabeth M. Elliott - Security, with Care: Restorative Justice and Healthy Societies
-** Elinor Ostrom - The Tragedy of the Commons + Design Principles for Collective Managing of a Shared Resource - Arguments for collective ownership and decision making and against capitalism, private [land] ownership
+** Elinor Ostrom - The Tragedy of the Commons + Design Principles for Collective Managing of a Shared Resource - Arguments for collective ownership, collective decision making, communism and anarchism, and against capitalism, private [land] ownership
 ** Bruce Lipton, Peter Spork - Epigenetics
 
 == Questions
@@ -906,14 +913,16 @@ A form of justice that concentrates on the restoring the relationships in the hu
 | Retributive Justice | Restorative Justice (H. Zehr) | Restorative Justice (M. B. Rosenberg [NVC])
 | What law was broken? | What happened during the crime? +
                          What happened before the crime? |
+                                                           - *Helping the perpetrator to empathize with the pain of the victim.* +
                                                            1.) What was the  observable behavior of the perpetrator? +
                                                            2.) What was the  observable behavior of the victim? +
-| Who broke that rule? | Why did it happen? | 1.) How did the perpetrator feel? +
-                                              2.) What needs was the perpetrator trying to meet? +
-                                              3.) How dit the victim feel? +
-                                              4.) What needs weren't met by the victim? +
-                                              5.) What needs weren't met on the part of the perpetrator?
-| What the punishment will be? | What can we do to repair the harm? | 1.) What can we do to fulfil these needs?
+                                                           3.) How dit the victim feel? +
+                                                           4.) What needs weren't met by the victim? +
+| Who broke that rule? | Why did it happen? | 1.) How is the perpetrator feeling after empathizing with the victim? +
+                                              2.) What needs weren't met on the part of the perpetrator? - *Giraffe mourning on the part of the perpetrator. Empathy with the perpetrator's inner educator* +
+                                              3.) What needs was the perpetrator trying to meet? - *Empathy with the perpetrator's inner chooser*
+| What the punishment will be? | What can we do to repair the harm? | *Searching for ways to meet everybody's needs that will be more effective and less costly.* +
+                                                                      1.) What can we do to fulfil these needs?
 |===========================
 
 ** link:https://slideplayer.com/slide/6835782/[Building Positive Relationships Through Restorative Justice - Joan Packer]
@@ -1099,7 +1108,7 @@ What happens to people if we educate them to enjoy violence?
 
 . They become nice, dead people. +
 They do what they're told by the people above. They do what their parents want. They do what their teachers want. What the bosses want. What the government wants. They are nice, dead people.
-. They become monsters.
+. Or they become monsters.
 
 The education to violence is just a temporary thing. Although it takes for approximately 5000 years. By the paleontologist Pierre Teilhard de Chardin, we are gradually returning back to the ways of living that are more natural.
 
@@ -1210,6 +1219,16 @@ In 1945 Maria Montessori started to revive and reestablish her education in pres
 
 * Leadership is not defined by the exercise of power but by the capacity to increase sense of power among those led. The most essential work of the leader is to create more leaders. link:https://scontent.fbts2-1.fna.fbcdn.net/v/t1.0-9/31781853_10156828091695628_8027792006530990080_n.png?_nc_cat=106&_nc_sid=8024bb&_nc_ohc=sdfVZfeBPpoAX84ENlX&_nc_ht=scontent.fbts2-1.fna&oh=35dff8d3e47555a204245ba9ae13be32&oe=5F25FD09[(Mary Parker Follett)]
 
+* Other critics of the homo economicus model of humanity, such as Bruno Frey, point to the excessive emphasis on extrinsic motivation (rewards and punishments from the social environment) as opposed to intrinsic motivation [not internal!]. For example, it is difficult if not impossible to understand how homo economicus would be a hero in war or would get inherent pleasure from craftsmanship. Frey and others argue that too much emphasis on rewards and punishments can "crowd out" (discourage) intrinsic motivation: paying a boy for doing household tasks may push him from doing those tasks "to help the family" to doing them simply for the reward. +
+Another weakness is highlighted by economic sociologists and anthropologists, who argue that homo economicus ignores an extremely important question, i.e. the origins of tastes and the parameters of the utility function by social influences, training, education, and the like. The exogeneity of tastes (preferences) in this model is the major distinction from homo sociologicus, in which tastes are taken as partially or even totally determined by the societal environment (see below). +
+Further critics[citation needed], learning from the broadly defined psychoanalytic tradition, criticize the homo economicus model as ignoring the inner conflicts that real-world individuals suffer, as between short-term and long-term goals (e.g., eating chocolate cake and losing weight) or between individual goals and societal values. Such conflicts may lead to "irrational" behavior involving inconsistency, psychological paralysis, neurosis, and psychic pain. Further irrational human behaviour can occur as a result of habit, laziness, mimicry and simple obedience. +
+The emerging science of "neuroeconomics" suggests that there are serious shortcomings in the conventional theories of economic rationality.[16] Rational economic decision making has been shown to produce high levels of cortisol, epinephrine and corticosteroids, associated with elevated levels of stress. It seems that the dopaminic system is only activated upon achieving the reward, and otherwise the "pain" receptors, particularly in the pre-frontal cortex of the left hemisphere of the brain show a high level of activation.[17] Serotonin and oxytocin levels are minimised, and the general immune system shows a level of suppression. Such a pattern is associated with a generalised reduction in the levels of trust. Unsolicited "gift giving", considered irrational from the point of view of homo-economicus, by comparison, shows an elevated stimulation of the pleasure circuits of the whole brain, reduction in the levels of stress, optimal functioning of the immune system, reduction in cortico-steroids and epinephrine and cortisol, activation of the substantia nigra, the striatum and the nucleus acumbens (associated with the placebo effect), all associated with the building of social trust. Mirror neurons result in a win-win positive sum game in which the person giving the gift receives a pleasure equivalent to the person receiving it.[18] This confirms the findings of anthropology which suggest that a "gift economy" preceded the more recent market systems where win-lose or risk-avoidance lose-lose calculations apply.[19] +
+Sources:+
+16 Schmitz, Sigrid; Köeszegi, Sabine T.; Enzenhofer, Bettina; Harrer, Christine (2015). "Quo vadis homo economicus? References to rationality/emotionality in neuroeconomic discourses". Recent Notes on Labor Science and Organization. University of Vienna (Universität Wien). Pdf.
+17 Rilling, J.K.; Sanfey, A.G.; Aronson, J.A.; Nystrom, L.E.; Cohen, J.D. (2004). "Opposing BOLD responses to reciprocated and unreciprocated altruism in putative reward pathways". NeuroReport. 15 (16): 2539–2543. doi:10.1097/00001756-200411150-00022. PMID 15538191.
+18 Kosfeld, M.; Heinrichs, M; Zak, P.J.; Fischbacher, U.; Fehr, E. (2005). "Oxytocin increases trust in humans". Nature. 435 (7042): 673–676. doi:10.1038/nature03701. PMID 15931222.
+19 Bowles, Samuel and Herbert Gintis "A Cooperative Species: Human Reciprocity and its Evolution" (Princeton University Press; Reprint edition)
+
 * There are three ways of dealing with difference: domination, compromise and integration. By domination only one side gets what it wants; by compromise neither side gets what it wants; by integration we find a way by which both sides may get what they wish. [NVC supports integration ;) ] link:https://www.toolshero.com/toolsheroes/mary-parker-folett/#:~:text=Mary%20Parker%20Follett%20quotes,is%20to%20create%20more%20leaders.%E2%80%9D[Mary Parker Follett], link:miki.kashtan_2020[(Miki Kashtan: Exiting the Either/Or Trap - Beyond Consensus vs. Command and Control: 30:14-32:57)]
 
 * Internalized Powerlessness: link:https://www.youtube.com/watch?v=Qvmqeeme42M&feature=youtu.be&t=1008[(Miki Kashtan: Exiting the Either/Or Trap - Beyond Consensus vs. Command and Control: 16:48-22:20)]
@@ -1231,8 +1250,8 @@ In 1945 Maria Montessori started to revive and reestablish her education in pres
 
 * As much as possible in as little time as possible vs The best of possible in whatever time necessary to do it. link:https://www.youtube.com/watch?v=bux3TJWvyqE&feature=youtu.be&t=98[(Manfred Max-Neef - The Benefits of a Slow Life: 1:38-1:51)]
 
-* _Book - James Gilligan - Violence: Our Deadly Epidemic and its Causes_. +
-Every act of violence somewhere is an attempt to create justice to right a wrong that happened before. That wrong may happen two seconds before or might have happened 50 years before. But there's somewhere in the person's deep organism some wrong that have happend that needs to be righted, and the violence is an expression of that. Now we can all understand the pull to justice *but why does it go to violence rather than to other means? Because we feel shame. All the people that he had talked with essentially without exception were carrying boatloads of shame* in them about who they are, about what has happened to them, about what they want, and most particulary, about anything that had to do with tenderness, with any need for love, for connection, for appreciation.* They had so much shame about it. One of the things that are so clear coming out of this is that *punishment makes things worse because it increases shame. If shame is at the root of violence, punishment is not going to work. It only going to make the person get into a deeper loop* about who they are now. "Not only I'm ashamed about everything else, now I'm ashamed about the things that I've done and I've been punished,  I've been ostricized, there's no room for me." link:https://www.youtube.com/watch?v=msWYVhmuQhw&feature=youtu.be&t=604[(Albany Addresses Bullying: Miki Kashtan: A Compassionate Perspective on Bullying 3/5/2011: 10:04-12:43)]
+* *_Book - James Gilligan - Violence: Our Deadly Epidemic and its Causes_*. +
+Every act of violence somewhere is an attempt to create justice to right a wrong that happened before. That wrong may happen two seconds before or might have happened 50 years before. But there's somewhere in the person's deep organism some wrong that have happend that needs to be righted, and the violence is an expression of that. Now we can all understand the pull to justice *but why does it go to violence rather than to other means? Because we feel shame. All the people that he had talked with essentially without exception were carrying boatloads of shame* in them about who they are, about what has happened to them, about what they want, and most particulary, about anything that had to do with tenderness, with any need for love, for connection, for appreciation.* They had so much shame about it. One of the things that are so clear coming out of this is that *punishment makes things worse because it increases shame link:https://cassandravoices.com/current-affairs/global/special-report-punitive-policies-inflict-further-exclusion-and-trauma-on-syrian-refugee-children/[[and intensifies trauma response and symptoms]]. If shame is at the root of violence, punishment is not going to work. It only going to make the person get into a deeper loop* about who they are now. "Not only I'm ashamed about everything else, now I'm ashamed about the things that I've done and I've been punished,  I've been ostricized, there's no room for me." link:https://www.youtube.com/watch?v=msWYVhmuQhw&feature=youtu.be&t=604[(Albany Addresses Bullying: Miki Kashtan: A Compassionate Perspective on Bullying 3/5/2011: 10:04-12:43)]
 
 * [Shame] is not only now more common, its purpose has shifted from protecting the group [,i.e. the community] to protecting the powerful. So *most of us walk around with some degree of shame that is just there in the background that keeps us from doing things.* And *we get shamed for what we want. If you look at early childhood, you are made to be ashamed for wanting what you want, for moving spontaneously, for going for what is of direct interest to you, for saying what is true for you, everything that is about being you is put into question.* ... This is why I decided to become 100% shameless. Why is this funny? Because the word _shameless_ describes someone who is a terrible person, totally outside of the norm. It's as if we're told that having a certain amount of shame, constatly, is a good thing. link:https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=2029[Miki Kashtan - Social Change Series – Liberation in Three Chapters - 1: 33:49-34:40, 1:34:51-1:35:23]
 
@@ -1327,14 +1346,14 @@ Six hour of academics is more than enough.
     
 * Self-discipline is more important than empathy. [Alfie Kohn - OFJCC]
     
-* People of all ages are more likely to perservere when theu have a chance to make the decisions about the things that affect them. Therefore, if someone doesn't persist, he or shewas to some extent excluded from decision-making, rather than he or she didn't have enough self-discipline. [Alfie Kohn ???]
+* People of all ages are more likely to perservere when they have a chance to make the decisions about the things that affect them. Therefore, if someone doesn't persist, he or shewas to some extent excluded from decision-making, rather than he or she didn't have enough self-discipline. [Alfie Kohn ???]
 
 * Miki
 
 * Kohn
 
 * link:https://www.youtube.com/watch?v=h4fQEn15NgI[The Gun Has No Trigger: David Graeber]
-** link:https://www.youtube.com/watch?v=h4fQEn15NgI&feature=youtu.be&t=507[[8:27]-8:46] ... but if we would incorporate ourselves then we have to have a whole hierarchical structure, president, vicepresident, and those rules and regulations are enforced ultimately by violence ...
+** link:https://www.youtube.com/watch?v=h4fQEn15NgI&feature=youtu.be&t=507[[8:27]-8:46] ... but if we would incorporate ourselves then we have to have a whole hierarchical structure, president, vicepresident, *and those rules and regulations are enforced ultimately by violence* ...
 ** link:https://www.youtube.com/watch?v=h4fQEn15NgI&feature=youtu.be&t=575[[9:35]-9:47] ... It's because the moment you have large, heavy objects [cars, buildings], they fall under government regulation [endless laws] in various ways, and that regulation is ultimately enforced by violence and that violence is a sort of a thing that we often oversee ...
 ** link:https://www.youtube.com/watch?v=h4fQEn15NgI&feature=youtu.be&t=575[[12:09]-13:41] Violence becomes incorporated into our world in ways we don't recognize it. ... Even the structural vivolence: there are forms of inequality and oppression which are ultimately displacement of violence. So racism, is a form os structural violence, sexism, patriarchy. *These are forms of inequality that have violent effects.* ... *It's actually the violence that holds the entire thing together* and away there are displacements of violence. ... They are ultimately based on larger structures where violence is systematically deployed. ... but these structures work best when the violence isn't actually deployed.
 ** link:https://www.youtube.com/watch?v=h4fQEn15NgI&feature=youtu.be&t=903[[15:03]-16:05] ... because all forms of action are symbolic and communicative. *What interesting about violence is that it's the only form of action that has any real chance of having a systematic and predictable effect on others without the medium of symbolic communication of any kind.* ... like the're doing something, you shoot them and they stop. ... *But the effects of violence are fairly predictable ... and that very fact gives the violence a quality which almost all other forms of action lack which is that you can relatively predictable effects on the actions of other people about whom you understand nothing.* Any other way you want to affect some other person's actions you have to have some idea what they think is going on, who they think they are, who they think you are, what they want, what they fear. If you shoot them or hit them hard enough is kind of becomes irrelevant. *This is why violence is the preferred weapon of the stupid.*
@@ -1344,7 +1363,7 @@ Beobachten ohne zu bewerten ist die höchste Form der menschlichen Intelligenz. 
 Pozorovanie bez posudzovania je najvyššou formou ľudskej inteligencie. +
 link:???[Jiddu Krishnamurti]
 
-* Ich kämpfe nicht. Ich *übersetze* alles in gewaltfreie Kommunikation. In die Sprache des Lebens. In die Sprache der Beobachtungen, Gefühle, Bedürfnisse und Bitten. I do it for me. link:???[(M.B. Rosenberg)], link:???[Some Palestinian event video], (me)
+* Ich kämpfe nicht. Ich *übersetze* alles in gewaltfreie Kommunikation. In die Sprache des Lebens. In die Sprache der Beobachtungen, Gefühle, Bedürfnisse und Bitten. I do it for me. link:???[(M.B. Rosenberg)], link:https://www.youtube.com/watch?v=NR9JyTqaIto&feature=youtu.be&t=3465[NVC Israeli and Palestinian panel at Ecome Center February 2015 (Nonviolent Communication): 57:45-1:03:13], (me)
 
 * Let's find another way of meeting your needs that will be more effective and less costly. [M.B. Rosenberg]
 
@@ -1374,7 +1393,7 @@ link:???[Jiddu Krishnamurti]
 
 * Hear the yes behind the no. "No" is a "yes" to other needs. Hear the feelings and needs behind the "no". "No" is a tragic expression of a "yes". Say the need! link:...[(M.B. Rosenberg - San Francisco Workshop ???-???)]
 
-* Enjoy my pain, Caressing the Jackal [NVC Rosenberg, Mosenzon]
+* Enjoy my pain. Don't try to comfort me, don't try to fix me, don't try to encourage me. Don't try to give me advice. Don't try to tell me that it's my fault. Caressing the Jackal [NVC Rosenberg, Mosenzon]
 
 * please! please!! please!!! link:youtube KdFc2B-tZLc[Marshall Rosenberg - Making Life Wonderful 2_4 - Nonviolent Communication NVC: cca 1:13:00-1:25:00]
 
@@ -1452,10 +1471,30 @@ Daniel Markovits - The Meritocracy Trap
 
 ???
 
+== Sozialismus, Kommunismus, Schenkökonomie, Verhaltensökonomik
+
+- Homo economicus - narrowly self-interested person with the goal to maxmimize his/her own utility without consideration on other people alway acting rationaly and reasonably. [great, just awesome economic model of human. [sarcasm] But to not consider other people's needs is not rational. It leads to violence, y'now? Take a look at James Gilligan's work about shame, pride, violence and his work in prisons in Michigan.]
+
+- Marx - he didn't solve all the systemic problems, but I think he solved a lot of them. Finally I've found some relief when I started to read, watch and listen to marxists. I started to make connections and sense why am I suffering under current economic system - the capitalism. It all gradually became clearer to me why am I experiencing so much suffering in this world.
+
+link:https://www.profolus.com/topics/four-types-of-alienation-according-to-karl-marx/[THE FOUR TYPES OF ALIENATION] + link:https://en.wikipedia.org/wiki/Marx%27s_theory_of_alienation#Types_of_alienation[(wiki)]
+
+. *Alienation of the worker from their product:* The design and development of a production rest not in the hands of a worker but within the decisions of the capitalists. A worker does not have control over what he or she intends to produce or the specifications of his or her product.
+** unfulfilled needs: autonomy, importance of the workers needs, freedom, direct democracy, incluson, integration, power with, choice, spontaneity
+
+. *Alienation of the worker from the act of production:* The production of goods and services within a capitalist society is repetitive and mechanical that offers little to no psychological satisfaction to the worker. Labor seems coerced because a worker undertakes this as a means of survival.
+** unfulfilled needs: sense, freedom, creativity, safety, willingness, voluntariness, importance of the workers needs, power with, enjoyment, fulfilment
+
+. *Alienation of the worker from their species-essence:* The species-essence or “Gattungswesen” of an individual comprises all of his or her innate potentials. Under a capitalist mode of production, an individual losses identity and the opportunity for self-development as he or she is forced to sell his or her labor-power as a market commodity.
+** unfulfilled needs: creativity, connection with the worker's feelings and needs - with the life inside, sense, meaning, enjoyment, growth, development, identity, choice, strength, fulfilment, *empathy*
+
+. *Alienation of the worker from other workers:* The reduction of labor to a mere market commodity creates the so-called labor market in which a worker competes against another worker. Labor is traded in a competitive labor market instead of considering it as a constructive socioeconomic activity characterized by collective common effort.
+** unfulfilled needs: community
+
 == Warum will ich programmieren?
 
 * Lebo potrebujem prostredie, v ktorom sa budem cítiť v bezpečí.
-* Lebo potrebujem prostredie, v ktorom môžem rásť.
+* Lebo potrebujem prostredie, v ktorom môžem rásť a vzdelávať sa.
 * Lebo potrebujem tvorivé prostredie.
 * Lebo je to práca, pri ktorej môžem tvoriť.
 * Lebo programovania som sa bál.
@@ -1472,6 +1511,7 @@ Daniel Markovits - The Meritocracy Trap
 * Lebo chcem mať prácu, ktorá mi dáva zmysel.
 * Lebo chcem každý deň dávať zo seba to najlepšie.
 * Lebo chcem mať prácu, ktorá pomáha ostatným.
+* Lebo sa chcem naučiť spolupracovať.
 * Lebo chcem byť samostatný.
 * Lebo chcem mať moc.
 * Lebo chcem mať moc tvoriť veci.
@@ -1479,9 +1519,11 @@ Daniel Markovits - The Meritocracy Trap
 
 == Programming
 
+- Rober C. Martin - Clean Code
+
 ???
 
-== Pilates + Yoga
+== Pilates, Yoga, Wim Hof Method
 
 Active Clinic
 
@@ -1547,11 +1589,26 @@ Active Clinic
 ** Tongue scraper
 ** GC MI Paste Plus (with fluoride) / VOCO Remin Pro / ApaCare Repair / GC Tooth Mousse (without fluoride)
 
+== Psyché
+
+Epigenetics, Chronic Stress (helplessness and tension), *Trauma*, PTSD - Post Traumatic Stress Disorder: the lack of empathy after tauma, trauma response, trauma and ibs, difficulty trusting people, loss of friends, fragile friendships
+
+https://www.psychologytoday.com/us/blog/think-act-be/201609/21-common-reactions-trauma
+
+== Diseases / Erkrankungen / Choroby
+
+* [line-through]#Bruxism#
+* Snorring
+* PTSD
+* IBS: Irritable Bowel Syndrome
+* NCCP: Non-Cardiac Chest Pain
+* Dry skin in cold
+
 == Why did I create this?
 
 Chcel som sa vyliečiť z tráviacich problémov. Bolestí žalúdka, nafukovania, únavy po jedle.
 
-Doktori to vzdali. Skúšali všetko možné. Nakoniec mi povedali: "Nevieme liečiť niečo, čo nevieme ani diagnostikovať".
+Doktori to vzdali. Skúšali všetko možné. Nakoniec mi povedali: "Nevieme liečiť niečo, čo nevieme ani diagnostikovať". "Tak dík." pomyslel som si a išiel som preč.
 
 Ja som bol zúfalý a vyčerpaný z choroby. Lekári tiež. Tak som po dvoch rokoch prevzal zodpovednosť za svojou liečbu do vlastných rúk.
 
@@ -1564,6 +1621,7 @@ Do ďalších dvoch rokoch sa môj zdravotný stav výrazne zlepšil. Asi som ma
 * Vonkajšie prostredie
 ** Médiá
 ** Spoločnosť
+** Kultúra
 ** Inštitúcie
 ** Náboženstvo
 
@@ -1738,3 +1796,23 @@ Because the world is driven by capitalism which supports meritocracy.
 ---
 
 No one deserves anything. But everybody needs something. Everybody needs the same things. What differs immensely is the strategies in which we fulfil our needs.
+
+---
+
+I'm not a thing, agent, factor of production, human capital, commodity, number, letter or anything. I am a human that has feelings that I want to express and needs that I want to fulfill.
+
+---
+
+Entfremdung ist unvermeidbar im Kapitalismus. Kapitalismus kann nicht ohne Entfremdung funktionieren. Entfremdung is ein Baustein vom Kapitalismus. Ausbrennung ist das Ergebnis von der Entfremdung. Vielleicht, wenn ich einen Weg finde, wie ich mich mit der Entfremdung auseinandersetzen kann, kann ich die Ausbrennung komplett vermeiden... [Thx Marx für die Inspiration] +
+Was ist der Gegenteil von Entfremdung? Verbindung. Verbindung is ein Bedürfnis. Wie kann ich das Bedürfnis nach Verbindung erfüllen? [Thx Marshall Rosenberg für die Inspiration]
+
+---
+
+Every feeling manifests itself in the body. +
+Jedes Gefühl offenbart sich im Körper. +
+Každý pocit sa prejaví v tele.
+
+---
+
+Describe your level of suffering: +
+Imagine that somebody stabs you in the heart with a knife. Then turns the knife inside. Then the person pulls off the knife, and stabs you in the somach. Two times. Then the person grabs your neck and smashes your head to a wall. That's the pain I'm feeling.
