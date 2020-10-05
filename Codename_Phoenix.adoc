@@ -12,9 +12,15 @@ The needs is *the only reason*, why I'm feeling the way I'm feeling. Not the act
 
 ---
 
-What is a need? / Was ist ein Bedürfnis?
+*What is a need? / Was ist ein Bedürfnis?*
+
 * Life seeking expression within oneself.
 * Manifestation of the divine energy in each living phenomenon.
+* A *need* is a manifestation of life, a manifestation of divine energy within us. All human beings have the same needs. A *value* is a need with a particular level of importance. The importance of a need changes with time, circumstances and preferences.
+
+---
+
+* Alle Bedürfnisse sind wichtig. Ihre Wichtigkeit ändert sich mit der Zeit,  Umständen und Präferenzen.
 
 ---
 
@@ -63,7 +69,7 @@ What is a need? / Was ist ein Bedürfnis?
 * equality / Gleichheit / rovnosť
 * predictability / Vorsehbarkeit / predvídateľnosť
 * power (with) / Macht (mit) / moc (s)
-* direct democracy / direkte Demokratie / priama demokracia
+* (direct) democracy / (direkte) Demokratie / (priama) demokracia
 * strength / Kraft / sila
 * protective use of force / beschützende Nutzung der Kraft / použitie sily na obranu
 * protecting the nature / Umweltschutz / ochrana prírody
@@ -77,9 +83,11 @@ What is a need? / Was ist ein Bedürfnis?
 * economy, thrift / Sparsamkeit / úspornosť, šetrnosť
 * justice, fairness, equity / Gerechtigkeit / spravodlivosť
 * compensation / Ausgleich / kompenzácia, odškodnenie - nie ako odplata alebo trest, ale ako pomoc pri napĺňaní nenaplnených potrieb pre niekoho iného
+* _fragileness / Zerbrechlichkeit (Bedürfnis nach Schutz (physisch) oder Empathie (psychisch)) / krehkosť_
 * [line-through]#war / Krieg / vojna#
 * [line-through]#violence / die Gewalt / násilie#
 * [line-through]#government / die Regierung / vláda#
+* [line-through]#colonization / Kolonisation / kolonizácia#
 
 ---
 
@@ -97,21 +105,22 @@ What is a need? / Was ist ein Bedürfnis?
 * empathy _(Giraffe Dance)_ / Empathie (Precondition: courage / Mut) / empatia, súcit
 * honesty _(Giraffe Dance)_ / Ehrlichkeit (Precondition: vulnerability / Verletzlichkeit) / úprimnosť
 * reassurance / Beschwichtigung / uistenie, utešenie
-* help / Hilfe / pomoc
+* help, aid / Hilfe / pomoc
+* support, aid / Unterstützung / podpora
 * generosity / Großzügigkeit / veľkorysosť
-* support / Unterstützung / podpora
 * communication / Kommunikation / komunikácia
 * friendship / Freundschaft / priateľstvo
 * mourning / Trauern / smútenie
-* consideration / Rücksicht / ohľad
-* respekt / Respekt / rešpekt
-* honor / Ehre / úcta
-* dignity / Würde / dôstojnosť
-* tolerance / Toleranz / tolerancia
 * importance (of my needs) / Wichtigkeit (meiner Bedürfnisse) / dôležitosť (potrieb)
 * consciousness that my needs matter, that my needs are important and taken into consideration / Bewusstsein, dass meine Bedürfnisse wichtig sind, und in Frage genommen sind / vedomie, že na mojich potrebách záleží, že moje potreby sú dôležité a brané do úvahy
+* consideration / Rücksicht / ohľad (Precondition: importance / that my needs matter)
+* respekt / Respekt / rešpekt (Precondition: importance / that my needs matter)
+* honor / Ehre / úcta (Precondition: importance / that my needs matter)
+* dignity / Würde / dôstojnosť (Precondition: importance / that my needs matter)
+* tolerance / Toleranz / tolerancia
 * relationships / Beziehungen / vzťahy
 * nurturing, upbringing / Erziehung / výchova
+* interdependency / ??? / ???
 * _recognition, acknowledgement / Anerkennung / uznanie_
 * _appretiation / Wertschätzung / ocenenie_
 * _gratitude / Dankbarkeit / vďačnosť_
@@ -123,6 +132,7 @@ What is a need? / Was ist ein Bedürfnis?
 * [line-through]#sexuality / Sexualität / sexualita#
 * [line-through]#duty, obligation / die Pflicht / nutnosť, povinnosť#
 * [line-through]#commitment / Verpflichtung / obetavosť, oddanosť#
+* [line-through]#codependency / ??? / ???#
 
 ---
 
@@ -138,11 +148,10 @@ What is a need? / Was ist ein Bedürfnis?
 * utility / Nutzen / úžitok
 * sense, purpose / Sinn, Zweck / zmysel
 * goal / Ziel / cieľ
-* common purpose / gemeinsames Ziel / spoločný cieľ
-* effectivity [does it work, or not? - boolean] / Effektivität / efektivita
-* efficiency [as much as possible in as little time as possible, e.g. efficient algorithm; how well does it work?] (in comparison to other things, not people) - float, percent) / Effizienz / efektivita
+* effectivity [Does it work, or not? - boolean] / Effektivität / efektivita
+* efficiency [How well does it work? As much as possible in as little time as possible, e.g. in case of algorithms or other things not people!] (in comparison to other things, not people) - float, percent) / Effizienz / efektivita
 * growth / Wachstum / rast
-* development / Entwicklung / rozvoj, vývoj
+* development / Entwicklung / rozvoj, vývoj (Precondition: individual initiative, dedication link:https://www.youtube.com/watch?v=lfkZJDxC-YY&feature=youtu.be&list=PLAWpwCQqndn68ADSHK1vsFUQ93n3hLcv4&t=1584[(source)])
 * consciousness / Bewusstsein / vedomie
 * repetition / Wiederholung / opakovanie
 * solution / Lösung / riešenie
@@ -151,6 +160,9 @@ What is a need? / Was ist ein Bedürfnis?
 * understandability, clarity / Verständlichkeit, Klarheit / zrozumiťeľnosť
 * education / Ausbildung / vzdelanie
 * overview / Überblick / prehľad
+* universality / Allgemeinheit, Universalität / univerzálnosť
+* generality / Allgemeinheit / všeobecnosť
+* specificity / Genauigkeit, Spezifizität / konkrétnosť
 * control / Kontrolle / kontrola - možnosť ovládať prostredie okolo seba
 * explanation / Erklärung / vysvetlenie
 * knowledge / Kenntnise / vedomosti
@@ -163,7 +175,7 @@ What is a need? / Was ist ein Bedürfnis?
 * uniformity (in Data) / Uniformität, Einheitlichkeit, Gleichmäßigkeit / uniformita
 * readability / Lesbarkeit / čitateľnosť
 * brevity / Kürze / stručnosť
-* thoroughness / Gründlichkeit / dôkladnosť
+* thoroughness / Gründlichkeit / dôkladnosť, dôslednosť
 * correctness / Richtigkeit / správnosť
 * validity / Gültigkeit / platnosť
 * seriousness / Ernsthaftigkeit / vážnosť
@@ -171,7 +183,7 @@ What is a need? / Was ist ein Bedürfnis?
 * links, coherences, context / Zusammenhänge, Kontext / súvislosti
 * _complication / Komplikation_
 * _problem / Problem_
-* _mistake / Fehler / chyba_
+* _mistake, error / Fehler / chyba_
 * [line-through]#chaos / Chaos, Durcheinander#
 * [line-through]#school / Schule / škola#
 * [line-through]#work / Arbeit / práca#
@@ -228,8 +240,8 @@ What is a need? / Was ist ein Bedürfnis?
 
 ---
 
-* *creation / Schöpfung / tvorivosť*
-* imagination / Fantasie, Vorstellungskraft
+* *creation, creativity / Schöpfung, Kreativität / tvorivosť*
+* imagination / Fantasie, Vorstellungskraft / fantázia, predstavivosť
 * inventiveness / Ideenreichtum / nápaditosť
 * play / Spiel / hra
 * beauty / Schönheit / krása
@@ -241,7 +253,6 @@ What is a need? / Was ist ein Bedürfnis?
 * music / Musik / hudba
 * rhythm / Rhythmus / rytmus
 * adaptability / Anpassbarkeit / prispôsobiteľnosť
-* _smell / der Gestank / zápach_
 * smell, scent / der Duft / vôňa
 * flow / Flow, Strömung / prúdenie
 * change / Änderung / zmena
@@ -269,6 +280,8 @@ What is a need? / Was ist ein Bedürfnis?
 * smoothness / Glätte / hladkosť
 * diversity / Vielfalt(igkeit) / rôznorodosť, diverzita
 * transparency / Durchsichtigkeit / priehľadnosť
+* _extrinsic motivation / extrinsische, äußere Motivation / vonkajšia motivácia_
+* _smell / der Gestank / zápach_
 * [line-through]#productivity / Produktivität / produktivita#
 
 ---
@@ -302,7 +315,7 @@ What is a need? / Was ist ein Bedürfnis?
 * responsiveness / Schlagfertigkeit / promptnosť, pohotovosť, bystrosť
 * tradition / Tradition / tradícia
 * habit / Gewohnheit / zvyk
-* courage / Mut / odvaha
+* courage / Mut / odvaha (Precondition: mutual aid -> mutual confidence)
 * responsibility / Verantwortung / zodpovednosť
 * altruism / Altruismus / altruizmus
 * solidarity / Solidarität / solidarita
@@ -310,6 +323,7 @@ What is a need? / Was ist ein Bedürfnis?
 * consentual rules / gemeinsam bestimmte Regeln / spoločne stanovené pravidlá
 * [line-through]#rules / Regeln / pravidlá#
 * [line-through]#power (over) / Macht (über) / moc (nad)# link:...[Ökonomische Pseudowerte: https://www.youtube.com/watch?v=7mRe1ntgbj8&feature=youtu.be&t=1260]
+* [line-through]#obedience / Gehorsamkeit / poslušnosť#
 * [line-through]#money / Geld / peniaze#
 * [line-through]#success / Erfolg / úspech#
 * [line-through]#[social] status / [soziales] Status / [spoločenský] status,  stav, postavenie#
@@ -333,7 +347,7 @@ What is a need? / Was ist ein Bedürfnis?
 * autonomy / Selbstständigkeit, Autonomie / samostatnosť
 * faith / Glaube / viera
 * voluntariness / Freiwilligkeit / dobrovoľnosť
-* willingness / Bereitschaft / ochota
+* willingness, good will / Bereitschaft, Entgegenkommen / ochota
 
 == Feelings at unfulfilled needs (Sweet pain - Girrafe mourning) / Gefühle bei unerfüllten Bedürfnissen
 
@@ -528,7 +542,7 @@ link:...[Source]
 * fast
 * slow
 * competent
-* incompetent
+* incompetent link:https://en.wikipedia.org/wiki/Peter_principle[Peter Principle]
 * adequate
 * inadequate
 * inferior
@@ -552,7 +566,7 @@ How do I want to feel? [RPM]
 
 ---
 
-Flow - a state of optimal human performance and happiness +
+Flow - a state of highest human performance and happiness +
 *_optimal human performance_* means the same as *_happiness_* link:...[(Cedric Dumont - TEDx; Flow - Mihály Csíkszentmihályi)]
 
 Celebration of life / Feier des Lebens / oslava života
@@ -591,7 +605,7 @@ spreche, mit jemandem spreche, schreibe, zuhöre, mich dusche, mich mit kaltem W
 * friendly / freundlich / priateľský
 * joyful / freudvoll / veselý (tešiť sa, zabaviť sa, pobaviť, zasmiať sa z ...)
 * happy / glücklich / šťastný
-* confident / selbstsicher / sebaistý
+* confident / selbstsicher / sebaistý (Precondition: mutual aid link:https://www.youtube.com/watch?v=lfkZJDxC-YY&feature=youtu.be&list=PLAWpwCQqndn68ADSHK1vsFUQ93n3hLcv4&t=1584[(source)])
 * safe / sicher, geborgen / v bezpečí
 * light / leicht / ľahký
 * fulfilled / erfüllt / naplnený
@@ -627,15 +641,16 @@ spreche, mit jemandem spreche, schreibe, zuhöre, mich dusche, mich mit kaltem W
 
 == Comparisons
 
-- Punishment and Rewards vs Discipline, Care, Unconditional Love and Reason - link:https://www.youtube.com/watch?v=Qk8fOOMWOGc[Shaping Discipline with a Restorative Approach - Part 4], Alfie Kohn, Samuel P. Oliner + Pearl M. Oliner [Altruistic Personality + Samuel Oliner Testimony], Miki Kashtan [Exiting the Either/Or Trap - 17th minute]
+- Punishment and Rewards vs Discipline, Care, *Unconditional* Love and Reason - link:https://www.youtube.com/watch?v=Qk8fOOMWOGc[Shaping Discipline with a Restorative Approach - Part 4], Alfie Kohn, Samuel P. Oliner + Pearl M. Oliner [Altruistic Personality + Samuel Oliner Testimony], Miki Kashtan [Exiting the Either/Or Trap - 17th minute]
 - Shame, Punishment and Revenge vs Safety, Respect, Responsibility, Care and Unconditional Love - Miki Kashtan-Bullying, link:https://www.youtube.com/watch?v=2KXwnbsQUrI&feature=youtu.be&t=87[Restorative Justice Continuum - Howard Zehr Ph.D EM 1:27-2:12], link:https://www.youtube.com/watch?v=0pleCht2jN4&feature=youtu.be&t=439[NVC Guilt and Shame - Kirsten Kristensen: ???-???, Alfie Kohn, James Gilligan - Shame]
 - Production and Comsumption vs Care and Freedom - link:https://www.youtube.com/watch?v=kikzjTfos0s&feature=youtu.be&t=2958[On Bullsh*t Jobs | David Graeber | RSA Replay: 49:18-49:44]
 - Gratitude and Appreciation vs Reward, Praise and Compliments- M. B. Rosenberg, Alfie Kohn, Peter Gray
 - Criticism, Punishment, Praise and Compliments vs Observation, Feeling, Need, Request and Unconditional Love - M. B. Rosenberg, Alfie Kohn
-- Observation vs Evaluation - Jiddu Krishnamurti, M.B. Rosenberg, link::https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=1711[Miki Kashtan - Social Change Series – Liberation in Three Chapters - 1: 28:31-29:40]
 - Criticism, Punishment, Praise and Compliments vs Unconditional Love - Alfie Kohn [OFJCC - 26:10-27:28-30:04]
+- Observation vs Evaluation - Jiddu Krishnamurti, M.B. Rosenberg, link:https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=1711[Miki Kashtan - Social Change Series – Liberation in Three Chapters - 1: 28:31-29:40]
 - Honesty vs Criticism and Blame - M. B. Rosenberg [Making life wonderful - part 1/4 - somewhere at the beginning]
 - Feedback and life-serving Judgement and Evaluation for decision-making vs moralistic Evaluation and Judgement, Praise, Compliments, Reward, Blame, Criticism and Punishment - Alfie Kohn
+- Natuar vs Habitual - M. B. Rosenberg - San Francisco Workshop
 - Request vs Demand - M. B. Rosenberg - Portland Workshop time: ??? + resolving conflicts with children workshop time: ???
 - Power over (people and nature) vs Power with (people and nature) - Mary Parker Follett, link:https://sci-hub.st/10.5840/pom20033221[Power, Freedom and Authority in Management: Mary Parker Follett’s ‘PowerWith’ - Domènec Melé, Josep M. Rosanas] Miki Kashtan [Exiting the Either/Or Trap - 30th minute], M. B. Rosenberg, Alfie Kohn, Mark Shepard-"Power over nature vs Power with nature"
 - Authority based on 'power over' model vs Authority based on 'power with' model - M. B Rosenberg [interview with paula gloria], Mary Parker Follett
@@ -660,17 +675,18 @@ spreche, mit jemandem spreche, schreibe, zuhöre, mich dusche, mich mit kaltem W
 - Interdependency vs Codependency - Alfie Kohn
 - Process vs Product - Rachel Rainbolt - episode with peter gray, Peter Gray - Play
 - Empathy vs Sympathy - link:...[M. B. Rosenberg], link:https://youtu.be/KX_tgRM84RA?t=370[(Nonviolent Communication (NVC): Yoram Mosenzon full workshop: 'Connecting in Conflict': 6:10-8:08)]
-- Empathy vs Forgiveness - link:...[maybe Creating Life Serving System Withing Ourselves???]
+- Empathy vs Forgiveness - link:...[M.B. Rosenberg - Creating Life Serving System Withing Oneself: ???]
 * Intensity vs Consistency - link:???[Simon Sinek]
-* To deserve something vs To need something (me)
+* To deserve something vs To need something
 * Robustness vs Perfection link:https://www.youtube.com/watch?v=kzHrBM6CHfE&feature=youtu.be&t=1889[An Interview with Elinor Ostrom: 31:29-31:53]
 * Participatory Democracy, Flatpack Democracy (Frome), Democratic Confederalism, Communalism, Stateless Democracy and Anarchist Communism, vs Autocracy, Representative Democracy, Authoritarianism, Populism, Fascism, Nazism and Nationalism etc. link:https://mesopotamia.coop/the-internal-system-of-the-communes-in-rojava/[(THE INTERNAL SYSTEM OF THE COMMUNES IN ROJAVA)]
+* Einsamkeit (Loneliness) vs Selbstständigkeit (Autonomy)
 * link:https://www.fachverband-gfk.org/wp-documents/anlage_3_schluesselunterscheidungen.pdf[und mehr Unterschiede...]
 
 Culturally learned beliefs - Life-harming beliefs - irrational beliefs:
 
 - spare the rod, spoil the child - Bible, Proverbs 13:24, Rosenberg - Resolving conflicts with children
-- No pain, no gain.
+- No pain, no gain. [RPM contradiction]
 - Čím väčším peklom si prejdeš, tým silnejší z toho výjdeš. Ak z toho výjdeš. - (Jaroslav Slávik, Československo má talent)
 - Tréning robí majstra.
 - Better get used to it! (BGUTI - Alfie Kohn)
@@ -679,6 +695,7 @@ Culturally learned beliefs - Life-harming beliefs - irrational beliefs:
 - There is no alternative. [M. Thatcher]
 - Für jeden Preis.
 - Es war schwierig zu schreiben, deshalb muss es schwierig zu sein, das zu lesen. [Kevlin Henney]
+- You can have everything that you want only if only you just worked a litter harder. [contradiction to RPM and meritocracy]
 
 == Resonance Performance Model [RPM]
 
@@ -698,7 +715,6 @@ by Doug Newburg
 * easy effort / einfache Mühe
 * connection to feelings and needs also under the most painful circumstances / Verbindung mit Gefühlen und Bedürfnissen auch unter den schmerzhaftesten Umständen
 * empathic connection before correction / empathische Verbindung vor der Korrektur
-* fast reflexes / schnelle Reflexe
 * huge and accurate memory / riesengroßes und genaues Gedächtnis
 * energy of a powerhouse / Energie eines Kraftwerkes
 * empathy for everyone everytime / Empathie für jeden jederzeit
@@ -710,6 +726,13 @@ by Doug Newburg
 * empathy with the ease of a hot knife cutting through a butter / Empathie mit der Leichtigkeit eines Messers, das durch die Butter geht
 * joy of every single line of code that I write / Freude an jeder Zeile des Codes, die ich schreibe
 * fulfilment of my needs that will be more effective and less costly to my and other people / die Erfüllung meiner Bedürfnisse, die effektiver und weniger kostlich für mich und andere Menschen ist
+* Freude an Programmieren.
+* Zufriedenheit mit meinen Fähigkeiten.
+* Glauben an meine Fähigkeiten.
+* fähige Unfähigkeit / competent incompetence, able disability / schopná neschopnosť
+* Schritt für Schritt
+* strength in diversity
+* playing in not knowing / spielen in Ungewisse
 
 *2.) Preparation / Vrobereitung*
 
@@ -918,16 +941,19 @@ A form of justice that concentrates on the restoring the relationships in the hu
                                                            2.) What was the  observable behavior of the victim? +
                                                            3.) How dit the victim feel? +
                                                            4.) What needs weren't met by the victim? +
-| Who broke that rule? | Why did it happen? | 1.) How is the perpetrator feeling after empathizing with the victim? +
-                                              2.) What needs weren't met on the part of the perpetrator? - *Giraffe mourning on the part of the perpetrator. Empathy with the perpetrator's inner educator* +
-                                              3.) What needs was the perpetrator trying to meet? - *Empathy with the perpetrator's inner chooser*
+| Who broke that rule? | Why did it happen? | *Giraffe mourning on the part of the perpetrator. Empathy with the perpetrator's inner educator* +
+                                              1.) How is the perpetrator feeling after empathizing with the victim? +
+                                              2.) What needs weren't met on the part of the perpetrator? +
+                                              
+                                              *Empathy with the perpetrator's inner chooser* +
+                                              3.) What needs was the perpetrator trying to meet?
 | What the punishment will be? | What can we do to repair the harm? | *Searching for ways to meet everybody's needs that will be more effective and less costly.* +
                                                                       1.) What can we do to fulfil these needs?
 |===========================
 
 ** link:https://slideplayer.com/slide/6835782/[Building Positive Relationships Through Restorative Justice - Joan Packer]
 ** link:https://www.youtube.com/watch?v=Ccz55SO4Ah4&feature=youtu.be&t=2221[Howard Zehr - Human Rights Meets Restorative Justice: 37:01-???]
-** Phases of restorative justice by NVC link:...[NVC Creating a life serving system within yourself ???]
+** Phases of restorative justice by NVC link:...[M.B. Rosenberg - Creating a Life Serving System Within Oneself ???]
 
 == Play
 
@@ -1079,7 +1105,7 @@ Teach them to use punishment to get their needs met.
 
 * Teach them to use rewards to get what they want.
 
-* Teach them to use guilt and shame to manupulate us.
+* Teach them to use guilt and shame to manupulate.
 
 * Teach them to do things to get influence out of the concept of duty and obligation.
 ** This requires teaching them a language that denies choice. *Amtssprache*.
@@ -1146,6 +1172,18 @@ and pursues with redemptive violence and without ethical or legal restraints goa
 
     *** The educator limits his/her intervention to the greatest possible extent, and at the same time shows care for the other person's well-being by *requesting* the other person to stop the autoeducation when the educator sees that the other person feels tired.
     **** Intervention: As much as necessary, but as little as possible.
+    
+** 2:01-2:10
+
+*** ... in other words, in the quality of the teacher's intervention lies the art which makes up the individuality of the teacher.
+  **** maybe NVC will improve that quality)
+
+** 2:10-2:17
+
+*** An important part of the teachers work is that of teaching an *exact nomenclature*.
+**** Describing things accurately
+**** pronouncing clearly and loudly
+**** explaining the meaning and differences understandably
 
 ** 4:56-6:23
 
@@ -1245,6 +1283,189 @@ Sources:+
 
 * Flatpack Democracy - Frome, England link:https://www.youtube.com/watch?v=Qvmqeeme42M&feature=youtu.be&t=4434[(Miki Kashtan: Exiting the Either/Or Trap - Beyond Consensus vs. Command and Control: 1:13:54-1:14:39)]
     ** ... if you don't have facilitation, you're less likely to have an integrated result.
+    
+* link:https://www.youtube.com/watch?v=mErG7mSzwkc[Miki Kashtan - Social Change Series – Liberation in Three Chapters - 1]
+  ** 7:20- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=440
+  ** 8:29- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=509
+  ** 9:57- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=597
+  ** 12:36- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=756
+  ** 15:50- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=950
+  ** 17:59- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=1079
+  ** 21:01- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=1261
+  ** 22:23- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=1343
+  ** 26:31- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=1591
+  ** 27:53- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=1673
+  ** 30:11- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=1811
+  ** 39:06- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=2346
+  ** 42:37-42:54 https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=2557
+  ** 46:05- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=2765
+  ** 48:09- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=2889
+  ** 50:34- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=3034
+  ** 51:47- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=3107
+  ** 54:50- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=3290
+  ** 55:47- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=3347
+  ** 1:04:12- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=3852
+  ** 1:04:40-1:05:47 https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=3880
+    *** When you put needs at the center everything changes. ... What it would look like to put needs in the center rather than concepts. Not even the concepts of rights. Because rights, again, it's a human construct, and then we can debate about it. *Needs are biologically and relationaly given. *[Needs] are indisputable. [... because all human beings have the same needs. - M.B. Rosenberg]* "The human beings of the future will be rich in needs. Whereas the human being under capitalism is reduced to one need, which is the need to have [and have more]".
+  ** 1:08:05- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=4085
+  ** 1:08:28- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=4108
+  ** 1:09:21- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=4161
+  ** 1:09:56- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=4196
+  ** 1:12:33- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=4353
+  ** 1:13:03- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=4383
+  ** 1:15:12- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=4512
+  ** 1:22:33- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=4953
+  ** 1:24:53- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=5093
+  ** 1:26:58- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=5218
+  ** 1:28:08- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=5288
+  ** 1:28:54- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=5334
+  ** 1:30:13- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=5413
+  ** 1:35:30- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=5730
+  ** 1:37:33- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=5853
+  ** 1:38:24- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=5904
+  ** 1:39:32- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=5972
+  ** 1:42:14- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=6134
+  ** 1:44:53- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=6293
+  
+* link:https://www.youtube.com/watch?v=mCyWaSPmRkA[Miki Kashtan - Social Change Series – Liberation in Three Chapters - 2 - From Competition, Command & Control to Collaboration for a Shared Purpose]
+  ** 20:40-23:24 https://www.youtube.com/watch?v=mCyWaSPmRkA&feature=youtu.be&t=1240
+    *** *If I am part of creating the strategy that we're going to carry out I am more likely to be committed to carrying it out. If [somebody else] decides what's gonna happen and I just have to carry it out, and I was not part of somehow coming up with the design, I'm less [intrinsically] motivated [because now the meaning of the activity is clearer]. ... There is more energy to a project if it's done collaboratively than when it's dictated from above.*
+    *** (21:58) *Disengagement [alienation] is the fundamental symptom of absence of shared purpose.*
+  ** 24:37-24:57 https://www.youtube.com/watch?v=mCyWaSPmRkA&feature=youtu.be&t=1477
+    *** *Work is supposed to be suffering: if it's not suffering it's not work; and pleasure is supposed to be useless. If it has use it cannot possibly be pleasurable.*
+    
+* link:https://www.youtube.com/watch?v=xbto_pUFD08[Miki Kashtan - Social Change Series – Liberation in Three Chapters - 3 - From Compromise to Integrated Solution that Work for Everyone]
+  ** 0:41-4:14 https://www.youtube.com/watch?v=xbto_pUFD08&feature=youtu.be&t=41
+    *** Mary Parker Follett: researcher in management science; investigated the term *_win-win_*; coined the terms *_power over_* and *_power with_*; Three ways to resolve conflicts: Domination, Compromise and Integration; Compromise is quantitative but Integration is qualitative - Compromise operates in the world of scarecity, Integration opens the options to resolve a conflict and differences among people
+  ** 4:15-5:08 https://www.youtube.com/watch?v=xbto_pUFD08&feature=youtu.be&t=255
+    *** the need to matter; to know that I matter; *"How to give everyone honestly a sense that they matter"*, *"How do I honestly show people that they matter to me?"*
+  ** 5:09-
+    *** Every time we make a request, we ask two questions; first question gets asked out loud: it's the request - the request is an opportunity for someone to make the life of the other person more wonderful by mutualy fulfilling their needs; the other question gets asked silently, internaly, but carries much more emotional weight: *"Do I matter to you?"*, *"Do you care about me?"*, *Am I important to you?* which serves to fulfil *the need of importance, the need to matter*. If I say "No" to the first question, and the other person who asked the question doesn't have the consciousness about empathy and "no" being a poor expression of a yes, or dogging for the needs, then the other person takes the "no" as the answer to the latter question: "So I don't matter to you." I may think I got an adequate answer. But in the end the relationship suffers, because we are in a permanent defficit around the need to matter. But we may feel vunlerable wenn we talk about the need to matter, to be important, because of our gender roles, education and other outside influences. Our dignity depends on our need to matter.
+  ** 7:56- https://www.youtube.com/watch?v=xbto_pUFD08&feature=youtu.be&t=476
+    *** *If I want to make decisions together that build on integration, I need to show you that you are important.* We can also not do what is requested of us, [and give the other person an opportunity to make our life wonderful,] and still give the other person a sense that they matter. For example by deferring the task, or doing something else for the other person instead.
+  ** 10:57- https://www.youtube.com/watch?v=xbto_pUFD08&feature=youtu.be&t=657
+    *** A key to collaboration is co-owning the problem [shared ownership of the problem; holding the problem, the pain of the other; being present with the other person, showing empathy] it's one way to give me a sense that I matter.
+  ** 11:20-11:54 https://www.youtube.com/watch?v=xbto_pUFD08&feature=youtu.be&t=680
+  *** *The more trust an familiarity there is between us, the less explicit we need to be [about the need to matter].* [the importance of trust and how trust simplifies communication]. [NVC - Nonviolent Communication is a tool that is available that can be very effective] when our trust is broken and then it can mend it.
+  ** 13:10-13:23
+    *** *You make it easy to say "No" to you. That's one of the highest compliments to a boss.*
+  ** 31:34-31:57 https://www.youtube.com/watch?v=xbto_pUFD08&feature=youtu.be&t=1894
+    *** Extracting, from what people say, the underlying principles [or non-controversial essences] that describe what matters to them, and bringing together all the different principles that all the different positions [or people] in the room have into *one list of principles [or non-controversial essences]*.
+  ** 36:19-37:33 https://www.youtube.com/watch?v=xbto_pUFD08&feature=youtu.be&t=2179
+    *** I'm looking for what I call *_the non-controversial essence_ [or _principle_]*. Essentialy I look for something that captures in *positive language* what's wanted, not in negative language of what's not wanted, but in positive language of what's wanted, capturing something that has the essential meaning that the person is talking about while being noncontroversial. [The list of needs can help, but it's too abstract, too general. We're looking for an essence that describes the meaning of the situation. The essence is *more concrete than a need* but *more general than a concrete situation* and *still refers to the discussed situation*.] The one word needs allow you to create basic connection, but not to create the parameters for proposal. Find the most specific way to reach non-controversy, *because the more of the specificity you are able to capture in the principle [in the non-controversial essence that everybody agrees to - an obvious main idea of the situation], the easier it is later to solve the problem [and create a proposal - or formulate a clear, present request].*
+  ** 49:47-50:18 https://www.youtube.com/watch?v=xbto_pUFD08&feature=youtu.be&t=2987
+    *** [By extracting the non-controversial essence or the principle, that everybody agrees to] out of everything, and getting to the essence of whats wanted, that makes sense [and is obvious to people] where it would be very strange for somebody to disagree because it makes perfect sense. And if you make it in positive language, concrete, practical, non-ideological, it's way more likely [to create a proposal and to formulate a clear, present request].
+  ** 50:28-52:26 https://www.youtube.com/watch?v=xbto_pUFD08&feature=youtu.be&t=3028
+    *** *Creating the proposal:* There is a process of methodically *putting together a list of all the principles that make up the space of the decision.* ... *That list needs to be owned by the entire group that is going to be making the decision.* That group can be just one person. You can do it internally, because there is an internal choir, an you can get from each part of within you all the different voices what is the non-controversial essence of each different voice within you and you have a whole long list and you will know: *"I need to make a decision that honors all these principles."* instead of being in a fight of internal voices. Once that list is in place, you can get the shared ownership. ... *all these principles capture within them everything that matters to everyone.* *If [the list contains] all these principles it will be a decision that is very likely to work for everyone. Based on all these principles people can then come up with proposals [that consider all the principles on the list]*.
+  ** 52:35-54:11 https://www.youtube.com/watch?v=xbto_pUFD08&feature=youtu.be&t=3155
+    *** Once you have a proposal, ... how do you then get from proposal to decision. A lot of collaborative processes that exist out there in one form or another put pressure on people to agree. I instead advocate very counterintuitive thing [which] is to *invite descent*. Inviting descent is once again a way to show people that they matter. ... The question is *_Who disagrees?_*, but how to aks the question is an art and almost a science. I'm looking for a question that will give me as much discussion as is relevant to where we are.
+  ** 54:35-57:33
+    *** There is significant trust that you generate through creating a shared list of principles. But that trust can disappear in an instant. If we are early in the process *I sustain the trust, the creativity, the collaboration, by making it very easy to express descent.* Especially [for long term development] I want to have a lot of discussion so that all different points of view, all different needs, all different concerns will be integrated. *[Gradually increase the level of escent.]* So I will ask the question, inviting descent, in a very open way, which could look something like: +
+    "We have the first version of the proposal. Now is the time to express any concern that you have. Small or large, it doesn't matter. Right now we are going to discuss all the remarks that are brought up [in order to adjust the proposal by these remarks in the next version]. *Does someone has any concerns [or remarks] about this proposal?*" +
+    In the next version I will increase the level of descent, by asking a question: +
+    *It looks like we considered all mentioned remarks. But we still want you to ask you if you still have some objections about this proposal. Do you have any significant doubts or concerns about this proposal that you believe would interfere with us working well? Please, express them. But otherwise, if it's something small, that time is over.* +
+    In the next version I increase the level of descent again: +
+    *Okay, everything is prepared. Is here somebody who would like to leave the community if we adopt this proposal?* +
+    *By then you established so much trust, that if there is something like this, people will articulate it. Otherwise the people will recognize that we've done the best that we can to make it work for everyone.*
+  ** 59:05- https://youtu.be/xbto_pUFD08?t=3545
+    *** The art is intuitively knowing, how much descent to invite. ... and ... matching your language [matching the question] according to how much descent we want to invite.
+  ** 59:54-
+    *** Make visible the real life consequences [not punishments] of what happens if we agree with this decision.
+    *** *Precondition for collaboration: willingness*
+    *** Why would somebody not participate in the process? Because some people don't believe that that process will benefit me. The resources that it would take to participate appear me to me to be too much for the benefit that I believe I will gain from it. I need to individually connect with the people to see what's going on. *What it is that they're saying 'Yes' to?*, *What keeps them from trusting the activity?* and rather avoiding the question "Why don't they want to come?".
+    *** An organisation never says 'no'. It's always a human being, an individual, that say's 'no'. [And 'no' is a poor expression of a 'yes'. What is it that the someone says 'yes' to?] *And if you can think about why person is saying 'no', you're already moving towards the possibility of collaborating.*
+  ** 1:05:38- https://www.youtube.com/watch?v=xbto_pUFD08&feature=youtu.be&t=3938
+    *** Global Governance Model that works for most powerful and the least powerful (reference to Daniel Markovits - The Meritocracy Trap: "... workers, middle class, but also superelite workers - unite.") If the model will work only for one of these groups, and those models will go nowhere, because we lack collectively the power to make them happen, and because ultimately if we do them, they will recreate the world that we have now even if we had the power. ... So creating something that works for both ends to me creates a robustness that could make it work, but mostly *there is a way that people who are committed to communities don't think about the individuals that are in the [institution] as something to consider. That is perhaps a reason why they're saying no. I don't see that we can get anywhere collaboratively, in a way that will create a different world, without taking into consideration the reality.* That unless you have global mass mobilization, that creates defection from the implicit support that the institutions and government have, you have to reckon with the power [over people].
+    **** from both ends [reference to David Harvey: The 17 Contradictions of Capitalism: paraphrased: "... we need to work on both ends: income and exchange value of goods and services. Otherwise the income will grow, and the prices of goods and services will increase, or income will likely stagnate and the prices will go up regardless."]
+  
+* link:https://www.youtube.com/watch?v=lfkZJDxC-YY[Mutual Aid - Peter Kropotkin - Ch. 1 - Mutual Aid Among Animals] or link:[the same video in a playlist for the entire book]
+  ** 21:28- https://www.youtube.com/watch?v=lfkZJDxC-YY&feature=youtu.be&list=PLAWpwCQqndn68ADSHK1vsFUQ93n3hLcv4&t=1288
+  ** 26:24- https://www.youtube.com/watch?v=lfkZJDxC-YY&feature=youtu.be&list=PLAWpwCQqndn68ADSHK1vsFUQ93n3hLcv4&t=1584
+  ** 31:40- https://www.youtube.com/watch?v=lfkZJDxC-YY&feature=youtu.be&list=PLAWpwCQqndn68ADSHK1vsFUQ93n3hLcv4&t=1900
+  ** 54:40- https://www.youtube.com/watch?v=lfkZJDxC-YY&feature=youtu.be&list=PLAWpwCQqndn68ADSHK1vsFUQ93n3hLcv4&t=3280
+  
+* link:https://www.youtube.com/watch?v=qEVLkX0SSug[Economics, But Not as You Know It]
+  ** 31:47- https://www.youtube.com/watch?v=qEVLkX0SSug&feature=youtu.be&t=1907 - The Singapore Problem
+  ** 1:16:06- https://www.youtube.com/watch?v=qEVLkX0SSug&feature=youtu.be&t=4566 - The Singapore Problem cont.
+  
+* link:https://www.youtube.com/watch?v=n5j5EW933Kw[Economics: The User's Guide | Ha-Joon Chang | Talks at Google]
+  ** 12:42- https://youtu.be/n5j5EW933Kw?t=762
+  ** 22:18- https://www.youtube.com/watch?v=n5j5EW933Kw&feature=youtu.be&t=1338
+  ** 30:20- https://www.youtube.com/watch?v=n5j5EW933Kw&feature=youtu.be&t=1820
+  ** 46:46- https://www.youtube.com/watch?v=n5j5EW933Kw&feature=youtu.be&t=2806
+  ** 54:10- https://www.youtube.com/watch?v=n5j5EW933Kw&feature=youtu.be&t=3250
+  ** 54:15- https://www.youtube.com/watch?v=n5j5EW933Kw&feature=youtu.be&t=3255
+  
+* link:https://www.youtube.com/watch?v=CtZZj4j5UpI[LSE Events | The Meritocracy Trap]
+  ** 5:28-5:37 https://www.youtube.com/watch?v=CtZZj4j5UpI&feature=youtu.be&t=328
+  ** 7:48-8:20 https://www.youtube.com/watch?v=CtZZj4j5UpI&feature=youtu.be&t=468
+  ** 8:55-10:51 https://www.youtube.com/watch?v=CtZZj4j5UpI&feature=youtu.be&t=535
+  ** 10:51-11:49 https://www.youtube.com/watch?v=CtZZj4j5UpI&feature=youtu.be&t=651
+  ** 12:10-12:45 https://www.youtube.com/watch?v=CtZZj4j5UpI&feature=youtu.be&t=730
+  ** 15:36-16:05 https://youtu.be/CtZZj4j5UpI?t=936
+  ** 19:41-25:29 https://www.youtube.com/watch?v=CtZZj4j5UpI&feature=youtu.be&t=1181
+  ** 25:30-26:39 https://www.youtube.com/watch?v=CtZZj4j5UpI&feature=youtu.be&t=1530
+  ** 26:40-27:06 https://www.youtube.com/watch?v=CtZZj4j5UpI&feature=youtu.be&t=1600
+  ** 30:32-32:36 https://www.youtube.com/watch?v=CtZZj4j5UpI&feature=youtu.be&t=1832
+  ** 33:41-34:37 https://www.youtube.com/watch?v=CtZZj4j5UpI&feature=youtu.be&t=2021
+  ** 34:37-38:46 https://www.youtube.com/watch?v=CtZZj4j5UpI&feature=youtu.be&t=2077 - somatization
+  ** 38:47-40:10 https://www.youtube.com/watch?v=CtZZj4j5UpI&feature=youtu.be&t=2327 - alienation
+  ** *40:10-42:32 https://www.youtube.com/watch?v=CtZZj4j5UpI&feature=youtu.be&t=2410* - proletariat can't measure up to elites ("Not good enough"-belief)
+  ** *42:33-45:54 https://www.youtube.com/watch?v=CtZZj4j5UpI&feature=youtu.be&t=2553* - deserve
+  ** 45:44-46:39 https://www.youtube.com/watch?v=CtZZj4j5UpI&feature=youtu.be&t=2754 - deserve, debt
+  ** 46:40-47:33 https://www.youtube.com/watch?v=CtZZj4j5UpI&feature=youtu.be&t=2800
+  ** 48:29-49:39 https://www.youtube.com/watch?v=CtZZj4j5UpI&feature=youtu.be&t=2909 - health
+  ** 49:40-54:16 https://www.youtube.com/watch?v=CtZZj4j5UpI&feature=youtu.be&t=2980
+  ** 54:16-55:05 https://www.youtube.com/watch?v=CtZZj4j5UpI&feature=youtu.be&t=3256
+  ** *55:05 (55:55)-(56:11) 59:12 https://www.youtube.com/watch?v=CtZZj4j5UpI&feature=youtu.be&t=3305* - deserve
+  ** *59:13-1:03:32 https://www.youtube.com/watch?v=CtZZj4j5UpI&feature=youtu.be&t=3553*
+    *** 59:50-59:51 - fenomena -> "van Avermaet" / "vanaanamat" pronunciation by Matt White
+    **** beginning-0:50 - https://www.youtube.com/watch?v=Q7m781sW5WE&feature=youtu.be&t=0 +
+    4:17-end - https://www.youtube.com/watch?v=Q7m781sW5WE&feature=youtu.be&t=257
+  ** *1:03:33-1:05:53 https://www.youtube.com/watch?v=CtZZj4j5UpI&feature=youtu.be&t=3813*
+  ** *1:05:55-1:07:41 https://www.youtube.com/watch?v=CtZZj4j5UpI&feature=youtu.be&t=3955*
+    *** "The virtues that the meritocracts claim are themselves unstable normatively. It's not that meritocracy undermines the equality of opportunity. Of course it does. ... [The meritocrats] started the war. "
+  ** 1:07:42-1:12:44 https://www.youtube.com/watch?v=CtZZj4j5UpI&feature=youtu.be&t=4062
+  ** 1:14:59-1:22:21 https://www.youtube.com/watch?v=CtZZj4j5UpI&feature=youtu.be&t=4499
+  ** 1:25:26- https://www.youtube.com/watch?v=CtZZj4j5UpI&feature=youtu.be&t=5126
+  
+* link:https://veganvanguardpodcast.com/20-mental-health-addiction-and-capitalist-realism-with-mad-blender/[20. Mental Health, Addiction, and Capitalist Realism with Mad Blender]
+  ** 1:18:18-1:31:26
+  *** 1:23:52-1:24:15
+  ** 1:31:51-1:32:24
+
+* link:https://bitchyshitshow.com/2020/03/31/008-covid-19-and-seizing-the-means-part-1-a-collaboration-with-mexie-of-the-vegan-vanguard/[008 COVID-19 AND SEIZING THE MEANS (PART 1): A COLLABORATION WITH MEXIE OF THE VEGAN VANGUARD]
+  ** 1:12:00-1:14:00
+  ** 1:16:14-1:20:54
+  ** 1:24:53-1:26:26
+  ** 1:26:40-1:31:10
+  ** 1:32:34-1:44:39
+  ** 1:44:45-1:51:40
+
+* link:https://veganvanguardpodcast.com/48-covid-19-and-seizing-the-means-part-2-with-bitchy-shitshow/[48. COVID-19 and Seizing the Means (Part 2) with Bitchy Shitshow]
+  ** 27:53- 30:20
+  ** 36:00-36:51
+  ** 51:45-52:21
+  ** 53:50-55:00
+  ** 57:15-59:20
+  ** 1:00:47-1:03:41
+  ** 1:09:21-1:10:48
+  
+* link:https://veganvanguardpodcast.com/how-competition-dominates-our-lives/[2. The Trope of “Competition” Dominates Our Lives]
+  ** 16:30-16:51
+  ** 16:40-20:37
+  ** 21:43-21:53
+  ** 23:23-24:37
+  ** 24:57-27:05
+  ** 28:14-28:26
+  ** 29:20-33:00
+  ** 33:30-35:47
+  ** 38:25-40:10
+  ** 40:20-45:04
+  ** 51:51-52:31
+  ** 57:55-1:11:52
+  ** 1:14:40-1:18:42
+  ** 1:19:18-1:20:46
 
 * *Instead of believing somebody's words to be true, I believe their experience to be true.* ... So I put my focus on their feelings and needs.  ... On their experience behind the words. And the whole art is the art of guessing. [Focus on their humanity, on their observation, feelings and needs and requests.] link:https://www.youtube.com/watch?v=KX_tgRM84RA&feature=youtu.be&t=4515[(Nonviolent Communication (NVC): Yoram Mosenzon full workshop: 'Connecting in Conflict': 1:15:15-1:15:59)]
 
@@ -1272,10 +1493,10 @@ Every act of violence somewhere is an attempt to create justice to right a wrong
   Es ist nicht Übung die perfekt macht..., sondern perfekte Übung, die perfekt macht. +
   Nie je to tréning, ktorý robí majstra..., ale perfektný tréning, ktorý robí majstra. +
   link:???[(Cal Ripken Sr.)], link:???[(Daniel Markovits - Meritocracy and its Discontents: 48:40-49:30)]
-
+  
 * Our greatest glory is not in never falling, but in rising every time we fall. +
-  Unsere größte Ehre liegt nicht darin, nie zu fallen, sondern darin, dass wir jedes Mal aufstehen, wenn wir fallen. +
-  link:???[Confucius]
+Unsere größte Ehre liegt nicht darin, nie zu fallen, sondern darin, dass wir jedes Mal aufstehen, wenn wir fallen. +
+Confucius
 
 * I've learned that people will forget what you said, people will forget what you did, but *people will remember how they felt with you.* +
   Ich habe gelernt, dass Leute vergessen, was du gesagt hast, Leute vergessen, was du gemacht hast, aber Leute werden sich daran erinnern, wie sie sich bei dir gefühlt haben. +
@@ -1284,9 +1505,9 @@ Every act of violence somewhere is an attempt to create justice to right a wrong
 * This is what I love about friends. Good friends agree with my jackal. Actually, that's the most dangerous thing on the planet. If somebody else  agrees with my jackal, now I can believe my jackal to be true. This is in the society how we create jackals. We call it *"sympathy party"*. It's very different than empathy. Sympathy party is to agree with someone else's jackal. ... In that moment it's the most delicious for her. "Oooh! Thank you! Finally somebody agrees that I'm right and he's wrong!". *It's a pleasure for a short term* because then you go back home, pumped up by this sympathy party, you come to the other person, and you say: "You see? There's really something wrong with you!". *And then you'll have a bigger fight.* link:https://youtu.be/KX_tgRM84RA?t=370[(Nonviolent Communication (NVC): Yoram Mosenzon full workshop: 'Connecting in Conflict': 6:10-8:08)]
 
 * Out beyond the ideas of right and wrong there is a field. I'll meet you there. / We'll meet us there. +
-  Jenseits den Ideen von richtig und falsch gibt es einen Platz. Ich treffe dich da. / Wir treffen uns da. +
-  Za hranicou dobrých a zlých myšlienok je miesto. Tam ťa stretnem. / Tam sa stretneme. +
-  link:???[Rumi - poet]
+Jenseits den Ideen von richtig und falsch gibt es einen Platz. Ich treffe dich da. / Wir treffen uns da. +
+Za hranicou dobrého a zlého je miesto. Tam ťa stretnem. / Tam sa stretneme. +
+link:???[Rumi - poet]
 
 * If you need to do something, you can do it badly. +
   Wenn du etwas tun brauchst, kannst du das schlecht tun. +
@@ -1300,8 +1521,8 @@ Every act of violence somewhere is an attempt to create justice to right a wrong
 * Pane, ty sa postaraj. Dôverujem Ti. (Otec Ľuboš ???)
 
 * Minimalism doesn't mean to have as little things as possible, but to have such amount of particular kind of things that one necessarily needs and are important for him/her. +
-  Minimalismus bedeutet nicht so wenig Sachen wie möglich haben, sondern so viel solchen Sachen haben, die er/sie notwendig braucht, und sind wichtig für ihn/sie. +
-  Minimalizmus neznamená mať čo najmenej vecí, ale mať iba toľko takých vecí, ktoré nevyhnutne potrebuje a zaleží mu/jej na nich. (me)
+Minimalismus bedeutet nicht so wenig Sachen wie möglich haben, sondern so viel solchen Sachen haben, die er/sie notwendig braucht, und sind wichtig für ihn/sie. +
+Minimalizmus neznamená mať čo najmenej vecí, ale mať iba toľko takých vecí, ktoré nevyhnutne potrebuje a zaleží mu/jej na nich.
 
 * At shopping as yourself: "Will this thing bring value to my life?" [What needs will this thing fulfil in my life?] +
   Beim Einkaufen frage dich: "Wird dieses Ding Wert in mein Leben bringen?" [Welche Bedürfnisse erfüllt dieses Ding in meinem Leben?] +
@@ -1310,7 +1531,7 @@ Every act of violence somewhere is an attempt to create justice to right a wrong
 
 * Vyhadzovacie pravidlo - najprv odlozit _nepotrebnu_ vec bokom na chvilu (par dni, tyzdnov, mesiacov). Pokial ju nebudem potrebovat pocas toho ako bude odlozena, zbavim sa jej.
 
-* The world is shaped by people who believe and trust the future and their past experiences, abilities and intuition. The more you can trust the future, the more you can engage in the present moment. And vice versa. link:???[Cedric Dumont - From Fear to Flow: 13:19-???]
+* The world is shaped by people who believe and trust the future and their past experiences, abilities and intuition. The more you can trust the future, the more you can engage in the present moment. And vice versa. [I'm wondering, how the parenting and education plays a role in this] link:???[Cedric Dumont - From Fear to Flow: 13:19-???]
 
 * Educated risk-takers enjoy to study things on their own. We know the consequences. We know there is something at stake. Everything is prepared. Preparation plays a vital role. link:???[Cedric Dumont - From Fear to Flow: ???-???]
 
@@ -1330,27 +1551,27 @@ Every act of violence somewhere is an attempt to create justice to right a wrong
 
 * The structures focus more on self-regulation than on expressing the student's feelings, needs and ideas. link:???[Alfie Kohn - OFJCC: ???-???]
 
-* *Tests* measure what matters least. If the teacher needs to give a est, the teacher needs help in how to teach and assess. No matter whether they're standardized or not. Tests create more anxiety and achievement pressure. link:???[Alfie Kohn - OFJCC: ~1:23:00]
+* *Tests* measure what matters least. If the teacher needs to give a est, the teacher needs help in how to teach and assess. No matter whether they're standardized or not. Tests create more anxiety and achievement pressure. link:???[(Alfie Kohn - OFJCC: ~1:23:00???)], link:https://en.wikipedia.org/wiki/Meritocracy#Critique[Meritocracy: Critique - Wiki]
 
-* *Homework* is unnecessary. Research shows no benefit of homework before high school. And even there it's questionable. So why do we persist? BGUTI! - an abbreviation for "Better get used to it!". +
+* [Compulsory] *Homework* [at and below the highschool level] is unnecessary. Research shows no benefit of homework before high school. And even there it's questionable. So why do we persist? BGUTI! - "Better get used to it!". "People will do to you mean and unpleasant things in the future, start doing them now!" +
 Homework is literally all pain and no gain. It produces frustration, exhaustion, family conflicts and nagging, less time for kids to do what they care about when they get home, and loss of interest in learning. Homework effectively extinguishes curiosity [when the kid doesn't do it and the teacher or parent punishes the kid physically or psychologically with shame, guilt, the concept of duty, obligation or deserve]. There is no sacrifice in not giving homework academically. +
-"As I got better in teaching, I assigned less and less homework. Now I assign none." Getting rid of homework was intellectually beneficial. "Students talked during the lesson about things they learned at the subject and compared them with current events in the world." Homework is a tool for the school how to manage family time. The family needs to have the freedom to decide how to spend its time! Instead of making the students work a *second shift* of academeics at home. +
+"As I got better in teaching, I assigned less and less homework. Now I assign none." *Getting rid of homework was intellectually beneficial.* "Students talked during the lesson about things they learned at the subject and compared them with current events in the world." Homework [can be considered as] a tool for the school how to manage family time. *The family needs to have the freedom to decide how to spend its time!* Instead of making the students work a second shift of academeics at home. +
 Six hour of academics is more than enough.
 
-* Talk to your kids at home about what they're learning in school. Never about how well the teacher thinks they're learning!
+* Talk to your kids at home about *what* they're learning in school. Never about *how well* the teacher thinks they're learning!
 
 * If you need to give grades [or evaluate / judge]:
     . write acomment or talk with the student *without* the grades and points. The students will be more interested in learning *only* when there is no letter or number attached to the comment.
     . let the student decide the final amount of points and the final grade or letter. *The good you've done by removing grades from the occasion [and consciousness] and the trust you've shown to the students _far_ outweights the situations in which some students use the system for their advantage.* +
     They will see that obedience contributes to vilence in the same way that grades or tests do.
     
-* Self-discipline is more important than empathy. [Alfie Kohn - OFJCC]
+* Self-discipline is [perceived as] more important than empathy [which has devastating effects on the individual]. [Alfie Kohn - OFJCC]
     
 * People of all ages are more likely to perservere when they have a chance to make the decisions about the things that affect them. Therefore, if someone doesn't persist, he or shewas to some extent excluded from decision-making, rather than he or she didn't have enough self-discipline. [Alfie Kohn ???]
 
-* Miki
+* Miki - I have some say ... . link:???[Miki - Liberation 2: ???]
 
-* Kohn
+* Kohn - Kids have some say ... . link:???[Alfie Kohn - Youngest Citizens]
 
 * link:https://www.youtube.com/watch?v=h4fQEn15NgI[The Gun Has No Trigger: David Graeber]
 ** link:https://www.youtube.com/watch?v=h4fQEn15NgI&feature=youtu.be&t=507[[8:27]-8:46] ... but if we would incorporate ourselves then we have to have a whole hierarchical structure, president, vicepresident, *and those rules and regulations are enforced ultimately by violence* ...
@@ -1358,24 +1579,30 @@ Six hour of academics is more than enough.
 ** link:https://www.youtube.com/watch?v=h4fQEn15NgI&feature=youtu.be&t=575[[12:09]-13:41] Violence becomes incorporated into our world in ways we don't recognize it. ... Even the structural vivolence: there are forms of inequality and oppression which are ultimately displacement of violence. So racism, is a form os structural violence, sexism, patriarchy. *These are forms of inequality that have violent effects.* ... *It's actually the violence that holds the entire thing together* and away there are displacements of violence. ... They are ultimately based on larger structures where violence is systematically deployed. ... but these structures work best when the violence isn't actually deployed.
 ** link:https://www.youtube.com/watch?v=h4fQEn15NgI&feature=youtu.be&t=903[[15:03]-16:05] ... because all forms of action are symbolic and communicative. *What interesting about violence is that it's the only form of action that has any real chance of having a systematic and predictable effect on others without the medium of symbolic communication of any kind.* ... like the're doing something, you shoot them and they stop. ... *But the effects of violence are fairly predictable ... and that very fact gives the violence a quality which almost all other forms of action lack which is that you can relatively predictable effects on the actions of other people about whom you understand nothing.* Any other way you want to affect some other person's actions you have to have some idea what they think is going on, who they think they are, who they think you are, what they want, what they fear. If you shoot them or hit them hard enough is kind of becomes irrelevant. *This is why violence is the preferred weapon of the stupid.*
 
+* *Pareto efficiency* or *Pareto optimality* is a situation where no individual or preference criterion can be better off without making at least one individual or preference criterion worse off. link:https://en.wikipedia.org/wiki/Pareto_efficiency[(Pareto Efficiency - Wiki)], link:https://www.youtube.com/watch?v=n5j5EW933Kw[(Economics: The User's Guide | Ha-Joon Chang | Talks at Google: ???-???)]
+
+* BNP (Brutto Nationalprodukt - GDP/HDP) beinhaltet auch den Verkauf von Güte und Dienstleistungen, wie z. B. Waffen, Tabak, Alkohol, Prostitution, Drogen, organisierte Kriminalität, hazardne??? Spiele und Wetten +
+BNP ignoriert externe einflüsse der Produktion und Dienstleistungen, wie z. B. Umweltverschmutzung, Zufriedenheit der Menschen (Einwohner, Angestellten, Studenten, Schüller), Nachhaltigkeit Haushaltspflege und Betreuung zu Hause. +
+HDP (hruby domaci produkt) zahrna (priamo ci nepriamo) aj predaj tovarov a sluzieb, ako su napr. zbrane, tabak, alkohol, prositucia, drogy, organizovana kriminalita, hazardne hry a tipovanie. HDP ignoruje externe vplyvy vyroby a sluzieb, ako su napr. znecistenie zivotneho prostredia, spokojnost ludi (obyvatelov, zamestnancov, studentov, ziakov), pracu v domacnosti. +
+link:https://80000hours.org/2015/08/what-are-the-10-most-harmful-jobs/[(What are the 10 most harmful jobs?)], +
+link:https://veganvanguardpodcast.com/48-covid-19-and-seizing-the-means-part-2-with-bitchy-shitshow/[(Mexie - veganvanguard - 48. - Covid-19 and Seizing the Means (Part 2) with Bitchy Shitshow: ??? 1:00:00)]
+
+* The nakedness of standing without a frame, in a new paradigm, carries the pleasures of freedom but it also can evoke fears of looking foolish and exposed, feelings of shame that can readily erupt into rage and attack. This is the moment when we are most tempted to return to the familiar, to restore an old framework at all costs—this moment of paradigm shift, of epiphany or sudden radical insight, the creative moment in the lives of artists and scientists, the moment when our ordinary vision is removed and we come to see that the old ways of seeing were mistaken, were blinding us to what we now can see. link:https://www.uky.edu/~eushe2/quotations/gilligan.html[(Carol Gilligan, The Birth of Pleasure - Introduction)]
+
 * Observing without evaluating is the highest form of human intelligence. +
 Beobachten ohne zu bewerten ist die höchste Form der menschlichen Intelligenz. +
 Pozorovanie bez posudzovania je najvyššou formou ľudskej inteligencie. +
 link:???[Jiddu Krishnamurti]
 
-* Ich kämpfe nicht. Ich *übersetze* alles in gewaltfreie Kommunikation. In die Sprache des Lebens. In die Sprache der Beobachtungen, Gefühle, Bedürfnisse und Bitten. I do it for me. link:???[(M.B. Rosenberg)], link:https://www.youtube.com/watch?v=NR9JyTqaIto&feature=youtu.be&t=3465[NVC Israeli and Palestinian panel at Ecome Center February 2015 (Nonviolent Communication): 57:45-1:03:13], (me)
+* Ich kämpfe nicht. Ich *übersetze* alles in gewaltfreie Kommunikation. In die Sprache des Lebens. In die Sprache der Beobachtungen, Gefühle, Bedürfnisse und Bitten. I do it for me. I want to suffer less! For me! link:???[(M.B. Rosenberg)], link:https://www.youtube.com/watch?v=NR9JyTqaIto&feature=youtu.be&t=3465[NVC Israeli and Palestinian panel at Ecome Center February 2015 (Nonviolent Communication): 57:45-1:03:13]
 
 * Let's find another way of meeting your needs that will be more effective and less costly. [M.B. Rosenberg]
 
 * Everything everybody does at every moment, does it to fullfil his or her needs. [M.B. Rosenberg]
 
-* Ich mache nichts falsch. Ich mache keine Fehler. Giraffen machen keine Fehler. Giraffen machen nur Sachen, die ihre Bedürfnisse erfüllen. Wir machen keine Fehler. Wir machen nur Sachen, die wir nicht gemacht hätten, wenn wir damals gewusst hätten, was wir seitdem gelernt haben. Das bedeutet nicht, dass wir perfekt sind. Das Ziel des Lebens ist nicht perfekt zu sein. Das Ziel des Lebens ist, fortschreitend weniger dumm zu sein. Das Ziel des Lebens ist zu feiern, wenn unsere Bedürfnisse erfüllt werden, und trauern, wenn nicht. [M.B. Rosenberg]
+* Ich mache nichts falsch. Ich mache keine Fehler. Giraffen machen keine Fehler. Giraffen machen nur Sachen, die ihre Bedürfnisse erfüllen. Wir machen keine Fehler. Wir machen nur Sachen, die wir nicht gemacht hätten, wenn wir damals gewusst hätten, was wir seitdem gelernt haben. Das bedeutet nicht, dass wir perfekt sind. Das Ziel des Lebens ist nicht perfekt zu sein. Das Ziel des Lebens ist, fortschreitend weniger dumm zu sein. Das Ziel des Lebens ist zu feiern, wenn unsere Bedürfnisse erfüllt werden, und trauern, wenn nicht. link:youtube???[M.B. Rosenberg - Creating a Life Serving System Within Oneself], link:youtube???[M. B. Rosenberg - Wie sprichst du mit dir selber wenn du fehler machst?]
 
-* Empathy vs Forgiveness; If we try to forgive before we've got enough empathy, the forgiveness creates even more pain. Verzeihung bedeutet, dass ich etwas falsch gemacht habe. Niemand macht etwas schlecht oder falsch. Wir alle handeln in jedem Augenblick, um unsere Bedürfnisse zu erfüllen. link:???[M.B. Rosenberg - maybe Creating Life Serving System Withing Ourselves???]
-
-* Alle Bedürfnisse sind wichtig. Ihre Wichtigkeit ändert sich mit der Zeit,  Umständen und Präferenzen. [ich]
-
-* A *need* is a manifestation of life, of divine energy within us. All human beings have the same needs. A *value* is a need with a particular level of importance. The importance of a need changes with time, circumstances and preferences.
+* Empathy vs Forgiveness; If we try to forgive before we've got enough empathy, the forgiveness creates even more pain. Verzeihung bedeutet, dass ich etwas falsch gemacht habe. Niemand macht etwas schlecht oder falsch. Wir alle handeln in jedem Augenblick, um unsere Bedürfnisse zu erfüllen. link:???[M.B. Rosenberg - Creating Life Serving System Withing Oneself: ???]
 
 * Being alive means to be connected to your feelings and needs. Whenever you feel angry, guilty, ashamed or depressed *take your time* to bring yourself to life [to reconnect with your feelings and needs]. link:...[M.B. Rosenberg Workshop Making Life Wonderful 1/4 55:12-???, M.B. Rosenberg - Take your time]
 
@@ -1399,7 +1626,7 @@ link:???[Jiddu Krishnamurti]
 
 * Eye for an eye and the world goes blind link:...[ghandi], link:...[detroit become human]
 
-* We have been trained to be quite habitual in things that are quite unnatural. 
+* We have been trained to be quite habitual in things that are quite unnatural. link:???[ghandi]
 
 * the importance of present request link:...[Marshall Rosenberg Making Life Wonderful cca 1:31:36-1:33:35]
 
@@ -1412,6 +1639,13 @@ link:???[Jiddu Krishnamurti]
 * ??? link:...[(M. B. Rosenberg San Francisco Workshop ~2:26:00-???)]
 
 * No human being is good [no human being is bad - judging is too easy], but all are sacred. link:https://www.youtube.com/watch?v=LdOFhyKACxE[Dr. James Gilligan - On How All Human Beings Are Sacred], link:restoration_justice_part[Rosenberg - Creating a Life Serving System within Oneself]
+
+* link:https://www.youtube.com/watch?v=_rSYiy420B0[Dr. James Gilligan - Youth and violence The role of education inspiring solutions]
+  ** 1:02:17-1:09:18 https://www.youtube.com/watch?v=_rSYiy420B0&feature=youtu.be&t=3737
+  ** 1:10:25-1:11:03 https://www.youtube.com/watch?v=_rSYiy420B0&feature=youtu.be&t=4225
+  ** 1:12:07-1:14:23 https://www.youtube.com/watch?v=_rSYiy420B0&feature=youtu.be&t=4327
+  ** 1:14:24-1:21:12 https://www.youtube.com/watch?v=_rSYiy420B0&feature=youtu.be&t=4464
+  ** 1:21:13-1:33:33
 
 * https://www.youtube.com/watch?v=bH9t1lAX2UQ Training Session # 2 Marshall Rosenberg CNVC org - 49:20-49:42
 
@@ -1462,16 +1696,29 @@ link:https://www.youtube.com/watch?v=jArsTeP66FE&feature=youtu.be&t=5863[Film 02
 * The map is not the territory. [Alexander Korzhybsky - General semantics], link:???[Rosenberg: Experiencing Needs as a Gift]
 
 * selfish, selfless, self-full [M.B. Rosenberg - Experiencing Needs as a Gift]
+
+* Prefigurative environment link:youtube???[Making Life Wonderful 2/3/4 ??? - M.B. Rosenberg]
   
 == Fundamental Attribution Error
 
+The environment matters. The nurturing and education matters. It's not everything in the individual, as neoliberalism tries to convince us of. The enviromental factors and wealth have a decisive impact on the success of the individual.
+
 Who's Cheating Whom - Alfie Kohn
 
-Daniel Markovits - The Meritocracy Trap
+Daniel Markovits - The Meritocracy Trap link:[(https://www.youtube.com/watch?v=CtZZj4j5UpI)]
 
-???
+link:https://en.wikipedia.org/wiki/Meritocracy#Critique[*Meritocracy*]
 
-== Sozialismus, Kommunismus, Schenkökonomie, Verhaltensökonomik
+* The reliability of the authority and system that assesses each individual's merit is another point of concern. As a meritocratic system relies on a standard of merit to measure and compare people against, the system by which this is done has to be reliable to ensure that their assessed merit accurately reflects their potential capabilities. Standardized testing, which reflects the meritocratic sorting process, has come under criticism for being rigid and unable to accurately assess many valuable qualities and potentials of students. Education theorist Bill Ayers, commenting on the limitations of standardized testing, writes that "Standardized tests can't measure initiative, creativity, imagination, conceptual thinking, curiosity, effort, irony, judgment, commitment, nuance, good will, ethical reflection, or a host of other valuable dispositions and attributes. What they can measure and count are isolated skills, specific facts and function, content knowledge, the least interesting and least significant aspects of learning."[54] Merit determined through the opinionated evaluations of teachers, while being able to assess the valuable qualities that cannot be assessed by standardized testing, are unreliable as the opinions, insights, biases, and standards of the teachers vary greatly. If the system of evaluation is corrupt, non-transparent, opinionated or misguided, decisions regarding who has the highest merit can be highly fallible.
+
+link:https://en.wikipedia.org/wiki/Peter_principle[*Peter Principle*]
+
+* In a hierarchy every employee tends to rise to his level of incompetence.
+* In time, every post tends to be occupied by an employee who is incompetent to carry out its duties.
+
+and so on???
+
+== Sozialismus, Kommunismus, Schenkökonomie
 
 - Homo economicus - narrowly self-interested person with the goal to maxmimize his/her own utility without consideration on other people alway acting rationaly and reasonably. [great, just awesome economic model of human. [sarcasm] But to not consider other people's needs is not rational. It leads to violence, y'now? Take a look at James Gilligan's work about shame, pride, violence and his work in prisons in Michigan.]
 
@@ -1536,7 +1783,7 @@ Active Clinic
 ** Spelt/Dinkel
 ** Buckwheat/Buchweizen
 
-* Quick sugars
+* Quick sugars (but be careful with burnout, quick sugars and health: link:https://goodmenproject.com/featured-content/recover-extreme-burnout-jgc/[Burnout Recovery - Jordan Gray - 10. Avoid processed sugar, caffeine, and any other stimulants or drugs])
 ** Honey
 ** Jams (prefferably home made)
 
@@ -1544,7 +1791,7 @@ Active Clinic
 ** Poppy seeds
 ** Sesame seeds
 
-* Mineral waters with calcium
+* Mineral waters with Calcium
 ** Gemerka
 ** Baldovská
 ** Kláštorná
@@ -1585,7 +1832,7 @@ Active Clinic
 ** Curaprox 5460
 ** ApaCare Remineralisierende Zahncreme / link:https://zubne-pasty.heureka.sk/[dalsie zubne pasty]
 ** Compostable dental floss - bambus
-** Interdental brushes: 0.4mm + 0.7mm
+** Interdental brushes: 0.4mm, 0.7mm
 ** Tongue scraper
 ** GC MI Paste Plus (with fluoride) / VOCO Remin Pro / ApaCare Repair / GC Tooth Mousse (without fluoride)
 
@@ -1601,6 +1848,7 @@ https://www.psychologytoday.com/us/blog/think-act-be/201609/21-common-reactions-
 * Snorring
 * PTSD
 * IBS: Irritable Bowel Syndrome
+* Belching, flatulence
 * NCCP: Non-Cardiac Chest Pain
 * Dry skin in cold
 
@@ -1610,7 +1858,7 @@ Chcel som sa vyliečiť z tráviacich problémov. Bolestí žalúdka, nafukovani
 
 Doktori to vzdali. Skúšali všetko možné. Nakoniec mi povedali: "Nevieme liečiť niečo, čo nevieme ani diagnostikovať". "Tak dík." pomyslel som si a išiel som preč.
 
-Ja som bol zúfalý a vyčerpaný z choroby. Lekári tiež. Tak som po dvoch rokoch prevzal zodpovednosť za svojou liečbu do vlastných rúk.
+Bol som zúfalý a vyčerpaný z choroby. Lekári tiež. Tak som po dvoch rokoch prevzal zodpovednosť za svojou liečbu do vlastných rúk.
 
 Do ďalších dvoch rokoch sa môj zdravotný stav výrazne zlepšil. Asi som mal šťastie. Ale liečba psychosomatickej choroby, syndrómu dráždivého čreva (IBS - Irritable Bowel Syndrome), je komplikovaná a zdĺhavá. A nie len vnútorné, ale aj vonkajšie prostredie, hrá rovnako významnú úlohu pri liečbe. Toto tvrdenie potvrdzuje aj vedecká disciplína *epigenetika*. Ak naozaj vonkajšie prostredie ovplyvňuje biológiu človeka, t. j. jeho epigenóm, potom dokážeme vytvoriť vzťah medzi spoločnosťou a zdravím človeka, a medzi telom a dušou človeka, jeho pocitmi, potrebami, zážitkami, vnímaním vonkajšieho prostredia.
 
@@ -1625,9 +1873,9 @@ Do ďalších dvoch rokoch sa môj zdravotný stav výrazne zlepšil. Asi som ma
 ** Inštitúcie
 ** Náboženstvo
 
-A teraz, vďaka epigenetike vieme zmerať, od ako vonkajšie prostredie vplýva na zdravie človeka. Vieme vytvoriť spojenie medzi spoločenskými vplyvmi a biológiou človeka. link:???[(Peter Spork - Gesundheit is kein Zufall)], link:???[(Zitat)]
+A teraz, vďaka epigenetike vieme zmerať, od ako vonkajšie prostredie vplýva na zdravie človeka. Vieme vytvoriť spojenie medzi spoločenskými vplyvmi a biológiou človeka. link:???[(Peter Spork - Gesundheit is kein Zufall)], link:???[(Zitat  - Peter Spork - Gesundheit is kein Zufall - Verbindung zwischen Soziologie und Biologie)]
 
-Chcel som si konečne začať užívať život, potom, čo som asi šesť krát vyhorel. Asi som vymyslel prevenciu proti vyhoreniu a zachovanie radosti zo života. Ale berte to s rezervou: žiadne, že buď 100% garancia spokojnosti, alebo vrátenie peniazí ;) Ale pomohlo mi to začať odznova. Postupne prekonávať depriesie. Menej sa nenávidieť za chyby :/ A pomaly sa liečiť z chorôb, keď lekári hovorili, že ma nevedia vyliečiť.
+Chcel som si konečne začať užívať život, potom, čo som asi šesť krát vyhorel. Asi som vymyslel prevenciu proti vyhoreniu a zachovanie radosti zo života. Ale berte to s rezervou: žiadne, že buď 100% garancia spokojnosti, alebo vrátenie peniazí ;) Ale pomohlo mi to začať odznova. Postupne prekonávať depriesie. A menej sa nenávidieť za chyby :/ A pomaly sa liečiť z chorôb, keď lekári hovorili, že ma nevedia vyliečiť.
 
 *I just want to be healthy and live well! Do I want so much?!link:https://www.fileformat.info/info/unicode/char/203d/index.htm[‽]*
 
@@ -1768,11 +2016,11 @@ Ach, tá úľava.
 Zostarneme mladí, +
 a pôjdeme na predčasný dôchodok. +
 
-Ej! A budeme mať popiči život :D Bardzo zajebisty!
+A budeme mať popiči život :D Ej! Bardzo zajebisty!
 
 ---
 
-*Chcieť môžeš.* Marshall Bertram Rosenberg - parody +
+*Chcieť môžeš.* Marshall Bertram Rosenberg - parody, but pretty devastating for me ... +
 *Snívaj ďalej.* Doug Newburg - parody
 
 ---
@@ -1791,7 +2039,7 @@ https://www.rtvs.sk/televizia/archiv/13986/240457#973
 ---
 
 Why the life is not fair? +
-Because the world is driven by capitalism which supports meritocracy.
+Because the world is driven by capitalism which supports meritocracy. Because capitalism isn't fair (by design). link:https://veganvanguardpodcast.com/how-competition-dominates-our-lives/[2. The Trope of “Competition” Dominates Our Lives: 2:37-3:22]
 
 ---
 
@@ -1812,7 +2060,138 @@ Every feeling manifests itself in the body. +
 Jedes Gefühl offenbart sich im Körper. +
 Každý pocit sa prejaví v tele.
 
+Schuld, Scham, Verletzung spüre ich im Herz. +
+Angst, Überraschung, Schock, Sorgen spüre ich im Magen und Darm. +
+Machlosigkeit, Hilflosigkeit, Verwirrung spüre ich im Kopf und in Augen.
+Müdigkeit, Erschöpfung spüre ich im ganzen Körper.
+Anspannung, Verwirrung spüre ich als ein Druck in der Ader auf der inneren Seite des linken Oberarm und als Herzschlagen.
+
 ---
 
 Describe your level of suffering: +
-Imagine that somebody stabs you in the heart with a knife. Then turns the knife inside. Then the person pulls off the knife, and stabs you in the somach. Two times. Then the person grabs your neck and smashes your head to a wall. That's the pain I'm feeling.
+Imagine that somebody link:https://cdn-grid.fotosearch.com/CSP/CSP040/heart-pierced-by-knife-clip-art__k65758817.jpg[stabs you in the heart with a knife]. Then turns the knife inside. Then the person pulls off the knife, and stabs you in the somach. Two times. Then the person grabs your neck and smashes your head to a wall. That's the pain I'm feeling.
+
+---
+
+Patriarchy and prostitution, objectification of women (and other people - as subordinate)
+
+---
+
+Porn = Patriarchy + Objectification of Women (e.g. Prostitution)
+
+---
+
+Nicht das verhalten jemanden Anderen velretzt mich, sondern meine unerfüllten Bedurfnisse. Die unerfüllten Bedürfnisse haben wirklich eine riesengroße Kraft. Diese Kraft spüre ich im Bauch, im Magen, im Herz und im Kopf. Dann beeinflüsst sie meinen ganzen Körper.
+
+---
+
+Die Leute sind nicht schlecht. Sie haben nur eine andere Erziehung und Ausbildung bekommen. Mit *schlecht* meine ich dass sie auf einer Weise benehmen, mit der ich nicht einverstanden bin. Sie waren nur so erzogen und ausgebildet.
+
+---
+
+There is no such thing as *_work-life balance_* [under capitalism]. Because the work interferes with my life. +
+There is no such thing as *_equality of opportunity_* [under meritocracy - because talent and the quality of the education is positively corelated with wealth: the children nurtured in elite families have more opportunities and freedom of opportunity than children in poor families, because opportunities under capitalism are bound to the exchange value link:https://en.wikipedia.org/wiki/Meritocracy#20th_century_to_today[Wiki: Meritocracy - Today]]. And the reason, why the poorer people are failing is that they don't measure up link:[LSE Events | The Meritocracy Trap: ???42:00-42:00].
+
+---
+
+The children are not children. They are short adults. +
+Kinder sind keine Kinder. Sie sind niedrige Erwachsene. +
+Deti nie sú deti. Sú nízki dospelí.
+
+---
+
+Be innovative! Think different! Think out of the box! Ah... +
+NMBBS - Neoliberal Managerial Buzzword BullShit +
+So you say innovative, huh? What about an innovation called *Democratic Confederalism*? *_Socialism with Direct and Representative Democracy at the same time_*. So innovative, isn't it? :/
+
+---
+
+Coronavirus pandemic heals the earth: (maybe it is a hope for a sustainable future) +
+https://www.cnbc.com/2020/03/18/photos-water-in-venice-italys-canals-clear-amid-covid-19-lockdown.html +
+https://www.cnbc.com/2020/03/02/nasa-images-chinas-air-pollution-decreased-amid-coronavirus-measures.html +
+link:https://sci-hub.st/10.1038/s41558-020-0797-x[Temporary reduction in daily global CO~2~ emissions during the COVID-19 forced confinement]
+
+---
+
+Was ich sehe, ist, dass Diktatur, Totalität, Kapitalismus und andere Formen der Erpressung sind sehr intolerant gegen Zärtlichkeit, Empathie, Mitgefühl, Einfühlsamkeit, Verständnis, Pflege, Genuss, Kommunität, Entgegenkommen, Bereitschaft, Sicherheit, Geborgenheit, Mut, Alternative, eigene/intrinsische Motivation, Zusammenarberit (keine Wettbewerbsfähigkeit), Verletzlichkeit. Ich fange an zu glauben, dass wir entweder eine gewaltfreie Zukunft haben, oder keine Zukunft haben. Und wenn eine Revolution entsteht, ich denke, dass die gewaltfreie Möglichkeit die einzige langfristig nachhaltige Möglichkeit ist. Und damit die Revolution gewaltfrei war, wir brauchen lernen, uns um unsere Erpresser zu kümmern. [Und dafür brauchen wir selbst, uns Empathie zu geben, weil wir nicht uns in jemanden hineinfühlen können, wenn wir nicht selbst genug Empathie haben.] +
+link:https://www.youtube.com/watch?v=mErG7mSzwkc[Miki Kashtan - Social Change Series – Liberation in Three Chapters - 1: 42:37-42:54 (43:14)] +
+link:https://www.youtube.com/watch?v=Qvmqeeme42M&feature=youtu.be&t=226[Miki Kashtan: Exiting the Either/Or Trap - Beyond Consensus vs. Command and Control: 3:46-4:14 (5:05)]
+
+---
+
+Gestapo-Pädagogik (feindliches Bild) =
+
+* Gefühle: Beunruhigung, Enttäuschung, Ekel
+* Unerfüllte Bedürfnisse: Gesundheit, Ehre, Würde, Pflege, Geduldigkeit, Empathie, Verständnis, 
+
+---
+
+Capitalism, Authoritharianism, Dictatorship =
+
+* freedom to overwork yourself to death
+* freedom to suffer
+* freedom to compete into exhaustion (on the "free market")
+* freedom to starve
+* freedom to beg
+* freedom to use money for arbitrary things
+* freedom to oppress others
+* freedom to exploit others
+* freedom to profit from acts of violence (war)
+* freedom to profit from natural disasters
+* freedom to profit from diseases
+* freedom to profit from weapons
+* freedom to profit from drugs
+* freedom to profit from organized criminality
+* freedom to profit from prostitution
+* freedom to profit from tobacco
+* freedom to gamble
+* freedom to bet
+
+---
+
+Wie kann sich ein Staat als "entwickelt" nennen, wenn er Leute hat, die obdachlos sind? +
+Wie trauen wir uns eine "entwickelete" Gesellschaft nennen, wenn wir "Neglected Tropical Diseases" / Vernachlässigte (Tropen)Krankheiten in die Welt immer noch haben?
+
+---
+
+One Dollar - One Vote Rule +
+the more money one has, the more political power one has in a market economy and the _"free market"_.
+
+---
+
+waiting for UBI - Universal Basic Income...
+
+---
+
+*Hobbesian model:* people are greedy and selfish and therefore must have a tyran that will oppress them to discipline them. [What a myth. Protective, not punitive use of force. Empathy and cooperation, not selfishness and competition]
+
+---
+
+Ich sehe Geld als ein Mittel der Erpressung (oppression). Am besten ist das auf einem Lohn (debt), einem Kredit zu sehen. Das Kredit versklavt die Menschen ihrer Arbeit. Wenn sie arbeiten, leiden sie, weil sie sich von ihr allmählich entfremnden. Wenn sie nicht arbeiten, leiden sie, weil sie ihre Bedürfnisse nicht mehr vollständig erfüllen können, weil Überleben hängt vom Einkommen ab. Wohnung, Essen, Hygiene, Gesundheit.
+
+*Capitalism is a system that uses money to get more money.* [David Graeber - Debt: The first 5000 years], [Eula Biss - Having and Being Had]
+
+---
+
+Education is not an obligation, contest, competition or transaction. Education is a gift. Just like all other needs.
+
+---
+
+What happens if I don't do it?  Question to help moving from guilt, shame and obedience to responsibility and honesty +
+Was passiert, wenn ich das nicht mache? Eine Frage, die hilft, sich von Schuld, Scham und Gehorsamkeit zur Verantwortung und Ehrlichkeit bewegen.
+
+---
+
+"Clinical" [or "saint", "scientific", "academic"] ... it's called *word magic*. You add that word, boom, nobody can touch you. link:https://www.youtube.com/watch?v=tY78qJNLoQ0&feature=youtu.be&t=1242[(Thomas Szasz - The Myth of Mental Illness: 20:42-21:04)]
+
+---
+
+Religious [Psychological] Violence
+
+---
+
+Profit is a moraly bankrupt idea.
+
+---
+
+
