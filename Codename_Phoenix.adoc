@@ -20,6 +20,10 @@ The needs is *the only reason*, why I'm feeling the way I'm feeling. Not the act
 * The need is "Why you want something?" ... Then you will discover a pool of why's that all humans share. link:https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=4085[Miki Kashtan - Liberation 1: 1:08:05]
 * A need is something that all infants have. When an infant doesn't need it, it's not a need. link:https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=4085[Miki Kashtan - Liberation 1: 1:08:05]
 
+Properties of needs:
+* Needs are universal and nonconflicting link:https://veganvanguardpodcast.com/47-social-emotional-learning-sel-for-socialism-and-animal-liberation-with-pierce-delahunt/[47. Social Emotional Learning (SEL) for Socialism and Animal Liberation with Pierce Delahunt: 16:49-17:30]
+* They contain no reference to any particular activity or person
+
 ---
 
 * Alle Bedürfnisse sind wichtig. Ihre Wichtigkeit ändert sich mit der Zeit,  Umständen und Präferenzen.
@@ -919,10 +923,20 @@ included...]
 === Connection Requests
 
 * "Can you live with it?" link:https://www.youtube.com/watch?v=6rFMoUY6KpM&feature=youtu.be&t=3730[(Making Collaboration Real: Miki Kashtan: Maximizing Willingness for Collaboration Decision-Making: 1:02:10-1:02:15)]
+* What do you think about it?
+* How do you feel about it?
+* Would this work for you?
+* Do you like it?
+* Do you have an idea what we can do?
+link:https://www.youtube.com/watch?v=AJ-ctpWQkZA&feature=youtu.be&t=4216[Nonviolent Communication (NVC): Yoram Mosenzon workshop: 'Ask for the Moon': 1:10:16]
+* What do you say about it?
+* What feeling do you have from it?
 
 === Strategy Requests
 
-
+* Will you do ...?
+* Will you talk to ...?
+* Will you tell me ...?
 
 === Restorative justice
 
@@ -1056,7 +1070,7 @@ Nonviolent communication is a way of
 * talking (language),
 * thinking (emotional intelligence),
 * communication (communication skills, dialogue) and
-* using power (means of influence, management, parenting)
+* using power (means of influence, management, parenting, leadership)
 
 Sources: +
 link:https://www.youtube.com/watch?v=jArsTeP66FE&feature=youtu.be&t=614[Self Empathy: 10:14-11:16] +
@@ -1109,7 +1123,7 @@ Teach them to use punishment to get their needs met.
 
 * Teach them to use rewards to get what they want.
 
-* Teach them to use guilt and shame to manupulate.
+* Teach them to use guilt and shame to manipulate.
 
 * Teach them to do things to get influence out of the concept of duty and obligation.
 ** This requires teaching them a language that denies choice. *Amtssprache*.
@@ -1132,11 +1146,11 @@ But why did we start to educate people to enjoy violence?
 
 Because this education works in sustaining dominantion structures. [M.B. Rosenberg - Experiencing Needs As Gifts] +
 This education makes us obedient to authority. +
-This language makes us obedient to authority. link:???[CNVC #1 ~31:00]
+This language makes us obedient to authority. [It's a language of domination.] link:???[CNVC #1 ~31:00]
 
 What happens to people if we educate them to enjoy violence?
 
-. They become nice, dead people. +
+. [Either] they become nice, dead people. +
 They do what they're told by the people above. They do what their parents want. They do what their teachers want. What the bosses want. What the government wants. They are nice, dead people.
 . Or they become monsters.
 
@@ -1275,8 +1289,8 @@ Sources:+
 
 * Internalized Powerlessness: link:https://www.youtube.com/watch?v=Qvmqeeme42M&feature=youtu.be&t=1008[(Miki Kashtan: Exiting the Either/Or Trap - Beyond Consensus vs. Command and Control: 16:48-22:20)]
 
-    ** "Can I ...?" - that's how the upbringing to powerlesness and obedience starts. +
-    Alternative questions: "Will I take <something> / Will I <do an action>? / I want to <...> What do you say?"
+    ** The upbringing to powerlesness and obedience starts with teaching kids the question "Can I ...?" +
+    [Alternative questions: "Will I take <something> / Will I <do an action>? / I want to <...> What do you say?"]
     ** When I say someone, e.g. a child, that he *can not do* something, then I interfere with what is true physically. I not only control the others, but also mess with their understanding of the reality. If I tell the somebody *No, you can not turn on the TV* when in reality I'm saying *I really don't want you to turn on the TV, and if you turn on the TV I will punish you!*
     ** Between the somebody's action and my reaction is my choice.
     ** We are not sufficiently inner oriented to our own needs and our willingness to decide which consequence to my action am I willing to accept. So Nonviolence is to face whatever will be the consequeces of our action so long as they are inline with our needs.
@@ -1335,8 +1349,28 @@ Sources:+
   ** 1:44:53- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=6293
   
 * link:https://www.youtube.com/watch?v=mCyWaSPmRkA[Miki Kashtan - Social Change Series – Liberation in Three Chapters - 2 - From Competition, Command & Control to Collaboration for a Shared Purpose]
+  ** 0:17-2:44
+    *** *Collaboration is a voluntary activity that starts with togetherness, shared purpose and willingness to come up with a joint strategy. Collaboration means constantly adapting to our differences.* If that's true then structures that we have in the world are fundamentally opposed to that happening. Withing the context of *competition* it is incredibly difficult to create collaboration. [We assume scarce resources, not that it will be enough for everyone.] Because competition, by definition, means individuals against each other, or teams against each other, or always something against something else. 
+  ** 3:24-4:05
+    *** *Competition is one obstacle to collaboration. The other one is the structure of command and control.* Our current structures have *competition horizontally [among people at the same position in a hierarchy]* and *command and control vertically [from top to bottom, among different levels in a hierarchy]*. There is some competition between levels [when we deal with promotions].
+  ** 4:53-
+    *** How command and control interferes with collaboration? If I am in power, you are less likely to speak truthfully to me. If you don't speak truthfully to me, we don't collaborate. There are 4 things that you are less likely to tell me if you have less power:
+    **** *Your needs*. Because the needs of the powerful, the ones on the top in a hierarchical structure, are prioritized.
+    **** (7:26) *Your perspective on things*, when a decision is dictated on you from above, and you have no say about it. It creates lack of trust and apathy.
+    **** (8:43) *Your creativity*. There is a myth that wisdom emerges from universities and the more elite the university, the more wisdom you have. [intellectual vs emotional wisdom]. Wisdom in sharing and mutual aid of people living in poverty.
+    **** (10:24-13:53) *Your 'No'*. Having power means you rarely hear no [or descent]. That increases the likelihood that we're going to create unsustainable agreements. Because if you can't say 'No', you can't say 'Yes'. We can only say 'Yes' [or agree] when we can say 'No' [or say what keeps us from saying 'Yes']. I believe that most broken agreements are broken because they have never been entered in the first place. Do your children, your students, your colleagues, people around you, ever have a true option to say 'No' to whatever agreement you proposed? [Without responding with power over tactics?] Deciding together. Power sharing [distributed power]. 
+  ** 13:55-14:04 https://www.youtube.com/watch?v=mCyWaSPmRkA&feature=youtu.be&t=835
+    *** *If I want to have collaboration, and I am in a position of power, I need to do something to make it happen.*
+  ** 14:25-17:00 https://www.youtube.com/watch?v=mCyWaSPmRkA&feature=youtu.be&t=865
+    *** Why do we even want to collaborate? What do we gain from collaboration?
+      **** creativity - diversity of thinking based on different needs
+      **** increasing sense of power among individuals in the grouphave the power to make changes
+      **** exercising need consciousness
+      **** increasing the sense, that an individual matters
+  ** 17:09- https://www.youtube.com/watch?v=mCyWaSPmRkA&feature=youtu.be&t=1029
+    *** Division of labor vs Collaboration: Dividing task among people [no sharing] vs Creating the task and figuring it out [sharing]
   ** 20:40-23:24 https://www.youtube.com/watch?v=mCyWaSPmRkA&feature=youtu.be&t=1240
-    *** *If I am part of creating the strategy that we're going to carry out I am more likely to be committed to carrying it out. If [somebody else] decides what's gonna happen and I just have to carry it out, and I was not part of somehow coming up with the design, I'm less [intrinsically] motivated [because now the meaning of the activity is clearer]. ... There is more energy to a project if it's done collaboratively than when it's dictated from above.*
+    *** *If I am part of creating the strategy that we're going to carry out I am more likely to be committed to carrying it out. If [somebody else] decides what's gonna happen and I just have to carry it out, and I was not part of somehow coming up with the design, I'm less [intrinsically] motivated [because now the meaning of the activity is clearer]. ... There is more energy to a project if it's done collaboratively than when it's dictated from above.
     *** (21:58) *Disengagement [alienation] is the fundamental symptom of absence of shared purpose.*
   ** 24:37-24:57 https://www.youtube.com/watch?v=mCyWaSPmRkA&feature=youtu.be&t=1477
     *** *Work is supposed to be suffering: if it's not suffering it's not work; and pleasure is supposed to be useless. If it has use it cannot possibly be pleasurable.*
@@ -1384,7 +1418,7 @@ Sources:+
   ** 52:35-54:11 https://www.youtube.com/watch?v=xbto_pUFD08&feature=youtu.be&t=3155
     *** Once you have a proposal, ... how do you then get from proposal to decision. A lot of collaborative processes that exist out there in one form or another put pressure on people to agree. I instead advocate very counterintuitive thing [which] is to *invite descent*. Inviting descent is once again a way to show people that they matter. ... The question is *_Who disagrees?_*, but how to aks the question is an art and almost a science. I'm looking for a question that will give me as much discussion as is relevant to where we are.
   ** 54:35-57:33
-    *** There is significant trust that you generate through creating a shared list of principles. But that trust can disappear in an instant. If we are early in the process *I sustain the trust, the creativity, the collaboration, by making it very easy to express descent.* Especially [for long term development] I want to have a lot of discussion so that all different points of view, all different needs, all different concerns will be integrated. *[Gradually increase the level of escent.]* So I will ask the question, inviting descent, in a very open way, which could look something like: +
+    *** There is significant trust that you generate through creating a shared list of principles. But that trust can disappear in an instant. If we are early in the process *I sustain the trust, the creativity, the collaboration, by making it very easy to express descent.* Especially [for long term development] I want to have a lot of discussion so that all different points of view, all different needs, all different concerns will be integrated. *[Gradually increase the level of descent.]* So I will ask the question, inviting descent, in a very open way, which could look something like: +
     "We have the first version of the proposal. Now is the time to express any concern that you have. Small or large, it doesn't matter. Right now we are going to discuss all the remarks that are brought up [in order to adjust the proposal by these remarks in the next version]. *Does someone has any concerns [or remarks] about this proposal?*" +
     In the next version I will increase the level of descent, by asking a question: +
     *It looks like we considered all mentioned remarks. But we still want you to ask you if you still have some objections about this proposal. Do you have any significant doubts or concerns about this proposal that you believe would interfere with us working well? Please, express them. But otherwise, if it's something small, that time is over.* +
@@ -1491,18 +1525,44 @@ Sources:+
   ** 1:14:40-1:18:42
   ** 1:19:18-1:20:46
   
-* https://veganvanguardpodcast.com/42-sexual-violence-pedophilia-and-the-systems-that-perpetuate-them-with-kathrin/
+* link:https://veganvanguardpodcast.com/42-sexual-violence-pedophilia-and-the-systems-that-perpetuate-them-with-kathrin/[42. Sexual Violence, Pedophilia, and the Systems that Perpetuate Them with Kathrin]
   ** 5:05-6:04
   ** 55:26-1:11:50
+  
+* link:https://veganvanguardpodcast.com/37-could-capitalism-exist-without-patriarchy/[37. Could Capitalism Exist Without Patriarchy?]
+  ** 11:11-19:05
+  ** 42:42-45:37
+  
+* link:https://veganvanguardpodcast.com/47-social-emotional-learning-sel-for-socialism-and-animal-liberation-with-pierce-delahunt/[47. Social Emotional Learning (SEL) for Socialism and Animal Liberation with Pierce Delahunt]
+  ** 25:30-25:58
+  ** 29:01-32:34
+    *** Empathy from hell: emphatizing with another person's feelings and needs without being connected to own's
+    *** 4 D's of disconnection [from life in ]:
+      **** Denial - Amtssprache, denial of responsibility for my actions
+      **** Diagnose - moralistic judgements, language of domination
+      **** Demand - Amtssprache
+      **** Deserve - making violence enjoyable
+  ** 32:34-35:41
+  ** 43:06-45:47
+  
+* *Punishment is the [deliberate] infliction of pain for purposes of revenge.* link:https://www.youtube.com/watch?v=YJ-EH9LrmUE&feature=youtu.be&t=99[James Gilligan, Revenge: 1:39-1:43]
+  
+* The problem with revenge is, that's endless. ... If all we do when people commit crimes, is punish them, we're simply participating in an an endless cycle of revenge, and counter revenge and counter counter revenge and so on. We learn nothing. The criminals only learn revenge is a good thing, and revenge is what the powerful do to the weak. link:https://www.youtube.com/watch?v=YJ-EH9LrmUE&feature=youtu.be&t=0[James Gilligan, Revenge: beginning-0:28], link:[James Gilligan, Revenge: 2:49-end]
 
-* *Instead of believing somebody's words to be true, I believe their experience to be true.* ... So I put my focus on their feelings and needs.  ... On their experience behind the words. And the whole art is the art of guessing. [Focus on their humanity, on their observation, feelings and needs and requests.] link:https://www.youtube.com/watch?v=KX_tgRM84RA&feature=youtu.be&t=4515[(Nonviolent Communication (NVC): Yoram Mosenzon full workshop: 'Connecting in Conflict': 1:15:15-1:15:59)]
+* This is what I love about friends. Good friends agree with my jackal. Actually, that's the most dangerous thing on the planet. If somebody else  agrees with my jackal, now I can believe my jackal to be true. This is in the society how we create jackals. We call it *"sympathy party"*. It's very different than empathy. Sympathy party is to agree with someone else's jackal. ... In that moment it's the most delicious for her. "Oooh! Thank you! Finally somebody agrees that I'm right and he's wrong!". *It's a pleasure for a short term* because then you go back home, pumped up by this sympathy party, you come to the other person, and you say: "You see? There's really something wrong with you!". *And then you'll have a bigger fight.* link:https://youtu.be/KX_tgRM84RA?t=370[(Nonviolent Communication (NVC): Yoram Mosenzon full workshop: 'Connecting in Conflict': 6:10-8:08)]
+
+* Can you feel even for one second the beauty of both [needs, the beauty of all unfulfilled needs at both conflict parties]? I want [to fulfill all the needs]. And the key now is [to ask yourself] "And I don't know how [to meet both needs right now] ...". Because my brain has been programmed to think "Shit, what to do?! AAARGH! WHAT TO DO!?" I want to fulfil the needs of both sides. Can you breathe three seconds in not knowing? And just feel the beauty of all the unfulfilled needs in a conflict. ... Creativity comes then by itself. Creativity is effortless. You don't need to think "What to do?" *When you recognize what is important for both of you, [and find the unfulfilled needs], creativity will come to you [effortlessly].* When you connect to your need it's a natural process. link:https://www.youtube.com/watch?v=KX_tgRM84RA&feature=youtu.be&t=2279[Nonviolent Communication (NVC): Yoram Mosenzon full workshop: 'Connecting in Conflict': 37:59-43:06]
+
+* I'm not trying to solve conflict. I'm only connecting with the essence, with the needs. Needs will bring me creativity. It asks a certain muscle, that I call *"breathing in the not knowing"*. ... When I know what is important for me and what is important for the other, the essence of us, our needs [we want to fulfill], images will start to come to me. The skill is first to know what is really important. If I don't know her needs, when I hear "I want to swimm.", but I don't get what it is really about, then I think "We have to go to the see." And that is immediately a danger to my needs and I want to [show a middle finger]. If you try to solve [a conflict] before knowing what it is really about [that it's about that my needs and the other person's matter equally]. If the other person sees that I their needs matter, suddenly he/she becomes more flexible. There is a whole magic that nobody was teaching me was avaliable there. When a human being is fully heard, and has a sense that his needs are being taken seriously, immediately there is a new openness. I learned immediately to think "Shit, what to do?" Then any solution that will come will be like a band-aid on the leg. Try to practice connecting with the needs, not to solve the conflict. Just to connect with the needs and sit there. It feels horrible for jackal educated human beings. [Jackals think:] "Yes, but what to do?" link:https://www.youtube.com/watch?v=KX_tgRM84RA&feature=youtu.be&t=3252[Nonviolent Communication (NVC): Yoram Mosenzon full workshop: 'Connecting in Conflict': 54:12-1:00:25]
+
+* *Instead of believing somebody's words to be true, I believe their experience [behind the words] to be true.* ... So I put my focus on their feelings and needs.  ... On their experience behind the words. And the whole art is the art of guessing. [Focus on their humanity, on their observation, feelings and needs and requests.] link:https://www.youtube.com/watch?v=KX_tgRM84RA&feature=youtu.be&t=4515[(Nonviolent Communication (NVC): Yoram Mosenzon full workshop: 'Connecting in Conflict': 1:15:15-1:15:59)]
 
 * As much as possible in as little time as possible vs The best of possible in whatever time necessary to do it. link:https://www.youtube.com/watch?v=bux3TJWvyqE&feature=youtu.be&t=98[(Manfred Max-Neef - The Benefits of a Slow Life: 1:38-1:51)]
 
 * *_Book - James Gilligan - Violence: Our Deadly Epidemic and its Causes_*. +
-Every act of violence somewhere is an attempt to create justice to right a wrong that happened before. That wrong may happen two seconds before or might have happened 50 years before. But there's somewhere in the person's deep organism some wrong that have happend that needs to be righted, and the violence is an expression of that. Now we can all understand the pull to justice *but why does it go to violence rather than to other means? Because we feel shame. All the people that he had talked with essentially without exception were carrying boatloads of shame* in them about who they are, about what has happened to them, about what they want, and most particulary, about anything that had to do with tenderness, with any need for love, for connection, for appreciation.* They had so much shame about it. One of the things that are so clear coming out of this is that *punishment makes things worse because it increases shame link:https://cassandravoices.com/current-affairs/global/special-report-punitive-policies-inflict-further-exclusion-and-trauma-on-syrian-refugee-children/[[and intensifies trauma response and symptoms]]. If shame is at the root of violence, punishment is not going to work. It only going to make the person get into a deeper loop* about who they are now. "Not only I'm ashamed about everything else, now I'm ashamed about the things that I've done and I've been punished,  I've been ostricized, there's no room for me." link:https://www.youtube.com/watch?v=msWYVhmuQhw&feature=youtu.be&t=604[(Albany Addresses Bullying: Miki Kashtan: A Compassionate Perspective on Bullying 3/5/2011: 10:04-12:43)]
+Every act of violence somewhere is an attempt to create justice to right a wrong that happened before. That wrong may happen two seconds before or might have happened 50 years before. But there's somewhere in the person's deep organism some wrong that have happend that needs to be righted, and the violence is an expression of that. Now we can all understand the pull to justice *but why does it go to violence rather than to other means? Because we feel shame. All the people that he had talked with essentially without exception were carrying boatloads of shame* in them about who they are, about what has happened to them, about what they want, and most particulary, about anything that had to do with tenderness, with any need for love, for connection, for appreciation. They had so much shame about it. One of the things that are so clear coming out of this is that *punishment makes things worse because it increases shame link:https://cassandravoices.com/current-affairs/global/special-report-punitive-policies-inflict-further-exclusion-and-trauma-on-syrian-refugee-children/[[and intensifies trauma response and symptoms]]. If shame is at the root of violence, punishment is not going to work. It only going to make the person get into a deeper loop* about who they are now. "Not only I'm ashamed about everything else, now I'm ashamed about the things that I've done and I've been punished, I've been ostracized, there's no room for me." link:https://www.youtube.com/watch?v=msWYVhmuQhw&feature=youtu.be&t=604[(Albany Addresses Bullying: Miki Kashtan: A Compassionate Perspective on Bullying 3/5/2011: 10:04-12:43)]
 
-* [Shame] is not only now more common, its purpose has shifted from protecting the group [,i.e. the community] to protecting the powerful. So *most of us walk around with some degree of shame that is just there in the background that keeps us from doing things.* And *we get shamed for what we want. If you look at early childhood, you are made to be ashamed for wanting what you want, for moving spontaneously, for going for what is of direct interest to you, for saying what is true for you, everything that is about being you is put into question.* ... This is why I decided to become 100% shameless. Why is this funny? Because the word _shameless_ describes someone who is a terrible person, totally outside of the norm. It's as if we're told that having a certain amount of shame, constatly, is a good thing. link:https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=2029[Miki Kashtan - Social Change Series – Liberation in Three Chapters - 1: 33:49-34:40, 1:34:51-1:35:23]
+* [Shame] is not only now more common, its purpose has shifted from protecting the group [i.e. the community] to protecting the powerful. So *most of us walk around with some degree of shame that is just there in the background that keeps us from doing things.* And *we get shamed for what we want. If you look at early childhood, you are made to be ashamed for wanting what you want, for moving spontaneously, for going for what is of direct interest to you, for saying what is true for you, everything that is about being you is put into question.* ... This is why I decided to become 100% shameless. Why is this funny? Because the word _shameless_ describes someone who is a terrible person, totally outside of the norm. It's as if we're told that having a certain amount of shame, constatly, is a good thing. link:https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=2029[Miki Kashtan - Social Change Series – Liberation in Three Chapters - 1: 33:49-34:40, 1:34:51-1:35:23]
 
 * Authorities figures tend just by nature to use shame. link:https://www.youtube.com/watch?v=2KXwnbsQUrI&feature=youtu.be&t=123[(Restorative Justice Continuum - Howard Zehr Ph.D EM 2:03-2:12)]
 
@@ -1526,15 +1586,11 @@ Every act of violence somewhere is an attempt to create justice to right a wrong
 Unsere größte Ehre liegt nicht darin, nie zu fallen, sondern darin, dass wir jedes Mal aufstehen, wenn wir fallen. +
 Confucius
 
+* https://www.ia.gov.sk/data/files/np_PKSD/Analyzy/Stat/Prekazky_v_praci_a_ochrana_prace_NP_PKSD.pdf -- kapitola 2.12 Sabbatical - Syndróm vyhorenia
+
 * I've learned that people will forget what you said, people will forget what you did, but *people will remember how they felt with you.* +
   Ich habe gelernt, dass Leute vergessen, was du gesagt hast, Leute vergessen, was du gemacht hast, aber Leute werden sich daran erinnern, wie sie sich bei dir gefühlt haben. +
   link:???[Maya Angelou]
-
-* This is what I love about friends. Good friends agree with my jackal. Actually, that's the most dangerous thing on the planet. If somebody else  agrees with my jackal, now I can believe my jackal to be true. This is in the society how we create jackals. We call it *"sympathy party"*. It's very different than empathy. Sympathy party is to agree with someone else's jackal. ... In that moment it's the most delicious for her. "Oooh! Thank you! Finally somebody agrees that I'm right and he's wrong!". *It's a pleasure for a short term* because then you go back home, pumped up by this sympathy party, you come to the other person, and you say: "You see? There's really something wrong with you!". *And then you'll have a bigger fight.* link:https://youtu.be/KX_tgRM84RA?t=370[(Nonviolent Communication (NVC): Yoram Mosenzon full workshop: 'Connecting in Conflict': 6:10-8:08)]
-
-* Can you feel even for one second the beauty of both [needs, the beauty of all unfulfilled needs at both conflict parties]? I want [to fulfill all the needs]. And the key now is [to ask yourself] "And I don't know how [to meet both needs right now] ...". Because my brain has been programmed to think "Shit, what to do?! AAARGH! WHAT TO DO!?" I want to fulfil the needs of both sides. Can you breathe three seconds in not knowing? And just feel the beauty of all the unfulfilled needs in a conflict. ... Creativity comes then by itself. Creativity is effortless. You don't need to think "What to do?" *When you recognize what is important for both of you, [and find the unfulfilled needs], creativity will come to you [effortlessly].* When you connect to your need it's a natural process. link:https://www.youtube.com/watch?v=KX_tgRM84RA&feature=youtu.be&t=2279[Nonviolent Communication (NVC): Yoram Mosenzon full workshop: 'Connecting in Conflict': 37:59-43:06]
-
-* I'm not trying to solve conflict. I'm only connecting with the essence, with the needs. Needs will bring me creativity. It asks a certain muscle, that I call *"breathing in the not knowing"*. ... When I know what is important for me and what is important for the other, the essence of us, our needs [we want to fulfill], images will start to come to me. link:https://www.youtube.com/watch?v=KX_tgRM84RA&feature=youtu.be&t=3252[Nonviolent Communication (NVC): Yoram Mosenzon full workshop: 'Connecting in Conflict': 54:12-1:00:25]
 
 * How to speak giraffe with our inner jackals? And in fact, they are probably the most severe jackals we will ever have to deal with. First of all they are so much faster than these other jackals. These inner jackals, they speek with a speed of light, and they have been in there for so long, that often time we are not even aware, that we are jackaling ourselves. Therefore giraffes love to have certain feelings. Giraffes love to have feelings like depression and guilt. Why does the giraffe like those feelings? Because those feelings tell us, jackals infested our thinking. That we are jackaling ourselves. We're telling ourselves that there's something wrong with us. And whenever we're doing that, as a giraffe, we want to tame those inner jackals. How do we tame an internal jackal? The same way we tame an external jackal. No matter what message comes at you from another person, no matter how jackalish it sounds, it's simply an expression of feelings and unmet needs. So we put giraffe ears on and we hear the feelings and the unmet needs. We do the same thing with our internal jackals. Once we've had identified that we see what we're telling ourself, we want to translate that internal judgement into "What are the feelings and needs that are being expressed through this self judgement?" And then you know what we find? The same thing we find with external jackals. That there are no jackals. Jackals are simply giraffes with a language problem. Likewise these internal messages, that keep eating out our soul and morale, if you really hear the life energy being expressed behind that message, we find out that it's a very loving message. We don't feel bad about ourselves at all. ... Whey you have the word "fault" in your consciousness, you know, you have been beset with jackals. When we think in a jackal way, there always must be fault, blame. [But isn't this how the news are presented in media? Every day?] ... "I'm sad, I really would have liked to have known then what I'm learning today." Now you're in touch with life energy behind your message. You're really hearing what you feel and need. But notice how different it is from thinking that thinking "there is something wrong with you. That you should have known better." Notice that when we are in touch with our feelings and needs, that motivates us to do something about the needs. But when all it goes in our head is "should have" and "what's wrong with you" [or what would the others think about me], that doesn't help us learn from the situation. That doesn't mobilize us to change. [link:https://www.youtube.com/watch?v=RSwEC4yvrb0&feature=youtu.be&t=1209[All we can do is to hate ourselves.] We just keep beating ourselves up for years, until we tame those inner jackals which always means to get connected to the life energy behind it. link:https://www.youtube.com/watch?v=HLgGt7yLhJg&feature=youtu.be&t=6084[Atelier communication non violente - Marshall Rosenberg - Danemark - sous-titres français: 1:41:25-1:46:16]
 
@@ -1544,8 +1600,10 @@ Confucius
   Different ways that jackals express no: "Yea, yea, yea, later", "Yes, mein Führer", "Who was your slave in your prior incarnation", or (sigh). All of these reaction tell us that this person is burdened, they're having to protect the most precious that each of us has: our autonomy. That is so difficult when that's under pressure. We'll fight to the death if we will have any source of humaneness left in us. None of us want's to do things because we're forced to do it. That's what I mean by "loving the life in the 'no'", be happy that this person is not doing it. Because when people do it and they don't look inside to see they're doing it inspite of themselves, everybody pays. That's why in giraffe we really mean it: *"Please do this ONLY IF you are willing. We all suffer unless everybody is doing things simply because they want to, because they see how it contributes to life."* +
   I'm not saying what you should say. If I'd tell you what you should say, my guess is you'll have trouble accepting it. "I'm offering you something that I'd say..." ... I wouldn't say "Only do this if you want to" 'cause I'm still telling them what to do. I'm still thinking that I'm the person who's job it is to tell them, what to do. That wouldn't meet my need, just if they did, if they want to. The other thing about that is, as a giraffe, I know that people never do anything except what they want. So that's kind of superflous. I don't think anybody ever does anything except what they want. The only difference is, jackals lie about it. They say "I didn't wanna do it." Then why did you do it? "They made me do it." "I had to do it." "Superiors orders." "Company policy." [Amtssprache - a language that denies choice and responsibility.] There's no responsibility for actions in Jackalland. But a giraffe speaking person knows that in each moment each of us only does only what we want. In this sense, giraffes is not introducing anything new into the universe. *People as long as they've ever been around don't do anything except what they want.* +
   "What if we requested the other person to do something?" Well, even before the conversation starts, *if my objective is to get the other person to do what I want I've lost already.* *"What would the giraffe objective be?" To make a connection with that person. Giraffe dance. Giraffes like to dance. And there is a certain kind of dance that goes: Empathy, Honesty, Empathy, Honesty, ... And giraffes really like that dance 'cause they believe miracles can come off that dance. When we really connect with people in a certain way, any kind of conflict can be resolved* without fear, without guilt, without shame [or any other power over tactics]. *So we trust that dance.* If we go in wanting to dance, well, and we trust that we may come out with the person doing what we want, for reasons what we want. There is no force on it, they're doing it willingly 'cause they see the purpose [meaning, reason]. Or we come out of it valuing what the other person dit, or wants to do. Maybe, so *we don't know, that as a giraffe, we know that if we dance, we'll like whereever we end up. I'm trying to form a kind of connection with this person, that I think is conducive to working out whatever differences are there. I want to form a quality of connection, that's my primary objective*, quality of the connection, and then I trust, that if that quality is of a certain sort, where all of our energy doesn't go into defending each other, violating each other. *When we're really safe, and we really trust that each has the other person's well being at mind, then I know, that this is gonna get results.* I have no doubt about it. But I won't go in there, thinking that that's got to be, that they're gonna study.  ... *So I don't know how it's gonna come out, but but I know that if we get there in a certain process, we'll both like it [breathing in the not knowing]. It has to be clear about our values [needs, purposes, reasons]: "What quality of connection do I value making with people?" "Do I value people as an equals?" "If so, then does my behaviour demonstrate that when I'm with other people?"* That doesn't mean that I have equal knowledge, or equal strength, but do I really value treating people as equals. "And how do I do that, if this person is age 5, or 12?" *"Do I value the use of violence for people to get their way?" So it's for me just being consistent with my values and "How I would like people to treat me?" If that's really what I value, that quality of our connection, and trust that it is of a certain sort, then I trust wherever the conflict goes.*
-** 59:03-1:01:06
+** 59:03-1:01:06 https://www.youtube.com/watch?v=8kaVztNodEM&feature=youtu.be&t=3543
   *** Culturally and politically some people might not be used to this reflection [of feelings and needs] back. [The may consider it as an "invasion" into their private space]. [So, after the empathy,] they may say "Don't pull any of that psychology crap on me!" **So we [show empathy] it again. Silently. For this to be powerful doesn't mean we have to say it outloud.* It's at the very moment that I turn my atention what is this person feeling. So when he says "Don't pull any of that psychology crap on me!" I turn my attention to what is the other person feeling [and what of their needs are not being fulfilled] when he/she says that. I guess the other person is scared and annoyed [nervous, uncomfortable, unpleasant], 'cause he/she may not understand what this [my response] is all about, and the other person wanted me to respond in a way that he/she was more familiar with. That's what I hear in that message. I don't have to say it outloud. *I'd like to be able to say it outlout to check it out 'cause I might be wrong, but just the fact that I'm trying to find the person's feelings [and unfulfilled needs with possible request for me] is already a success. Because when I'm looking for another person's feelings, I take away all power that person has to limit my power, my personal sense of respect.* Only when I take in the judgement, it starts to get scary. *But when I'm conscious that all judgements are simply tragic expressions of needs, why be scared of judgements. They're just saying: "This person is in pain. This person needs something." ["This person has needs that are not being met." "Please! Please!! PLEASE!!"]. This is a good example where the truth sets us free. The truth is, this person has feelings and needs. So why get caught up in their images?*
+** 1:05:01-1:06:09 https://www.youtube.com/watch?v=8kaVztNodEM&feature=youtu.be&t=3901
+  *** *Better to have [the Nonviolent Communication] in your heart and be broken for the words. "Whenever I really get connected to that energy, even when I speak jackal it's giraffe." So the words aren't as important as the consciousness of why I'm interrested in giraffe. The quality of the connection. If that's really what you're after, the words come with practice. But it's that spiritual quality at the beginning. Without that [spiritual quality] the rest doesn't help.*
 
 * Out beyond the ideas of right and wrong there is a field. I'll meet you there. / We'll meet us there. +
 Jenseits den Ideen von richtig und falsch gibt es einen Platz. Ich treffe dich da. / Wir treffen uns da. +
@@ -1874,7 +1932,11 @@ Active Clinic
 
 Epigenetics, Chronic Stress (helplessness and tension), *Trauma*, PTSD - Post Traumatic Stress Disorder: the lack of empathy after tauma, trauma response, trauma and ibs, difficulty trusting people, loss of friends, fragile friendships
 
-https://www.psychologytoday.com/us/blog/think-act-be/201609/21-common-reactions-trauma
+expressive writing, empathy, NVC
+
+* https://www.psychologytoday.com/us/blog/think-act-be/201609/21-common-reactions-trauma
+* https://safety.gwu.edu/common-reactions-trauma
+* https://safety.gwu.edu/sites/g/files/zaxdzs2386/f/downloads/Common%20Reactions%20to%20Trauma_4.pdf
 
 == Diseases / Erkrankungen / Choroby
 
@@ -1882,9 +1944,13 @@ https://www.psychologytoday.com/us/blog/think-act-be/201609/21-common-reactions-
 * Snorring
 * PTSD
 * IBS: Irritable Bowel Syndrome
-* Belching, flatulence
+* Belching
+* Flatulence
+* Heartburn
 * NCCP: Non-Cardiac Chest Pain
 * Dry skin in cold
+* Burnout / Adrenal Fatigue [not sure] (link:https://duckduckgo.com/?q=adrenal+fatigue+burnout&iax=images&ia=images[])
+* Overeating
 
 == Why did I create this?
 
@@ -2259,9 +2325,18 @@ Minimalizmus neznamená mať čo najmenej vecí, ale mať iba toľko takých vec
 
 At shopping I ask myself: "Will this thing be useful to me?" [What of my needs will this thing fulfil?]
 Beim Einkaufen frage ich mich: "Wird dieses Ding nützlich für mich sein?" [Welche meiner Bedürfnisse erfüllt dieses Ding?]
-Pri nakupovani sa pýtam: "Bude táto vec užitočná?" [Aké z mojich potrieb bude táto vec napĺňať?]
+Pri nakupovani sa pýtam: "Bude táto vec pre mňa užitočná?" [Aké z mojich potrieb bude táto vec napĺňať?]
 The Minimalists - Youtube Podcast
 
 --
 
 Ako vyhadzujem veci - najprv odlozim nepotrebnu vec bokom [na odložisko] na chvilu (par dni, tyzdnov, mesiacov, rokov). Pokial ju nebudem potrebovat pocas toho ako bude odlozena, vyhodim ju.
+
+---
+
+What capitalism and cancer have in common? +
+Both want to continuously grow. Maybe we have a sick economic system...
+
+---
+
+
