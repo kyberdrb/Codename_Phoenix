@@ -36,6 +36,10 @@ Properties of needs:
 
 ---
 
+link:https://static1.squarespace.com/static/52898555e4b0d5b9928e8aa5/t/575773a58259b5658351e8d3/1465349030412/Needs+%26+Feelings+List.pdf[Feelings and Needs list]
+
+---
+
 * *subsistence / das Lebensunterhalt / živobytie*
 * long life / langes Leben / dlhý život
 * air / die Luft / vzduch
@@ -425,7 +429,7 @@ Disconnected from needs / Unterbunden von Bedürfnissen
 
 *Not-feelings - thoughts, analyses, diagnoses, interpretations, criticisms / Nicht Gefühle / ne-pocity*
 
-link:...[Source]
+link:???[Feelings vs Thoughts pdf]
 
 * resentful
 * overwhelmed
@@ -653,7 +657,7 @@ spreche, mit jemandem spreche, schreibe, zuhöre, mich dusche, mich mit kaltem W
 - Gratitude and Appreciation vs Reward, Praise and Compliments- M. B. Rosenberg, Alfie Kohn, Peter Gray
 - Criticism, Punishment, Praise and Compliments vs Observation, Feeling, Need, Request and Unconditional Love - M. B. Rosenberg, Alfie Kohn
 - Criticism, Punishment, Praise and Compliments vs Unconditional Love - Alfie Kohn [OFJCC - 26:10-27:28-30:04]
-- Education as an obligation, contest, competition or transaction vs Education as a gift link:soundcloud???[Alfie Kohn - Interviu]
+- Education as an obligation, contest, competition or transaction vs Education as a gift link:https://soundcloud.com/user-350469784/interviu-alfie-kohn-14-may-2016[Alfie Kohn - Interviu: 21:42-21:43]
 - Needs as an obligation, contest, competition or transaction vs Needs as a gift [M.B. Rosenberg - Experiencing Needs As a Gift]
 - Observation vs Evaluation - Jiddu Krishnamurti, M.B. Rosenberg, link:https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=1711[Miki Kashtan - Social Change Series – Liberation in Three Chapters - 1: 28:31-29:40]
 - Honesty vs Criticism and Blame - M. B. Rosenberg [Making life wonderful - part 1/4 - somewhere at the beginning]
@@ -739,8 +743,11 @@ by Doug Newburg
 * Glauben an meine Fähigkeiten.
 * fähige Unfähigkeit / competent incompetence, able disability / schopná neschopnosť link:https://en.wikipedia.org/wiki/Peter_principle#Summary[Peter Principle: Peter's Plateau / Final Placement]
 * Schritt für Schritt
+  ** wie immer Kompliziert die Aufgabe sein mag, früher oder später komme ich auf die Schritte, und mache die Änderungen, implementiere die Lösung
 * strength in diversity
 * breathing in the not knowing, playing in the not knowing / atment in Ungewisse, spielen in Ungewisse link:[(Yoram Mosenzon - ???)], link:https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=4512[Miki Kashtan - Social Change Series – Liberation in Three Chapters - 1: 1:15:12-1:16:30]
+* Leidenschaft an Experimentieren
+* Begeisterung an Fortschritt
 
 *2.) Preparation / Vrobereitung*
 
@@ -1156,7 +1163,7 @@ They do what they're told by the people above. They do what their parents want. 
 
 The education to violence is just a temporary thing. Although it takes for approximately 5000 years. By the paleontologist Pierre Teilhard de Chardin, we are gradually returning back to the ways of living that are more natural.
 
-Everything that we do out of penitence or self-hate, fear of punishment, desire for reward, concept of deserve, duty, obligation, submission, rebellion, giving in or self-sacrifice, buying love, guilt, shame, anger, depression, everybody pays for it. Therefore *don't do things for other people. Do things only when you do so willingly to enrich your and other people's life.* If you do things from the energy that damages life, it will affect commitment to values that serve life, care about other people, depth of thinking, interest in learning, preference to challenge link:???[M.B. Rosenberg] link:???[tilt parenting], link:???[alfie kohn ofjcc]
+Everything that we do out of penitence or self-hate, fear of punishment, desire for reward, concept of deserve, duty, obligation, submission, rebellion, giving in or self-sacrifice, buying love, guilt, shame, anger, depression, everybody pays for it. Therefore *don't do things for other people. Do things only when you do so willingly to enrich your and other people's life.* If you do things from the energy that damages life, it will affect commitment to values that serve life, care about other people, depth of thinking, interest in learning, preference to challenge link:???[M.B. Rosenberg] link:???[tilt parenting - alfie kohn], link:???[alfie kohn ofjcc]
 
 == Fascism
 
@@ -1273,9 +1280,37 @@ In 1945 Maria Montessori started to revive and reestablish her education in pres
 
 * There was less cheating when [the teachers] made it clear that the point was to enjoy the learning, when understanding mattered more than memorizing, and when mistakes were accepted as a natural result of exploration. link:alfiekohn.org/???[Alfie Kohn - Who's Cheating Whom, paragraph 11], link:https://montessoritraining.blogspot.com/2013/09/montessoris-three-levels-of-obedience.html[Mistakes - Montessori]
 
+* link:https://soundcloud.com/user-350469784/interviu-alfie-kohn-14-may-2016[Interviu Alfie Kohn - 14 MAY 2016]
+  ** 0:23-2:26
+    *** Reflecting on "good" education and parenting with question "What are your long term goals for your students and children?" Then we work backwards from the answers on this question, which sets goals for the "good" education and parenting. And the best kind of education is not certainly not one, that sets kids against other kids in a competition for medals and other artificially scarce distinctions that leads them to view everyone else as obstacles to their own success. A "good" education is not one that raises scores on exams that are merely about cramming forgettable facts into short term memory. *A good school is one where the students have a lot to say about the curriculum and the pedagogy which means what they're being taught and how they're being taught. A really good school is one that's* not just *about* memorizing facts and practicing skills, but *understanding ideas from inside out. A really good school is one where students feel a part of a caring community.* They don't feel alone or lonely, or worse, set against others in a contest.
+  ** 3:24-4:03
+    *** What looks like a question of a parental motivation, quickly reveals itself to be a question about *"What's wrong with traditional education?" The best schools around the world do not make students to commit this kind of stuff to memory that could be looked up on a computer or phone. They are doing a very different kind of education at the first place. The kind that is trully authentically engaging where students are inclined to pursue meaningful projects of their own design that help them to think more carefully about questions that matter.*
+  ** 5:45-8:50
+    *** A lot of young adults are not busy thanking their parents for having compell them do things they held no interest in them. What those young people are doing is thinking *"Why did you destroy my childhood in search of trying to get me toward a goal of making more money in the future."* ... We want our children to earn a living. But that's very different from sacrificing happiness, morality, interest in learning, critical thinking, and so on, to the goal of making a lot of money, because you and I both know, that an awful lot of people who are affluent, are also miserable, and many of them are not particulary ethical human beings. Conversely, a lot of the people I most respect, and are most content in their lives, are not earning a lot of money. Education isn't a means to an end, even when the end is merely wealth in their adulthood. *We want to help them fall in love with thinking, with asking deep critical questions and being creative.* ... *so they come to understand the idea and learn to think like scientists. That's how you learn when you don't have to bribe or threathen kids into doing the activities, and you certainly don't have to see math as just a way to make more money when you're older.*
+  ** 10:17-11:15
+    *** Generative questions help people become thinkers. They generate ideas, and make learning something worth doing, as opposed to whipping people into doing whatever meaningless garbage they're told to do, is actively undermining the intellectual development, and putting a strain on our relationships. Parents are involved in the kid's intellectual development, but that doesn't mean that they want to become an enforcer of school rules, regulations and demands, that turn out not to be good for kids in the first place.
+  ** 11:27-14:31
+    *** Grades and tests tell us the least interesting things about the peoples's intellectual development. If people come home chattering excitedly about something they've figured out how to do that day in school [or in work], that's an excellent sign. If people together continue debating a topic after the school [or work] is over, that's a good sign. If kids not only can read, but choose to read on their own time, that's an excellent sign. If people are asking themselves increasingly sofisticated questions about ideas, and seen genuinely engaged in figuring things out, these are good signs about the kind of education people are getting. And they are also good signs about the progress that people are making intellectually. If you refer to grades instead, that my child get an 8 this time, instead of a 4, that's very worrysome. Because what research tells us about grades or marks, is that there are 3 reliable effects on getting students to focus on improving their grades:
+    . Kids become less interested in learning instead.
+      **** To the best of my knowledge, every study that has looked on this question, has found a negative effect on people's interest in learning [or working] as a result of being focust on their marks.
+    . People tend to pick the easiest possible task when you give them a choice.
+      **** Not because the're lazy or unmotivated, but because they're rational. The people say "Duh! Of course! If the goal is to get a higher grade [or a higher test score], I'm going to pick the shortest book, or the easiest project, or a topic that I already know something about where I don't have much to learn." Because the goal of getting a better grade is the antithesis, the opposit of taking intellectual risks.
+    . People tend to think in a superficial, or shallow fashion
+      **** They're less likely to ask questions like "How do we know that's true?" or "Doesn't that contradict what we were learning last week?", and instead they're more likely to ask questions like "Do we have to know this?", "Is this gonna be on the exam?". And then you've lost them as learnens. +
+      As a parent of a child that goes to a "traditional" school that is still using grades, my job, as a parent, is to make grades as invisible as possible for as long as possible. To ignore the numbers that the schools are still "stupidly" giving out, and encourage people to think about ideas instead. +
+      If I'm a teacher teaching in a school like that, I never would put a numerical grade on any individual project or task that kids do, so that I can help kids to forget about grades and engage with ideas until the end when I will give them one.
+  **  14:47-17:33
+    *** [Grades, points or credits] are not a genuine indication of human's capacities. First of all, most kids already have a sense from when engaging in a task what they have trouble with and what they do more easily without any feedback from a teacher. They know that they are having trouble reading, or they solved a problem or come up with an experiment in science quickly. They don't need a grade for that. Although there are some times when they require informational feedback from a teacher. First of all, grades [points or credits] are not a feedback. They're not an [meaningful] information. They're a judgement. They say "I think I like what you do or how well you do this particular task." Secondly, there are authentic forms of assessment where students actually do something to show what they understand about an idea, and have the teacher offer responses or even have other students offer responses about where they may need some help to improve. Never does this require reducing people into numerical [or alphabetical] term. What that does leads to the 3 effects that I've just mentioned, without providing any useful information that they couldn't get more informative and less destructive with other forms of feedback. Maybe a kid can translate something that did by themselves into a foreign language, or picking a situation from a real life and learning from it. Then we are not only learning more authentically, than just memorizing facts in the short term memory. What the teacher is getting information about how well I'm learning it without ever having to give a test or a grade [or points]. And they can share in a conversation or in a paragraph of a narrative report, with the student, how things are going. *"Good" teachers never need a test to get a sense of how well the people are learning, and they never need a grade to report the quality of learning to anybody.*
+  ** 18:10-20:12
+    *** The research overwhelmingly shows that competition holds people back from doing their best work as adults in the workplace, and holds them back from the most effective learning in a classroom, and isn't necessary to have a good time in recreation and play, and is terribly destructive psychologically for people as well. We live in cultures that have turned competition, the idea of being "number one" (#1), and defeating other people, into practically a state religion. And it turns out, that:
+      . it's bad for people psychologically, when you constatly feeling "I'm not good enough because there are always more people I have to beat."
+      . it's very bad for our relationships because competition creates envy of winners and contempt for losers, and aggression, hostility and rivalry, it undermines helpfulness, trust and open communication. Competition is completely different from excellence [Excellence vs Superiority distinction by Daniel Markovits]. Study after study shows that if I'm thinking about how I have to beat other people at work, at school, at home, at play [at games], I'm not able to do the best job that I'm capable. Because now the task is seen as just something I have to get through, in order to get [this cookie, this goodie] a trophy, to get recognition, be seen as "number one". And I'm not able to draw from the skills and knowledge from the people around me. Real excellence comes from cooperation when all of us try to learn or produce something together. But if those people have to be defeated, in order for me to succeed, because that's what competition means, then I'm certainly not gonna help them, they're not gonna help me, and all of us end up losing in the race to win.
+  ** 20:48-
+    *** Test scores are lousy measures. Standardized tests measure what matters least about actual learning. Standardized test scores are largely a matter of socioeconomic status where richer countries and richer neighborhoods do better on those tests. So a low score is not necessarily a bad sign, and a high score is not necessarily a good sign. And the worst thing to do is think of it in relative terms as a competition, when we as ourselves "How do we compare to other countries?" That is I think a morally bankrupt question. We want people all over Europe and the world to learn effectively. We don't want to look upon other countries in order to say "We're number one!" as if it's a football game or something. Education is not a contest. Therefore, I would for many reasons ignore the score. When you asking people about their experiences about the education, the answers may be valid and important. Anwers by the people who feel lonely and unhappy with their educational experience, may be the best answers to the question "What's wrong with ["traditional education"] grades, tests, homework, competition?" The answer is you're destroying the people and children because you don't understand how counterproductive those practices are. Maybe that's what they're telling us. And maybe the place to start is by actively asking people more often about their experience in school, and helping them to bring them in on the process of changing the education. based on the experience of the people we're educating. If they're feeling lonely, unhappy, isolated [discouraged from attempts for inclusion, cooperation, importance and changing of current rules] and alienated [i.e. when they feel unpleasant], they cannot learn effectively, even when they have the best curriculum and pedagogy available, which apparently they don't. It doesn't only make sense to me to create a better education system for people we want to educate. It makes more sense to me to create a better education system with people we want to educate. Because people are most likely to flourish, be happy, and succceed, when they have something to say about what it is they're doing every day.
+
 * Leadership is not defined by the exercise of power but by the capacity to increase sense of power among those led. The most essential work of the leader is to create more leaders. link:https://scontent.fbts2-1.fna.fbcdn.net/v/t1.0-9/31781853_10156828091695628_8027792006530990080_n.png?_nc_cat=106&_nc_sid=8024bb&_nc_ohc=sdfVZfeBPpoAX84ENlX&_nc_ht=scontent.fbts2-1.fna&oh=35dff8d3e47555a204245ba9ae13be32&oe=5F25FD09[(Mary Parker Follett)]
 
-* Other critics of the homo economicus model of humanity, such as Bruno Frey, point to the excessive emphasis on extrinsic motivation (rewards and punishments from the social environment) as opposed to intrinsic motivation [not internal!]. For example, it is difficult if not impossible to understand how homo economicus would be a hero in war or would get inherent pleasure from craftsmanship. Frey and others argue that too much emphasis on rewards and punishments can "crowd out" (discourage) intrinsic motivation: paying a boy for doing household tasks may push him from doing those tasks "to help the family" to doing them simply for the reward. +
+* *Homo economicus* - Other critics of the homo economicus model of humanity, such as Bruno Frey, point to the excessive emphasis on extrinsic motivation (rewards and punishments from the social environment) as opposed to intrinsic motivation [not internal!]. For example, it is difficult if not impossible to understand how homo economicus would be a hero in war or would get inherent pleasure from craftsmanship. Frey and others argue that too much emphasis on rewards and punishments can "crowd out" (discourage) intrinsic motivation: paying a boy for doing household tasks may push him from doing those tasks "to help the family" to doing them simply for the reward. +
 Another weakness is highlighted by economic sociologists and anthropologists, who argue that homo economicus ignores an extremely important question, i.e. the origins of tastes and the parameters of the utility function by social influences, training, education, and the like. The exogeneity of tastes (preferences) in this model is the major distinction from homo sociologicus, in which tastes are taken as partially or even totally determined by the societal environment (see below). +
 Further critics[citation needed], learning from the broadly defined psychoanalytic tradition, criticize the homo economicus model as ignoring the inner conflicts that real-world individuals suffer, as between short-term and long-term goals (e.g., eating chocolate cake and losing weight) or between individual goals and societal values. Such conflicts may lead to "irrational" behavior involving inconsistency, psychological paralysis, neurosis, and psychic pain. Further irrational human behaviour can occur as a result of habit, laziness, mimicry and simple obedience. +
 The emerging science of "neuroeconomics" suggests that there are serious shortcomings in the conventional theories of economic rationality.[16] Rational economic decision making has been shown to produce high levels of cortisol, epinephrine and corticosteroids, associated with elevated levels of stress. It seems that the dopaminic system is only activated upon achieving the reward, and otherwise the "pain" receptors, particularly in the pre-frontal cortex of the left hemisphere of the brain show a high level of activation.[17] Serotonin and oxytocin levels are minimised, and the general immune system shows a level of suppression. Such a pattern is associated with a generalised reduction in the levels of trust. Unsolicited "gift giving", considered irrational from the point of view of homo-economicus, by comparison, shows an elevated stimulation of the pleasure circuits of the whole brain, reduction in the levels of stress, optimal functioning of the immune system, reduction in cortico-steroids and epinephrine and cortisol, activation of the substantia nigra, the striatum and the nucleus acumbens (associated with the placebo effect), all associated with the building of social trust. Mirror neurons result in a win-win positive sum game in which the person giving the gift receives a pleasure equivalent to the person receiving it.[18] This confirms the findings of anthropology which suggest that a "gift economy" preceded the more recent market systems where win-lose or risk-avoidance lose-lose calculations apply.[19] +
@@ -1304,6 +1339,9 @@ Sources:+
     
 * link:https://www.youtube.com/watch?v=mErG7mSzwkc[Miki Kashtan - Social Change Series – Liberation in Three Chapters - 1]
   ** 7:20- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=440
+    *** Problems of capitalism
+      **** exchange: mutual selling and buying, as opposed to mutual giving and receiving
+      **** accumulation: removing resources from the flow
   ** 8:29- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=509
   ** 9:57- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=597
   ** 12:36- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=756
@@ -1543,7 +1581,14 @@ Sources:+
       **** Demand - Amtssprache
       **** Deserve - making violence enjoyable
   ** 32:34-35:41
+    *** Capitalism, i.e. Anti-Socialism on an institutional level, forces us to be antisocial with each other because the more you internalize the system, the more we ask the question "What we can extract frsom someone else." which is the basis of capitalism. It's "What can I get out of this?". Then every gift that I give to someone becomes a liability or loss that I have to account for. +
+    Institutionalized socialism would mean, if implemented well [according to the Nonviolent Principles], connection with others and giving to others with everyone's needs met then there is no threating over every last bit, or trying to accumulate more to ensure that we never suffer the loss that we don't have enough ever again.
   ** 43:06-45:47
+  ** 50:49-51:00
+  ** 53:55-55:17
+  ** 55:55-56:38 A living being [human, animal, nature] is a given set of feelings and needs.
+  ** 1:16:26-1:18:37
+  ** 1:29:31-1:35:58
   
 * *Punishment is the [deliberate] infliction of pain for purposes of revenge.* link:https://www.youtube.com/watch?v=YJ-EH9LrmUE&feature=youtu.be&t=99[James Gilligan, Revenge: 1:39-1:43]
   
@@ -1588,13 +1633,31 @@ Confucius
 
 * https://www.ia.gov.sk/data/files/np_PKSD/Analyzy/Stat/Prekazky_v_praci_a_ochrana_prace_NP_PKSD.pdf -- kapitola 2.12 Sabbatical - Syndróm vyhorenia
 
-* I've learned that people will forget what you said, people will forget what you did, but *people will remember how they felt with you.* +
+* I've learned that people may forget what you said, people may forget what you did, but *people will remember how they felt with you.* +
   Ich habe gelernt, dass Leute vergessen, was du gesagt hast, Leute vergessen, was du gemacht hast, aber Leute werden sich daran erinnern, wie sie sich bei dir gefühlt haben. +
   link:???[Maya Angelou]
 
 * How to speak giraffe with our inner jackals? And in fact, they are probably the most severe jackals we will ever have to deal with. First of all they are so much faster than these other jackals. These inner jackals, they speek with a speed of light, and they have been in there for so long, that often time we are not even aware, that we are jackaling ourselves. Therefore giraffes love to have certain feelings. Giraffes love to have feelings like depression and guilt. Why does the giraffe like those feelings? Because those feelings tell us, jackals infested our thinking. That we are jackaling ourselves. We're telling ourselves that there's something wrong with us. And whenever we're doing that, as a giraffe, we want to tame those inner jackals. How do we tame an internal jackal? The same way we tame an external jackal. No matter what message comes at you from another person, no matter how jackalish it sounds, it's simply an expression of feelings and unmet needs. So we put giraffe ears on and we hear the feelings and the unmet needs. We do the same thing with our internal jackals. Once we've had identified that we see what we're telling ourself, we want to translate that internal judgement into "What are the feelings and needs that are being expressed through this self judgement?" And then you know what we find? The same thing we find with external jackals. That there are no jackals. Jackals are simply giraffes with a language problem. Likewise these internal messages, that keep eating out our soul and morale, if you really hear the life energy being expressed behind that message, we find out that it's a very loving message. We don't feel bad about ourselves at all. ... Whey you have the word "fault" in your consciousness, you know, you have been beset with jackals. When we think in a jackal way, there always must be fault, blame. [But isn't this how the news are presented in media? Every day?] ... "I'm sad, I really would have liked to have known then what I'm learning today." Now you're in touch with life energy behind your message. You're really hearing what you feel and need. But notice how different it is from thinking that thinking "there is something wrong with you. That you should have known better." Notice that when we are in touch with our feelings and needs, that motivates us to do something about the needs. But when all it goes in our head is "should have" and "what's wrong with you" [or what would the others think about me], that doesn't help us learn from the situation. That doesn't mobilize us to change. [link:https://www.youtube.com/watch?v=RSwEC4yvrb0&feature=youtu.be&t=1209[All we can do is to hate ourselves.] We just keep beating ourselves up for years, until we tame those inner jackals which always means to get connected to the life energy behind it. link:https://www.youtube.com/watch?v=HLgGt7yLhJg&feature=youtu.be&t=6084[Atelier communication non violente - Marshall Rosenberg - Danemark - sous-titres français: 1:41:25-1:46:16]
 
 * link:https://www.youtube.com/watch?v=8kaVztNodEM[Marshall Rosenberg Nonviolent Communication RESOLVING CCONFLICTS]
+** 3:33-8:47 https://www.youtube.com/watch?v=8kaVztNodEM&feature=youtu.be&t=213
+  *** Everything I know about resolving conflicts I can put in three sentences. These three things work every time. Once I do these three things, I have no problem resolvinig conflicts with anybody.
+    . Translate all of my value judgements into the language of giraffe.
+      **** Translate moralistic judgements into the language of feelings and needs.
+    . Respect the life in the other person's "No."
+      **** Show empathic understanding when the other person disagrees, i.e. says "Yes" to other needs, e.g. by asking "What keeps you from agreeing? / "
+    . Abstain at all times from any ecologically unsafe [or toxic] influence strategies [a.k.a. power over tactics [Marry Parker Follett]]:
+      **** fear induction: threat/fear of punishment, fear of not getting a reward, fear of making mistakes
+        ***** *If I want to resolve conflicts with other people, they must know, that it is abhorrent to me, totally against my religion ever to use punishment to get what I want.*
+      **** guilt induction
+        ***** "I feel because you ..."
+        ***** Guilt: the belief, that someone is a cause for the other person's feelings. It's never the other person that causes suffering for other people [unless it's a physical or material damage]. You can never psychologically hurt the other person even if you try. It's their unmet needs that hurt them.
+        ***** No more blaming of other people for one's suffering, in the process of trying to influence through enough guilt, that the other person will give in.
+      **** shame induction
+        ***** verbal and cognitive - through thoughts
+        ***** Abstain at all times from any words which categorizes behavior. To let the other person know that I have no words in my consciousness for evaluating whether your position is right, wrong, good, bad, normal, abnormal, appropriate, inapropriate, [responsible, irresponsible].
+        ***** Claiming what's wrong with them, to get them to change, because I convince them how terrible they are.
+      **** These are ecologically unsound strategies because even if you get what you want from the other person using any of those strategies, you create an environment for yourself that is highly toxic. *Punishment is a highly toxic form of influencing human being. Even if you get what you want you pay dearly for it. You poinson the environment because you communicate that you are a predator prepared to make people suffer if they don't give you what you want.*
 ** 20:19-31:12 https://www.youtube.com/watch?v=8kaVztNodEM&feature=youtu.be&t=1219
   *** Jackals think of these two possibilities: I must have all the power to force other people to behave, or the other option they think of is permissivness, giving up power and just giving in, letting the children [or the other people] over. How do we express our value judgements in giraffe? *"I would like, if you're willing. But, please, don't do it unless you're willing 'cause we both lose."* How do we recognize that the other person heard a request and not a demand? How do we get across now that it is in fact "I would like, if you're willing". When the person now *trust* that we're not saying the old messages. First of all, they may be suspicious for a while. Then you get responses like "Yes, mein Führer!" They believe, this is just a jackal trying to sneak into a giraffe's clothing. Even though I'm now practicing another language. They don't know yet that I'm really graduated. [They might say:] "Don't pull any of that giraffe business on me!" There is still worry that it's still your objective to get what you want. And as long as that's your objective, you can't get it. *So, as a giraffe, it's never your objective to get what you want from other people. It's only your objective to get what both people want. It's only when the other person trusts that I value their needs equal to my own [that their needs are equally as important as mine, that their needs matter equally as mine], that I have any _power with_ that person.* This is the central difference between power over - jackal power, and power with - giraffe power. Power over, jackal power, is easy to get: all you got to do is to make the other person suffer if they don't do what you want. But giraffe power, power with, I only have that to the degree to which the other person *trusts* that I am equally interested in their need fulfillment as my own. When they trust that I know that I can't benefit at their expense [because benefitting at somebody else's expense is not a benefit at all, because it's not sustainable, and it crumbles sooner or later anyway], and I have no desire to. It's only when they trust, I believe firmly enough, for what I'm asking for, I don't have to use fear, guilt or shame inducing tactics [or any other power over tactics]. When they trust all of that, then they can hear that that's just my request. This might be new on my part, so they might not trust it yet. +
   Different ways that jackals express no: "Yea, yea, yea, later", "Yes, mein Führer", "Who was your slave in your prior incarnation", or (sigh). All of these reaction tell us that this person is burdened, they're having to protect the most precious that each of us has: our autonomy. That is so difficult when that's under pressure. We'll fight to the death if we will have any source of humaneness left in us. None of us want's to do things because we're forced to do it. That's what I mean by "loving the life in the 'no'", be happy that this person is not doing it. Because when people do it and they don't look inside to see they're doing it inspite of themselves, everybody pays. That's why in giraffe we really mean it: *"Please do this ONLY IF you are willing. We all suffer unless everybody is doing things simply because they want to, because they see how it contributes to life."* +
@@ -1646,7 +1709,7 @@ Homework is literally all pain and no gain. It produces frustration, exhaustion,
 "As I got better in teaching, I assigned less and less homework. Now I assign none." *Getting rid of homework was intellectually beneficial.* "Students talked during the lesson about things they learned at the subject and compared them with current events in the world." Homework [can be considered as] a tool for the school how to manage family time. *The family needs to have the freedom to decide how to spend its time!* Instead of making the students work a second shift of academeics at home. +
 Six hour of academics is more than enough.
 
-* Talk to your kids at home about *what* they're learning in school. Never about *how well* the teacher thinks they're learning!
+* Talk to your kids at home about *what* they're learning in school. Never about *how well* the teacher thinks they're learning! link:https://soundcloud.com/user-350469784/interviu-alfie-kohn-14-may-2016[Alfie Kohn - Interviu: 9:58-10:17]
 
 * If you need to give grades [or evaluate / judge]:
     . write acomment or talk with the student *without* the grades and points. The students will be more interested in learning *only* when there is no letter or number attached to the comment.
@@ -1741,7 +1804,7 @@ link:???[Jiddu Krishnamurti]
 
 * Never give them the power to submit or rebel link:...[(Training Session # 2 Marshall Rosenberg CNVC org - 58:10-???, M.B. Rosenberg - resolving conflicts with children, NVC San Fran workshop)]
 
-* The behavior of somebody else is never the cause of our feelings. The behavior of somebody else is only the *stimulus* for our feelings. The cause of our feelings is our *thoughts* stimulated by the behavior and our *unmet needs* behind our thoughts. ... If we're trying to convince ourselves or somebody else that their behavior is the cause for our feelings, then we're are trying to use *guilt* and *shame* to change the behavior of the other person. Guilt means that the other person is responsible for our feelings. This is not possible because we cannot be responsible for something else outside of ourselves. We are only responsible for our intentions, thoughts, words and actions. The other person is not responsible for my feelings, but it's responsible for his or her intentions, thoughts, words and actions. I'm responsible for how I respond to the response of the other person, and for what ear do I have on, giraffe or jackal, when I'm reacting to their response. Shame on the other hand means that the other person is _bad_ for what they're doing and _deserving_ punishment. By Dr. James Gilligan, shame and ebarassement without nonviolent stimulation is the most reliable predictor of future violence and recidivism. Shame increases violence. Punishment increases shame. Therefore, punishment causes higher rates of violence and recidivism. link:...[(M.B. Rosenberg, James Gilligan, Miki Kashtan)]
+* The behavior of somebody else is never the cause of our feelings. The behavior of somebody else is only the *stimulus* for our feelings [when the damage is psychological; when it goes about physical damage on somebody or something, then the person really *_caused_* the damage]. The cause of our feelings is our *thoughts* stimulated by the behavior and our *unmet needs* behind our thoughts. ... If we're trying to convince ourselves or somebody else that their behavior is the cause for our feelings, then we're are trying to use *guilt* and *shame* to change the behavior of the other person. Guilt means that the other person is responsible for our feelings. This is not possible because we cannot be responsible for something else outside of ourselves. We are only responsible for our intentions, thoughts, words and actions. The other person is not responsible for my feelings, but it's responsible for his or her intentions, thoughts, words and actions. I'm responsible for how I respond to the response of the other person, and for what ear do I have on, giraffe or jackal, when I'm reacting to their response. Shame on the other hand means that the other person is _bad_ for what they're doing and _deserving_ punishment. By Dr. James Gilligan, shame and ebarassement without nonviolent stimulation is the most reliable predictor of future violence and recidivism. Shame increases violence. Punishment increases shame. Therefore, punishment causes higher rates of violence and recidivism. link:...[(M.B. Rosenberg, James Gilligan, Miki Kashtan)]
 
 * Sometimes I do things that i wouldn't have done if I knew then what I've since learned. +
 Manchmal tue ich Dinge, die ich nicht getan hätte, wenn ich damals gewusst hätte, was ich seitdem gelernt habe. +
@@ -1784,6 +1847,8 @@ link:https://www.youtube.com/watch?v=jArsTeP66FE&feature=youtu.be&t=5863[Film 02
 * The map is not the territory. The words are never what they express. Look behind the words. See the truth. The truth is the other person has feelings and needs that are not being met. [Alexander Korzhybsky - General semantics], link:???[M.B. Rosenberg: Experiencing Needs as a Gift], link:[San Francisco Workshop]
 
 * selfish, selfless, self-full [M.B. Rosenberg - Experiencing Needs as a Gift]
+
+* needs are gifts; never allow the other person to tarness the beauty of your gift; my needs are gifts for the other person; seing the beauty in the judgements, seing a beautiful gift from another person that judges us; transforming judgements to gifts full of feelings and needs [M.B. Rosenberg - Experiencing Needs as a Gift], [M.B. Rosenberg - This Thing Called Love]
 
 * Prefigurative environment link:youtube???[Making Life Wonderful 2/3/4 ??? - M.B. Rosenberg]
 
@@ -2263,17 +2328,20 @@ waiting for UBI - Universal Basic Income...
 
 ---
 
-*Hobbesian model:* people are greedy and selfish and therefore must have a tyran that will oppress them to discipline them. [What a myth. Protective, not punitive use of force. Empathy and cooperation, not selfishness and competition]
+*Hobbesian model:* people are greedy and selfish and therefore must have a tyran that will oppress them to discipline them. [What a myth. Protective, not punitive use of force. Empathy and cooperation, not selfishness and competition] link:https://www.pabusinesssupport.co.uk/the-problem-with-meritocracy/[The Problem with Meritocracy]
 
 ---
 
-Ich sehe Geld als ein Mittel der Erpressung (oppression). Am besten ist das auf einem Lohn (debt), einem Kredit zu sehen. Das Kredit versklavt die Menschen ihrer Arbeit. Wenn sie arbeiten, leiden sie, weil sie sich von ihr allmählich entfremnden. Wenn sie nicht arbeiten, leiden sie, weil sie ihre Bedürfnisse nicht mehr vollständig erfüllen können, weil Überleben hängt vom Einkommen ab. Wohnung, Essen, Hygiene, Gesundheit.
+Ich sehe Geld als ein Mittel der Erpressung. Am besten ist das auf einem Lohn (debt), einem Kredit zu sehen. Das Kredit versklavt die Menschen ihrer Arbeit. Wenn sie arbeiten, leiden sie, weil sie sich von ihr allmählich entfremnden. Wenn sie nicht arbeiten, leiden sie, weil sie ihre Bedürfnisse nicht mehr vollständig erfüllen können, weil Überleben hängt vom Einkommen ab. Wohnung, Essen, Hygiene, Gesundheit. +
+I see money as a means of oppression. In capitalism, the ones who have money, have security. The ones who don't, can mainly rely on each other, on mutual aid. Sharing. Distribution of power.
 
-*Capitalism is a system that uses money to get more money.* [David Graeber - Debt: The first 5000 years], link:https://text.npr.org/s.php?sId=908456873[Eula Biss - Having and Being Had]
+Money is debt. Money is oppression. Money is violence. +
+Geld ist Schuld. Geld ist Erpressung. Money ist Gewalt.
 
 ---
 
-Education is not an obligation, contest, competition or transaction. Education is a gift. Just like all other needs.
+Education is not an obligation, contest, competition or transaction. Education is a gift. Just like all other needs. +
+link:https://soundcloud.com/user-350469784/interviu-alfie-kohn-14-may-2016[Alfie Kohn - Interviu: 21:42-21:43]
 
 ---
 
@@ -2339,4 +2407,10 @@ Both want to continuously grow. Maybe we have a sick economic system...
 
 ---
 
+Can capitalism exist without capital?
 
+---
+
+Can we live without money?
+
+---
