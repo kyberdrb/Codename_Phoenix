@@ -663,7 +663,7 @@ spreche, mit jemandem spreche, schreibe, zuhöre, mich dusche, mich mit kaltem W
 - Observation vs Evaluation - Jiddu Krishnamurti, M.B. Rosenberg, link:https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=1711[Miki Kashtan - Social Change Series – Liberation in Three Chapters - 1: 28:31-29:40]
 - Honesty vs Criticism and Blame - M. B. Rosenberg [Making life wonderful - part 1/4 - somewhere at the beginning]
 - Feedback and life-serving Judgement and Evaluation for decision-making vs moralistic Evaluation and Judgement, Praise, Compliments, Reward, Blame, Criticism and Punishment - Alfie Kohn
-- Natuar vs Habitual - M. B. Rosenberg - San Francisco Workshop
+- Natuar vs Habitual - M. B. Rosenberg - San Francisco Workshop, Ghandi
 - Request vs Demand - M. B. Rosenberg - Portland Workshop time: ??? + resolving conflicts with children workshop time: ???
 - Power over (people and nature) vs Power with (people and nature) - Mary Parker Follett, link:https://sci-hub.st/10.5840/pom20033221[Power, Freedom and Authority in Management: Mary Parker Follett’s ‘PowerWith’ - Domènec Melé, Josep M. Rosanas] Miki Kashtan [Exiting the Either/Or Trap - 30th minute], M. B. Rosenberg, Alfie Kohn, Mark Shepard-"Power over nature vs Power with nature"
 - Authority based on 'power over' model vs Authority based on 'power with' model - M. B Rosenberg [interview with paula gloria], Mary Parker Follett
@@ -831,6 +831,8 @@ by Doug Newburg
 ** Peter Kropotkin (Pyotr Alexeyevich Kropotkin) - Anarcho-Communism, Anarchist Communism, Kommunistischer Anarchismus; Bücher: Anarchist Communism: Its Basis and Principles; The Conquest of Bread
 ** David Harvey - Buch: The 17 Contradiction of Capitalism
 ** Ha-Joon Chang - Buch: 23 Thing They Don't Tell You About Capitalism
+** Mark Fisher - Buch: Capitalist Realism
+** David Graeber - Buch: Debt: The First 5000 Years
 ** Samuel P. Oliner, Pearl M. Oliner - Buch: _The Altruistic Personality: Rescuers of Jews in Nazi Europe_
 ** Sepp Holzer - Permakultur; Buch: Zahrada k nakousnuti
 ** Walter Kaufmann - Without Guilt and Justice: From Decidophobia to Autonomy
@@ -838,7 +840,7 @@ by Doug Newburg
     *** retributive justice is suicidal
 ** James Gilligan - Violence: Our Deadly Epidemic and its Causes
 ** Elizabeth M. Elliott - Security, with Care: Restorative Justice and Healthy Societies
-** Elinor Ostrom - The Tragedy of the Commons + Design Principles for Collective Managing of a Shared Resource - Arguments for collective ownership, collective decision making, communism and anarchism, and against capitalism, private [land] ownership
+** Elinor Ostrom - The Tragedy of the Commons; Design Principles for Collective Managing of Shared Resources - Arguments for collective ownership, collective decision making, communism, direct democracy and anarchism, and against capitalism, private [land] ownership
 ** Bruce Lipton, Peter Spork - Epigenetics
 
 == Questions
@@ -1007,7 +1009,7 @@ Hypothese: Alles, was ich mache, mache ich, um meine Bedürfnisse zu erfüllen.
 *What is play?* +
 Play is an activity that has following _[5 - may be more, may be less]_ characteristics:
 
-. It's freely chosen and self-directed.
+. *It's freely chosen and self-directed.*
 
     * Freedom to change the rules.
     * Freedom to choose the activity.
@@ -1144,7 +1146,12 @@ Teach them to use punishment to get their needs met.
 **** "There is no alternative." [TINA; you must!] - link:https://en.wikipedia.org/wiki/There_is_no_alternative[Margaret Thatcher]
 **** "There is no such thing as society." - link:https://newlearningonline.com/new-learning/chapter-4/margaret-thatcher-theres-no-such-thing-as-society[Margaret Thatcher]
 **** "There are just some things you have to do!"
-**** Can you give us some examples? *must, should, ought, can't, have to; It's a duty; I don't have a choice; Better get used to it! (BGUTI - Alfie Kohn); Like it or not! [Alfie Kohn]; That's just how it is. link:https://veganvanguardpodcast.com/how-competition-dominates-our-lives/[Mexie - 2. The Trope of “Competition” Dominates Our Lives: 2:04-2:28]; There is no alternative. [M. Thatcher]; Für jeden Preis.*
+**** Can you give us some examples? *must, mustn't, have to, should, shouldn't, ought, can't, don't <do something. Don't go there! Don't scream! Don't run!>;* +
+*Commands, You can only do <something>! ; It's a duty; I don't have a choice;* +
+*Better get used to it! (BGUTI - Alfie Kohn); Like it or not! [Alfie Kohn];* +
+*That's just how it is. link:https://veganvanguardpodcast.com/how-competition-dominates-our-lives/[Mexie - 2. The Trope of “Competition” Dominates Our Lives: 2:04-2:28];* +
+*There is no alternative. [M. Thatcher];* +
+*Für jeden Preis. Ich habe nicht zum Auswahl.*
 **** Why do you have to, jackal? *It's the [company] policy, rule, law, order, tradition, habit*
 
 . Teach people *retributive justice* link:???[(CNVC Training Session 1 - ??? - ???)], link:https://www.youtube.com/watch?v=jArsTeP66FE&feature=youtu.be&t=1230[Film 02 SELF EMPATHY Session 1 - M.B. Rosenberg - 20:30-]
@@ -1279,7 +1286,15 @@ In 1945 Maria Montessori started to revive and reestablish her education in pres
 * ... because if I persuade you that something ... you're doing with kids is getting in the way, not what I happen to like, but of your own long-term goals for other people then either you have to rethink the practice or you have to rethink the outcome.
 (Alfie Kohn at the OFJCC - Performance vs. Learning - The Costs of Overemphasizing Achievement: 10:45-11:04)
 
-* There was less cheating when [the teachers] made it clear that the point was to enjoy the learning, when understanding mattered more than memorizing, and when mistakes were accepted as a natural result of exploration. link:alfiekohn.org/???[Alfie Kohn - Who's Cheating Whom, paragraph 11], link:https://montessoritraining.blogspot.com/2013/09/montessoris-three-levels-of-obedience.html[Mistakes - Montessori]
+* when teachers don’t seem to have a real connection with their students, or when they don’t seem to care much about them, students are more inclined to cheat. link:https://www.alfiekohn.org/article/whos-cheating/[5: See the research conducted with undergraduates and high school students by Gregory Schraw, Lori Olafson, Fred Kuch, Trish Lehman, Stephen Lehman, and Matthew T. McCrudden, “Interest and Academic Cheating,” in Psychology of Academic Cheating, edited by Eric M. Anderman and Tamera B. Murdock (Burlington, MA: Elsevier Academic Press, 2007)]
+* Grades, however, are just the most common manifestation of a broader tendency on the part of schools to value product more than process, results more than discovery, achievement more than learning.   If students are led to focus on how well they’re doing more than on what they’re doing, they may do whatever they think is necessary to make it look as though they’re succeeding. Thus, a recent study of more than 300 students in two California high schools confirmed that the more classrooms drew attention to students’ academic performance, the more students “observed and engaged in various types of cheating.”[11]
+* There was less cheating when [the teachers] made it clear that the point was to enjoy the learning, when understanding mattered more than memorizing, and when mistakes were accepted as a natural result of exploration.[13] link:https://www.alfiekohn.org/article/whos-cheating/[Alfie Kohn - Who's Cheating Whom, paragraph 11], link:https://montessoritraining.blogspot.com/2013/09/montessoris-three-levels-of-obedience.html[Mistakes - Montessori]
+* How, then, do students develop certain goals?  What leads them to display an interest in what they’re doing as opposed to a concern about how well they’re doing it? ... To lose sight of that fact, that environment [dataset for neural network] is decisive in determining how pervasive cheating will be [15], by condemning the kids who cheat and ignoring the context is to fall into the trap that Lee Ross warned us about, of the trap of fundamental attribution error.
+* A *competitive school is to cheating as a warm, moist environment is to mold* ... *Competition is the ultimate example of focusing on performance rather than on learning*, so it’s no wonder that *“cheating qualifies as part of* the unhealthy legacy that results from *having tied one’s sense of worth to achieving competitively,” as the eminent psychologist Martin Covington* explained. ... How ironic, then, that *some of the adults who most vociferously deplore cheating also support competitive practices – and confuse competitiveness with excellence [Excellence vs Superiority - Daniel Markovits]* – with the result that cheating is more likely to occur.
+* *Schools then become*, in the words of educational historian David Labaree, *“a vast public subsidy for private ambition,” places where “self-interested actors [seek] opportunities for gaining educational distinctions at the expense of each other.” And if the point is just to get ahead,* he continues, *individuals may seek “to gain the highest grade with the minimum amount of learning.” Cheating could be seen as a rational choice in a culture of warped values.* link:https://books.google.sk/books/about/How_to_Succeed_in_School_Without_Really.html?id=_8UXjg_PJtUC&redir_esc=y[David F. Labaree, How to Succeed in School Without Really Learning: The Credentials Race in American Education]
+* "Human behavior is more influenced by things outside of us than inside. The situation is the external environment. The inner environment is genes, moral history, religious training." link:https://quotefancy.com/quote/1481779/Philip-Zimbardo-That-human-behavior-is-more-influenced-by-things-outside-of-us-than[Philip Zimbardo]
+* What he had in mind, presumably, was helping students to learn as well as to take pleasure in doing so.  And detecting or deterring cheating more effectively, as one language arts teacher explains, fails to address the “educational damage” caused by whatever systemic forces have taught students that “the final product takes precedence over learning.” link:http://web.mit.edu/21w.784/www/BD%20Supplementals/Materials/Unit%20Two/Plagiarism/cut-n-paste%20ethics.pdf[Lisa Renard, “Cut and Paste 101:   Plagiarism and the Net,”]
+* Rebecca Moore Howard, who teaches writing at Syracuse University, put it this way: “In our stampede to fight what some call a ‘plague’ of plagiarism, we risk becoming the enemies rather than the mentors of our students; we are replacing the student-teacher relationship with the criminal-police relationship. . . .Worst of all, we risk not recognizing that our own pedagogy needs reform. . . [if it] encourages plagiarism because it discourages learning.”[32]
 
 * link:https://soundcloud.com/user-350469784/interviu-alfie-kohn-14-may-2016[Interviu Alfie Kohn - 14 MAY 2016]
   ** 0:23-2:26
@@ -1487,7 +1502,7 @@ Sources:+
   ** 1:20:50-1:21:37
     *** "Don't compete! Competition is always injurious to the species and you have plenty of resources to avoid it." That is the tendency of nature. Not always realized in full, but always present. That is the watchword which comes to us from the bush, the forest, the river, the ocean. "Therefore, combine! Practice mutual aid! That is the means for giving to each and to all the greatest safety, the best guarantee of existence and progress, bodily, intellectual and moral." That's what nature teaches us. And that is what all those animals which have attained the highest position in their respective classes have done. That is also what man, the most primitive man has been doing. And that is why man has reached the position upon which we stand now.
   
-* link:https://www.youtube.com/watch?v=qEVLkX0SSug[Economics, But Not as You Know It]
+* link:https://www.youtube.com/watch?v=qEVLkX0SSug[Economics, But Not as You Know It - Ha-Joon Chang]
   ** 31:47- https://www.youtube.com/watch?v=qEVLkX0SSug&feature=youtu.be&t=1907 - The Singapore Problem
   ** 1:16:06- https://www.youtube.com/watch?v=qEVLkX0SSug&feature=youtu.be&t=4566 - The Singapore Problem cont.
   
@@ -1495,9 +1510,48 @@ Sources:+
   ** 12:42- https://youtu.be/n5j5EW933Kw?t=762
   ** 22:18- https://www.youtube.com/watch?v=n5j5EW933Kw&feature=youtu.be&t=1338
   ** 30:20- https://www.youtube.com/watch?v=n5j5EW933Kw&feature=youtu.be&t=1820
+  ** 43:54-44:28 https://www.youtube.com/watch?v=n5j5EW933Kw&feature=youtu.be&t=2634
+    *** Two hundred years ago slavery was considered normal. [Look at the USA in 1800]
+    *** Hundred years ago in Britain and other countries they put women to jail for asking for vote.
+    *** Fifty, sixty years ago most of the founding fathers of developing nations, including Israel, were hunted down by the British and the French as terorrists.
+    *** Twentyfive years ago Margaret Thatcher famously said "Anyone who thinks that there will be a black majority rule in South Africa lives in the cloud cockoo land". Which is where she was living.
+    *** All these impossible things have happened because people fought for them. They don't give it to you. But when enough people fight for these things, things that once looked impossible can happen. [link:[Owen Jones meets Ha-Joon Chang | The economic argument against neoliberalism: 13:01-14:05]]
+    *** *We need pessimism of the intellect, but optimism of the will. [Antonio Gramsci]*
+    *** *It always seems impossible until it is done. [Nelson Mandela]*
   ** 46:46- https://www.youtube.com/watch?v=n5j5EW933Kw&feature=youtu.be&t=2806
   ** 54:10- https://www.youtube.com/watch?v=n5j5EW933Kw&feature=youtu.be&t=3250
   ** 54:15- https://www.youtube.com/watch?v=n5j5EW933Kw&feature=youtu.be&t=3255
+  
+* link:https://www.youtube.com/watch?v=ti3rjogF_VU[Owen Jones meets Ha-Joon Chang | The economic argument against neoliberalism]
+  ** 2:32-5:12
+    *** *Socialism for the rich, capitalism for the poor a.k.a. corporate welfare a.k.a. privatize profits, socialize losses* link:https://en.wikipedia.org/wiki/Socialism_for_the_rich_and_capitalism_for_the_poor[Wiki], link:https://en.wikipedia.org/wiki/Lemon_socialism[Lemon socialism]
+    *** Businesses benefit from the public services, but when it comes to paying taxes, it's an option e.g. via paper company in some of the tax heavens, where they can ship all the profits.
+    *** "Government is the enemy of business." and "Business people are wealth creators that shouldn't be constrained. If they don't want to pay taxes. That's their choice." are beliefs that are behind this way of thinking.
+  
+* link:https://www.youtube.com/watch?v=MN9S0HD8VH8[36C3 - From Managerial Feudalism to the Revolt of the Caring Classes - David Graeber]
+  ** 14:47-15:27 https://www.youtube.com/watch?v=MN9S0HD8VH8&feature=youtu.be&t=887
+    *** The worst part in any real job is when you finished the job, you have to keep working because your boss will get mad. That you have to pretend to work because somebody of else's time. A very strange metaphysical notion that we have in our society that someone else can own your time. Since you're on the clock you have to keep working or pretend to be to look busy. Apparantly at least a third of people in our society that's all they do. Their entire job consists of just looking busy to make somebody else happy. And that must be horrible!
+  ** 24:58-25:15 https://www.youtube.com/watch?v=MN9S0HD8VH8&feature=youtu.be&t=1498
+    *** *If productivity is going down, these people are just working all the time to satisfy the administrators [managers, supervisors, professional managerial classes]. The creation of bullshit jobs creates the bullshittization of real jobs [caregiving/caring classes, by e.g. paperwork, meetings etc.] There is squeeze on profits and wages because more and more money goes in to pay the administrators*
+  ** 31:00-32:34 https://www.youtube.com/watch?v=MN9S0HD8VH8&feature=youtu.be&t=1860
+    *** The entire professional managerial class live by rules and who's entire idea of democracy is of a set rules. ... People of the professional managerial classes are probably the only people alive who think that if you make bribery legal that makes it okay. It's all about form against content. "Democracy isn't the popular will. Democracy is a set of rules and regulations. And if you follow the rules and regulations then that's fine no matter [what you do or what the consequences might be, for you and other people. When you don't break any law and everything is legal, then everything is allright]." And these guys, this mountain of administrators are the people who think that way.
+  ** 34:52-45:28 https://www.youtube.com/watch?v=MN9S0HD8VH8&feature=youtu.be&t=2092
+    *** How we can break with that? ... There is a principle that ultimately work is meaningful if it helps people and improves other people's lives. Thus caring labor has become the paradigm for all forms of labor. ... I think, a lot of economics is really theological. It's a transposition of old religious ideas about creation where human beings and human condition, our fallen state, is one where God is the creator, we tried to usurp his position, so God punishes us by saying "Okay, you can create your own lives, but it's gonna be miserable and painful." *So work is both productive, it's creative, but at the same time, it's also supposed to be suffering [Work is supposed to be suffering - Miki Kashtan]. So we have an idea that work is productivity.* ... Our paradigm for value is production. But if you think about it, most work is not productive. Most work is about maintaining things, it's about care, ... caring about other people. 
+    .  First of all *we need to think of working classes not as producers, but as carers. People who take care of other people. And always have been.* Psychological studies show that the poorer you are, the better you are at reading other peoples emotions and understanding what they're feeling. That's because it's the job of people to take care of others. Rich people don't have to think about are feeling. Literally. *We need to redefine working classes as caring classes.*
+    . Second of all we need to move away from a paradigm of production and consumption because we're gonna save the planet. We really need to move away from productivism. I would just propose that we just rip up the discipline of economics as it exists and start over. *We need to replace the ideas of production and consumption with care and freedom.* Even if you're making a bridge, you make a bridge because you care about the people can get across the river. You make a car because you care that people can get around. Even production  is a one subordinate type of care. What we do as human beings we take care of each other. Care is closely related to the notion of freedom because care is normally defined as answering to other peoples needs. But it's not just that. It's more that that. Why, for example, a prison isn't a caregiving institution, whereas something else might be? If you think about care, what is the paradigm for caring relations between a mother and a child? A mother, or a parent, takes care of a child, so that the child can grow, and be healthy and flourish. But on an immediate level, *you take care of a child [or somebody/something] so the child can go and play [Peter Gray]*. That's what children actually do when you're taking care of them. *What is play? Play is an action done for its own sake [Flow - The activity is autotelic]. It's in a way the very paradigm for freedom* because action done for its own sake is what freedom really consists of. *Play and freedom are ultimately the same thing.* A production-consumption paradigm for what an economy is, is a guarantee for ultimately destroying the planet and and each other. We need to break away from from the paradigm of degrowth entirely as well. *Care and freedom on the other hand you can increase as much as you like without damaging anything. We need to think what are ways that we can care for each other that will make each other more free. And who are the people who are providing the care, and how can they be compensated of greater freedom? And to do that we need to actually scrap almost all of the discipline of economics as it currently exists.* Because economics as it currently exists is based on assumptions of human nature that we now know that are wrong. There have been actual empirical tests of the basic fundamental assumption on the maximizing individualism that economic theory is based on and it turns out, they're not true. It tells you something about the role of economics. This has had almost not effect on econonmic teaching whatsoever. They don't really care that it's not true. But one of the things that we have discovered, which is quite interesting, is that human beings have a psychological need to be cared for, but they have even greater psychological need to care for others, or to care for something. If you don't have that, you basically fall apart. That's why [old] people get dogs. We don't just care for each other because we want to mantain each other's lives and freedoms, but our own very psychological happiness is based on being able to care about something or someone. What would happen to microeconomics if we started from [the paradigm of care, freedom and play]. Museum of care - Rojava. Because at the moment the system of value that we have is set up in such a way that this kind of trap [or contradiction - David Harvey] that I've described and the gradual bullshittization of employment we're essentialy production work as become value onto itself in such way that we're literally destroying the planet. And in order to actually reimagine a type of economics that wouldn't destroy the planet, we have to start all over again.
+
+* link:https://www.youtube.com/watch?v=s_Z7jX0fpF8[Is Capitalism Part of the Answer? - 01 - Pro-Capitalist Mark Goyder speaks]  
+** Capitalism is an economic system in which businesses are privately owned, and goods and services are sold for profit through a market. The system depends on entrepreneurs raising money to start their businesses, and the companies being allowed to fail, if they cannot make a profit. As it has grown private ownership of companies has evolved into ownership by large scale financial institutions which pool the savings of many different investors of capital.
+** Five building blocks of capitalism:
+  *** Profit (Needs)
+  *** Market (Mutual aid)
+  *** Entrepreneurs (Communities)
+  *** Companies (Institutions based on power with people)
+  *** Ownership (Sharing)
+** We live in a mixed economy, not an exclusively capitalist economy.
+** Failure is a seed of future success. (Ja, Misserfolg folgt zu Bestrafung. Bestrafung für Fehler und Misserfolge. Und Bestrafung soll mich zur Kreativität und Erfolg bringen? Psychologisch unwarscheinlich. Ohne Empathie, kaum ein Erfolg. Und Erfolg worin? In Beziehungen zu Menschen und Natur? Oder zum Profit und Eigentum?)
+
+
   
 * link:https://www.youtube.com/watch?v=CtZZj4j5UpI[LSE Events | The Meritocracy Trap]
   ** 5:28-5:37 https://www.youtube.com/watch?v=CtZZj4j5UpI&feature=youtu.be&t=328
@@ -1532,6 +1586,20 @@ Sources:+
   ** 1:14:59-1:22:21 https://www.youtube.com/watch?v=CtZZj4j5UpI&feature=youtu.be&t=4499
   ** 1:25:26- https://www.youtube.com/watch?v=CtZZj4j5UpI&feature=youtu.be&t=5126
   
+* link:https://en.wikipedia.org/wiki/Peter_principle[*Peter Principle*]
+** In a hierarchy every employee tends to rise to his level of incompetence.
+** In time, every post tends to be occupied by an employee who is incompetent to carry out its duties. +
+
+* link:https://www.youtube.com/watch?v=hb47PeiQCAE[Shape The World 2019 and Consulus 15th Anniversary Gala Dinner - Lawrence Chong]
+** 4:00-4:54 https://www.youtube.com/watch?v=hb47PeiQCAE&feature=youtu.be&t=240
+  *** *We are not short of solutions. But the people who believe and work daily to build a better world are a minority. An, unfortunately, many people still believe that the status quo of selfishness and greed will prevail. But if we accept this, then we've collectively signed a humanity's death sentence.* ... I don't think I can look at my four year old Nathalia in the eye, and [hear from her] "Daddy, you didn't try hard enough to do anything to shape a better world." I would like that we come together and do our best to shape a healthier environment and a life-serving economic system. *Before the rising divisions [inequalities], there is a path.*
+** 6:13-6:19 https://www.youtube.com/watch?v=hb47PeiQCAE&feature=youtu.be&t=373
+  *** It doesn't make any sense to me to just pursue growth at all cost. but there has to be a better way. But I believe and have hope in *growth with purpose*.
+** 10:12-10:35 https://www.youtube.com/watch?v=hb47PeiQCAE&feature=youtu.be&t=612
+  *** We want to subscribe if we have one mission on earth, it is to make a small contribution to letting people believe that *when you're working in a company it doesn't have to feel like hell. That you work in a place where people can be happy. Where people can feel like at home. That people can feel sense of purpose. And in feeling so, they themselves are inspired to shape a better world.*
+** 11:50-11:58 https://www.youtube.com/watch?v=hb47PeiQCAE&feature=youtu.be&t=710
+  *** When you come into an enterprise with fifty thousand [people], people still feel family. People still feel at home.
+
 * link:https://veganvanguardpodcast.com/20-mental-health-addiction-and-capitalist-realism-with-mad-blender/[20. Mental Health, Addiction, and Capitalist Realism with Mad Blender]
   ** 1:18:18-1:31:26
   *** 1:23:52-1:24:15
@@ -1577,6 +1645,8 @@ Sources:+
 * link:https://veganvanguardpodcast.com/37-could-capitalism-exist-without-patriarchy/[37. Could Capitalism Exist Without Patriarchy?]
   ** 11:11-19:05
   ** 42:42-45:37
+  
+* Dr. Valerie Baker also says this is because there is such a limited range of emotional expression that we are allowed under patriarchy. Men are allowed to express anger and aggression. They are not allowed to express grief, nurturing, being tender or vulnerable emotions. [Just look to any academic institution.] Women, on the other hand, are not allowed to express anger. We can express nurturing and vulnerability. But expressing grief is also not okay. link:https://www.learntruehealth.com/patriarchy-stress-disorder/[Patriarchy Stress Disorder]
   
 * link:https://veganvanguardpodcast.com/47-social-emotional-learning-sel-for-socialism-and-animal-liberation-with-pierce-delahunt/[47. Social Emotional Learning (SEL) for Socialism and Animal Liberation with Pierce Delahunt]
   ** 25:30-25:58
@@ -1633,14 +1703,14 @@ Every act of violence somewhere is an attempt to create justice to right a wrong
 * So, I suggested that instead of production and consumption we substitute care and freedom. Perhaps caregiving and care is really that work we do which maintains and increases other people's freedom of which the paradigm would be *play*. Because play is action done for itself. Because what is caregiving labor? You take care of kids so they can play. link:https://www.youtube.com/watch?v=kikzjTfos0s&feature=youtu.be&t=2958[On Bullsh*t Jobs | David Graeber | RSA Replay: 49:18-49:38, link to Peter's Gray - Play ???]
 
 * Practice does not make perfect. Only perfect practice makes perfect. +
- Übung macht nicht perfekt. Perfekte Übung macht perfekt. +
- Tréning nerobí majstra. Majstrovský tréning robí majstra. +
- link:...[(Vince Lombardi - baseball player)]
+Übung macht nicht perfekt. Perfekte Übung macht perfekt. +
+Tréning nerobí majstra. Majstrovský tréning robí majstra. +
+link:...[(Vince Lombardi - baseball player)]
 
 * It's not practice that makes perfect... but perfect practice that makes perfect. +
-  Es ist nicht Übung die perfekt macht..., sondern perfekte Übung, die perfekt macht. +
-  Nie je to tréning, ktorý robí majstra..., ale perfektný tréning, ktorý robí majstra. +
-  link:???[(Cal Ripken Sr.)], link:???[(Daniel Markovits - Meritocracy and its Discontents: 48:40-49:30)]
+Es ist nicht Übung die perfekt macht..., sondern perfekte Übung, die perfekt macht. +
+Nie je to tréning, ktorý robí majstra..., ale perfektný tréning, ktorý robí majstra. +
+link:???[(Cal Ripken Sr.)], link:???[(Daniel Markovits - Meritocracy and its Discontents: 48:40-49:30)]
   
 * Our greatest glory is not in never falling, but in rising every time we fall. +
 Unsere größte Ehre liegt nicht darin, nie zu fallen, sondern darin, dass wir jedes Mal aufstehen, wenn wir fallen. +
@@ -1649,10 +1719,10 @@ Confucius
 * https://www.ia.gov.sk/data/files/np_PKSD/Analyzy/Stat/Prekazky_v_praci_a_ochrana_prace_NP_PKSD.pdf -- kapitola 2.12 Sabbatical - Syndróm vyhorenia
 
 * I've learned that people may forget what you said, people may forget what you did, but *people will remember how they felt with you.* +
-  Ich habe gelernt, dass Leute vergessen, was du gesagt hast, Leute vergessen, was du gemacht hast, aber Leute werden sich daran erinnern, wie sie sich bei dir gefühlt haben. +
-  link:???[Maya Angelou]
+Ich habe gelernt, dass Leute vergessen, was du gesagt hast, Leute vergessen, was du gemacht hast, aber Leute werden sich daran erinnern, wie sie sich bei dir gefühlt haben. +
+link:???[Maya Angelou]
 
-* How to speak giraffe with our inner jackals? And in fact, they are probably the most severe jackals we will ever have to deal with. First of all they are so much faster than these other jackals. These inner jackals, they speek with a speed of light, and they have been in there for so long, that often time we are not even aware, that we are jackaling ourselves. Therefore giraffes love to have certain feelings. Giraffes love to have feelings like depression and guilt. Why does the giraffe like those feelings? Because those feelings tell us, jackals infested our thinking. That we are jackaling ourselves. We're telling ourselves that there's something wrong with us. And whenever we're doing that, as a giraffe, we want to tame those inner jackals. How do we tame an internal jackal? The same way we tame an external jackal. No matter what message comes at you from another person, no matter how jackalish it sounds, it's simply an expression of feelings and unmet needs. So we put giraffe ears on and we hear the feelings and the unmet needs. We do the same thing with our internal jackals. Once we've had identified that we see what we're telling ourself, we want to translate that internal judgement into "What are the feelings and needs that are being expressed through this self judgement?" And then you know what we find? The same thing we find with external jackals. That there are no jackals. Jackals are simply giraffes with a language problem. Likewise these internal messages, that keep eating out our soul and morale, if you really hear the life energy being expressed behind that message, we find out that it's a very loving message. We don't feel bad about ourselves at all. ... Whey you have the word "fault" in your consciousness, you know, you have been beset with jackals. When we think in a jackal way, there always must be fault, blame. [But isn't this how the news are presented in media? Every day?] ... "I'm sad, I really would have liked to have known then what I'm learning today." Now you're in touch with life energy behind your message. You're really hearing what you feel and need. But notice how different it is from thinking that thinking "there is something wrong with you. That you should have known better." Notice that when we are in touch with our feelings and needs, that motivates us to do something about the needs. But when all it goes in our head is "should have" and "what's wrong with you" [or what would the others think about me], that doesn't help us learn from the situation. That doesn't mobilize us to change. [link:https://www.youtube.com/watch?v=RSwEC4yvrb0&feature=youtu.be&t=1209[All we can do is to hate ourselves.] We just keep beating ourselves up for years, until we tame those inner jackals which always means to get connected to the life energy behind it. link:https://www.youtube.com/watch?v=HLgGt7yLhJg&feature=youtu.be&t=6084[Atelier communication non violente - Marshall Rosenberg - Danemark - sous-titres français: 1:41:25-1:46:16]
+* How to speak giraffe with our inner jackals? And in fact, they are probably the most severe jackals we will ever have to deal with. First of all they are so much faster than these other jackals. These inner jackals, they speek with a speed of light, and they have been in there for so long, that often time we are not even aware, that we are jackaling ourselves. Therefore giraffes love to have certain feelings. Giraffes love to have feelings like depression and guilt. Why does the giraffe like those feelings? Because those feelings tell us, jackals infested our thinking. That we are jackaling ourselves. We're telling ourselves that there's something wrong with us. And whenever we're doing that, as a giraffe, we want to tame those inner jackals. How do we tame an internal jackal? The same way we tame an external jackal. *No matter what message comes at you from another person, no matter how jackalish it sounds, it's simply an expression of feelings and unmet needs.* So we put giraffe ears on and we hear the feelings and the unmet needs. We do the same thing with our internal jackals. *Once we've had identified that we see what we're telling ourself, we want to translate that internal judgement into "What are the feelings and needs that are being expressed through this self judgement?" And then you know what we find?* The same thing we find with external jackals. *That there are no jackals. Jackals are simply giraffes with a language problem. [All jackals are just illiterate girrafes.] Likewise these internal messages, that keep eating out our soul and morale, if you really hear the life energy being expressed behind that message, we find out that it's a very loving message.* We don't feel bad about ourselves at all. ... Whey you have the word "fault" in your consciousness, you know, you have been beset with jackals. When we think in a jackal way, there always must be fault, blame. [But isn't this how the news are presented in media? Every day?] ... "I'm sad, I really would have liked to have known then what I'm learning today." Now you're in touch with life energy behind your message. You're really hearing what you feel and need. But notice how different it is from thinking that thinking "there is something wrong with you. That you should have known better." *Notice that when we are in touch with our feelings and needs, that motivates us to do something about the needs. But when all it goes in our head is "should have" and "what's wrong with you" [or what would the others think about me], that doesn't help us learn from the situation. That doesn't mobilize us to change.* [link:https://www.youtube.com/watch?v=RSwEC4yvrb0&feature=youtu.be&t=1209[All we can do is to hate ourselves.] We just keep beating ourselves up for years, until we tame those inner jackals which always means to get connected to the life energy behind it. link:https://www.youtube.com/watch?v=HLgGt7yLhJg&feature=youtu.be&t=6084[Atelier communication non violente - Marshall Rosenberg - Danemark - sous-titres français: 1:41:25-1:46:16]
 
 * link:https://www.youtube.com/watch?v=8kaVztNodEM[Marshall Rosenberg Nonviolent Communication RESOLVING CCONFLICTS]
 ** 3:33-8:47 https://www.youtube.com/watch?v=8kaVztNodEM&feature=youtu.be&t=213
@@ -1672,7 +1742,7 @@ Confucius
         ***** verbal and cognitive - through thoughts
         ***** Abstain at all times from any words which categorizes behavior. To let the other person know that I have no words in my consciousness for evaluating whether your position is right, wrong, good, bad, normal, abnormal, appropriate, inapropriate, [responsible, irresponsible].
         ***** Claiming what's wrong with them, to get them to change, because I convince them how terrible they are.
-      **** These are ecologically unsound strategies because even if you get what you want from the other person using any of those strategies, you create an environment for yourself that is highly toxic. *Punishment is a highly toxic form of influencing human being. Even if you get what you want you pay dearly for it. You poinson the environment because you communicate that you are a predator prepared to make people suffer if they don't give you what you want.*
+      **** These are ecologically unsound strategies because even if you get what you want from the other person using any of those strategies, you create an environment for yourself that is highly toxic. *Punishment is a highly toxic form of influencing human being. Even if you get what you want you pay dearly for it. You poison the environment because you communicate that you are a predator prepared to make people suffer if they don't give you what you want.*
 ** 20:19-31:12 https://www.youtube.com/watch?v=8kaVztNodEM&feature=youtu.be&t=1219
   *** Jackals think of these two possibilities: I must have all the power to force other people to behave, or the other option they think of is permissivness, giving up power and just giving in, letting the children [or the other people] over. How do we express our value judgements in giraffe? *"I would like, if you're willing. But, please, don't do it unless you're willing 'cause we both lose."* How do we recognize that the other person heard a request and not a demand? How do we get across now that it is in fact "I would like, if you're willing". When the person now *trust* that we're not saying the old messages. First of all, they may be suspicious for a while. Then you get responses like "Yes, mein Führer!" They believe, this is just a jackal trying to sneak into a giraffe's clothing. Even though I'm now practicing another language. They don't know yet that I'm really graduated. [They might say:] "Don't pull any of that giraffe business on me!" There is still worry that it's still your objective to get what you want. And as long as that's your objective, you can't get it. *So, as a giraffe, it's never your objective to get what you want from other people. It's only your objective to get what both people want. It's only when the other person trusts that I value their needs equal to my own [that their needs are equally as important as mine, that their needs matter equally as mine], that I have any _power with_ that person.* This is the central difference between power over - jackal power, and power with - giraffe power. Power over, jackal power, is easy to get: all you got to do is to make the other person suffer if they don't do what you want. But giraffe power, power with, I only have that to the degree to which the other person *trusts* that I am equally interested in their need fulfillment as my own. When they trust that I know that I can't benefit at their expense [because benefitting at somebody else's expense is not a benefit at all, because it's not sustainable, and it crumbles sooner or later anyway], and I have no desire to. It's only when they trust, I believe firmly enough, for what I'm asking for, I don't have to use fear, guilt or shame inducing tactics [or any other power over tactics]. When they trust all of that, then they can hear that that's just my request. This might be new on my part, so they might not trust it yet. +
   Different ways that jackals express no: "Yea, yea, yea, later", "Yes, mein Führer", "Who was your slave in your prior incarnation", or (sigh). All of these reaction tell us that this person is burdened, they're having to protect the most precious that each of us has: our autonomy. That is so difficult when that's under pressure. We'll fight to the death if we will have any source of humaneness left in us. None of us want's to do things because we're forced to do it. That's what I mean by "loving the life in the 'no'", be happy that this person is not doing it. Because when people do it and they don't look inside to see they're doing it inspite of themselves, everybody pays. That's why in giraffe we really mean it: *"Please do this ONLY IF you are willing. We all suffer unless everybody is doing things simply because they want to, because they see how it contributes to life."* +
@@ -1682,6 +1752,24 @@ Confucius
   *** Culturally and politically some people might not be used to this reflection [of feelings and needs] back. [The may consider it as an "invasion" into their private space]. [So, after the empathy,] they may say "Don't pull any of that psychology crap on me!" **So we [show empathy] it again. Silently. For this to be powerful doesn't mean we have to say it outloud.* It's at the very moment that I turn my atention what is this person feeling. So when he says "Don't pull any of that psychology crap on me!" I turn my attention to what is the other person feeling [and what of their needs are not being fulfilled] when he/she says that. I guess the other person is scared and annoyed [nervous, uncomfortable, unpleasant], 'cause he/she may not understand what this [my response] is all about, and the other person wanted me to respond in a way that he/she was more familiar with. That's what I hear in that message. I don't have to say it outloud. *I'd like to be able to say it outlout to check it out 'cause I might be wrong, but just the fact that I'm trying to find the person's feelings [and unfulfilled needs with possible request for me] is already a success. Because when I'm looking for another person's feelings, I take away all power that person has to limit my power, my personal sense of respect.* Only when I take in the judgement, it starts to get scary. *But when I'm conscious that all judgements are simply tragic expressions of needs, why be scared of judgements. They're just saying: "This person is in pain. This person needs something." ["This person has needs that are not being met." "Please! Please!! PLEASE!!"]. This is a good example where the truth sets us free. The truth is, this person has feelings and needs. So why get caught up in their images?*
 ** 1:05:01-1:06:09 https://www.youtube.com/watch?v=8kaVztNodEM&feature=youtu.be&t=3901
   *** *Better to have [the Nonviolent Communication] in your heart and be broken for the words. "Whenever I really get connected to that energy, even when I speak jackal it's giraffe." So the words aren't as important as the consciousness of why I'm interrested in giraffe. The quality of the connection. If that's really what you're after, the words come with practice. But it's that spiritual quality at the beginning. Without that [spiritual quality] the rest doesn't help.*
+  
+* link:https://www.youtube.com/watch?v=l7TONauJGfc[NVC Marshall Rosenberg - San Francisco Workshop - FULL ENGLISH SUBTITLES TRANSCRIPTION]
+  ** 1:24:02-1:25:07 https://www.youtube.com/watch?v=l7TONauJGfc&feature=youtu.be&t=5042
+    *** *"I would like you to agree that there can be different ways of doing things."*
+    *** *"I would really like some acknowledgement, some expression of gratitude for what I did. I'm not saying you have to like it, but at least I would like to hear some gratitude, it it's sincere."*
+  * Request vs Demand [(M. B. Rosenberg San Francisco Workshop 1:16:19-1:19:46)]
+
+  * How a person responds when it's burdened by a request link:...[(M. B. Rosenberg San Francisco Workshop 1:26:17-1:29:52)]
+
+  * Only things that people are saying: Please and Thank you link:...[(M. B. Rosenberg San Francisco Workshop ~1:30:00-???)]
+
+  * Criticism = Pain + Unmet Need link:...[(M. B. Rosenberg San Francisco Workshop ~1:34:00-1:42:29, M .B. Rosenberg Resolvng Conflicts with Children ???-???)]
+
+  * Hear the yes behind the no. "No" is a "yes" to other needs. Hear the feelings and needs behind the "no". "No" is a tragic expression of a "yes". Say the need! link:...[(M.B. Rosenberg - San Francisco Workshop ???-???)]
+  
+  * *Never give them the power to submit or rebel.* link:...[(Training Session # 2 Marshall Rosenberg CNVC org - 58:10-???, M.B. Rosenberg - resolving conflicts with children, NVC San Fran workshop)]
+
+  * ??? link:...[(M. B. Rosenberg San Francisco Workshop ~2:26:00-???)]
 
 * Out beyond the ideas of right and wrong there is a field. I'll meet you there. / We'll meet us there. +
 Jenseits den Ideen von richtig und falsch gibt es einen Platz. Ich treffe dich da. / Wir treffen uns da. +
@@ -1776,23 +1864,13 @@ link:???[Jiddu Krishnamurti]
 
 * link:...[(M. B. Rosenberg - Nonviolent Communication Audiobook ~4:43:00-???)]
 
-* Request vs Demand [(M. B. Rosenberg San Francisco Workshop 1:16:19-1:19:46)]
-
-* How a person responds when it's burdened by a request link:...[(M. B. Rosenberg San Francisco Workshop 1:26:17-1:29:52)]
-
-* Only things that people are saying: Please and Thank you link:...[(M. B. Rosenberg San Francisco Workshop ~1:30:00-???)]
-
-* Criticism = Pain + Unmet Need link:...[(M. B. Rosenberg San Francisco Workshop ~1:34:00-1:42:29, M .B. Rosenberg Resolvng Conflicts with Children ???-???)]
-
-* Hear the yes behind the no. "No" is a "yes" to other needs. Hear the feelings and needs behind the "no". "No" is a tragic expression of a "yes". Say the need! link:...[(M.B. Rosenberg - San Francisco Workshop ???-???)]
-
 * Enjoy my pain. Don't try to comfort me, don't try to fix me, don't try to encourage me. Don't try to give me advice. Don't try to tell me that it's my fault. Caressing the Jackal [NVC Rosenberg, Mosenzon]
 
 * please! please!! please!!! link:youtube KdFc2B-tZLc[Marshall Rosenberg - Making Life Wonderful 2_4 - Nonviolent Communication NVC: cca 1:13:00-1:25:00]
 
-* Eye for an eye and the world goes blind link:...[ghandi], link:...[detroit become human]
+* Eye for an eye and the world goes blind. link:...[Mahatma Gandhi], link:...[Detroit: Become Human]
 
-* We have been trained to be quite habitual in things that are quite unnatural. link:???[ghandi]
+* *It's very dangerous to mix up the words natural and habitual. We have been trained to be quite habitual at communicating in ways that are quite unnatural.* link:https://darjeelingzen.blogspot.com/2012/03/gandhi-select-quotations.html[Mahatma Gandhi]
 
 * the importance of present request link:...[Marshall Rosenberg Making Life Wonderful cca 1:31:36-1:33:35]
 
@@ -1802,9 +1880,7 @@ link:???[Jiddu Krishnamurti]
 
 * Quotes link:https://www.youtube.com/watch?v=RDkh1al3P9k&feature=youtu.be&t=2487[Speaking Peace - M.B.Rosenberg]
 
-* ??? link:...[(M. B. Rosenberg San Francisco Workshop ~2:26:00-???)]
-
-* No human being is good [no human being is bad - judging is too easy], but all are sacred. link:https://www.youtube.com/watch?v=LdOFhyKACxE[Dr. James Gilligan - On How All Human Beings Are Sacred], link:restoration_justice_part[Rosenberg - Creating a Life Serving System within Oneself]
+* *No human being is good [no human being is bad - judging is too easy], but all are sacred.* link:https://www.youtube.com/watch?v=LdOFhyKACxE[Dr. James Gilligan - On How All Human Beings Are Sacred], link:restoration_justice_part[Rosenberg - Creating a Life Serving System within Oneself]
 
 * link:https://www.youtube.com/watch?v=_rSYiy420B0[Dr. James Gilligan - Youth and violence The role of education inspiring solutions]
   ** 1:02:17-1:09:18 https://www.youtube.com/watch?v=_rSYiy420B0&feature=youtu.be&t=3737
@@ -1816,8 +1892,6 @@ link:???[Jiddu Krishnamurti]
 * https://www.youtube.com/watch?v=bH9t1lAX2UQ Training Session # 2 Marshall Rosenberg CNVC org - 49:20-49:42
 
 * https://www.youtube.com/watch?v=bH9t1lAX2UQ Training Session # 2 Marshall Rosenberg CNVC org - 58:10-1:07:16
-
-* Never give them the power to submit or rebel link:...[(Training Session # 2 Marshall Rosenberg CNVC org - 58:10-???, M.B. Rosenberg - resolving conflicts with children, NVC San Fran workshop)]
 
 * The behavior of somebody else is never the cause of our feelings. The behavior of somebody else is only the *stimulus* for our feelings [when the damage is psychological; when it goes about physical damage on somebody or something, then the person really *_caused_* the damage]. The cause of our feelings is our *thoughts* stimulated by the behavior and our *unmet needs* behind our thoughts. ... If we're trying to convince ourselves or somebody else that their behavior is the cause for our feelings, then we're are trying to use *guilt* and *shame* to change the behavior of the other person. Guilt means that the other person is responsible for our feelings. This is not possible because we cannot be responsible for something else outside of ourselves. We are only responsible for our intentions, thoughts, words and actions. The other person is not responsible for my feelings, but it's responsible for his or her intentions, thoughts, words and actions. I'm responsible for how I respond to the response of the other person, and for what ear do I have on, giraffe or jackal, when I'm reacting to their response. Shame on the other hand means that the other person is _bad_ for what they're doing and _deserving_ punishment. By Dr. James Gilligan, shame and ebarassement without nonviolent stimulation is the most reliable predictor of future violence and recidivism. Shame increases violence. Punishment increases shame. Therefore, punishment causes higher rates of violence and recidivism. link:...[(M.B. Rosenberg, James Gilligan, Miki Kashtan)]
 
@@ -1867,28 +1941,17 @@ link:https://www.youtube.com/watch?v=jArsTeP66FE&feature=youtu.be&t=5863[Film 02
 
 * Prefigurative environment link:youtube???[Making Life Wonderful 2/3/4 ??? - M.B. Rosenberg]
 
-* There are no jackals. That all jackals are just illiterate girrafes, giraffes with a language problem. 
-
-* "Clinical" [or "saint", "scientific", "academic"] ... it's called *word magic*. You add that word, boom, nobody can touch you. link:https://www.youtube.com/watch?v=tY78qJNLoQ0&feature=youtu.be&t=1242[(Thomas Szasz - The Myth of Mental Illness: 20:42-21:04)]
+* There are no jackals. That all jackals are just illiterate girrafes, giraffes with a language problem.
   
 == Fundamental Attribution Error
 
 The environment matters. The nurturing and education matters. It's not everything in the individual, as neoliberalism tries to convince us of. The enviromental factors and wealth have a decisive impact on the success of the individual.
 
-Who's Cheating Whom - Alfie Kohn
-
-Daniel Markovits - The Meritocracy Trap link:[(https://www.youtube.com/watch?v=CtZZj4j5UpI)]
+link:https://www.alfiekohn.org/article/whos-cheating/[Who's Cheating Whom - Alfie Kohn]
 
 link:https://en.wikipedia.org/wiki/Meritocracy#Critique[*Meritocracy*]
 
 * The reliability of the authority and system that assesses each individual's merit is another point of concern. As a meritocratic system relies on a standard of merit to measure and compare people against, the system by which this is done has to be reliable to ensure that their assessed merit accurately reflects their potential capabilities. Standardized testing, which reflects the meritocratic sorting process, has come under criticism for being rigid and unable to accurately assess many valuable qualities and potentials of students. Education theorist Bill Ayers, commenting on the limitations of standardized testing, writes that "Standardized tests can't measure initiative, creativity, imagination, conceptual thinking, curiosity, effort, irony, judgment, commitment, nuance, good will, ethical reflection, or a host of other valuable dispositions and attributes. What they can measure and count are isolated skills, specific facts and function, content knowledge, the least interesting and least significant aspects of learning."[54] Merit determined through the opinionated evaluations of teachers, while being able to assess the valuable qualities that cannot be assessed by standardized testing, are unreliable as the opinions, insights, biases, and standards of the teachers vary greatly. If the system of evaluation is corrupt, non-transparent, opinionated or misguided, decisions regarding who has the highest merit can be highly fallible.
-
-link:https://en.wikipedia.org/wiki/Peter_principle[*Peter Principle*]
-
-* In a hierarchy every employee tends to rise to his level of incompetence.
-* In time, every post tends to be occupied by an employee who is incompetent to carry out its duties.
-
-and so on???
 
 == Marxisimus, Sozialismus, Kommunismus, Schenkökonomie (Gift Economy) and other economic schools
 
@@ -2366,7 +2429,7 @@ Gestapo-Pädagogik (feindliches Bild) =
 
 ---
 
-Capitalism, Authoritharianism, Dictatorship and "Free" Market =
+Capitalism, Authoritharianism, Dictatorship and the "Free" Market give the:
 
 * freedom to overwork yourself to death
 * freedom to suffer
@@ -2387,6 +2450,7 @@ Capitalism, Authoritharianism, Dictatorship and "Free" Market =
 * freedom to gamble
 * freedom to bet
 * freedom to fight
+* freedom to poach
 
 ---
 
