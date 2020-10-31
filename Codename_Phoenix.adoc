@@ -1013,7 +1013,9 @@ Hypothese: Alles, was ich mache, mache ich, um meine Bedürfnisse zu erfüllen.
 *** I do everything as if it was play. [At least I try :P ]
 
 *What is play?* +
-Play is an activity that has following _[5 - may be more, may be less]_ characteristics:
+Play is an activity that has following _[5 - may be more, may be less]_ characteristics: +
+[link:https://www.stack.com/a/what-counts-as-play-5-criteria-of-the-most-vital-activity-for-kids[What Counts as Play? 5 Criteria of the Most Vital Activity for Kids]], +
+[link:https://rachelrainbolt.com/podcast27/[27: Play with Peter Gray]]:
 
 . *It's freely chosen and self-directed.*
 
@@ -1694,6 +1696,8 @@ Sources:+
   ** 1:26:40-1:31:10
   ** 1:32:34-1:44:39
   ** 1:44:45-1:51:40
+  
+* link:https://www.instagram.com/tv/B99CefzAbdl/[Redefining Productivity - Sonya Renee Taylor]
 
 * link:https://veganvanguardpodcast.com/48-covid-19-and-seizing-the-means-part-2-with-bitchy-shitshow/[48. COVID-19 and Seizing the Means (Part 2) with Bitchy Shitshow]
   ** 27:53- 30:20
@@ -1978,11 +1982,39 @@ link:https://www.youtube.com/watch?v=LdOFhyKACxE[Dr. James Gilligan - On How All
   ** 1:21:13-1:33:33
   
 * SDE - Self-Directed Education
-  ** What is education?
-  ** The six optimizing conditions
-  ** self-directed executive functioning
-  ** internal locus of control / external locus of control
-  
+  ** *What is education?*
+    *** *[Education is] everything that a person learns that enables that person to live a meaningful and satisfying life.* +
+    link:https://soundcloud.com/greatergoodsojai/peter-gray[peter gray - 4:18-4:36]
+  ** *The six optimizing conditions* +
+  Self-Directed Education works best when the following conditions are present... +
+  [link:https://www.self-directed.org/sde/conditions/[The Six Optimizing Conditions]] +
+  [link:https://www.youtube.com/watch?v=G2BAJ_svbhA&feature=youtu.be&t=711[Peter Gray: Mother Nature's Pedagogy: Insights from Evolutionary Psychology: 11:51]]
+    . *The clear understanding that education is children’s responsibility*
+      *** *Education is the child's responsibility. When children know that they're responsible for their education, they take that responsibility.*
+      *** *When they're led to believe that somebody else is responsible for their education*, and all they have to do is do what they're told, then *they tend to do that in an minimal way*, and they don't tend to take responsibility for their education.
+    . *Unlimited time to play, explore, and pursue one’s own interests*
+      *** I need time to understand things.
+    . *Opportunity to play with the tools of the culture*
+      *** driving a car, operating a computer
+    . *Access to a variety of caring adults, who are helpers, not judges*
+      *** "The last person you wanna go to, to help you learn something, is somebody who's evaluating you. You're nervous about that person. That person is a person you go to in more of frame of mind of trying to impress that person with how much you know, not to say 'I really don't know this, and I would like some help with this." So by not judging the children the staff members are much better to be helpers to the children, than teachers in a typical school could be.
+    . *Free age mixing among children and adolescents*
+      *** ... that's absolutely key to the school. *The school would not work if there were children of all the same age* because children don't have much to learn from others who are the same age. They learn from children who are older, and from children who are younger than themselves.
+    . *Immersion in a stable, supportive, respectful community*
+      *** ... democratic community ... [where the children have some say about what they're being taught and how they're being taught - Alfie Kohn]
+      *** They're communities in which every child knows that their ideas, that their actions influence the others involved in the community. So they're growing up in a setting where they feel responsible not just for themselves, but for the community within which they're developing.
+  ** *Self-Directed Executive Functioning*
+    *** We’re interested in how children begin to coordinate those executive functions *to carry something out without being told that they need to do it and when*. link:https://www.dailycamera.com/2014/06/18/cu-boulder-study-kids-with-less-structured-activities-better-at-setting-completing-goals/[CU-Boulder study: Kids with less-structured activities better at setting, completing goals - Jane Barker on Self-Directed Executive Functioning]
+    *** ... less-structured activities may give children more self-directed opportunities. From this perspective, *structured time could slow the development of self-directed control*, since adults in such scenarios can provide external cues and reminders about what should happen, and when. link:https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00593/full[Less-structured time in children's daily lives predicts self-directed executive functioning]
+    *** *"Children who do not have the opportunity to control their own actions, to make and follow through on their own decisions, to solve their own problems, and to learn how to follow rules in the course of play grow up feeling that they are not in control of their own lives and fate. They grow up feeling that they are dependent on luck and on the goodwill and whims of others...." [reference to internal locus of control]* link:https://www.theatlantic.com/health/archive/2011/10/all-work-and-no-play-why-your-kids-are-more-anxious-depressed/246422/[All Work and No Play: Why Your Kids Are More Anxious, Depressed]
+  ** *Internal Locus of Control*
+    *** *Internal Locus of Control*
+    *** *External Locus of Control*
+
+* Self-Directed Executive Functioning: Advice for getting started with tasks with more ease
+11:38-16:22
+https://www.youtube.com/watch?v=0RTwK-9p404&feature=youtu.be&t=698
+
 * link:https://veganvanguardpodcast.com/34-radical-education-for-youth-with-alexis-fawn/[34. Radical Education for Youth with Alexis Fawn]
   ** 
     *** Socratic Teaching Method
@@ -2246,13 +2278,14 @@ expressive writing, empathy, NVC
 * OCD
 * IBS: Irritable Bowel Syndrome
 * Impostor Syndrome
-  ** Ständige Gedanken, dass ich nicht gut genug bin.
+  ** Ständige Gedanken, dass ich nicht gut genug bin, und nie gut genug sein werde.
   ** Ich verdiene mir kein Erfolg; alles Erfolg ist Glück
   ** Ich werde nie gut genug, wegen dem System [training concentration, fetish for skill - Daniel Markovits]
   ** Peter Principle
   ** Ich wundere mich, wie die Institutionen, wie Schule oder Familie und andere äußere Faktoren diesen Zustand unterstützten?
   *** FUndamental Attribution Error
   ** link:https://www.impulse.de/management/selbstmanagement-erfolg/hochstapler-syndrom/7363743.html?conversion=ads[Potenzielle Lösung]
+* fear of violence (and other things)
 * Belching
 * Flatulence
 * Heartburn
@@ -2263,6 +2296,15 @@ expressive writing, empathy, NVC
 * Burnout / Adrenal Fatigue [not sure]
   ** link:https://duckduckgo.com/?q=adrenal+fatigue+burnout&iax=images&ia=images[]
   ** link:https://hbr.org/2018/01/when-burnout-is-a-sign-you-should-leave-your-job[]
+
+=== Violence / Gewalt
+
+* domestic violence
+* (school) fights
+* misogyny
+* patriarchy
+* objectification of women
+* toxic masculinity
 
 === Burnout
 
@@ -2606,6 +2648,7 @@ Capitalism, Authoritharianism, Dictatorship and the "Free" Market give the:
 * freedom to profit from drugs
 * freedom to profit from organized criminality
 * freedom to profit from prostitution
+* freedom to profit from pornography
 * freedom to profit from tobacco
 * freedom to gamble
 * freedom to bet
