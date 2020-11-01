@@ -838,6 +838,7 @@ by Doug Newburg
 ** Ha-Joon Chang - Buch: 23 Thing They Don't Tell You About Capitalism; heterodox/heterogenous economy
 ** Mark Fisher - Buch: Capitalist Realism
 ** David Graeber - Bücher: Debt: The First 5000 Years; Bullshit Jobs
+** Paulo Freire - Buch: Pedagogy of the Oppressed; Critical Pedagogy
 ** Samuel P. Oliner, Pearl M. Oliner - Buch: _The Altruistic Personality: Rescuers of Jews in Nazi Europe_
 ** Sepp Holzer - Permakultur; Buch: Zahrada k nakousnuti
 ** Walter Kaufmann - Without Guilt and Justice: From Decidophobia to Autonomy
@@ -1007,12 +1008,25 @@ Hypothese: Alles, was ich mache, mache ich, um meine Bedürfnisse zu erfüllen.
 
 ** How to make every activity a play? +
 
-*** *It will be play if you're connected to your needs.* link:...[M.B. Rosenberg: ???-???]
+*** *It will be play if you're connected to your needs.* link:...[M.B. Rosenberg San Francisco Workshop ? : ???-???]
 *** Everything I do is play.
 *** I do everything that serves life as if it was play.
-*** I do everything as if it was play. [At least I try :P ]
+*** I do everything as if it was play. [At least I'll try :P ]
+
+* Work as toil vs Work as something productive, as play [or socially meaningful, Work as caring] [link:https://www.montessorieducation.com/podcast-jesse-mccarthy/[MONTESSORI EDUCATION WITH JESSE MCCARTHY - Play | Peter Gray: 25:35-32:46]]
+  ** [32:28] But there's no point at which they say ... "Now I'm no longer playing, now I'm working." Then they go into their adult lifes with the same playful attitude that they took as children when engaged in playing in these activities.
+  ** link:https://www.instagram.com/tv/B99CefzAbdl/[Sonya Renee Taylor on Instagram: "Productivity as currently defined is an ableist construct born out of capitalism that ties your self worth to what you are capable of…" - Redefining Productivity]
+    *** The problem is not productivity. The problem is, how we define productivity. The problem is that we were productive in service of profit and we weren't productive in care, affection and community. ... Redifine and redirect productivity to sustainability and well-being of yourself and others.
+    *** Caring for yourself and for others is productive.
+    *** Sleep is productive.
+    *** Finding and doing things that you enjoy doing is productive.
+    *** Sense of humor is productive.
+    *** Taking care of your immune system is productive.
+    *** It's hard to get off the 'shoulds' when you 'should' all over your stuff.
+    *** ... being in service without being in martyrdom [or slavery] ...
 
 *What is play?* +
+Play is children's work. [Montessori]
 Play is an activity that has following _[5 - may be more, may be less]_ characteristics: +
 [link:https://www.stack.com/a/what-counts-as-play-5-criteria-of-the-most-vital-activity-for-kids[What Counts as Play? 5 Criteria of the Most Vital Activity for Kids]], +
 [link:https://rachelrainbolt.com/podcast27/[27: Play with Peter Gray]]:
@@ -1065,6 +1079,7 @@ Play is an activity that has following _[5 - may be more, may be less]_ characte
     ** You are not going to get an F from some teacher.
     ** You are free to quit.
     ** You are not concerned about even succeeding. link:???[Happiness and Its Causes - Mihály Csíkszentmihályi 2014 Living in Flow: ???-???]
+    ** You're trying to do your best, but there's no problem with not doing your best because there are no real world consequences. [link:https://www.montessorieducation.com/podcast-jesse-mccarthy/[MONTESSORI EDUCATION WITH JESSE MCCARTHY - Play | Peter Gray: 29:22-29:35]]
 
 . *Play always involves challenges.*
 
@@ -1080,6 +1095,95 @@ Play is an activity that has following _[5 - may be more, may be less]_ characte
     * Someone who is willing to take more eisks in the daily life will not only become better and improve, expand the comfort zone, but also more fulfilled, happy and satisfied. link:???[Cedric Dumont - From Fear to Flow: ???-???]
     * You'll learn how to accept and learn from failure. It leads to sustainable resuslts, more engagement, satisfaction, [instrinsic] motivation. link:???[Cedric Dumont - From Fear to Flow: ???-???]
     * When you stop taing risks, you stop living a life. link:???[Cedric Dumont - From Fear to Flow: ???-???]
+    
+---
+    
+* SDE - Self-Directed Education
+  ** *What is education?*
+    *** *[Education is] everything that a person learns that enables that person to live a meaningful and satisfying life.* +
+    link:https://soundcloud.com/greatergoodsojai/peter-gray[Peter Gray - Biological Foundations for Self-Directed Education - 4:18-4:36]
+  ** *The six optimizing conditions* +
+  Self-Directed Education works best when the following conditions are present... +
+  [link:https://www.self-directed.org/sde/conditions/[The Six Optimizing Conditions]] +
+  [link:https://www.youtube.com/watch?v=G2BAJ_svbhA&feature=youtu.be&t=711[Peter Gray: Mother Nature's Pedagogy: Insights from Evolutionary Psychology: 11:51]] +
+  [link:https://soundcloud.com/greatergoodsojai/peter-gray[Peter Gray - Biological Foundations for Self-Directed Education - 1:18:59]]
+    . *The clear understanding that education is children’s responsibility*
+      *** *Education is the child's responsibility. When children know that they're responsible for their education, they take that responsibility.*
+      *** *When they're led to believe that somebody else is responsible for their education*, and all they have to do is do what they're told, then *they tend to do that in an minimal way*, and they don't tend to take responsibility for their education.
+    . *Unlimited time to play, explore, and pursue one’s own interests*
+      *** I need time to understand things.
+    . *Opportunity to play with the tools of the culture*
+      *** driving a car, operating a computer
+    . *Access to a variety of caring adults, who are helpers, not judges*
+      *** "The last person you wanna go to, to help you learn something, is somebody who's evaluating you. You're nervous about that person. That person is a person you go to in more of frame of mind of trying to impress that person with how much you know, not to say 'I really don't know this, and I would like some help with this." So by not judging the children the staff members are much better to be helpers to the children, than teachers in a typical school could be.
+    . *Free age mixing among children and adolescents*
+      *** ... that's absolutely key to the school. *The school would not work if there were children of all the same age* because children don't have much to learn from others who are the same age. They learn from children who are older, and from children who are younger than themselves.
+      *** *scaffolding*
+    . *Immersion in a stable, supportive, respectful community*
+      *** ... democratic community ... [where the children have some say about what they're being taught and how they're being taught - Alfie Kohn]
+      *** They're communities in which every child knows that their ideas, that their actions influence the others involved in the community. So they're growing up in a setting where they feel responsible not just for themselves, but for the community within which they're developing.
+      *** ... one of the difficulties is that people need to slow down a little bit [patience]. Because as you said, there's no way the child's gonna be [quick]. ... Even tieing down the shoes can take fifteen minutes or so ... +
+      >> You have to slow down, and you have to lower your standards a little bit [tolerance, respect]. ... you have to recognize *"Is really more important that my child feels part of a family when my child is doing this, than my table be perfectly clean?"* [link:https://www.montessorieducation.com/podcast/play-peter-gray[MONTESSORI EDUCATION WITH JESSE MCCARTHY - Play | Peter Gray: 38:36-39:05]]
+  ** *The Benefits of Play* +
+  link:https://www.self-directed.org/tp/evidence-emerges-to-support-sde/[Evidence Emerges to Support SDE] +
+  link:https://muddysmiles.com/unschooling-evidence/[THE EVIDENCE BEHIND UNSCHOOLING] +
+    . *Develops intrinsic motivation and self-determination*
+    . *Stimulates passion for life-long learning*
+    . *Improves self-directed executive function*
+    . *Relieves stress and anxiety*
+    . *Increases family closeness and harmony*
+    . *Boosts creativity*
+    . *Builds personal responsibility*
+    . *Develops advanced thinking skills*
+    . *Encourages discovery and pursuit of own interests*
+    . *Nurtures sophisticated social skills*
+    . *Improves task focus*
+    . *Tackles fears and phobias*
+    . *Boosts problem-solving skills*
+    . *Encourages entrepreneurship*
+    . *Reading happens naturally, often becoming a passion*
+    . *Kids suffer less and kill themselves less*
+      *** We are in an age when we're involved in a horrid social experiment: "What happens if we take play away from children?" "What happens if we take freedom away from them?" So that they're pretty much always either at school, or they're under adult direction outside of school. And they have almost no time to just be children away from adults, figuring out the world themselves, learning how to get along with other people. Much of my research in writing has to do with the fact that children, and young adults too, are suffering these days because of *play deprivation*. [reference to self-directed executive functioning] +
+      [link:https://www.montessorieducation.com/podcast/play-peter-gray[MONTESSORI EDUCATION WITH JESSE MCCARTHY - Play | Peter Gray: 6:13-7:08]]
+      *** ... I've written a lot about the fact that over the same decades that we have gradually been taking children's freedom away from them and gradually been having them spending more and more time in school, more and more time under adult direction, less and less time playing, exploring, following their own interests, over this period of time that we've seen huge decreases in children's freedom, we've seen huge increases in all sorts of mental disorders in childhood and young adulthood. Huge increases, no comparison. The rates of anxiety, depression, childhood suicide, are way, way greater, than they were in the past. ... *There is in my mind no question that there is a causal link. When you take children's freeedom away from them and when you put them more or less always in situations where they're being judged and evaluated by adults, these are anxiety provoking situations, you are going to produce children who are depressed, anxious and sometimes even suicidal. And that is the tragedy of our times. *Play is not a luxury for children. Play is a necessity.* If we want our children to grow up psychologically and socially healthy, we have to stop being so concerned about testing and academics. *There is no evidence that all of this homework, all of this focus on academia, that even in terms of academic learning there is no evidence they're learning more, than they would be if they were spending half as much time on that.* We need to go in the other direction. We need to reduce the amount of time that children will spend under adult direction, and increase the amount of time that they have to learn how to take care of themselves which they do through play. +
+      ... [We're] coming full circle to that internal locus of control. One of the things with anxiety and depression, and definitelly suicide, is that *"I can't controll my life."* And that is one of the core elements of it. ... He didn't learn to control his life. The teacher and his parents have been controlling his life [all the time]. So how would we expect him to [take responsibility] later?
+      [link:https://www.montessorieducation.com/podcast/play-peter-gray[MONTESSORI EDUCATION WITH JESSE MCCARTHY - Play | Peter Gray: 39:25-42:17]]
+      *** link:https://www.researchgate.net/publication/265449180_The_Decline_of_Play_and_the_Rise_of_Psychopathology_in_Children_and_Adolescents[The Decline of Play and the Rise of Psychopathology in Children and Adolescents] +
+      link:https://www.theatlantic.com/health/archive/2011/10/all-work-and-no-play-why-your-kids-are-more-anxious-depressed/246422/[All Work and No Play: Why Your Kids Are More Anxious, Depressed] +
+      link:https://www.youtube.com/watch?v=coMXLy8RBIc&feature=youtu.be&t=172[How Our Schools Thwart Passions | Peter Gray | TEDxAsburyPark: 2:52-4:49]
+  ** *Self-Directed Executive Functioning*
+    *** ... [33:46] *those children who had more free time to play and explore, figure out their own things were much better on average in this test of self-directed executive functioning, than those children who were more controlled by adults. Adults may think they put their kids to a lot of classes and teaching them a lot of stuff, in order to make them 'smarter', but in reality, at least by this measure of 'smeartness', those children who had more time to figure things out on their own were scoring higher on this ability ... to think things through, to solve problems* ... +
+    [link:https://soundcloud.com/greatergoodsojai/peter-gray[Peter Gray - Biological Foundations for Self-Directed Education: 31:30-34:34]]
+    *** We’re interested in how children begin to coordinate those executive functions *to carry something out without being told that they need to do it and when*. link:https://www.dailycamera.com/2014/06/18/cu-boulder-study-kids-with-less-structured-activities-better-at-setting-completing-goals/[CU-Boulder study: Kids with less-structured activities better at setting, completing goals - Jane Barker on Self-Directed Executive Functioning]
+    *** ... less-structured activities may give children more self-directed opportunities. From this perspective, *structured time could slow the development of self-directed control*, since adults in such scenarios can provide external cues and reminders about what should happen, and when. link:https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00593/full[Less-structured time in children's daily lives predicts self-directed executive functioning]
+    *** *"Children who do not have the opportunity to control their own actions, to make and follow through on their own decisions, to solve their own problems, and to learn how to follow rules in the course of play grow up feeling that they are not in control of their own lives and fate. They grow up feeling that they are dependent on luck and on the goodwill and whims of others...." [reference to internal locus of control]* link:https://www.theatlantic.com/health/archive/2011/10/all-work-and-no-play-why-your-kids-are-more-anxious-depressed/246422/[All Work and No Play: Why Your Kids Are More Anxious, Depressed]
+    *** ... *if there is and an adult there solving your problems for you, you're not learning how to do it.* +
+    [link:https://www.montessorieducation.com/podcast/play-peter-gray[MONTESSORI EDUCATION WITH JESSE MCCARTHY - Play | Peter Gray: 8:06-8:11]]
+    *** Self-Directed Executive Functioning: Advice for getting started with tasks with more ease (Meta Thinking - "What works?" and "Why it works?") +
+    [link:https://www.youtube.com/watch?v=0RTwK-9p404&feature=youtu.be&t=698[6 Executive Function Strategies that Really Work for People with ADHD: 11:38-16:22]]
+      **** ... starting tasks is difficult for me ...
+      **** I ask my brain to just take on a tiny little piece of [the task], and see how it feels. Because even when I take on a tiny little piece of it, then I've already gotten started, and the starting is the hard part.
+      **** For example, ... "Do you want to come for a walk with us ... ?" ... I just say "Ok. What I'm gonna do is I'm gonna go get my shoes." ... and then I'll decide whether I'm gonna come out for a walk or not.
+      **** ... by the time I've gotten started on the tash, following through on the task is so much less difficult.
+      **** Tell yourself you're just gonna do the very, very beginning stages of the task, and then ... spend less than a minute on the beginning stages, and if you still don't feel like doing that task, then you just give yourself [a break for, let's say] an hour [or empathy], [without] shame, [without] judgement.
+  ** *Locus of Control* +
+  [link:https://soundcloud.com/greatergoodsojai/peter-gray[Peter Gray - Biological Foundations for Self-Directed Education: 1:18:59-]] +
+  [link:https://www.montessorieducation.com/podcast/play-peter-gray[MONTESSORI EDUCATION WITH JESSE MCCARTHY - Play | Peter Gray: 7:40-9:25]]
+    *** *Internal Locus of Control*
+      **** ... the main thing that children develop through [self-directed executive functioning and] freedom away from adults is what's called an internal locus of control.
+      **** *I can take charge of my own life.*
+      **** *I can solve my own problems.*
+      **** *I can figure things out myself.*
+      **** *I don't need a powerful other person to do things for me.*
+      **** *I'm not a victim of faith or circumstance.*
+      **** *I can be in charge of my own life.*
+      **** *I can take responsibility for my own life.*
+      **** There's actually a psychological test for clinical questionare that assesses the degree to which people have this internal locus of control. And no surprise, ever since the test was developed, around 1960, the scores on internal locus of control for school age children has been continuously going down. I'm convinced that this is because they're not allowed to take control of their own lives. They're always being controlled. They're always being told what to do. *This sense of ... responsibility for [our] own life. is way more important than the academic things that we learn in school. The academic things you learn in school are easy to learn once you have learned to take control of your own life.*
+    *** *External Locus of Control*
+      **** The system, structures, institutions, outside environment influences my behavior.
+      **** [link:https://www.montessorieducation.com/podcast/play-peter-gray[MONTESSORI EDUCATION WITH JESSE MCCARTHY - Play | Peter Gray: 39:25-42:17]]
+      
+And you play at [self-chosen] activities until you become good at them. [link:https://soundcloud.com/greatergoodsojai/peter-gray[Peter Gray - Biological Foundations for Self-Directed Education: 53:15-53-20]]
 
 == Nonviolent Communication (NVC) / Gewaltfreie Kommunikation (GFK) / Nenásilná Komunikácia
 
@@ -1088,7 +1192,7 @@ Nonviolent communication is a way of
 * talking (language),
 * thinking (emotional intelligence),
 * communication (communication skills, dialogue) and
-* using power (means of influence, management, parenting, leadership)
+* using power (means of influence, leadership, management, parenting, pedagogy)
 
 Sources: +
 link:https://www.youtube.com/watch?v=jArsTeP66FE&feature=youtu.be&t=614[Self Empathy: 10:14-11:16] +
@@ -1210,6 +1314,142 @@ Glorification of violence. As if it was the ultimate means to achieve anything. 
 *Why it always ends up with violence? WHY?*
 
 Because of pseudo-scientific assumptions of human nature? In order to justify violence? I just feel sick of all these ideologies.
+
+== The Socrates Method
+
+also known as Socrates Questioning, Socrates Teaching
+
+Clarification
+
+* What do you mean when you say X?
+* Could you explain that point further? Can you provide an example?
+
+Challenging
+
+* Assumptions	Is there a different point of view?
+* What assumptions are we making here? Are you saying that?
+
+Evidence and reasoning
+
+* Can you provide an example that supports what you are saying?
+* Can we validate that evidence? Do we have all the information we need?
+
+Alternative viewpoints
+
+* Are there alternative viewpoints?
+* How could someone else respond, and why?
+
+Implications and consequences
+
+* How would this affect someone?
+* What are the long-term implications of this?
+
+Challenging the question
+
+* What do you think was important about that question?
+* What would have been a better question to ask?
+
+link:https://positivepsychology.com/socratic-questioning/[Socratic Questioning in Psychology: Examples and Techniques]
+
+Clarification Questions
+
+* What do you mean by ______? 
+* What is your main point? 
+* How does ____ relate to ____? 
+* Could you put that another way? 
+* What do you think is the main issue here? 
+* Let me see if I understand you; do you mean _____ or _____? 
+* Jane, would you summarize in your own words what Richard has said?...Richard, is that what you meant? 
+* Could you give me an example? 
+* Would this be an example: ____? 
+* Could you explain that further? 
+* Could you expand upon that? 
+
+Questions About the Initial Question or Issue
+
+* How can we find out? 
+* What does this question assume? 
+* Would ____ put the question differently? 
+* How could someone settle this question? 
+* Can we break this question down at all? 
+* Is the question clear? Do we understand it? 
+* Is this question easy or hard to answer? Why? 
+* Does this question ask us to evaluate something? 
+* Do we all agree that this is the question? 
+* To answer this question, what questions would we have to answer first? 
+* I'm not sure I understand how your are interpreting the main question at issue. 
+* Is this the same issue as ____? 
+* How would ____ put this issue? 
+* Why is this question important? 
+* Does this question lead to other questions or issues? 
+Assumption Probes:
+* What are you assuming? 
+* What is Karen assuming? 
+* What could we assume instead? 
+* You seem to be assuming ____. Do I understand you correctly? 
+* All of your reasoning depends on the idea that ____. Why have you based your reasoning on ____ rather than ____? 
+* You seem to be assuming ____. How would you justify taking this for granted? 
+* Is it always the case? Why do you think the assumption holds here? 
+* Why would someone make this assumption? 
+
+Reason and Evidence Probes
+
+* What would be an example? 
+* How do you know? 
+* Why do you think that is true? 
+* Do you have any evidence for that? 
+* What difference does that make? 
+* What are your reasons for saying that? 
+* What other information do we need? 
+* Could you explain your reasons to us? 
+* Are these reasons adequate? 
+* Can you explain how you logically got from ____ to ____? 
+* Do you see any difficulties with their reasoning here? 
+* Why did you say that? 
+* What led you to that belief? 
+* How does that apply to this case? 
+* What would change your mind? 
+* But is that good evidence to believe that? 
+* Is there reason to doubt that evidence? 
+* Who is in a position to know if that is so? 
+* What would you say to someone who said ____? 
+* Can someone else give evidence to support that response? 
+* By what reasoning did you come to that conclusion? 
+* How could we find out whether that is true? 
+
+Origin or Source Questions
+
+* Where did you get this idea? 
+* Do your friends or family feel the same way? 
+* Have you been influenced by media? 
+* Have you always felt this way? 
+* What caused you to feel this way? 
+* Did you originate this idea or get it from someone else? 
+
+Implication and Consequence Probes
+
+* What are you implying by that? 
+* When you say ____, are you implying ____? 
+* But if that happened, what else would happen as a result? Why? 
+* What effect would that have? 
+* Would that necessarily happen or only probably happen? 
+* What is the probability of this result? 
+* What is an alternative? 
+* If this and this are the case, then what else must also be true? 
+* If we say that this is unethical, how about that? 
+
+Viewpoint Questions
+
+* You seem to be approaching this issue from ____ perspective. Why have you chosen this rather than that perspective? 
+* How would other groups/types of people respond? Why? What would influence them? 
+* How could you answer the objection that ____ would make? 
+* What might someone who believed ____ think? 
+* Can/did anyone see this another way? 
+* What would someone who disagrees say? 
+* What is an alternative? 
+* How are Ken's and Roxanne's ideas alike? Different? 
+
+link:https://app.oncoursesystems.com/school/webpage/documents/GG6ffVDA49fQG2fTQH/5401583-348053/downloadFile.aspx[Socratic Questioning Cheat Sheet - OnCourse Systems]
 
 == Quotes
 
@@ -1632,7 +1872,7 @@ Sources:+
     *** People in Brazil in 2013 revolted against state because state spent money on megaprojects instead of improving daily life of the citizens.
     *** *Why is it that worldwide we're building cities for people to invest in, not for people to live in?* This principle applies worldwide, in cities like Dubai, Mumbai, Santiago, Sao Paolo, China ... I don't know a single city where that's not going on. Then you ask the question "Why is this going on in this particular way?" At that point, you get back to the contradictions of capital and you see why. The only way capital can get out of its contradictions right now is to do things like that [to stimulate growth -  that's what capitalism is based on]. An if the only kind of urbanization produces that, we need to do something different.
   ** 1:54:02-2:00:36 https://www.youtube.com/watch?v=PnWG0KpMnms&feature=youtu.be&t=6842
-    *** *I'm a great believer with the idea that all politics begins in a locality. [Politics] beginns with personal, daily life.* And I don't think you can have any politics that is not rooted in daily life questions. Which is why I want to talk about the politics of realization. Because that's where people feel it. Clearly. And everybody feels in a houshold, not just the person who's working, but everybody. The kids. Everybody. But that will be scaled up in some way. ... You begin with the personal as political [Aaah, so that's where the *repolitization* comes from...]. And it's the personal response to daily life conditions which is political. *But it scales up. People come together in a factory, institutions, neighborhood, communities, and so on, so you move to a different level. So my personal politics and anger what the landlords are doing are similar to my neighbour. So there is another level which you may call a neighborhood level.* There're many different neighbourhoods. And alliances form between neighbourhoods. And people start to talk about the qualities of urban life of the city as a whole. Anarchist are very good at mobilizing in the neighborhood. They're not very good at talking how to organize a city as a whole. Water supplies, food supplies, garbage collection, sewage. Taking care of these things on a bio-regional basis. What are the ways to do that? And how do we set up an organizational form to do that? I'm talking about hierarchies here. An then the bio-regions fit into what's going on in a whole territory, like a state. *How do you put [the bio-regions] together?* *And there, this confederalism idea is important.* And you will go from all these scales to elsewhere [somewhere even higher, maybe]. So we will have these layers of activity [software layers, design and architectural patterns]. And one of the things that tended to happen is once you move through these different layers, you get a different poliltics. You get a different vision. You see things clearly o na bio-regional level, you don't see another level [data hiding, encapsulation - programming]. And you need a connection and explanation how the politics on the higher level relates to the politics on all other levels. Globally also. We have these issues of global warming, for example. We need to work somehow around those issues. So that the scale then becomes significant. *And as you move from personal to political, you need to remember to include the people on lower layers in order to ask them for feedback, whether the changes actually made life more wonderful, and reaffirm what you're doing. Explain what you're doing on the bio-regional level, to a personal political level. Otherwise your politics gets hollowed out [vydlabaná], it looses its backs, purchase, [trustworthiness and meaning] in daily life.* We can think about these different layers. We can figure out the issues [needs and solutions] around the bio-regional or global level back to us, whether we need to do something in our daily lives, in order to meet a requirement [a need].
+    *** *I'm a great believer with the idea that all politics begins in a locality. [Politics] beginns with personal, daily life.* And I don't think you can have any politics that is not rooted in daily life questions. Which is why I want to talk about the politics of realization. Because that's where people feel it. Clearly. And everybody feels in a houshold, not just the person who's working, but everybody. The kids. Everybody. But that will be scaled up in some way. ... You begin with the personal as political [Aaah, so that's where the *repolitization* comes from...]. And it's the personal response to daily life conditions which is political. *But it scales up. People come together in a factory, institutions, neighborhood, communities, and so on, so you move to a different level. So my personal politics and anger what the landlords are doing are similar to my neighbour. So there is another level which you may call a neighborhood level.* There're many different neighbourhoods. And alliances form between neighbourhoods. And people start to talk about the qualities of urban life of the city as a whole. Anarchist are very good at mobilizing in the neighborhood. They're not very good at talking how to organize a city as a whole. Water supplies, food supplies, garbage collection, sewage. Taking care of these things on a bio-regional basis. What are the ways to do that? And how do we set up an organizational form to do that? I'm talking about hierarchies here. An then the bio-regions fit into what's going on in a whole territory, like a state. *How do you put [the bio-regions] together?* *And there, this confederalism idea is important.* And you will go from all these scales to elsewhere [somewhere even higher, maybe]. So we will have these layers of activity [software layers, design and architectural patterns]. And one of the things that tended to happen is once you move through these different layers, you get a different poliltics. You get a different vision. You see things clearly o na bio-regional level, you don't see another level [data hiding, encapsulation - programming]. And you need a connection and explanation how the politics on the higher level relates to the politics on all other levels. Globally also. We have these issues of global warming, for example. We need to work somehow around those issues. So that the scale then becomes significant. *And as you move from personal to political, you need to remember to include the people on lower layers in order to ask them for feedback, whether the changes actually are helping them, and reaffirm what you're doing. Explain what you're doing on the bio-regional level, to a personal political level. Otherwise your politics gets hollowed out [vydlabaná], it looses its backs, purchase, [trustworthiness and meaning] in daily life.* We can think about these different layers. We can figure out the issues [needs and solutions] around the bio-regional or global level back to us, whether we need to do something in our daily lives, in order to meet a requirement [a need].
     *** I'm not anti-capitalist because I have some defect in my DNA. Nor am I anti-capitalist bacause I've been traumatized by some nasty capitalist who treated me badly and had my mind warped as an infant. I started to read Capital when I was 35 years old. *We can change these things via thoughtful configuration and thoughtful reflection on all these issues is vital for political action, so we understand where we are, what we're doing, and why are we doing it?*
     
 * link:[]
@@ -1684,6 +1924,16 @@ Sources:+
 ** 11:50-11:58 https://www.youtube.com/watch?v=hb47PeiQCAE&feature=youtu.be&t=710
   *** When you come into an enterprise with fifty thousand [people], people still feel family. People still feel at home.
 
+* link:https://veganvanguardpodcast.com/34-radical-education-for-youth-with-alexis-fawn/[34. Radical Education for Youth with Alexis Fawn]
+  ** 12:51-13:17
+    *** *Education is [also] a political act ... and [I would like that other people would see education in this way too.]*
+  ** 27:07-~32:00
+    *** link:https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/[Bloom’s Taxonomy]
+  ** 32:14-33:09
+    *** ... *patience is so important.* ...
+    *** in my courses ... I get all of my students to understand the idea of empathy and perspective taking ...
+    *** ... *some of us just need a little bit more help to getting there [with critical thinking skills] because the education system has failed so many.*
+
 * link:https://veganvanguardpodcast.com/20-mental-health-addiction-and-capitalist-realism-with-mad-blender/[20. Mental Health, Addiction, and Capitalist Realism with Mad Blender]
   ** 1:18:18-1:31:26
   *** 1:23:52-1:24:15
@@ -1696,8 +1946,6 @@ Sources:+
   ** 1:26:40-1:31:10
   ** 1:32:34-1:44:39
   ** 1:44:45-1:51:40
-  
-* link:https://www.instagram.com/tv/B99CefzAbdl/[Redefining Productivity - Sonya Renee Taylor]
 
 * link:https://veganvanguardpodcast.com/48-covid-19-and-seizing-the-means-part-2-with-bitchy-shitshow/[48. COVID-19 and Seizing the Means (Part 2) with Bitchy Shitshow]
   ** 27:53- 30:20
@@ -1980,40 +2228,6 @@ link:https://www.youtube.com/watch?v=LdOFhyKACxE[Dr. James Gilligan - On How All
   ** 1:12:07-1:14:23 https://www.youtube.com/watch?v=_rSYiy420B0&feature=youtu.be&t=4327
   ** 1:14:24-1:21:12 https://www.youtube.com/watch?v=_rSYiy420B0&feature=youtu.be&t=4464
   ** 1:21:13-1:33:33
-  
-* SDE - Self-Directed Education
-  ** *What is education?*
-    *** *[Education is] everything that a person learns that enables that person to live a meaningful and satisfying life.* +
-    link:https://soundcloud.com/greatergoodsojai/peter-gray[peter gray - 4:18-4:36]
-  ** *The six optimizing conditions* +
-  Self-Directed Education works best when the following conditions are present... +
-  [link:https://www.self-directed.org/sde/conditions/[The Six Optimizing Conditions]] +
-  [link:https://www.youtube.com/watch?v=G2BAJ_svbhA&feature=youtu.be&t=711[Peter Gray: Mother Nature's Pedagogy: Insights from Evolutionary Psychology: 11:51]]
-    . *The clear understanding that education is children’s responsibility*
-      *** *Education is the child's responsibility. When children know that they're responsible for their education, they take that responsibility.*
-      *** *When they're led to believe that somebody else is responsible for their education*, and all they have to do is do what they're told, then *they tend to do that in an minimal way*, and they don't tend to take responsibility for their education.
-    . *Unlimited time to play, explore, and pursue one’s own interests*
-      *** I need time to understand things.
-    . *Opportunity to play with the tools of the culture*
-      *** driving a car, operating a computer
-    . *Access to a variety of caring adults, who are helpers, not judges*
-      *** "The last person you wanna go to, to help you learn something, is somebody who's evaluating you. You're nervous about that person. That person is a person you go to in more of frame of mind of trying to impress that person with how much you know, not to say 'I really don't know this, and I would like some help with this." So by not judging the children the staff members are much better to be helpers to the children, than teachers in a typical school could be.
-    . *Free age mixing among children and adolescents*
-      *** ... that's absolutely key to the school. *The school would not work if there were children of all the same age* because children don't have much to learn from others who are the same age. They learn from children who are older, and from children who are younger than themselves.
-    . *Immersion in a stable, supportive, respectful community*
-      *** ... democratic community ... [where the children have some say about what they're being taught and how they're being taught - Alfie Kohn]
-      *** They're communities in which every child knows that their ideas, that their actions influence the others involved in the community. So they're growing up in a setting where they feel responsible not just for themselves, but for the community within which they're developing.
-  ** *Self-Directed Executive Functioning*
-    *** We’re interested in how children begin to coordinate those executive functions *to carry something out without being told that they need to do it and when*. link:https://www.dailycamera.com/2014/06/18/cu-boulder-study-kids-with-less-structured-activities-better-at-setting-completing-goals/[CU-Boulder study: Kids with less-structured activities better at setting, completing goals - Jane Barker on Self-Directed Executive Functioning]
-    *** ... less-structured activities may give children more self-directed opportunities. From this perspective, *structured time could slow the development of self-directed control*, since adults in such scenarios can provide external cues and reminders about what should happen, and when. link:https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00593/full[Less-structured time in children's daily lives predicts self-directed executive functioning]
-    *** *"Children who do not have the opportunity to control their own actions, to make and follow through on their own decisions, to solve their own problems, and to learn how to follow rules in the course of play grow up feeling that they are not in control of their own lives and fate. They grow up feeling that they are dependent on luck and on the goodwill and whims of others...." [reference to internal locus of control]* link:https://www.theatlantic.com/health/archive/2011/10/all-work-and-no-play-why-your-kids-are-more-anxious-depressed/246422/[All Work and No Play: Why Your Kids Are More Anxious, Depressed]
-  ** *Internal Locus of Control*
-    *** *Internal Locus of Control*
-    *** *External Locus of Control*
-
-* Self-Directed Executive Functioning: Advice for getting started with tasks with more ease
-11:38-16:22
-https://www.youtube.com/watch?v=0RTwK-9p404&feature=youtu.be&t=698
 
 * link:https://veganvanguardpodcast.com/34-radical-education-for-youth-with-alexis-fawn/[34. Radical Education for Youth with Alexis Fawn]
   ** 
@@ -2305,6 +2519,7 @@ expressive writing, empathy, NVC
 * patriarchy
 * objectification of women
 * toxic masculinity
+* male gaze
 
 === Burnout
 
@@ -2802,5 +3017,9 @@ Moneyless society
 ---
 
 Next time, think about, whether you want to use another 'ism'. You may associate with a lot more than you originally had in mind.
+
+---
+
+Plant - not enough that it's strong and vigorous. It needs enironment soil, wather to thrive and flourish. It's the resonance between inner and outer environment that enables optimal growth and development. [RPM; Flow] Same with a human.
 
 ---
