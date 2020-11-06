@@ -140,7 +140,7 @@ link:https://static1.squarespace.com/static/52898555e4b0d5b9928e8aa5/t/575773a58
 * _appretiation / Wertschätzung / ocenenie_
 * _gratitude / Dankbarkeit / vďačnosť_
 * [line-through]#apology Verzeihung / ospravedlnenie#
-** (*masked need for empathy*: link:...[Marshall Rosenberg - Making Life Wonderful ???-which part???]), When we empathize, there is nothing to forgive. link:???[(San Fran Workshop)], Forgiveness and empathy are the same thing [in the language of life.] link:???[(SELF EMPATHY)]
+** (*masked need for empathy*: link:https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=4602[Marshall Rosenberg - Making Life Wonderful 2/4 - Nonviolent Communication NVC: 1:16:42-1:17:39]), When we empathize, there is nothing to forgive. link:???[(San Fran Workshop)], Forgiveness and empathy are the same thing [in the language of life.] link:???[(SELF EMPATHY)]
 * [line-through]#approval / Genehmigung / dovolenie, odobrenie#
 * [line-through]#affirmation / Bestätigung / potvrdenie#
 * [line-through]#sex / Geschlechtsverkehr#
@@ -360,6 +360,7 @@ link:https://static1.squarespace.com/static/52898555e4b0d5b9928e8aa5/t/575773a58
 * mobility / Mobilität / prenosnosť
 * transportation / Transport / preprava, doprava, transport
 * autonomy / Selbstständigkeit, Autonomie / samostatnosť
+* willfulness / Eigenwillen / vlastná, slobodná vôľa
 * faith / Glaube / viera
 * voluntariness / Freiwilligkeit / dobrovoľnosť
 * willingness, good will / Bereitschaft, Entgegenkommen / ochota
@@ -419,7 +420,16 @@ bezmocný (často zamieňaný so _stresom_)
 
 *Bitter pain - Alarm feelings / Bittere Schmerzen - Weckgefühle*
 
-Disconnected from needs / Unterbunden von Bedürfnissen
+Disconnected from needs / Unterbunden von Bedürfnissen +
+Connected to violence provocative *thinking*. The needs are not the problem. The problem is the thinking. The violence provocative thinking.
+
+Violence provocative thinking consists of moralistic judgements and Amtssprache.
+
+Feelings caused by *thinking* that is *disconnected from life/needs* and *violence provocative*. These feelings are *not caused by needs* that have not been met, but *are caused by violence provocative thinking that is diconnected from needs* and connected to moralistic judgements (blame, criticism) and Amtssprache (should, shouldn't, must, can't).
+
+*These feelings represent violence* directed at oneself (depression, guilt, shame) or others (anger, rage, hate).
+
+*These feelings and this thinking are perpetuating [and sustaining] the violence.*
 
 * *angry / ärgerlich / nahnevaný (hnevať sa)*
 * indignant / empört / rozhorčený (rozhorčiť sa)
@@ -431,6 +441,7 @@ Disconnected from needs / Unterbunden von Bedürfnissen
 * envious / neidisch / závistlivý (závidieť)
 * jealous / eifersüchtig / žiarlivý (žiarliť)
 * embarassed / verlegen / rozpačitý, v rozpakoch
+* anxious [when there's no immediate danger] / ängstlich [wenn es da keine unmittelbare Gefahr gibt] / ustráchaný [keď nie je žiadna bezprostredná hrozba]
 
 *Not-feelings - thoughts, analyses, diagnoses, interpretations, criticisms / Nicht Gefühle / ne-pocity*
 
@@ -661,7 +672,7 @@ spreche, mit jemandem spreche, schreibe, zuhöre, mich dusche, mich mit kaltem W
 - Production and Comsumption vs Care and Freedom - link:https://www.youtube.com/watch?v=kikzjTfos0s&feature=youtu.be&t=2958[On Bullsh*t Jobs | David Graeber | RSA Replay: 49:18-49:44]
 - Gratitude and Appreciation vs Reward, Praise and Compliments - M. B. Rosenberg, Alfie Kohn, Peter Gray
 - Criticism, Punishment, Praise and Compliments vs Observation, Feeling, Need, Request and Unconditional Love - M. B. Rosenberg, Alfie Kohn
-- Criticism, Punishment, Praise and Compliments, Strictness, Self-Discipline, Grit, Burnout vs Unconditional Love - Alfie Kohn [OFJCC - 26:10-27:28-30:04]
+- Criticism, Punishment, Praise and Compliments, Strictness, Self-Discipline, Grit, Burnout vs Unconditional Love - link:https://www.youtube.com/watch?v=x4qRZt0VCak[Alfie Kohn at the OFJCC: Performance vs. Learning - The Costs of Overemphasizing Achievement: 26:10-27:28-30:04]
 - Education as an obligation, contest, competition or transaction vs Education as a gift and Education as a play. link:https://soundcloud.com/user-350469784/interviu-alfie-kohn-14-may-2016[Alfie Kohn - Interviu: 21:42-21:43]
 - Needs as an obligation, contest, competition or transaction vs Needs as a gift [M.B. Rosenberg - Experiencing Needs As a Gift]
 - Observation vs Evaluation - Jiddu Krishnamurti, M.B. Rosenberg, link:https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=1711[Miki Kashtan - Social Change Series – Liberation in Three Chapters - 1: 28:31-29:40]
@@ -670,14 +681,14 @@ spreche, mit jemandem spreche, schreibe, zuhöre, mich dusche, mich mit kaltem W
 - Natuar vs Habitual - M. B. Rosenberg - San Francisco Workshop, Ghandi
 - Request vs Demand - M. B. Rosenberg - Portland Workshop time: ??? + resolving conflicts with children workshop time: ???
 - Power over (people and nature) vs Power with (people and nature) - Mary Parker Follett, link:https://sci-hub.st/10.5840/pom20033221[Power, Freedom and Authority in Management: Mary Parker Follett’s ‘PowerWith’ - Domènec Melé, Josep M. Rosanas] Miki Kashtan [Exiting the Either/Or Trap - 30th minute], M. B. Rosenberg, Alfie Kohn, Mark Shepard-"Power over nature vs Power with nature"
-- Authority based on 'power over' model or 'working with' approach vs Authority based on 'power with' model or 'doing to' approach - M. B Rosenberg [interview with paula gloria], Mary Parker Follett, Alfie Kohn OFJCC 38:00
+- Authority based on 'power with' model or 'working with' approach vs Authority based on 'power over' model or 'doing to' approach - M. B Rosenberg [interview with paula gloria], Mary Parker Follett, link:https://www.youtube.com/watch?v=x4qRZt0VCak[Alfie Kohn at the OFJCC: Performance vs. Learning - The Costs of Overemphasizing Achievement: ~38:00]
 - Obedience vs Responsibility - link:https://www.youtube.com/watch?v=HLgGt7yLhJg&feature=youtu.be&t=3373[Atelier communication non violente - Marshall Rosenberg - Danemark - sous-titres français: 56:13-57:15]
 - Respect vs Obedience - link:https://www.youtube.com/watch?v=HLgGt7yLhJg&feature=youtu.be&t=3373[Atelier communication non violente - Marshall Rosenberg - Danemark - sous-titres français: 56:13-57:15], link:https://www.youtube.com/watch?v=Qk8fOOMWOGc[Shaping Discipline with a Restorative Approach - Part 4]
 - Respect vs Fear - link:https://www.youtube.com/watch?v=Qk8fOOMWOGc[Shaping Discipline with a Restorative Approach - Part 4]
 - Respect vs Approval - link:https://www.youtube.com/watch?v=Qvmqeeme42M&feature=youtu.be&t=1008[(Miki Kashtan: Exiting the Either/Or Trap - Beyond Consensus vs. Command and Control: 16:48-22:20)]
 - Empathy, Power with People and Respect vs Obedience - link:https://www.youtube.com/watch?v=NqJ-0EIsy9U&feature=youtu.be&t=5658[Marshall Rosenberg - NVC Workshop 2004 Portland, OR: 1:34:18-1:36:18], Mary Parker Follett, Power, Freedom and Authority in Management: Mary Parker Follett’s ‘Power With’-Domènec Melé and Josep M Rosanas-10.5840@pom20033221
-- Intrinsic motivation vs Extrinsic motivation - Alfie Kohn [OFJCC Overemphasizing achievement]
-- Internal motivation vs Extrinsic motivation - Alfie Kohn [OFJCC Overemphasizing achievement]
+- Intrinsic motivation vs Extrinsic motivation - link:https://www.youtube.com/watch?v=x4qRZt0VCak[Alfie Kohn at the OFJCC: Performance vs. Learning - The Costs of Overemphasizing Achievement]
+- Internal motivation vs Extrinsic motivation - link:https://www.youtube.com/watch?v=x4qRZt0VCak[Alfie Kohn at the OFJCC: Performance vs. Learning - The Costs of Overemphasizing Achievement]
 - Excellence vs Superiority - Is Meritocracy a Sham? | Amanpour and Company: link:https://www.youtube.com/watch?v=BLEvJUNfyBY&feature=youtu.be&t=592[9:52-11:32], link:https://www.youtube.com/watch?v=BLEvJUNfyBY&feature=youtu.be&t=910[15:10-16:24]
 - Duty and Obligation vs Freedom and Choice - Maria Montessori, Peter Gray, Alfie Kohn, M. B. Rosenberg
 - Retributive justice vs Restorative justice - M. B. Rosenberg, Miki Kashtan, Howard Zehr, link:https://www.youtube.com/watch?v=msWYVhmuQhw&feature=youtu.be&t=604[(Albany Addresses Bullying: Miki Kashtan: A Compassionate Perspective on Bullying 3/5/2011: 10:04-12:43)]
@@ -713,7 +724,9 @@ Culturally learned beliefs - Life-harming beliefs - irrational beliefs:
 - There is no alternative. [M. Thatcher]
 - Für jeden Preis.
 - Es war schwierig zu schreiben, deshalb muss es schwierig zu sein, das zu lesen. [Kevlin Henney]
-- You can have everything that you want only if only you just worked a litter harder. [contradiction to RPM and meritocracy]
+- You can have everything that you want only if only you just worked a litter harder. link:https://text.npr.org/908456873[Having and Being Had]
+- *I can't do anything right. / Ich kann nichts ordentlich machen. / Nič neviem urobiť poriadne.*
+- I can't do anything good enough. / Ich kann nichts gut genug machen. / Nič neviem urobiť dosť dobre.
 
 == Resonance Performance Model [RPM]
 
@@ -747,15 +760,21 @@ by Doug Newburg
 * Freude an Programmieren.
 * Zufriedenheit mit meinen Fähigkeiten.
 * Glauben an meine Fähigkeiten.
-* fähige Unfähigkeit / competent incompetence, able disability / schopná neschopnosť link:https://en.wikipedia.org/wiki/Peter_principle#Summary[Peter Principle: Peter's Plateau / Final Placement]
+* fähige Unfähigkeit / competent incompetence, able disability / schopná neschopnosť +
+link:https://en.wikipedia.org/wiki/Peter_principle#Summary[Peter Principle: Peter's Plateau / Final Placement]
 * Schritt für Schritt
   ** wie immer Kompliziert die Aufgabe sein mag, früher oder später komme ich auf die Schritte, und mache die Änderungen, implementiere die Lösung
 * strength in diversity
 * breathing in the not knowing, playing in the not knowing / atment in Ungewisse, spielen in Ungewisse link:[(Yoram Mosenzon - ???)], link:https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=4512[Miki Kashtan - Social Change Series – Liberation in Three Chapters - 1: 1:15:12-1:16:30]
 * Leidenschaft an Experimentieren
 * Begeisterung an Fortschritt
+* emotional power / emotionale Kraft
+* *critical thinking / kritisches Denken / kritické myslenie*
+* Life Long Learner (The Big Tripple-L)
+* ruhige, empathische Authoriät
+* Interesse an Entdeckung und Genuss von meinen selbstzerstörenden, depressiven, Ärger und Gewalt provozierenden Gedanken und Überzeugungen
 
-*2.) Preparation / Vrobereitung*
+*2.) Preparation / Vorbereitung*
 
 * Training
 * Exercise / Übung
@@ -770,7 +789,7 @@ by Doug Newburg
 * Gefühle, erfüllte Bedürfnisse, Erfolge und Ergebnisse bei der Vorbereitung
 * loosing connection with dream feelings / die Verbindung zu meinen Traumgefühlen wird schwächer
 
-*3.5) Obstacle-Preparation Loop / Hindernis-Vorbereitungs-Schleife
+*3.5) Obstacle-Preparation Loop / Hindernis-Vorbereitungs-Schleife*
 
 * Burn-out spiral / Ausbrennungsspirale
 * Lose of interest, energy, meaning, intrinsic motivation
@@ -839,11 +858,13 @@ by Doug Newburg
 ** Mark Fisher - Buch: Capitalist Realism
 ** David Graeber - Bücher: Debt: The First 5000 Years; Bullshit Jobs
 ** Paulo Freire - Buch: Pedagogy of the Oppressed; Critical Pedagogy
+** Sugata Mitra - link:https://en.wikipedia.org/wiki/Minimally_invasive_education[Minimally invasive education]
+  *** Minimally invasive education is a form of learning in which children operate in unsupervised environments.
 ** Samuel P. Oliner, Pearl M. Oliner - Buch: _The Altruistic Personality: Rescuers of Jews in Nazi Europe_
 ** Sepp Holzer - Permakultur; Buch: Zahrada k nakousnuti
 ** Walter Kaufmann - Without Guilt and Justice: From Decidophobia to Autonomy
     *** breaking the concept of "deserve"
-    *** suicidal effects of retributive justice
+    *** suicidal effects and contradictory nature of retributive justice
 ** James Gilligan - Violence: Our Deadly Epidemic and its Causes
 ** Elizabeth M. Elliott - Security, with Care: Restorative Justice and Healthy Societies
 ** Elinor Ostrom - Book: Governing the Commons: The Evolution of Institutions for Collective Action; The Tragedy of the Commons research; Design Principles for Collective Managing of Shared Resources - Arguments for collective ownership, collective decision making, direct democracy, and their mix with private [land] ownership
@@ -1033,6 +1054,7 @@ Play is an activity that has following _[5 - may be more, may be less]_ characte
 
 . *It's freely chosen and self-directed.*
 
+    * Adults do not direct children's activities. [Adults trust children. They presume that they know what they're doing] [40:59]
     * Freedom to change the rules.
     * Freedom to choose the activity.
     * Freedom to quit the activity at any time.
@@ -1097,16 +1119,48 @@ Play is an activity that has following _[5 - may be more, may be less]_ characte
     * When you stop taing risks, you stop living a life. link:???[Cedric Dumont - From Fear to Flow: ???-???]
     
 ---
-    
+
+link:https://soundcloud.com/greatergoodsojai/peter-gray[Peter Gray - Biological Foundations for Self-Directed Education: 38:46-55:03]
+
+* Part of their egalitarian view is an *extraordinarily respect for individual autonomy*. *They don't believe it is proper to tell somebody else what to do.* Even if you do better than somebody else, you see them doing it 'wrong', you don't go and tell them a better way to do it ... you might find some way of demonstrating it ..., by joking, or something to help convey them, help them out, but you don't just go and say "This is how you should do it!" because that would make it seem like you believe you're better than the in some sense. You don't really have the right to tell somebody else how they should do things or what they should do. ... this applies to children as well. They don't believe it's right to tell children what to do. And apparently they don't tell children what to do. +
+This survey of antropologists lead me to three conclusions that I think are really significant regarding the self-directed education: +
+  . *Adults do not direct childrens activities.* +
+    *** *"Hunter-gatherers do not give orders to their children, for example no adult anounces bedtime. At night children remain around adults until they feel tired and fall asleep. Adults do not interfere with their children's lives. They never beat, scold or behave aggresively with them physically or verbally, nor do they offer praise or keep track of their development."* _[I cried at this on Tuesday 3.11.2020]_ ... Praise, if you think about it, we kind of think that praise is good, but criticism is bad, or punishment is bad, but a praise is really just the flipside, so witholding praise... *If you're somebody who praises, the frst time you withhold it, that's punishment*... So they just make the assumption that their kids are gonna be okay, they don't feel like they've gotta direct the kid's behavior by praising what they want them to do, or criticising or punishing them for what they don't want them to do. They just assume that their kids are gonna be okay. +
+     +
+    *"The idea that this is my child or your child does not exist. Deciding what another person should do no matter what his age is outside of ... vocabulary or behavior. There is great interest in what everybody does, but no impulse to influence, let alone coerce anyone.* +
+    *The child's will is his motor force"* +
+    I talked about *will* as one of the basic drives. The hunter-gatherers were people who respected will. They thought that the development, the elaboration of your own will is really, really important so *they would not suppress [they would promote] the child's wilfullness*. +
+     +
+    *Infants and young children are allowed to explore their environments to limits of their physical capacities, and with minimal interference from adults. Thus when a child picks up a hazardous object parents generally leave it to explore the dangers on its own. The child is presumed what it is doing.* +
+    Why don't the parents stop them?
+    **** *Well, that's what he wants to do, you know? Why should I stop them?*
+    **** *That's how children learn. How else is he going to learn? He's otta learn how to use these tools. He's gotta learn how to handle fire, how to handle knives.* And I think, implicitly they understand, the sooner you begin to play with these things, the more these will become extensions of your own body, the more you will be skilled with them. So ... it wouldn't make sense for them to stop their children from doing these things because it's very important that they develop real skill with this. +
+    On the other hand, they are not negligent parents. They hide the poisen darts way, way up high in a tree. That's something you would more than injure yourself with. ... *They just make different judgments about what's tragedy and what isn't. Poking yourself with a poisoned dart is tragedy. Burning yourself, cutting yourself - not tragedy.*
+  . *Children, including teenagers, have essentially unlimited time to play and explore* [45:19]
+    *** "Both, boys and girls had almost all day every day free to explore."
+    *** "Children were free to play nearly all the time. Noone expected children to do serious work until they were in their late teens."
+    *** Children are aged approximately from 4 to 16, 17 years old. From 4 years the adults assume that the child ackquires *common sense*.
+  . *In their exploration and play children ackquire the knowledge in practicing skills that are essential for success in their culture.* [49:12]
+    *** Not because anybody tells them to, but because they're drawn to.
+    *** ... they learn at things to become a competent adult in their culture ...
+    *** playful arguing - *If you're growing up in a culture where decisions are made by consensus, the ability to present your view in a convincing way without getting other people mad is a very important ability.*
+    *** playing at hunting at tracking
+      **** *"Tracking is the origin of science"*: you're bringing data to bear, you're developing hypoteses, you're testing the hypoteses, you're discussing the hypoteses with your colleagues ...
+      
+* Anthropologists told me *"I never have seen a happier, more well-behaved, in the sense of truly well-behaved, consciencious people and children in the culture ..."*
+* *"You know, of all the time I lived there I don't think I've ever heard a child whine."* ... The kids are apparently remarkably self-controlled, self-regulated. And I think it's because they're playing all the time. ... Play is how you learn self-control and regulation because you're always practicing behaving within the rules and getting along with others in the process. 
+
+---
+
 * SDE - Self-Directed Education
   ** *What is education?*
     *** *[Education is] everything that a person learns that enables that person to live a meaningful and satisfying life.* +
-    link:https://soundcloud.com/greatergoodsojai/peter-gray[Peter Gray - Biological Foundations for Self-Directed Education - 4:18-4:36]
+    link:https://soundcloud.com/greatergoodsojai/peter-gray[Peter Gray - Biological Foundations for Self-Directed Education: 4:18-4:36]
   ** *The six optimizing conditions* +
   Self-Directed Education works best when the following conditions are present... +
   [link:https://www.self-directed.org/sde/conditions/[The Six Optimizing Conditions]] +
   [link:https://www.youtube.com/watch?v=G2BAJ_svbhA&feature=youtu.be&t=711[Peter Gray: Mother Nature's Pedagogy: Insights from Evolutionary Psychology: 11:51]] +
-  [link:https://soundcloud.com/greatergoodsojai/peter-gray[Peter Gray - Biological Foundations for Self-Directed Education - 1:18:59]]
+  [link:https://soundcloud.com/greatergoodsojai/peter-gray[Peter Gray - Biological Foundations for Self-Directed Education: 1:18:59]]
     . *The clear understanding that education is children’s responsibility*
       *** *Education is the child's responsibility. When children know that they're responsible for their education, they take that responsibility.*
       *** *When they're led to believe that somebody else is responsible for their education*, and all they have to do is do what they're told, then *they tend to do that in an minimal way*, and they don't tend to take responsibility for their education.
@@ -1142,7 +1196,7 @@ Play is an activity that has following _[5 - may be more, may be less]_ characte
     . *Boosts problem-solving skills*
     . *Encourages entrepreneurship*
     . *Reading happens naturally, often becoming a passion*
-    . *Kids suffer less and kill themselves less*
+    . *_Kids suffer less and kill themselves less_*
       *** We are in an age when we're involved in a horrid social experiment: "What happens if we take play away from children?" "What happens if we take freedom away from them?" So that they're pretty much always either at school, or they're under adult direction outside of school. And they have almost no time to just be children away from adults, figuring out the world themselves, learning how to get along with other people. Much of my research in writing has to do with the fact that children, and young adults too, are suffering these days because of *play deprivation*. [reference to self-directed executive functioning] +
       [link:https://www.montessorieducation.com/podcast/play-peter-gray[MONTESSORI EDUCATION WITH JESSE MCCARTHY - Play | Peter Gray: 6:13-7:08]]
       *** ... I've written a lot about the fact that over the same decades that we have gradually been taking children's freedom away from them and gradually been having them spending more and more time in school, more and more time under adult direction, less and less time playing, exploring, following their own interests, over this period of time that we've seen huge decreases in children's freedom, we've seen huge increases in all sorts of mental disorders in childhood and young adulthood. Huge increases, no comparison. The rates of anxiety, depression, childhood suicide, are way, way greater, than they were in the past. ... *There is in my mind no question that there is a causal link. When you take children's freeedom away from them and when you put them more or less always in situations where they're being judged and evaluated by adults, these are anxiety provoking situations, you are going to produce children who are depressed, anxious and sometimes even suicidal. And that is the tragedy of our times. *Play is not a luxury for children. Play is a necessity.* If we want our children to grow up psychologically and socially healthy, we have to stop being so concerned about testing and academics. *There is no evidence that all of this homework, all of this focus on academia, that even in terms of academic learning there is no evidence they're learning more, than they would be if they were spending half as much time on that.* We need to go in the other direction. We need to reduce the amount of time that children will spend under adult direction, and increase the amount of time that they have to learn how to take care of themselves which they do through play. +
@@ -1152,11 +1206,11 @@ Play is an activity that has following _[5 - may be more, may be less]_ characte
       link:https://www.theatlantic.com/health/archive/2011/10/all-work-and-no-play-why-your-kids-are-more-anxious-depressed/246422/[All Work and No Play: Why Your Kids Are More Anxious, Depressed] +
       link:https://www.youtube.com/watch?v=coMXLy8RBIc&feature=youtu.be&t=172[How Our Schools Thwart Passions | Peter Gray | TEDxAsburyPark: 2:52-4:49]
   ** *Self-Directed Executive Functioning*
-    *** ... [33:46] *those children who had more free time to play and explore, figure out their own things were much better on average in this test of self-directed executive functioning, than those children who were more controlled by adults. Adults may think they put their kids to a lot of classes and teaching them a lot of stuff, in order to make them 'smarter', but in reality, at least by this measure of 'smeartness', those children who had more time to figure things out on their own were scoring higher on this ability ... to think things through, to solve problems* ... +
+    *** ... [33:46] *those children who had more free time to play and explore, figure out their own things were much better on average in this test of self-directed executive functioning, than those children who were more controlled by adults. Adults may think they're putting their kids to a lot of classes and teaching them a lot of stuff, in order to make them 'smarter', but in reality, at least by this measure of 'smartness', those children who had more time to figure things out on their own were scoring higher on this ability ... the ability to think things through, to solve problems* ... +
     [link:https://soundcloud.com/greatergoodsojai/peter-gray[Peter Gray - Biological Foundations for Self-Directed Education: 31:30-34:34]]
     *** We’re interested in how children begin to coordinate those executive functions *to carry something out without being told that they need to do it and when*. link:https://www.dailycamera.com/2014/06/18/cu-boulder-study-kids-with-less-structured-activities-better-at-setting-completing-goals/[CU-Boulder study: Kids with less-structured activities better at setting, completing goals - Jane Barker on Self-Directed Executive Functioning]
     *** ... less-structured activities may give children more self-directed opportunities. From this perspective, *structured time could slow the development of self-directed control*, since adults in such scenarios can provide external cues and reminders about what should happen, and when. link:https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00593/full[Less-structured time in children's daily lives predicts self-directed executive functioning]
-    *** *"Children who do not have the opportunity to control their own actions, to make and follow through on their own decisions, to solve their own problems, and to learn how to follow rules in the course of play grow up feeling that they are not in control of their own lives and fate. They grow up feeling that they are dependent on luck and on the goodwill and whims of others...." [reference to internal locus of control]* link:https://www.theatlantic.com/health/archive/2011/10/all-work-and-no-play-why-your-kids-are-more-anxious-depressed/246422/[All Work and No Play: Why Your Kids Are More Anxious, Depressed]
+    *** *"Children who do not have the opportunity to control their own actions, to make and follow through on their own decisions, to solve their own problems, and to learn how to follow rules in the course of play grow up feeling that they are not in control of their own lives and fate. They grow up feeling that they are dependent on luck and on the goodwill and whims of others...." [reference to internal locus of control and external locus of control]* link:https://www.theatlantic.com/health/archive/2011/10/all-work-and-no-play-why-your-kids-are-more-anxious-depressed/246422/[All Work and No Play: Why Your Kids Are More Anxious, Depressed]
     *** ... *if there is and an adult there solving your problems for you, you're not learning how to do it.* +
     [link:https://www.montessorieducation.com/podcast/play-peter-gray[MONTESSORI EDUCATION WITH JESSE MCCARTHY - Play | Peter Gray: 8:06-8:11]]
     *** Self-Directed Executive Functioning: Advice for getting started with tasks with more ease (Meta Thinking - "What works?" and "Why it works?") +
@@ -1180,9 +1234,20 @@ Play is an activity that has following _[5 - may be more, may be less]_ characte
       **** *I can take responsibility for my own life.*
       **** There's actually a psychological test for clinical questionare that assesses the degree to which people have this internal locus of control. And no surprise, ever since the test was developed, around 1960, the scores on internal locus of control for school age children has been continuously going down. I'm convinced that this is because they're not allowed to take control of their own lives. They're always being controlled. They're always being told what to do. *This sense of ... responsibility for [our] own life. is way more important than the academic things that we learn in school. The academic things you learn in school are easy to learn once you have learned to take control of your own life.*
     *** *External Locus of Control*
-      **** The system, structures, institutions, outside environment influences my behavior.
+      **** control by circumstances outside of the person
+      **** The system, structures, institutions, outside environment control my behavior and shape my reality. link:https://www.youtube.com/watch?v=jVXqB2CnR6s["Nonviolent Communication": Paula Gloria´s Interview with Marshall Rosenberg]
+      **** There is good reason to believe that the rise of external locus of control is causally linked to the rise in anxiety and depression. Clinical researchers have shown repeatedly—with children, adolescents, and adults—that the helpless feelings associated with an external locus of control predispose people for anxiety and depression [20]. *When people believe that they have little or no control over their fate, they become anxious. They think, “Something terrible can happen to me at any time, and I will be unable to do anything about it.” When the anxiety and sense of helplessness become too great, people become depressed.* They feel, “There is no use trying; I’m doomed.” Research has also shown that those with an external locus of control are less likely to take responsibility for their own health, their own futures, and their community than are those with an internal locus [21].
+      **** She refers also to evidence that the pursuit of extrinsic goals at the expense of intrinsic goals correlates with anxiety and depression [30].
+      **** ... *play deprivation* would lead to an external locus
+of control.
+      **** Individuals suffering from anxiety disorders describe losing emotional control as one of their greatest fears [41].
+      **** ... inability to control anger in conflicts with other people, in childhood as well as in adulthood, is part and parcel of narcissists’ inability to make positive, intimate, social connections [43].
+      **** *Perhaps the most straightforward explanation for the rise of depression and anxiety in children and adolescents is that, as a society, we have increasingly forced them into settings that make them unhappy and anxious and have deprived them of the activities that make them happy.*
+      **** *Somehow, as a society, we have come to the conclusion that to protect children from danger and to educate them, we must deprive them of the very activity that makes them happiest and place them for ever more hours in settings where they are more or less continually directed and evaluated by adults, settings almost designed to produce anxiety and depression. If we wish children to be happy and to grow up to become socially and emotionally fulfilled and competent adults, we must provide them, once again, with opportunities to spend many hours per day playing freely with friends.*
       **** [link:https://www.montessorieducation.com/podcast/play-peter-gray[MONTESSORI EDUCATION WITH JESSE MCCARTHY - Play | Peter Gray: 39:25-42:17]]
-      
+      **** link:https://www.researchgate.net/publication/265449180_The_Decline_of_Play_and_the_Rise_of_Psychopathology_in_Children_and_Adolescents[The Decline of Play and the Rise of Psychopathology in Children and Adolescents]
+      **** link:https://www.mccc.edu/~jenningh/Courses/documents/Rotter-locusofcontrolhandout.pdf[Rotter's Locus of Control Scale]
+
 And you play at [self-chosen] activities until you become good at them. [link:https://soundcloud.com/greatergoodsojai/peter-gray[Peter Gray - Biological Foundations for Self-Directed Education: 53:15-53-20]]
 
 == Nonviolent Communication (NVC) / Gewaltfreie Kommunikation (GFK) / Nenásilná Komunikácia
@@ -1193,6 +1258,8 @@ Nonviolent communication is a way of
 * thinking (emotional intelligence),
 * communication (communication skills, dialogue) and
 * using power (means of influence, leadership, management, parenting, pedagogy)
+
+that is connected to life and stimulates peace.
 
 Sources: +
 link:https://www.youtube.com/watch?v=jArsTeP66FE&feature=youtu.be&t=614[Self Empathy: 10:14-11:16] +
@@ -1217,6 +1284,7 @@ Source: link:???[M.B. Rosenberg - Erziehung zur Gewalt]
 
 . Educate people to use *jackal language* link:???[(CNVC Training Session 1 - ??? - ???)]
 * Jackal language = Static language
+** Language of obedience to authority
 ** A language of domination, Punishment (criticism, blame), Rewards (praise, compliments)
 ** A language that is
 *** disconnected from life [i.e. feelings and needs] and
@@ -1224,7 +1292,7 @@ Source: link:???[M.B. Rosenberg - Erziehung zur Gewalt]
 in order to maintain domination structures.
 ** A language that makes it difficult to resolve differences. link:???[NVC Denmark Workshop, CNVC Session 1]
 
-* Educate people to think what's wrong with them. Educate people to think what they are, so that they in each moment wonder whether they are right or wrong, good or bad, normal or abnormal, appropriate or inappropriate etc. +
+* Educate people to think what's wrong with them. Educate people to think what they are, so that they in each moment wonder whether they are right or wrong, good or bad, normal or abnormal, appropriate or inappropriate [inferior, valuable] etc. +
 Judge yourself with moralistic judgements.
 
 * Educate people to think what other people are. Educate people to think what's wrong with other people. Whether other people are normal or abnormal, kind or unkind, responsible or irresponsible, selfish or generous, lazy or hard-working etc. +
@@ -1284,7 +1352,7 @@ They do what they're told by the people above. They do what their parents want. 
 
 The education to violence is just a temporary thing. Although it takes for approximately 5000 years. By the paleontologist Pierre Teilhard de Chardin, we are gradually returning back to the ways of living that are more natural.
 
-Everything that we do out of penitence or self-hate, fear of punishment, desire for reward, concept of deserve, duty, obligation, submission, rebellion, giving in or self-sacrifice, buying love, guilt, shame, anger, depression, everybody pays for it. Therefore *don't do things for other people. Do things only when you do so willingly to enrich your and other people's life.* If you do things from the energy that damages life, it will affect commitment to values that serve life, care about other people, depth of thinking, interest in learning, preference to challenge link:???[M.B. Rosenberg] link:???[tilt parenting - alfie kohn], link:???[alfie kohn ofjcc]
+Everything that we do out of penitence or self-hate, fear of punishment, desire for reward, concept of deserve, duty, obligation, submission, rebellion, giving in or self-sacrifice, buying love, guilt, shame, anger, depression, everybody pays for it. Therefore *don't do things for other people. Do things only when you do so willingly to enrich your and other people's life.* If you do things from the energy that damages life, it will affect commitment to values that serve life, care about other people, depth of thinking, interest in learning, preference to challenge link:???[M.B. Rosenberg] link:???[tilt parenting - alfie kohn], link:https://www.youtube.com/watch?v=x4qRZt0VCak[Alfie Kohn at the OFJCC: Performance vs. Learning - The Costs of Overemphasizing Achievement]
 
 == Fascism
 
@@ -1453,7 +1521,7 @@ link:https://app.oncoursesystems.com/school/webpage/documents/GG6ffVDA49fQG2fTQH
 
 == Quotes
 
-plain and paraphrased
+plain or paraphrased
 
 *The Montessori Method*
 
@@ -1552,23 +1620,207 @@ In 1945 Maria Montessori started to revive and reestablish her education in pres
   ** 17:32-17:53 https://www.youtube.com/watch?v=x4qRZt0VCak&feature=youtu.be&t=1051
     *** The ... psychoanalyst Erich Fromm said: *"Few parents have the courage to care more about their children happiness, than about their children success."* And we are, [the kids] are paying the price for parents preoccupied with conventional success. [Erich Fromm; Alfie Kohn - Unconditional Parenting: Moving from Rewards and Punishments to Love and Reason: ch. 5 - "Pushed to succeed", p. 75]
   ** 21:46-22:19 https://www.youtube.com/watch?v=x4qRZt0VCak&feature=youtu.be&t=1316
-    *** Furthermore, the seventh graders who reported that their parents placed a lot of emphasis on academic achievement, always justifying it as "giving them more options" and "being in their interest", the kids interest, those kids were likely to show signs of distress and "maladaptive perfectionism".
-  ** 27:00-30:04
-    *** 
-  ** 30:04-31:18- https://www.youtube.com/watch?v=x4qRZt0VCak&feature=youtu.be&t=1804
-    *** intrinsic [own] and extrinsic [external] motivation
+    *** Furthermore, *the seventh graders who reported that their parents placed a lot of emphasis on academic achievement*, always justifying it as "giving them more options" and "being in their interest", the kids interest, *those kids were likely to show signs of distress and "maladaptive perfectionism".*
+  ** 25:31-26:09
+    *** When you listen to these *"BIRG" (link:https://en.wikipedia.org/wiki/Basking_in_reflected_glory[Basking in Reflected Glory])*, these boastful parents, you start to get the sense that in many cases the accomplishments they're talking about on the part of their children didn't exactly happen on their own [spontaneously - reference to Montessori Method], but were sort of squeezed out of them by a parent who has hovering a little too close, pushing a little too hard, and maybe loving in a way that is problematic. *You can't help wondering, whether those children would still be loved if the kids stopped being so damned impressive.*
+  ** 26:10-
+    ***  *It is not enough to love our children.* +
+    *We have to love them unconditionaly* which is to say *for who they are, not for what they do.* +
+    *We have to love for no damn good reason [Deborah Meier]*
+    *** That is ... a very difficult posture to strike in a society wheere most advice we get in parenting is to be a *conditional parent*. *To take things that kids like and use them as rewards, witholding them and offering them strategically in order to manipulate their behavior.* And *it's not* just *desert* I'm talking about *or money. It's affection ... and care.* +
+    *Care that has to be earned isn't worthy of being called care.* +
+    That's what praise it's about. Praise saying "Good job!" takes our excitement ... and attention, and says "You have to jump through these hoop to get it." ["And if you fail, then you don't *deserve* my care." That's probably what's behind this belief.]
+    *** *The alternative to praise isn't criticism or chilly silence. The alternative to praise is love that is continuous [and unconditional] where they never feel "I have to do a good job. There are strings attached to my parents excitement about me. Where I have to do well in school, or in sports [or in music], or i have to be 'well behaved' (which our society values apparently more than any of the adjectives you came up with. Which is 'not a pain in the ass to me')"* Our highest icona, a good child, somebody who's easy to care for, not a nusance in public.
+  ** 28:12-30:04
+    *** Whatever the conditions. [People] start to internalize what Carl Rogers half a century ago called *conditions of worth*. +
+    *"I'm only valuable when I'm [doing certain things certain way, or looking a certain way.] funny, thin, smart, or did something my parents can brag to their friends about"*. But it doesn't matter what the condition is, *it matters that there are conditions at all.*
+    *** *What happens too is that kids who feel that they were conditionaly parented feel as if they're being controlled by remote controll. That they are unable to take real pleasure and pride in their own accomplishments.* [reference to Impostor Syndrome, Internal locus of control, External locus of control]
+  ** 30:05-33:05- https://www.youtube.com/watch?v=x4qRZt0VCak&feature=youtu.be&t=1804
+    *** intrinsic [own] and extrinsic [outside] motivation
+      **** *Intrinsic motivation* - you do something because you find it gratifying in its own right [because you like how you feel when you do an activity]
+      **** *Extrinsic motivation* - you do something to get a reward, a sticker, a gold star, a pizza or an ice cream, a dollar or a patronizing pat on a head: "Good job!"
+    *** [Intrinsic and extrinsic motivation] are not only different, and not only differently valuable, which is to say that *intrinsic is more powerful than extrinsic*. *They tend to pull in opposite directions.*
+    *** *
     *** *The more you reward people for doing something, the more they tend to lose interest in whatever they had to do to get the reward.*
-    *** *If I say something like that to her [if I praise her], the research shows, she's likely to be a little more selfish as a result of that interaction because she's learned that the reason to help Diana is not how it makes Diana feel [or what needs the behavior fulfilled], but she's gonna get something out of it! She's been taught that the purpose of helping is self-interest. ... The extrinsic motivator of the verbal reward reduced the intrinsic commitment to help. ... Now they've learned that books are a tedious prerequisite to getting the good thing. ... What did you just teach. Two words: Math sucks. Kid learns, if they have to reward me to do this, it must be something I wouldn't want to do!*
+    *** *
+    *** *If I say something like that to her [if I praise her], the research shows, she's likely to be a little more selfish as a result of that interaction because she's learned that the reason to help [somebody else] is not how it makes [somebody else] feel [or what needs the behavior fulfilled], but she's gonna get something out of it! She's been taught that the purpose of helping is self-interest.* ... *The extrinsic* motivator of the verbal reward *reduced the intrinsic commitment* to help. ... *If you want to destroy children's interest in [something they like doing], give them a prize for that activity, give them a pizza, give them an 'A' [give them a reward] because now they've learned that [the activity they enjoy doing] is a tedious prerequisite to getting the good thing.* ... Now they've learned that books are a tedious prerequisite to getting the good thing. ... What did you just teach? Two words: Math sucks. Kid learns, *if they have to reward me to do this, it must be something I wouldn't want to do!*
   ** 34:20-35:33 https://www.youtube.com/watch?v=x4qRZt0VCak&feature=youtu.be&t=2060
-    *** Internally, yes. Intrinsically, doubtful. We're talking about internally motivated kids who are workaholics in training [fertile soil for burnout]. Many of them are joyless. Many of them are in real trouble. But because they good grades and good test scores, the parents are pleased instead of looking for help. Internal is not sufficient. *Internalizing self-discipline is often toxic. Grit oftel leads kids not to give up when they should let go. ... Grit [is] taking over our schools calling our attention away from whether the kids have been given something to do worth doing! The people focusing on grit and self-regulation are not fixing the schools [or institutions] to make them better [or making them serve life of more people], they're fixing the kids to make them conform to whatever they're told to do! Qui bono? ... Who benefits from focusing on self-regulation and grit, and fixing the kid?* The people who now don't make the schools worth going to [and must obey laws, rules and regulations that interfere with learning and create a hostile environment for interest in learning, depth of thinking and preference for challenge, altruism, helpfulness, mindfulness, etc.].
+    *** Internally, yes. Intrinsically, doubtful. We're talking about internally motivated kids who are workaholics in training [fertile soil for burnout]. Many of them are joyless. Many of them are in real trouble. But because they good grades and good test scores, the parents are pleased instead of looking for help. Internal is not sufficient. *Internalizing self-discipline is often toxic! Grit often leads kids not to give up when they should let go. ... Grit [is] taking over our schools calling our attention away from whether the kids have been given something to do worth doing! The people focusing on grit and self-regulation are not fixing the schools [or institutions and systems] to make them better [or making them serve life of more people], they're fixing the kids to make them conform to whatever they're told to do! Qui bono? ... Who benefits from focusing on self-regulation and grit, and fixing the kid?* The people who now don't make the schools worth going to [and must obey laws, rules and regulations that interfere with learning and create a hostile environment for interest in learning, depth of thinking and preference for challenge, altruism, helpfulness, mindfulness, etc.] *because the problem has been now individualized [individual solutions for systemic problem are like a band-aid on the leg - we're treating the symptoms of individuals, not the cause of the system]*.
+  ** 35:40-36:09
+    *** *[Parenting with the consciousness] that we love [our children] no matter what!* Becuse [people] don't need to have love turned into a commodity, a trophy, something they have to *earn*, as if it was an economic transaction. [Parenting as an economic transaction]
+  ** 36:10-39:00
+    *** letter from a woman who was conditionally parented
+    *** "... their parenting style is very much what you call the 'doing to' kind, it wasn't much working with. Feelings and emotional needs were not valued or seldom even acknowledged ... but their push, their subtle message that *I'm not ok for them as I am*, coupled with their *denial of my emotional needs*, made a profound impact on my fundamental beliefs about my self-worth and lovability. And feelings of grief, despair and dread are what I'm left with. ... Why did I pick up your book. *Because I have to learn to reparent myself.*"
+  ** 39:01-39:25
+    *** Were you listening to that as the adult child of parents, or a the parent of children. It's interesting to flip the perspectives, and to move to the latter to ask *"Is it possible that something I'm doing inadvertently will lead my kids to feel this way?"*
+  ** 40:48-40:57
+    *** ... there are people still desperately trying to win the affection of parents who are already ... dead.
+  ** 41:44-42:00
+    *** I'm talking about better parenting that communicates unconditional love for them. Because the conditionality helps to explain ... why so many kids are suffering.
+  ** 42:17-43:27
+    *** *The schools doesn't challenge the structures that are doing this to the kids. Like grit, they place the blame and the responsibility squarely on the individual kid's shoulders for how you can fix the problem.*
+  ** 43:37-44:46
+    *** ... the emotional and social costs ... of these kind of characterstics of high pressured schools, with grades and tests ... and all traditional teaching in which kids have almost nothing to say about their own learning. +
+     +
+    *[People] learn to make good decisions by making decisions*, not by following directions [like sheep]. +
+     +
+    One of the things that is so stressful about traditional schools including those that are extremely high pressured and competitive, is that *students have almost nothing to say*. In fact the average kindergardener has more say about what she does during the day, than the average high schooler, despite the fact that the kid who's ten years older has more life experience and ability to make responsible decisions. +
+     +
+    *The average american high school is excellent preparation for the real world, assuming you happen to live in a totalitarian society.*
+  ** 45:46-49:21
+    *** Intrinsic motivation suffers ... in particular because of this 'preparation H' mentality [preparation for top ranked colleges - Ivy League - reference to Daniel Markovits - Meritocracy] that starts at a very early age. *The thing that's even more toxic than the pressure to succeed, is the pressure to outperform everyone else.* +
+    *If you want to double the extent all of the harms, ... I would set up a situation where it's not just about achievement. It's about victory.* Where [people] are explicitly pitted against one another [reference to Social Darwinism - the opposite of Mutual Aid - Peter Kropotkin], and they're not just given rewards. *They're given something much more dangerous for everyone concerned.* *Awards.* And *awards is a reward that has been made artificially scarce.* So when I get one, you all can't. Or at least are much less likely to. *Now it is in my interest to hope for the worst for everyone around me. [That's where competition for 'scarce' resources lead.]* [Environments] that are not only pressure coockers, but competitive pressure coockers, do the additional damage of teaching [people] the overwhelming message that they learn: +
+     +
+    *Other people are potential obstacles to your success.* +
+     +
+    That is a disfunctional message based on the research showing that collaboration is actually much more successful even in conventional terms, in most environments, than working alone, *let alone working against everybody else*. +
+    But when [people] start to elbow each other away, they become *counterempathic* [Schadenfreude]. +
+    Social psychologists find that when they encourage people to compete against other people, they start +
+    *to feel pleasure when the other person fails or is sad*, and +
+    *to feel sad when the other person succeeds or is pleasurable*. +
+    That's not [only] a matter of attitude. That's [also] a matter of structure. *Putting ordinary people into competitive situation undermines empathy.* ...  +
+    [48:32] *Living around someone who issuffering from a psychological disability called 'Needing to beat people to feel good about themself' is enough to whop off to the [other people] who learn the message* +
+    *'I don't wanna help other people. That might hurt me!* +
+    The problem is not in the neurosis of the individual or the lack of charity. The problem is with the fact that all of our games in the society [and to some extent our economic system] are set up, so that I can succeed only if you fail. Or we need to cooperate only for the purpose of trouncing that group of people who are cooperating. Such that cooperation becomes merely a means, not an end.
+  ** 49:22-53:35
+    *** Educational psychologists have found that *there's an enourmous difference between getting [people] to focus ... on their performance, their achievement, how well they're doing, and getting them to focus on the learning itself, which is to say, what the're doing.*
+    *** There's a big difference between a kid that comes in the morning in school who's question is: +
+     +
+    "Is there a different way to solve this math problem, besides the way the teacher showed us to get the right answer?" +
+    "Why did the character in that story we've read leave home at the end when he didn't seem to be unhappy?" +
+    "Is there a way to design an experiment that would prove whether what we're talking about is true?" +
+     +
+    and on the other hand a kid who comes in in a morning who's goal is: +
+     +
+    "Can I get an A?" +
+    "Am I gonna get a high test score?" +
+    "Is the teacher gonna say 'Good job!'?" +
+     +
+    Those are completely different sets of goals. One set is about learning, and the other set is about achievement. +
+    *** If your kid reads something, are you focused as a parent on *what* the kid is reading, or *how well* the kid is reading?
+    *** If you're a teacher, is your instructional strategy aligned with your goal? [Contradictions]
+    *** [Your kid] writes an essay in school and talks about it at dinner. What question does the parent ask? A parent could ask: +
+     +
+    "How did you decide what will you write about?" assuming you're lucky enough to have a ... teacher who lets you decide. +
+    "Did you already know what conclusion you'd come to at the end before you started writing, or did the act of writing kind of changed your mind about this?" +
+     +
+    Those are interesting, generative questions. But ... there are other parents who's first question is: +
+     +
+    "What did you get?" +
+    "What did the teacher think?" +
+    "Is it better that the essay that you wrote couple of months ago?" +
+     +
+    Those are deeply anti-intelectual questions. *But parents can't ask "What did you get on it?" if the schools know enough to stop giving grades.* +
+    *The teachers have to stop blaming the parents when the structure drives the parental as well as the child's behavior in uniquely and uniformly destructive directions.*
+  ** 54:10-1:09:02
+    *** ... 'bad things' ... tend to happen when you get [people] too focused on how well they're doing. This is not an argument against excellence [reference to Excellence vs Superiority - Daniel Markovits, Meritocracy]. It's an argument about what happens when you overemphasize achievement in [someone's] head based on the structures in the classroom in schools [or workplaces, or homes]. Here are some of the things that we find tend to happen when kids get too focused on achievement:
+    . *[People] tend to become less interested in the learning itself* [55:19]
+      **** LLL - The Big Tripple-L - Life Long Learner
+      **** The goal of education is to enable individuals to continue their education [John Dewey (1859-1952)]
+      **** ... or paraphrased: The goal of education is more education.
+      **** ... *the more you get [people] focused on performing well in school, the less likely they are [to focus on what they're learning] to get a kick out of playing with words, or numbers, or ideas.* +
+      *They're less likely to get interested in a whole discipline, like writing or science.* +
+      *They're likely to find the school itself as something they have to get through, because now the point isn't to make sense of stuff. It's to get better at it. Two completely different frames of mind.*
+    . *How [people] explain their success or failure* [56:54]
+      **** *When you get [people] focused on achievement, they tend to attribute their success or failure to factors they believe are outside their control, like ability [or luck]* [1:02:30-1:02:46]
+      **** ... but if you know anything about educational psychology, you know that *what leads to future success, the best [most accurate] predictor, is not earlier success. It's the reason [somebody] thinks he was successful.*
+      **** *This is example ... of how we have to stop focusing on behavior that can be seen and measured.* [An example how insignificant the behavior of somebody else tells us about his motives.]
+      **** *Kohn's law* +
+      *The more you hear educator or parenting advisors use the word behavior, the less valuable their advice is likely to be.* +
+      link:???[??? TILT parenting? source of Kohn's law]+
+      [Perhaps] because they are still in a twirl of a totally repudiated field of psychology associated with the late Boris Frederic Skinner B. F. Skinner, man who did most of his research on rodents and pigeons, wrote most of his books about people. *The focus is on the stuff you can see and measure. [Data!] But that's not what tends to drive what happens. It's the needs, the values, the motives that underlie the behaviors that are under the surface.* +
+      *What matters for [somebody's] success is not how well he's doing in school, it's WHY he thinks he's doing well in school.* [reference to Locus of control, SDE] +
+      ... *not everybody who tries hard and makes an effort does so because they like the subject. This is why the idea of effort as opposed to ability, is another example of our fixation on behavior. What matters isn't just how much effort [people] put in, it's WHY they decided to make the effort.* +
+      *If the kid sitting next to him put in at least as much effort because she's desperate for her mum's love, or affraid of being punished, that's not the same kind of effort even though the behavior is the same.* [reference to Epigenetics - genes of identical twins are the same, but one of them becomes an illness and the other doesn't - How outside factors influence human biology.] +
+      So be vary of people who just talk about getting [people] to develop a 'growth mindset' where they think everything is within their capability. *'Cause that's just about effort, regardless of what's going on in [somebody's] head, and whether it's worth making an effort at!*
+      **** [Bernard Weiner] *For any given task somebody might explain his or her success by saying "I got successful [or I failed] because of:* +
+      *effort* [I learned really hard because I liked the subject; I'm able to do what I need to learn this stuff on my own without anybody telling me what to do or how to do it [reference to Internal locus of control] / I didn't study] +
+      *task difficulty* [The task was easy / The task was hard] +
+      *ability* [I have talent for this / I can't do anything right; I'm not cut out for this [reference to External locus of control]] +
+      *luck* [I got lucky / It wasn't my day]
+      **** [now jump to the beginning of this point for the conclusion]
+    . *[People] tend to pick the easiest possible task if given a choice* [1:02:57]
+      **** ... *when you tell that what matters is "Being successful!"*
+      **** What she knew that I didn't was *"When you told me you think I can get a better grade in here, you were saying 'Pssst! This is not about intellectual risk taking [reference to Cedric Dumont - From Fear to Flow]. It's about avoiding risks. Of course I'm picking the shortest book. Of course I'm picking a project on a topic I'm already familiar with where I know I can be successful. Because all you care about is success!'"* +
+      *Any mother, father, any principal or teacher who talks about kid's success especially on a report card, and that be important, is actively telling kids to avoid things that are challenging.* +
+      *And then when the kids do that [when they do pick the easiest possible task] we blame them for not having sufficient grit or motivation. We say: "This kid needs to be more motivated to push himself to try a little harder."* +
+      *Yea, maybe the kid will try that, when we get rid of the structural barriers to doing that. Including, but not limited to grades.*
+    . *[People] tend to fall apart when they stop succeeding* [1:04:32]
+      **** [When you] meet a kid who always gets a 100, and then one day gets a 92 and *the world has ended!* *And our tendency is, once again, to think the problem is rooted in the kids head - attitudes.* +
+      *Maladaptive perfectionism.* +
+      We say: "Oh, c'mon honey. Don't be so hard on yourself. A 92 is still a very good grade." (We're trying to say exactly the wrong thing: trying to be sympathetic [instead of empathetic - reference to NVC].) ERRR! +
+      or: "I'm sure you get a 100 next week." ERRR! +
+      What we're saying is a strong, bright line with "OK" on the top, and "not OK" on the bottom. And you made the mistake, you're such a perfectionist, of drawing that line too high. +
+      Psychological research says *the problem is the line itself at its salient, not where we draw it.* +
+      Most of the people who talk proudly about "raising the bar" in American education. A phrase, by the way, I'm mostly sure it was derived from the world of show horses, which tells you pretty much everything you need to know about the people who talk this way about children. People who have created this *cult of rigor*, *rigorous education*, are *people who are talking about higher standards, are often turning kids off of learning, and discouraging them from challenging themselves from things that are harder to do.* +
+       +
+      ... *when you get rid of all rewards, [people] tend to spontaneously pick harder things to do. Something just beyond what they're comfortably capable of doing.* +
+       +
+      *So if they're not doing that because they're lazy. It's because they're rational.* And they fall apart when they suddelny stop performing. And some of those kids do it after really becoming the big fish in a small high school pond, and they get to a smart college where everybody is smart, and they fall apart. They implode. +
+      Other kids get this message "I'm not cut out for this." when they're 6 years old, and it's a tragedy.
+    . *The more you overemphasize achievement, the more damage you do to kid's social environments* [1:07:13]
+      **** ... *because even if it's not explicitly competitive, you have to fail in order for me to succeed, nevertheless the emphasis is not on helping each other, but instead the focus is on doing better than each other.* [reference to Mutual Aid - Peter Kropotkin]
+    . *The more you overemphasize achievement, the less successful [people] are at meaningful indicators of intellecutal proficiency* [1:07:36]
+      **** ... because I have to admit that if you just give multiple choice tests of memorized how many forgettable facts you crammed into short-term memory, some of the kids with the strong achievement orientation will do well on those tests. But *the more meaningful the measures of learning, the more it turns out almost like a Zen paradox that the [people] who are pushed hardest to succeed often are least successful.* Especially at being able to transfer or generalize something about a lesson, and apply it to a new kind of problem. [reference to Generalization in neural networks; my problems with speed of learning: learning rate - also a reference to neural networks]
+      **** thinking in a more superficial way
+  ** 1:09:03-1:13:56
+    *** What are the causes in schools? +
+    Grades [or other kind of dimensional reduction, like points, credits (ECTS), titles, money]
+    *** link:https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=1350[Marshall Rosenberg - Making Life Wonderful 2/4 - Nonviolent Communication NVC: 22:30-25:29]
+      **** *What about grades? The only purpose I see in grades is to maintain a cast system in our society and to hide it as a meritocracy or democracy.*
+      **** "... also, research shows that *the more grades are given the more students lose perspective on what they're learning.* So *then they learn not for the value of what they're learning, but for the extrinsic rewards*", which of course is the *purpose in the jackal culture*. *You want people to get used to working for extrinsic rewards, things like salaries [points, grades, credits, titles, etc. so they'll be able to pollute the environment and do anything else as long as the boss tells them to do it. And then they get their rewards. So that's what you want to train them for in school.*
+      **** ... *"We have to have accountability!"* and I said "Now that I share the universitie's desire at that level. *We do need to know, whether people have learned, what ... the course involved.* ... *I will give you at the end of the course an instruction, a measurable assessment, of what students could do at the end that they couldn't do at the beginning.* I this respect I'm far more accountable, than a teacher who gives you a C or D. You don't know what that student could do? You will know what each of my students can do at the end what they couldn't do at the beginning." So because of that, I was being more accountable.
+    *** I wanna ask you, what about schools and classrooms? Would you think quite logically leads to students to be focused constantly on how well they're doing, besides just grades?
+      **** [1:10:00-1:11:05] So *"one size fits all" instruction. Why does everybody read the same book? Why in kindergarden ... are kids doing the same thing? Why do teachers prepare a syllabus in high school or college for kids that they've never met?* +
+      *What they're saying is: "Who you are as my students is irrelevant! I've already planned this course. I don't care who you are or what interests you" which might lead to this focus ... just on achievement [instead of learning]. Process of elimination.*
+      **** link:https://www.youtube.com/watch?v=G2BAJ_svbhA&feature=youtu.be&t=955[Peter Gray: Mother Nature's Pedagogy: Insights from Evolutionary Psychology: 15:55-17:07] +
+      *I'm absolutely sure that some day people are going to look back at us now, and they're going to say: "What were those people thinking? Why on earth did they ever believe that coersion is essential for education? That's like believing you have to force people to eat, or you have to force people to breathe. Why on earth did they ever think that standardization so that people regardless of their interest, regardless of their predilections, should all learn the same thing? In the same way? Be tested by the same test? What kind of crazy idea is that? I'm sure that we'll reach the day that people will look back and say that. I hope we reach that day sooner rather than later. I would like to see it come in my lifetime. And I hope that some of you, maybe really all of you, I hope, will play a role in bringing that time about before too long."* [I cried at this at Fri Nov  6 09:01:39 PM CET 2020]
+  ** 1:13:57-1:21:53
+    *** There are two key underlying premises I've identified that I think drive this overachievement fanaticism:
+    . *BGUTI - "Better Get Used To It"* [acronym]
+      **** Effects of presence of grades [on average]:
+        . Less interest in the task
+        . If given a choice pick the easiest possible task
+        . Think in a more supreficial fashion +
+      **** To the best of my knowledge, every study that has ever looked at the effect of grades, as opposoed to no grades, has found a *diminuition in intrinsic motivation to learn*. The research is very clear. *This research goes from early elementary to university.* +
+       +
+      *There is litelary no excuse for turning what [people] do into a letter or number.* [1:15:51]
+    . *"Harder is better" - The Cult of Rigor* [1:18:05]
+      **** assumption or prejudice that a more difficult task, test or teacher is necessarily a higher quality
+      **** If it is too hard, [I feel frustrated and discouraged]. If it is too easy, [I feel bored]. *Optimal difficulty is not the same thing as maximum difficulty.*
+      **** Learning vs Rigor [1:21:12-1:21:45]
+      **** It's a structural problem. It's not a problem with [people] who push themselves too hard. And the schools [and companies] who matter, take that responsibility for [the environment they create for their members in order to support their learning, well-being and responsibility].
+  ** 1:21:54-1:23:51
+    *** *Tests*
+      **** measure what matters least. [reference to Meritocracy, Daniel Markovits]
+      **** [Terific teachers] by various criteria have in common that they almost never gave tests because:
+        . Tests don't measure stuff that matters [interest in learning, depth of thinking, prefernce for challenge] +
+        If the teacher needs to give a test, the teacher needs help in learning how to teach. +
+        . Tests [tend] create more anxiety and this kind of achievement pressure.
+  ** 1:23:51-1:28:50
+    *** *Homework*
+      **** No study, to the best of my knowledge, has ever found any benefit to any kind of homework below the highschool level. And increasingly newer studies are raising questions about, wheter homework is necessary even in high school.
+      **** The arguments behind homework:
+        . BGUTI - "They're going to destroy your evening in the high school, start making you miserable right now!"
+        . "It teaches self-discipline, independence, responsibility, good work habits." - An urban myth
+    *** Homework is literally all pain and no gain [mainly in the elemantary schools]. *What it [is likely to] produce is frustration, exhaustion, family conflict and nagging, less time for [people] to do stuff they care about when they get home, and lost of interest.* +
+     +
+    *Homework may be the greatest extinguisher of curiosity yet invented.*
+    *** "When I stopped giving homework, a lot of the kids started to coming in and showing me articles for the newspaper they've seen that recapitulated some of the themes from the history we've been learning. That never happened when I gave them homework." It wasn't just disadvantageous. *It was intellectually advantageous to get rid of homework.*
+    *** *6 hour of academics is [likely to be] enough*
+    *** *What right does the school have to interfere with what family is doing during family time through homework?* except in very rare occasions
+ ** 1:28:50-1:33:53
+  *** Talk to your kids [and other people] ... about what they are learning [or working] ..., never how well their teacher [or boss] thinks they're learning it [or working].
+  *** *The absence of grades and indifference towards grades increased the engagement in what we're learning.* ... *The good you've done by removing grades [or points and other measures] from the occasion, and from the trust you've shown to the [poeple] far outweights the advantages of grades [which are advantageous mainly for the teachers in the process of evaluation and elimination].*
 
-* ... because if I persuade you that something ... you're doing with kids is getting in the way, not what I happen to like, but of your own long-term goals for other people then either you have to rethink the practice or you have to rethink the outcome.
-(Alfie Kohn at the OFJCC - Performance vs. Learning - The Costs of Overemphasizing Achievement: 10:45-11:04)
+* ... because if I persuade you that something ... you're doing with kids is getting in the way, not what I happen to like, but of your own long-term goals for other people then either you have to rethink the practice or you have to rethink the outcome. +
+link:https://www.youtube.com/watch?v=x4qRZt0VCak[Alfie Kohn at the OFJCC: Performance vs. Learning - The Costs of Overemphasizing Achievement: 10:45-11:04]
 
-* The more you reward people for doing something, the more they tend to lose interest for the activity that they're being rewarded for.
+* *The more you reward people for doing something, the more they tend to lose interest for the activity that they're being rewarded for.*
 
 * link:https://www.alfiekohn.org/article/whos-cheating/[Who’s Cheating Whom?]
-  ** when teachers don’t seem to have a real connection with their students, or when they don’t seem to care much about them, students are more inclined to cheat. link:https://www.alfiekohn.org/article/whos-cheating/[5: See the research conducted with undergraduates and high school students by Gregory Schraw, Lori Olafson, Fred Kuch, Trish Lehman, Stephen Lehman, and Matthew T. McCrudden, “Interest and Academic Cheating,” in Psychology of Academic Cheating, edited by Eric M. Anderman and Tamera B. Murdock (Burlington, MA: Elsevier Academic Press, 2007)]
+  ** when teachers don’t seem to have a real connection with their students, or when they don’t seem to care much about them, students are more inclined to cheat. +
+  link:https://www.alfiekohn.org/article/whos-cheating/[5: See the research conducted with undergraduates and high school students by Gregory Schraw, Lori Olafson, Fred Kuch, Trish Lehman, Stephen Lehman, and Matthew T. McCrudden, “Interest and Academic Cheating,” in Psychology of Academic Cheating, edited by Eric M. Anderman and Tamera B. Murdock (Burlington, MA: Elsevier Academic Press, 2007)]
   ** Grades, however, are just the most common manifestation of a broader tendency on the part of schools to value product more than process, results more than discovery, achievement more than learning.   If students are led to focus on how well they’re doing more than on what they’re doing, they may do whatever they think is necessary to make it look as though they’re succeeding. Thus, a recent study of more than 300 students in two California high schools confirmed that the more classrooms drew attention to students’ academic performance, the more students “observed and engaged in various types of cheating.”[11]
   ** There was less cheating when [the teachers] made it clear that the point was to enjoy the learning, when understanding mattered more than memorizing, and when mistakes were accepted as a natural result of exploration.[13] link:https://www.alfiekohn.org/article/whos-cheating/[Alfie Kohn - Who's Cheating Whom, paragraph 11], link:https://montessoritraining.blogspot.com/2013/09/montessoris-three-levels-of-obedience.html[Mistakes - Montessori]
   ** How, then, do students develop certain goals?  What leads them to display an interest in what they’re doing as opposed to a concern about how well they’re doing it? ... To lose sight of that fact, that environment [dataset for neural network] is decisive in determining how pervasive cheating will be [15], by condemning the kids who cheat and ignoring the context is to fall into the trap that Lee Ross warned us about, of the trap of fundamental attribution error.
@@ -1580,7 +1832,12 @@ In 1945 Maria Montessori started to revive and reestablish her education in pres
 
 * link:https://soundcloud.com/user-350469784/interviu-alfie-kohn-14-may-2016[Interviu Alfie Kohn - 14 MAY 2016]
   ** 0:23-2:26
-    *** Reflecting on "good" education and parenting with question "What are your long term goals for your students and children?" Then we work backwards from the answers on this question, which sets goals for the "good" education and parenting. And the best kind of education is not certainly not one, that sets kids against other kids in a competition for medals and other artificially scarce distinctions that leads them to view everyone else as obstacles to their own success. A "good" education is not one that raises scores on exams that are merely about cramming forgettable facts into short term memory. *A good school is one where the students have a lot to say about the curriculum and the pedagogy which means what they're being taught and how they're being taught. A really good school is one that's* not just *about* memorizing facts and practicing skills, but *understanding ideas from inside out. A really good school is one where students feel a part of a caring community.* They don't feel alone or lonely, or worse, set against others in a contest.
+    *** Reflecting on "good" education and parenting with question "What are your long term goals for your students and children?" Then we work backwards from the answers on this question, which sets goals for the "good" education and parenting. And the best kind of education is not certainly not one, that sets kids against other kids in a competition for medals and other artificially scarce distinctions that leads them to view everyone else as obstacles to their own success. +
+     +
+    *Other people are potential obstacles to your success.* +
+    link:https://www.youtube.com/watch?v=x4qRZt0VCak[Alfie Kohn at the OFJCC: Performance vs. Learning - The Costs of Overemphasizing Achievement: 47:00-47:18] +
+     +
+    A "good" education is not one that raises scores on exams that are merely about cramming forgettable facts into short term memory. *A good school is one where the students have a lot to say about the curriculum and the pedagogy which means what they're being taught and how they're being taught. A really good school is one that's* not just *about* memorizing facts and practicing skills, but *understanding ideas from inside out. A really good school is one where students feel a part of a caring community.* They don't feel alone or lonely, or worse, set against others in a contest.
   ** 3:24-4:03
     *** What looks like a question of a parental motivation, quickly reveals itself to be a question about *"What's wrong with traditional education?" The best schools around the world do not make students to commit this kind of stuff to memory that could be looked up on a computer or phone. They are doing a very different kind of education at the first place. The kind that is trully authentically engaging where students are inclined to pursue meaningful projects of their own design that help them to think more carefully about questions that matter.*
   ** 5:45-8:50
@@ -1604,7 +1861,13 @@ In 1945 Maria Montessori started to revive and reestablish her education in pres
       . it's bad for people psychologically, when you constatly feeling "I'm not good enough because there are always more people I have to beat."
       . it's very bad for our relationships because competition creates envy of winners and contempt for losers, and aggression, hostility and rivalry, it undermines helpfulness, trust and open communication. Competition is completely different from excellence [Excellence vs Superiority distinction by Daniel Markovits]. Study after study shows that if I'm thinking about how I have to beat other people at work, at school, at home, at play [at games], I'm not able to do the best job that I'm capable. Because now the task is seen as just something I have to get through, in order to get [this cookie, this goodie] a trophy, to get recognition, be seen as "number one". And I'm not able to draw from the skills and knowledge from the people around me. Real excellence comes from cooperation when all of us try to learn or produce something together. But if those people have to be defeated, in order for me to succeed, because that's what competition means, then I'm certainly not gonna help them, they're not gonna help me, and all of us end up losing in the race to win.
   ** 20:48-end
-    *** Test scores are lousy measures. Standardized tests measure what matters least about actual learning. Standardized test scores are largely a matter of socioeconomic status where richer countries and richer neighborhoods do better on those tests. So a low score is not necessarily a bad sign, and a high score is not necessarily a good sign. And the worst thing to do is think of it in relative terms as a competition, when we as ourselves "How do we compare to other countries?" That is I think a morally bankrupt question. We want people all over Europe and the world to learn effectively. We don't want to look upon other countries in order to say "We're number one!" as if it's a football game or something. Education is not a contest. Therefore, I would for many reasons ignore the score. When you asking people about their experiences about the education, the answers may be valid and important. Anwers by the people who feel lonely and unhappy with their educational experience, may be the best answers to the question "What's wrong with ["traditional education"] grades, tests, homework, competition?" The answer is you're destroying the people and children because you don't understand how counterproductive those practices are. Maybe that's what they're telling us. And maybe the place to start is by actively asking people more often about their experience in school, and helping them to bring them in on the process of changing the education. based on the experience of the people we're educating. If they're feeling lonely, unhappy, isolated [discouraged from attempts for inclusion, cooperation, importance and changing of current rules] and alienated [i.e. when they feel unpleasant], they cannot learn effectively, even when they have the best curriculum and pedagogy available, which apparently they don't. It doesn't only make sense to me to create a better education system for people we want to educate. It makes more sense to me to create a better education system with people we want to educate. Because people are most likely to flourish, be happy, and succceed, when they have something to say about what it is they're doing every day.
+    *** Test scores are lousy measures. Standardized tests measure what matters least about actual learning. Standardized test scores are largely a matter of socioeconomic status where richer countries and richer neighborhoods do better on those tests. So a low score is not necessarily a bad sign, and a high score is not necessarily a good sign. And the worst thing to do is think of it in relative terms as a competition, when we as ourselves "How do we compare to other countries?" That is I think a morally bankrupt question. We want people all over Europe and the world to learn effectively. We don't want to look upon other countries in order to say "We're number one!" as if it's a football game or something. Education is not a contest. Therefore, I would for many reasons ignore the score. When you asking people about their experiences about the education, the answers may be valid and important. Anwers by the people who feel lonely and unhappy with their educational experience, may be the best answers to the question "What's wrong with ["traditional education"] grades, tests, homework, competition?" The answer is you're destroying the people and children because you don't understand how counterproductive those practices are. Maybe that's what they're telling us. And maybe the place to start is by actively asking people more often about their experience in school, and helping them to bring them in on the process of changing the education. based on the experience of the people we're educating. If they're feeling lonely, unhappy, isolated [discouraged from attempts for inclusion, cooperation, importance and changing of current rules] and alienated [i.e. when they feel unpleasant when they feel frustrated from the failing attempts to integrate themselves to the community and don't see the meaning in the tasks they're doing], they cannot learn effectively, even when they have the best curriculum and pedagogy available, which apparently they don't. It doesn't only make sense to me to create a better education system for people we want to educate. It makes more sense to me to create a better education system with people we want to educate. Because people are most likely to flourish, be happy, and succceed, when they have something to say about what it is they're doing every day.
+
+* ... *forced learning doesn’t work.* link:https://liveandlearn88.com/2016/03/07/why-i-hate-the-education-system/[Why I hate the Education System]
+
+* We would like to think that school is a place for children to develop their curiosity, love for learning, passions for what they want to pursue, creativity, critical thinking, all these wonderful things, but we're stuck because of history with *the school system that was developed to suppress those things deliberately, not to promote those things.* And you really *can't use that system that was developed for obedience, indoctrination and obedience training to do these other things!* *No way can you expect to have 20 or 30 kids in a room all doing the same thing because they're curious!* ... *No way could you deal with critical thinking if they all begin to criticise the lessons you're teaching!* ... *We've got a system that was well designed for indoctrination and obedience training, and it's still good at that!* Even when that's not what we're trying to do. But [we're] stuck with the system that was designed for that purpose. link:https://soundcloud.com/greatergoodsojai/peter-gray[Peter Gray - Biological Foundations for Self-Directed Education: 1:03:54-1:05:21]
+
+* My claim is that attempt to kind of modify [August Hermann] Francke's system of schooling is not gonna work. You've gotta just throw it out. And you've gotta start from scratch with something designed for what we think of as education today. Designed not for indoctrination and obedience training, but designed for curiosity, playfulness and all the kinds of things that we think are important for children to develop if they're going to be successful in today's world. link:https://soundcloud.com/greatergoodsojai/peter-gray[Peter Gray - Biological Foundations for Self-Directed Education: 1:06:12-1:06:50]
 
 * Leadership is not defined by the exercise of power but by the capacity to increase sense of power among those led. The most essential work of the leader is to create more leaders. link:https://scontent.fbts2-1.fna.fbcdn.net/v/t1.0-9/31781853_10156828091695628_8027792006530990080_n.png?_nc_cat=106&_nc_sid=8024bb&_nc_ohc=sdfVZfeBPpoAX84ENlX&_nc_ht=scontent.fbts2-1.fna&oh=35dff8d3e47555a204245ba9ae13be32&oe=5F25FD09[(Mary Parker Follett)]
 
@@ -1642,7 +1905,7 @@ Sources:+
       **** accumulation: removing resources from the flow
   ** 8:29- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=509
   ** 9:21-9:42 https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=561
-    *** *All indigenous cultures that I'm aware of have a fundamental faith that if every being takes enough [takes only how much he or she needs] there is going to be enough [for everybody].* link:https://money.howstuffworks.com/moneyless-world.htm[What would a moneyless world look like?] +
+    *** All indigenous cultures that I'm aware of have a fundamental faith that *if every being takes enough [takes only as much as he or she needs] there is going to be enough [for everybody].* [reference to Gift economy] link:https://money.howstuffworks.com/moneyless-world.htm[What would a moneyless world look like?] +
     So if you accumulate you remove things from circulation, and in this way you create scarecity.
   ** 9:57- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=597
   ** 12:36- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=756
@@ -1914,6 +2177,8 @@ Sources:+
 ** *In a hierarchy every employee tends to rise to his level of incompetence.*
 ** *In time, every post tends to be occupied by an employee who is incompetent to carry out its duties.*
 
+* Think for yourself and question authority. link:https://en.wikiquote.org/wiki/Timothy_Leary#Quotes[Timothy Francis Leary]
+
 * link:https://www.youtube.com/watch?v=hb47PeiQCAE[Shape The World 2019 and Consulus 15th Anniversary Gala Dinner - Lawrence Chong]
 ** 4:00-4:54 https://www.youtube.com/watch?v=hb47PeiQCAE&feature=youtu.be&t=240
   *** *We are not short of solutions. But the people who believe and work daily to build a better world are a minority. An, unfortunately, many people still believe that the status quo of selfishness and greed will prevail. But if we accept this, then we've collectively signed a humanity's death sentence.* ... I don't think I can look at my four year old Nathalia in the eye, and [hear from her] "Daddy, you didn't try hard enough to do anything to shape a better world." I would like that we come together and do our best to shape a healthier environment and a life-serving economic system. *Before the rising divisions [inequalities], there is a path.*
@@ -1926,9 +2191,10 @@ Sources:+
 
 * link:https://veganvanguardpodcast.com/34-radical-education-for-youth-with-alexis-fawn/[34. Radical Education for Youth with Alexis Fawn]
   ** 12:51-13:17
-    *** *Education is [also] a political act ... and [I would like that other people would see education in this way too.]*
+    *** *Education is [also] a political act ... and [I would like that other people would see the education in this way too.]*
   ** 27:07-~32:00
-    *** link:https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/[Bloom’s Taxonomy]
+    *** link:https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/[Bloom’s Taxonomy - Educational Goals]
+      **** but because it's a pyramid, and therefore hierarchical, the same critics of similar pyramid of Maslow's hierarchy of needs - the higher order needs can't be realized when all of the needs underneath are not met.
   ** 32:14-33:09
     *** ... *patience is so important.* ...
     *** in my courses ... I get all of my students to understand the idea of empathy and perspective taking ...
@@ -2123,7 +2389,7 @@ link:???[Maya Angelou]
   I'm not saying what you should say. If I'd tell you what you should say, my guess is you'll have trouble accepting it. "I'm offering you something that I'd say..." ... I wouldn't say "Only do this if you want to" 'cause I'm still telling them what to do. I'm still thinking that I'm the person who's job it is to tell them, what to do. That wouldn't meet my need, just if they did, if they want to. The other thing about that is, as a giraffe, I know that people never do anything except what they want. So that's kind of superflous. I don't think anybody ever does anything except what they want. The only difference is, jackals lie about it. They say "I didn't wanna do it." Then why did you do it? "They made me do it." "I had to do it." "Superiors orders." "Company policy." [Amtssprache - a language that denies choice and responsibility.] There's no responsibility for actions in Jackalland. But a giraffe speaking person knows that in each moment each of us only does only what we want. In this sense, giraffes is not introducing anything new into the universe. *People as long as they've ever been around don't do anything except what they want.* +
   "What if we requested the other person to do something?" Well, even before the conversation starts, *if my objective is to get the other person to do what I want I've lost already.* *"What would the giraffe objective be?" To make a connection with that person. Giraffe dance. Giraffes like to dance. And there is a certain kind of dance that goes: Empathy, Honesty, Empathy, Honesty, ... And giraffes really like that dance 'cause they believe miracles can come off that dance. When we really connect with people in a certain way, any kind of conflict can be resolved* without fear, without guilt, without shame [or any other power over tactics]. *So we trust that dance.* If we go in wanting to dance, well, and we trust that we may come out with the person doing what we want, for reasons what we want. There is no force on it, they're doing it willingly 'cause they see the purpose [meaning, reason]. Or we come out of it valuing what the other person dit, or wants to do. Maybe, so *we don't know, that as a giraffe, we know that if we dance, we'll like whereever we end up. I'm trying to form a kind of connection with this person, that I think is conducive to working out whatever differences are there. I want to form a quality of connection, that's my primary objective*, quality of the connection, and then I trust, that if that quality is of a certain sort, where all of our energy doesn't go into defending each other, violating each other. *When we're really safe, and we really trust that each has the other person's well being at mind, then I know, that this is gonna get results.* I have no doubt about it. But I won't go in there, thinking that that's got to be, that they're gonna study.  ... *So I don't know how it's gonna come out, but but I know that if we get there in a certain process, we'll both like it [breathing in the not knowing]. It has to be clear about our values [needs, purposes, reasons]: "What quality of connection do I value making with people?" "Do I value people as an equals?" "If so, then does my behaviour demonstrate that when I'm with other people?"* That doesn't mean that I have equal knowledge, or equal strength, but do I really value treating people as equals. "And how do I do that, if this person is age 5, or 12?" *"Do I value the use of violence for people to get their way?" So it's for me just being consistent with my values and "How I would like people to treat me?" If that's really what I value, that quality of our connection, and trust that it is of a certain sort, then I trust wherever the conflict goes.*
 ** 59:03-1:01:06 https://www.youtube.com/watch?v=8kaVztNodEM&feature=youtu.be&t=3543
-  *** Culturally and politically some people might not be used to this reflection [of feelings and needs] back. [The may consider it as an "invasion" into their private space]. [So, after the empathy,] they may say "Don't pull any of that psychology crap on me!" **So we [show empathy] it again. Silently. For this to be powerful doesn't mean we have to say it outloud.* It's at the very moment that I turn my atention what is this person feeling. So when he says "Don't pull any of that psychology crap on me!" I turn my attention to what is the other person feeling [and what of their needs are not being fulfilled] when he/she says that. I guess the other person is scared and annoyed [nervous, uncomfortable, unpleasant], 'cause he/she may not understand what this [my response] is all about, and the other person wanted me to respond in a way that he/she was more familiar with. That's what I hear in that message. I don't have to say it outloud. *I'd like to be able to say it outlout to check it out 'cause I might be wrong, but just the fact that I'm trying to find the person's feelings [and unfulfilled needs with possible request for me] is already a success. Because when I'm looking for another person's feelings, I take away all power that person has to limit my power, my personal sense of respect.* Only when I take in the judgement, it starts to get scary. *But when I'm conscious that all judgements are simply tragic expressions of needs, why be scared of judgements. They're just saying: "This person is in pain. This person needs something." ["This person has needs that are not being met." "Please! Please!! PLEASE!!"]. This is a good example where the truth sets us free. The truth is, this person has feelings and needs. So why get caught up in their images?*
+  *** Culturally and politically some people might not be used to this reflection [of feelings and needs] back. [The may consider it as an "invasion" into their private space]. [So, after the empathy,] they may say "Don't pull any of that psychology crap on me!" **So we [show empathy] it again. Silently. For this to be powerful doesn't mean we have to say it outloud.* It's at the very moment that I turn my atention what is this person feeling. So when he says "Don't pull any of that psychology crap on me!" I turn my attention to what is the other person feeling [and what of their needs are not being fulfilled] when he/she says that. I guess the other person is scared and annoyed [nervous, uncomfortable, unpleasant], 'cause he/she may not understand what this [my response] is all about, and the other person wanted me to respond in a way that he/she was more familiar with. That's what I hear in that message. I don't have to say it outloud. *I'd like to be able to say it outlout to check it out 'cause I might be wrong, but just the fact that I'm trying to find the person's feelings [and unfulfilled needs with possible request for me] is already a success. Because when I'm looking for another person's feelings, I take away all power that person has to limit my power, my personal sense of respect.* Only when I take in the judgement, it starts to get scary. *But when I'm conscious that all judgements are simply tragic, [suicidal] expressions of needs, why be scared of judgements. They're just saying: "This person is in pain. This person needs something." ["This person has needs that are not being met." "Please! Please!! PLEASE!!" link:https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=4398[Marshall Rosenberg - Making Life Wonderful 2/4 - Nonviolent Communication NVC: 1:13:18-1:13:46]]. This is a good example where the truth sets us free. The truth is, this person has feelings and needs. So why get caught up in their images?*
 ** 1:05:01-1:06:09 https://www.youtube.com/watch?v=8kaVztNodEM&feature=youtu.be&t=3901
   *** *Better to have [the Nonviolent Communication] in your heart and be broken for the words. "Whenever I really get connected to that energy, even when I speak jackal it's giraffe." So the words aren't as important as the consciousness of why I'm interrested in giraffe. The quality of the connection. If that's really what you're after, the words come with practice. But it's that spiritual quality at the beginning. Without that [spiritual quality] the rest doesn't help.*
   
@@ -2139,7 +2405,7 @@ link:???[Maya Angelou]
 
   * Criticism = Pain + Unmet Need link:...[(M. B. Rosenberg San Francisco Workshop ~1:34:00-1:42:29, M .B. Rosenberg Resolvng Conflicts with Children ???-???)]
 
-  * Hear the yes behind the no. "No" is a "yes" to other needs. Hear the feelings and needs behind the "no". "No" is a tragic expression of a "yes". Say the need! link:...[(M.B. Rosenberg - San Francisco Workshop ???-???)]
+  * Hear the yes behind the no. "No" is a "yes" to other needs. Hear the feelings and needs behind the "no". "No" is a tragic, suicidal expression of a "yes". Say the need! link:...[(M.B. Rosenberg - San Francisco Workshop ???-???)], link:???[Marshall Rosenberg - Making Life Wonderful 2/4 - Nonviolent Communication NVC]
   
   * *Never give them the power to submit or rebel.* link:...[(Training Session # 2 Marshall Rosenberg CNVC org - 58:10-???, M.B. Rosenberg - resolving conflicts with children, NVC San Fran workshop)]
 
@@ -2177,9 +2443,9 @@ link:???[Cedric Dumont - From Fear to Flow: ???-???]
 
 * ... to make business more spiritual we must make business more humane. link:https://sci-hub.tw/10.1023/b:busi.0000005730.37745.07[Searching for Spirituality in All the Wrong Places - Journal of Business Ethics - Conclusion]
 
-* The structures focus more on self-regulation than on expressing the student's feelings, needs and ideas. link:???[Alfie Kohn - OFJCC: ???-???]
+* The structures focus more on self-regulation than on expressing the student's feelings, needs and ideas. link:https://www.youtube.com/watch?v=x4qRZt0VCak[Alfie Kohn at the OFJCC: Performance vs. Learning - The Costs of Overemphasizing Achievement]
 
-* *Tests* measure what matters least. If the teacher needs to give a est, the teacher needs help in how to teach and assess. No matter whether they're standardized or not. Tests create more anxiety and achievement pressure. link:???[(Alfie Kohn - OFJCC: ~1:23:00???)], link:https://en.wikipedia.org/wiki/Meritocracy#Critique[Meritocracy: Critique - Wiki]
+* *Tests* measure what matters least. If the teacher needs to give a est, the teacher needs help in how to teach and assess. No matter whether they're standardized or not. Tests create more anxiety and achievement pressure. link:https://www.youtube.com/watch?v=x4qRZt0VCak[Alfie Kohn at the OFJCC: Performance vs. Learning - The Costs of Overemphasizing Achievement], link:https://en.wikipedia.org/wiki/Meritocracy#Critique[Meritocracy: Critique - Wiki]
 
 * [Compulsory] *Homework* [at and below the highschool level] is unnecessary. Research shows no benefit of homework before high school. And even there it's questionable. So why do we persist? BGUTI! - "Better get used to it!". "People will do to you mean and unpleasant things in the future, start doing them now!" +
 Homework is literally all pain and no gain. It produces frustration, exhaustion, family conflicts and nagging, less time for kids to do what they care about when they get home, and loss of interest in learning. Homework effectively extinguishes curiosity [when the kid doesn't do it and the teacher or parent punishes the kid physically or psychologically with shame, guilt, the concept of duty, obligation or deserve]. There is no sacrifice in not giving homework academically. +
@@ -2193,9 +2459,9 @@ Six hour of academics is more than enough.
     . let the student decide the final amount of points and the final grade or letter. *The good you've done by removing grades from the occasion [and consciousness] and the trust you've shown to the students _far_ outweights the situations in which some students use the system for their advantage.* +
     They will see that obedience contributes to vilence in the same way that grades or tests do.
     
-* Self-discipline is [perceived as] more important than empathy [which has devastating effects on the individual]. [Alfie Kohn - OFJCC]
+* Self-discipline is [perceived as] more important than empathy [which can have devastating effects on the individual]. link:https://www.youtube.com/watch?v=x4qRZt0VCak[Alfie Kohn at the OFJCC: Performance vs. Learning - The Costs of Overemphasizing Achievement]
     
-* People of all ages are more likely to perservere when they have a chance to make the decisions about the things that affect them. Therefore, if someone doesn't persist, he or shewas to some extent excluded from decision-making, rather than he or she didn't have enough self-discipline. [Alfie Kohn ???]
+* People of all ages are more likely to perservere when they have a chance to make the decisions about the things that affect them. Therefore, if someone doesn't persist, he or she was to some extent excluded from decision-making, rather than he or she didn't have enough self-discipline. [Alfie Kohn Symposium on Youngest Citizens]
 
 * Miki - I have some say ... . link:???[Miki - Liberation 2: ???]
 
@@ -2229,11 +2495,6 @@ link:https://www.youtube.com/watch?v=LdOFhyKACxE[Dr. James Gilligan - On How All
   ** 1:14:24-1:21:12 https://www.youtube.com/watch?v=_rSYiy420B0&feature=youtu.be&t=4464
   ** 1:21:13-1:33:33
 
-* link:https://veganvanguardpodcast.com/34-radical-education-for-youth-with-alexis-fawn/[34. Radical Education for Youth with Alexis Fawn]
-  ** 
-    *** Socratic Teaching Method
-  ** 
-  
 * Probleme kann man niemals mit derselben Denkweise lösen, durch die sie entstanden sind. link:https://www.gutefrage.net/frage/ich-hasse-es-mich-einer-autoritaet-zu-unterwerfen#answer-227573776[Ich hasse es mich einer Autorität zu unterwerfen? - Juni00]
 
 * Observing without evaluating is the highest form of human intelligence. +
@@ -2323,9 +2584,31 @@ link:https://www.youtube.com/watch?v=jArsTeP66FE&feature=youtu.be&t=5863[Film 02
 
 * needs are gifts; never allow the other person to tarness the beauty of your gift; my needs are gifts for the other person; seing the beauty in the judgements, seing a beautiful gift from another person that judges us; transforming judgements to gifts full of feelings and needs; seeing the beauty in the gift [M.B. Rosenberg - Experiencing Needs as a Gift], [M.B. Rosenberg - This Thing Called Love]
 
-* Prefigurative environment link:youtube???[Making Life Wonderful 2/3/4 ??? - M.B. Rosenberg]
-
 * There are no jackals. That all jackals are just illiterate girrafes, giraffes with a language problem.
+
+* link:https://www.youtube.com/watch?v=KdFc2B-tZLc[Marshall Rosenberg - Making Life Wonderful 2/4 - Nonviolent Communication NVC]
+  ** ~18:00-
+    *** protective use of force
+  ** 22:30-25:30 https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=1350
+    *** *How about grades? The only purpose I see in grades is to maintain a cast system in our society, and to hide it as a meritocracy or democracy [representative democracy, not direct democracy].* ... "I'm choosing not to give grades." ... "Half the students of this university are black, half are white, blacks get 80% of failing grades, I choose not to participate on any evaluation scheme that differentiates on the basis of race or culture [or socioeconomic status]. Also, research shows that *the more grades are given the more students lose perspective on what they're learning.* So *then they learn not for the value of what they're learning, but for the extrinsic rewards*", which of course is the *purpose in the jackal culture*. *You want people to get used to working for extrinsic rewards, things like salaries [points, grades, credits, titles, etc. so they'll be able to pollute the environment and do anything else as long as the boss tells them to do it. And then they get their rewards. So that's what you want to train them for in school.*"
+    *** *"We have to have accountability!"* and I said "Now that I share the universitie's desire at that level. *We do need to know, whether people have learned, what ... the course involved.* ... *I will give you at the end of the course an instruction, a measurable assessment, of what students could do at the end that they couldn't do at the beginning.* I this respect I'm far more accountable, than a teacher who gives you a C or D. You don't know what that student could do? You will know what each of my students can do at the end what they couldn't do at the beginning." So because of that, I was being more accountable.
+  ** 30:05-33:29 https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=1805
+    *** I don't think you get angry because your need for respect and appreciation isn't getting met. *For example, if I come along and I say to you "Get out of my way, idiot!" and for whatever reason you think "Maybe his wife died, and he is mourning." I don't think you'd feel angry. [Is it the thinking that is the cause of calmness and understanding?]* Even though your need wasn't getting met for respect or so ..., but I don't think you'd be angry. Because you'd probably tell yourself something different than what you're telling yourself if your angry. So you still haven't answered my question about the cause of your anger. *Just because your need for respect doesn't get met doesn't make you angry. [It's the thinking that makes me angry and provokes violence?]* ... [Feelings] are the first thing what we [may be] aware of, but it's not the first thing that happens. Te first thing that happens is when I'm asking you to get at now that you haven't gotten at yet. And that's whatwhy i'm pushing you to get at it. Because it needs to be gott out into the light [to the consciousness], and that is I think *you need to be clear what is making you angry. It's not that your need is not getting met. What are you telling yourself? [The thinking makes me angry? The thinking is the cause of my feelings? Unpleasant and pleasant?]* +
+    *"Some jackal thought". That's the first thing that came. But your inner jackals speak so rapidly, and it's been in there for so long  that you're very often not conscious of them.* +
+    *I'm saying all of these [feelings: anger, depression, guilt, shame and maybe rage, hate, jealousy and envy] can be productive if you do the following work:*
+    . If you identify the thinking that is making you feel this way.
+    . And if you use these feelings as an alarm clock, to tell you that part of your connection to your needs is being blocked by life alienated violence provocative thinking. ... These feelings are valuable if you use them as an alarm clock. And if you use them as an alarm clock and get connected [to your needs], you'll have more energy, not less, but the energy will be directed toward getting your need met, not to blaming or punishing yourself or others.
+  ** 33:29-34:42 https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=2009
+    *** *... our basic need is to enjoy life. How can we enjoy life if our needs aren't getting met? So, to enjoy life is to get our needs met in a way that doesn't create problems for us later.* Giraffes are cheap. They don't like to pay for getting their needs met.
+  ** 35:35- https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=2135
+    *** ... *What would you do when they're putting your people into concentration camps? ... First thing you need to do is transform all enemy images into needs. You're gonna have no power with people until you can translate your enemy images [into needs]. 'Cause as long as you see that you're more likely to generate counterviolence than cooperation.* +
+    *... social change [tranformation of gangs: institutions] ... Some gangs call themselves gangs. Some gangs call themselves multinational corporations. Some gangs call themselves governments. ... How do you deal with gangs? Gangs ... are creating great violence.* +
+    *The first thing is: _Get rid of any enemy image of the gang members._ As long as you think there is something wrong with the gang members, you'll create more violence, I predict, than cooperation.* +
+    *"So we're supposed to like it that they're putting our people in the concentration camps and not feeding them, and ...!"* +
+    *I'm not asking you to like it. I'm asking you to do more than that. I'm asking you to be able to see that that's _the most wonderful thing_ in the world that these people could be doing [at the level of needs - not strategy!]. "WHAT!?"* Then I explain. And it has to be sincere. "Explain..." +
+    *** 
+  ** ~1:53:00-
+    *** Prefigurative environment
   
 == Fundamental Attribution Error
 
@@ -2333,11 +2616,14 @@ The environment matters. The nurturing and education matters. It's not everythin
 
 link:https://www.alfiekohn.org/article/whos-cheating/[Who's Cheating Whom - Alfie Kohn]
 
+Merit = IQ + effort +
+... well, not quite
+
 link:https://en.wikipedia.org/wiki/Meritocracy#Critique[*Meritocracy*]
 
 * The reliability of the authority and system that assesses each individual's merit is another point of concern. As a meritocratic system relies on a standard of merit to measure and compare people against, the system by which this is done has to be reliable to ensure that their assessed merit accurately reflects their potential capabilities. Standardized testing, which reflects the meritocratic sorting process, has come under criticism for being rigid and unable to accurately assess many valuable qualities and potentials of students. Education theorist Bill Ayers, commenting on the limitations of standardized testing, writes that "Standardized tests can't measure initiative, creativity, imagination, conceptual thinking, curiosity, effort, irony, judgment, commitment, nuance, good will, ethical reflection, or a host of other valuable dispositions and attributes. What they can measure and count are isolated skills, specific facts and function, content knowledge, the least interesting and least significant aspects of learning."[54] Merit determined through the opinionated evaluations of teachers, while being able to assess the valuable qualities that cannot be assessed by standardized testing, are unreliable as the opinions, insights, biases, and standards of the teachers vary greatly. If the system of evaluation is corrupt, non-transparent, opinionated or misguided, decisions regarding who has the highest merit can be highly fallible.
 
-== Marxisimus, Sozialismus, Kommunismus, Schenkökonomie (Gift Economy) and other economic schools
+== Schenkökonomie (Gift Economy) and other economic schools
 
 Different schools of economics:
 . ...
@@ -2370,11 +2656,11 @@ link:https://www.profolus.com/topics/four-types-of-alienation-according-to-karl-
 
 ---
 
-* Kurdistan - Rojava - Anarchy / Democratic Confederalism
+* Kurdistan - Rojava - Anarchy; Democratic Confederalism
 * Bhutan - Gross National Happiness
-* Schweiz - direkte Demokratie
+* Schweiz - direkte Demokratie; Kantone
 * Madagascar - Anarchy
-* Orang Asli - Malaysia
+* Orang Asli and other indigenous cultures - Malaysia
 
 == Warum will ich programmieren?
 
@@ -2486,7 +2772,7 @@ expressive writing, empathy, NVC
 
 == Diseases / Erkrankungen / Choroby
 
-* [line-through]#Bruxism#
+* Bruxism
 * Snorring
 * PTSD
 * OCD
@@ -2500,6 +2786,7 @@ expressive writing, empathy, NVC
   *** FUndamental Attribution Error
   ** link:https://www.impulse.de/management/selbstmanagement-erfolg/hochstapler-syndrom/7363743.html?conversion=ads[Potenzielle Lösung]
 * fear of violence (and other things)
+  ** Angst vor Gewalt von Autoritäten
 * Belching
 * Flatulence
 * Heartburn
@@ -2612,7 +2899,7 @@ Empatia je súčasťou emocionálnej inteligencie.
 
 Lenže väčšina škôl a väčšina pedagógov používa praktiky, ktoré bránia rozvoju empatie a emocionálnej inteligencie. Veď akoby aj mohli. Pedagógovia sa trápia, lebo oni sami nevedia veľa o emocionálnej inteligencii a jej dôležitosti, a aj väčšina školských inštitúcii je  navrhnutá tak, aby kládli väčší dôraz na výkon, výsledky, súťaživosť, povinnosť a poslušnosť, než na starostlivosť, ochotu, dobrovoľnosť, súcit a zodpovednosť.
 
-A namiesto altruistických ľudí vychovávajú ľudí sebeckých. Lebo, čo sa asi študent naučí? *Že ostatní ľudia sú potencionálnou prekážkou k jeho/jej úspechu.* A, že *ja dokážem uspieť iba vtedy, keď druhí zlyhajú.* link:???[Alfie Kohn - OFJCC], link:???[Daniel Markovits - Excellence vs Superiority]
+A namiesto altruistických ľudí vychovávajú ľudí sebeckých. Lebo, čo sa asi študent naučí? *Že ostatní ľudia sú potencionálnou prekážkou k jeho/jej úspechu.* A, že *ja dokážem uspieť iba vtedy, keď druhí zlyhajú.* link:https://www.youtube.com/watch?v=x4qRZt0VCak[Alfie Kohn at the OFJCC: Performance vs. Learning - The Costs of Overemphasizing Achievement], link:???[Daniel Markovits - Excellence vs Superiority]
 
 V takomto prostredí potom trpia nielen študenti, ale aj učitelia a vedenie. Podobne vo firmách, trpia zamestnanci aj menežéri, ktorí vyznávajú túto ideológiu.
 
@@ -3020,6 +3307,37 @@ Next time, think about, whether you want to use another 'ism'. You may associate
 
 ---
 
-Plant - not enough that it's strong and vigorous. It needs enironment soil, wather to thrive and flourish. It's the resonance between inner and outer environment that enables optimal growth and development. [RPM; Flow] Same with a human.
+Plant - not enough that it's strong and vigorous. It needs enironment soil, wather to thrive and flourish. It's the resonance between inner environment of the plant and outer environment of weather and soil that enables optimal growth and development. [RPM; Flow] Same applies to a human.
+
+---
+
+I see hierarchies, titles, points, grades, credits, and other measures as a dimensional reduction for easier decision-making. But these things don't tell me anything about their abilities.
+
+--
+
+Danke für die Schmerzen, Leiden, Angst, Frustration, Depression, Hass, Wut, Unfähigkeit, Langsamkeit, Schwäche, Müdigkeit, Erschöpfung Empfindlichkeit, Hoffnungslosigkeit, Neid, Frustration, und andere unerfüllte Bedürfnisse und Gefühle, die mit ihnen verbunden sind, und Gefühle die von dem Gewalt provozierenden Denken herkommt. Danke für die Achtsamkeit, dass ich die Achsamkeit habe, diese Gefühle, Bedürfnisse und dieses Gewalt erregende Denken, feindliche Bilder und die Stimme meines inneren Lehrers erkennen und hören kann, und meine Gefühle, Bedürfnisse benennen kann. Dass ich mein Gewalt erregendes Denken sehen und hören kann.
+
+---
+
+Everything what other people say, or what I tell to myself or others, are descriptions of needs, no matter, how jackalish it sounds.
+
+---
+
+Ich überwinde jetzt eine *chronische Krankheit*, *Traumata* und *Ausbrennung* gleichzeitig. Ich brauche mich erholen. Ich brauche ein langsameres Lebenstempo. Ich zweifle, dass Kapitalismus mir die Gelegenheit gibt, langsamer zu leben. Ich brauche mein Leben verlangsamen, um mich zu heilen. Wofür werde ich studieren, programmieren und arbeiten, wenn ich mir die Gesundheit, die Augen, die Verdauung, die Wirbelsäule, die Psychik zerstöre und die Freude am Lernen, die Freude am Leben verliere. Ich brauche Zeit, mich zu heilen. Ich brauche Zeit, die Sachen zu verstehen. Ich brauche Verständnis, Geduldigkeit, Vertrauen, dass ich das alles schaffe. Ich brauche Hilfe, weil ich zweifle, dass ich das alles alleine schaffe.
+
+---
+
+*Es ist gerade das Überspringen der Bedürfnisse, das verursacht, das ich die Sachen oder Ereignisse persönlich nehme.*
+
+---
+
+Year 2020:
+- new ability unlocked / neue Fähigkeit freigeschaltet: crying / weinen
+- new feelings discovered / neue Gefühle entdeckt: touched / gerührt, berührt; moved / bewegt
+
+---
+
+Pilates ist für mich eine Gebrauchsanleitung für menschlichen Körper, +
+Gewaltfreie Kommunikation (GFK / NVC) ist für mich eine Gebrauchanleitung für menschliche Seele.
 
 ---
