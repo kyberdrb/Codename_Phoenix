@@ -83,7 +83,8 @@ link:https://static1.squarespace.com/static/52898555e4b0d5b9928e8aa5/t/575773a58
 * order / Ordnung / poriadok
 * equality / Gleichheit / rovnosť
 * predictability / Vorsehbarkeit / predvídateľnosť
-* power (with) / Macht (mit) / moc (s)
+* power (with) / Macht (mit) / moc (s) +
+link:https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=2486[Marshall Rosenberg - Making Life Wonderful 2/4 - Nonviolent Communication NVC: 41:26-]
 * (direct) democracy / (direkte) Demokratie / (priama) demokracia
 * strength / Kraft / sila
 * protective use of force / beschützende Nutzung der Kraft / použitie sily na obranu
@@ -335,7 +336,7 @@ link:https://static1.squarespace.com/static/52898555e4b0d5b9928e8aa5/t/575773a58
 * altruism / Altruismus / altruizmus
 * solidarity / Solidarität / solidarita
 * humanity / die Menschlichkeit / ľudskosť
-* consentual rules / gemeinsam bestimmte Regeln / spoločne stanovené pravidlá
+* consensual rules / gemeinsam bestimmte Regeln / spoločne stanovené pravidlá
 * [line-through]#rules / Regeln / pravidlá#
 * [line-through]#power (over) / Macht (über) / moc (nad)# link:...[Ökonomische Pseudowerte: https://www.youtube.com/watch?v=7mRe1ntgbj8&feature=youtu.be&t=1260]
 * [line-through]#obedience / Gehorsamkeit / poslušnosť#
@@ -366,6 +367,14 @@ link:https://static1.squarespace.com/static/52898555e4b0d5b9928e8aa5/t/575773a58
 * willingness, good will / Bereitschaft, Entgegenkommen / ochota
 
 == Feelings at unfulfilled needs (Sweet pain - Girrafe mourning) / Gefühle bei unerfüllten Bedürfnissen
+
+These feelings come from needs, from the connection to our needs or the needs of others.
+
+The connection to our needs is supported by our thinking.
+
+The thinking that is connected to needs and peace promoting produces these kind of feeling. These feelings are natural to us.
+
+*So it's not only about our connection to _needs_. It's also about the _thinking_ that strenghtens our connection to our needs.*
 
 What needs of mine are not being met?
 
@@ -420,7 +429,9 @@ bezmocný (často zamieňaný so _stresom_)
 
 *Bitter pain - Alarm feelings / Bittere Schmerzen - Weckgefühle*
 
-Disconnected from needs / Unterbunden von Bedürfnissen +
+Unnatural feelings
+
+Thinking that is disconnected from needs / unterbunden von Bedürfnissen +
 Connected to violence provocative *thinking*. The needs are not the problem. The problem is the thinking. The violence provocative thinking.
 
 Violence provocative thinking consists of moralistic judgements and Amtssprache.
@@ -430,6 +441,9 @@ Feelings caused by *thinking* that is *disconnected from life/needs* and *violen
 *These feelings represent violence* directed at oneself (depression, guilt, shame) or others (anger, rage, hate).
 
 *These feelings and this thinking are perpetuating [and sustaining] the violence.*
+
+* Type A personality traits: Research from Friedman and Rosenman (1976) [link:https://en.wikipedia.org/wiki/Type_A_and_Type_B_personality_theory#Criticism[Type A and Type B personality theory]]
+** high correlation between the feelings of hostility and heart disease [although different studies had shown different correlations with different personality traits and other variables such as hereditry, substance abuse or magnesium defficiency].
 
 * *angry / ärgerlich / nahnevaný (hnevať sa)*
 * indignant / empört / rozhorčený (rozhorčiť sa)
@@ -699,7 +713,7 @@ spreche, mit jemandem spreche, schreibe, zuhöre, mich dusche, mich mit kaltem W
 - Efficiency vs Sufficiency and Well-being - link:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3357638/#Sec4title[Manfred Max-Neef - The World on a Collision Course and the Need for a New Economy: Chapter "Crisis of Crises"]
 - School vs Education - Peter Gray
 - Education vs Indoctrination - link:https://www.youtube.com/watch?v=5EURJI9x9Qs&feature=youtu.be&t=771[(Manfred Max-Neef, Father of "Barefoot Economics" - Keynote at Zermatt Summit 2012: 12:51-13:41)], Peter Gray
-- Consentual Rule and Dogma - M. B. Rosenberg [Consentual rules: Resolving conflicts with children workshop], link:https://www.youtube.com/watch?v=5EURJI9x9Qs&feature=youtu.be&t=771[(Manfred Max-Neef, Father of "Barefoot Economics" - Keynote at Zermatt Summit 2012: 12:51-13:41)]
+- Consensual Rule and Dogma - M. B. Rosenberg [Consensual rules: Resolving conflicts with children workshop], link:https://www.youtube.com/watch?v=5EURJI9x9Qs&feature=youtu.be&t=771[(Manfred Max-Neef, Father of "Barefoot Economics" - Keynote at Zermatt Summit 2012: 12:51-13:41)]
 - Interdependency vs Codependency - Alfie Kohn
 - Process vs Product - Rachel Rainbolt - episode with peter gray, Peter Gray - Play
 - Empathy vs Sympathy - link:...[M. B. Rosenberg], link:https://youtu.be/KX_tgRM84RA?t=370[(Nonviolent Communication (NVC): Yoram Mosenzon full workshop: 'Connecting in Conflict': 6:10-8:08)]
@@ -1774,7 +1788,8 @@ In 1945 Maria Montessori started to revive and reestablish her education in pres
       **** [1:10:00-1:11:05] So *"one size fits all" instruction. Why does everybody read the same book? Why in kindergarden ... are kids doing the same thing? Why do teachers prepare a syllabus in high school or college for kids that they've never met?* +
       *What they're saying is: "Who you are as my students is irrelevant! I've already planned this course. I don't care who you are or what interests you" which might lead to this focus ... just on achievement [instead of learning]. Process of elimination.*
       **** link:https://www.youtube.com/watch?v=G2BAJ_svbhA&feature=youtu.be&t=955[Peter Gray: Mother Nature's Pedagogy: Insights from Evolutionary Psychology: 15:55-17:07] +
-      *I'm absolutely sure that some day people are going to look back at us now, and they're going to say: "What were those people thinking? Why on earth did they ever believe that coersion is essential for education? That's like believing you have to force people to eat, or you have to force people to breathe. Why on earth did they ever think that standardization so that people regardless of their interest, regardless of their predilections, should all learn the same thing? In the same way? Be tested by the same test? What kind of crazy idea is that? I'm sure that we'll reach the day that people will look back and say that. I hope we reach that day sooner rather than later. I would like to see it come in my lifetime. And I hope that some of you, maybe really all of you, I hope, will play a role in bringing that time about before too long."* [I cried at this at Fri Nov  6 09:01:39 PM CET 2020]
+      *I'm absolutely sure that some day people are going to look back at us now, and they're going to say: "What were those people thinking? Why on earth did they ever believe that coersion is essential for education? That's like believing you have to force people to eat, or you have to force people to breathe. Why on earth did they ever think that standardization so that people regardless of their interest, regardless of their predilections, should all learn the same thing? In the same way? Be tested by the same test? What kind of crazy idea is that? I'm sure that we'll reach the day that people will look back and say that. I hope we reach that day sooner rather than later. I would like to see it come in my lifetime. And I hope that some of you, maybe really all of you, I hope, will play a role in bringing that time about before too long."* [I cried at this at Fri Nov  6 09:01:39 PM CET 2020] +
+      [It there a similarity between forced education and forced labour? link:https://www.ilo.org/global/topics/forced-labour/definition/lang--en/index.htm[What is forced labour, modern slavery and human trafficking]]
   ** 1:13:57-1:21:53
     *** There are two key underlying premises I've identified that I think drive this overachievement fanaticism:
     . *BGUTI - "Better Get Used To It"* [acronym]
@@ -1881,7 +1896,7 @@ Sources:+
 18 Kosfeld, M.; Heinrichs, M; Zak, P.J.; Fischbacher, U.; Fehr, E. (2005). "Oxytocin increases trust in humans". Nature. 435 (7042): 673–676. doi:10.1038/nature03701. PMID 15931222.
 19 Bowles, Samuel and Herbert Gintis "A Cooperative Species: Human Reciprocity and its Evolution" (Princeton University Press; Reprint edition)
 
-* There are three ways of dealing with difference: domination, compromise and integration. By domination only one side gets what it wants; by compromise neither side gets what it wants; by integration we find a way by which both sides may get what they wish. [NVC supports integration ;) ] link:https://www.toolshero.com/toolsheroes/mary-parker-folett/#:~:text=Mary%20Parker%20Follett%20quotes,is%20to%20create%20more%20leaders.%E2%80%9D[Mary Parker Follett], link:miki.kashtan_2020[(Miki Kashtan: Exiting the Either/Or Trap - Beyond Consensus vs. Command and Control: 30:14-32:57)]
+* There are three ways of dealing with difference: domination, compromise and integration [consensus]. By domination only one side gets what it wants; by compromise neither side gets what it wants; by integration [consensus] we find a way by which both sides may get what they wish. [NVC supports integration ;) ] link:https://www.toolshero.com/toolsheroes/mary-parker-folett/#:~:text=Mary%20Parker%20Follett%20quotes,is%20to%20create%20more%20leaders.%E2%80%9D[Mary Parker Follett], link:miki.kashtan_2020[(Miki Kashtan: Exiting the Either/Or Trap - Beyond Consensus vs. Command and Control: 30:14-32:57)]
 
 * Internalized Powerlessness: link:https://www.youtube.com/watch?v=Qvmqeeme42M&feature=youtu.be&t=1008[(Miki Kashtan: Exiting the Either/Or Trap - Beyond Consensus vs. Command and Control: 16:48-22:20)]
 
@@ -2587,8 +2602,42 @@ link:https://www.youtube.com/watch?v=jArsTeP66FE&feature=youtu.be&t=5863[Film 02
 * There are no jackals. That all jackals are just illiterate girrafes, giraffes with a language problem.
 
 * link:https://www.youtube.com/watch?v=KdFc2B-tZLc[Marshall Rosenberg - Making Life Wonderful 2/4 - Nonviolent Communication NVC]
-  ** ~18:00-
-    *** protective use of force
+  ** 2:37-2:57 https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=2486
+    *** ... *because our most ugly, aggravating jackal is our best guru. We stand more to benefit, more to learn from those people who's beauty we cannot see, that anybody else. They're our best teachers.*
+  ** 7:43-12:16 https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=462
+    *** *I just want you to be conscious that this person isn't making you angry. It's that _thought_ [the enemy image, moralistic judgment] that's making you angry.* That they're *cutting you off from your father*. Because I will bet you that that is associated in your thinking with the *violent S H word*. I hate to say it outloud. *Should*, that they *shouldn't cut you off from your father.* Do you believe that that they shouldn't do that to you? "Absolutely." *It's the S H word that makes us angry. If we didn't have the S H word in our consciousness we wouldn't have so much violence.* That's why I don't like to say it outloud. *The S H [the 'should'] word creates great violence on our planet.* +
+    In a sense it's a handy abbreviation 'cause the S H word basically means "The other person is bad and deserving a punishment". It's all contained in that S H word. +
+     +
+    *Should = "This person is bad" + "This person is deserving a punishment."* +
+     +
+    *It's an abbreviation since we use it so much, we have so much violence that we wanna blame and [do other life and relationship damaging things] ... But you don't have to say it. It's implicit.*
+    *** *Never hear what a jackal thinks. Especially never hear the 'should' word. Don't hear it! Don't go there! Life isn't fun when we join the other person in their thinking. Go to their heart! There is no 'should' in their heart.* ... Especially someone in an authority. I hope everybody in here had their children already convinced of that. To tell your children *"Never hear what I say you should do."*
+    *** [11:57] [If you use] any one of those words, the problem is, you pay for those words. ... Read about Type A thinking and the effect it has on heart disease [This research had been already criticised because multiple variables play a role in heart disease prevention. But it also may contribute to getting a heart disease]. Because [these feelings and words] are not only destructive to our spirit. It's also very destructive to our bodies. These are not natural feelings. +
+    *In Daniel Goleman's book Emotional Intelligence, when a need isn't getting met it gives off energy* which we call *feelings*. *The feelings tells us the need isn't getting met, they mobilize us to action, to get something done. So this wonderful energy gets channeled into need serving action.* ... *[With] any living fenomenon this happens. The need when it's not being met [and also when it does get met] emits energy source which is the feeling...* [The intensity of the feeling depends on to what extent the need was being met.] +
+    *but we human beings, we had this trick played on us ...: The need isn't getting met, but we don't have a _need consciousness_.* [does it somehow relates to _class consciousness_? I wonder...] *We've been educated not to be in touch with our needs. So we go to _enemy images_. "He should ...!", "He's irresponsible!", "That's selfish!", "Shurking duties!" We have our head filled with thousands of [enemy images]. And when our head is filled this way, we're gonna feel one of [these unnatural] feelings:* +
+    **** *depression, guilt and shame* if we direct the judgement to ourself. "I was irresponsible." guilt, shame. "I'm a failure." depression 
+    **** ... if we direct it outward: *anger* +
+     +
+    *But notice what's happened. We're cut off from life. We're not really alive, we're not in touch with life.* +
+    And then *what kind of energy will this give us?* *Punitive action*, not need serving action. *We want to blame and punish this rascal.* Yea, *there is a need down there that isn't getting met, but we've lost connection with that. We're up in our head judging [analyzing, diagnosing, having an enemy image of] the other person. All we want is is to see that person suffer.* +
+     +
+    Especially when we have the other dangerous word in our head along with the S H word. *Much of our violence comes from the S H word ['should'], and the D E word ['deserve'].* All you gotta do is to think somebody deserves something and, oh, you're violent. +
+    Think that because somebody does something they deserve to be rewarded. +
+    Think that because somebody does something they deserve to suffer, they deserve to be punished. +
+    A very dangerous word. And put those two together: *"He's doing what he shouldn't! He deserves to..."* +
+    *Rewards are violent ... because they are part of 'power over' [game or authority model]. One person trying to use the power that they have _over_ another person.* +
+    *[For example] I have some money and you don't have, so I say: "You do this, I'll give you the money." ["Za čo ťa platím!"] You need to eat. "I'm not gonna give you the money unless you do this."* That's a way of using power over people.
+  ** 18:42-19:40 https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=1122
+    *** Let's set boundaries, it's very important. But not [only] for children. [Set boundaries] for every human being. +
+     +
+     *Any human being who is violating a need of yours, and is unwilling to negotiate about it, tell them what you're gonna do, and do it. Use protective use of force. But do that with everybody.* +
+      +
+     Don't think that's just with children. *We all need clarity.* +
+     *If a basic need of yours is not getting met in your relationship with me and I'm not willing to talk about it, tell me what you're gonna do to protect yourself and do it! But don't use any punishment [because punishment never works in building a connection, a relationship iwith the other person]. Don't get [boundaries and discipline] mixed up with punishment.* +
+     *No, [not just] children need punishment. [Noone needs a punishment. Punishment it's a strategy, not a need.] And not [just] children need boundaries. [Everybody needs boundary for everybody else.]* +
+      +
+     *All human beings need boundaries.* +
+     In a way that I'm describing.
   ** 22:30-25:30 https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=1350
     *** *How about grades? The only purpose I see in grades is to maintain a cast system in our society, and to hide it as a meritocracy or democracy [representative democracy, not direct democracy].* ... "I'm choosing not to give grades." ... "Half the students of this university are black, half are white, blacks get 80% of failing grades, I choose not to participate on any evaluation scheme that differentiates on the basis of race or culture [or socioeconomic status]. Also, research shows that *the more grades are given the more students lose perspective on what they're learning.* So *then they learn not for the value of what they're learning, but for the extrinsic rewards*", which of course is the *purpose in the jackal culture*. *You want people to get used to working for extrinsic rewards, things like salaries [points, grades, credits, titles, etc. so they'll be able to pollute the environment and do anything else as long as the boss tells them to do it. And then they get their rewards. So that's what you want to train them for in school.*"
     *** *"We have to have accountability!"* and I said "Now that I share the universitie's desire at that level. *We do need to know, whether people have learned, what ... the course involved.* ... *I will give you at the end of the course an instruction, a measurable assessment, of what students could do at the end that they couldn't do at the beginning.* I this respect I'm far more accountable, than a teacher who gives you a C or D. You don't know what that student could do? You will know what each of my students can do at the end what they couldn't do at the beginning." So because of that, I was being more accountable.
@@ -2598,7 +2647,7 @@ link:https://www.youtube.com/watch?v=jArsTeP66FE&feature=youtu.be&t=5863[Film 02
     *I'm saying all of these [feelings: anger, depression, guilt, shame and maybe rage, hate, jealousy and envy] can be productive if you do the following work:*
     . If you identify the thinking that is making you feel this way.
     . And if you use these feelings as an alarm clock, to tell you that part of your connection to your needs is being blocked by life alienated violence provocative thinking. ... These feelings are valuable if you use them as an alarm clock. And if you use them as an alarm clock and get connected [to your needs], you'll have more energy, not less, but the energy will be directed toward getting your need met, not to blaming or punishing yourself or others.
-  ** 33:29-34:42 https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=2009
+  ** 33:29-41:25 https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=2009
     *** *... our basic need is to enjoy life. How can we enjoy life if our needs aren't getting met? So, to enjoy life is to get our needs met in a way that doesn't create problems for us later.* Giraffes are cheap. They don't like to pay for getting their needs met.
   ** 35:35- https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=2135
     *** ... *What would you do when they're putting your people into concentration camps? ... First thing you need to do is transform all enemy images into needs. You're gonna have no power with people until you can translate your enemy images [into needs]. 'Cause as long as you see that you're more likely to generate counterviolence than cooperation.* +
@@ -2606,9 +2655,60 @@ link:https://www.youtube.com/watch?v=jArsTeP66FE&feature=youtu.be&t=5863[Film 02
     *The first thing is: _Get rid of any enemy image of the gang members._ As long as you think there is something wrong with the gang members, you'll create more violence, I predict, than cooperation.* +
     *"So we're supposed to like it that they're putting our people in the concentration camps and not feeding them, and ...!"* +
     *I'm not asking you to like it. I'm asking you to do more than that. I'm asking you to be able to see that that's _the most wonderful thing_ in the world that these people could be doing [at the level of needs - not strategy!]. "WHAT!?"* Then I explain. And it has to be sincere. "Explain..." +
-    *** 
-  ** ~1:53:00-
-    *** Prefigurative environment
+    *** When I work with my colleagues in Sierra Leone, we're looking at why would this person take a 6 year old child and heck off the arm. *If you thinks that's evil, or bad, I'm suggesting you'll create more violence [counterviolence]. [So it's the thinking that can connect or disconnect us from our own needs or from the needs of others?]* ... *The first thing is to realize, to be conscious that the person who does that does it for the same reason you and I do everything we do.* ... +
+     +
+    *Each moment every human being is doing the best they can at that moment to meet their needs.* +
+     +
+    And whatever need they have, I know also that you and I have that same need. +
+     +
+    *Needs are universal.* +
+     +
+    *Until we can start by trying to empathize with "What need is this person trying to meet by doing this?"* Until we can connect with that, as *long as we think there's something wrong with this person, that they're bad, we're gonna approach it in a way that I think we'll have less power and more chance to create counterviolence.* +
+    ... *Notice what I just said doesn't mean I have to like that behavior. It means I have to see the humanness of the person who is doing it.*
+    *** ... I wouldn't even think of getting them to empathize with why somebody has cut off the arms of one of their children, until they've healed from the pain that that's created for them. So I'm not suggesting that we start with that. But then I'm saying when we really wanna change this, in a way that doesn't create more violence, we need to *get rid of enemy images* and *[emphatize which is to] connect with what this person's needs are that are being met [or the person is trying to get met in a greater or lesser extent] by cutting off childrens arms.*
+  ** 41:26-43:06
+    *** ... control, [manipulation, power] in our culture get seen as a dirty thin 'cause we're associating it with *domination*. But we all [have a] need to have some control and power in our environment, or this is pretty scary world if we don't have some power. +
+    "But do we have any power or is it just an illusion anyway?" +
+    *I think we have enormous power with people.*
+  ** 44:25-46:51
+    *** We can speed up the healing by playing the role of a person who stimulated or caused the harm to us.
+  ** 1:47:19-1:49:19 https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=6439
+    *** You don't believe that I would like to contribute to safety in that area. ... You're affraid that I get so caught up in these other things that I lose that. ... That scares me too. ... *I get in such a whirlwind that I think is hard for any other citizen in the world to understand that on any given day, the whirlwind of pressures that I'm under, and I'm affraid that* what you're saing is true [that] *I loose connection.* +
+     +
+    *I wish I had someone daily to talk to me like you're talking to me now. That would help me stay connected. I have a lot of people to talk to every day, but it's not at this level.* +
+     +
+    *And I'm enough of a student of history to know how institutions can make Nazis out of us all.* [Gestapáci - FRIčka - enemy image] Even people with good hearts, like I think I have. *And that scares me* to be the chief Nazi in that syndrome. Beyond what I can say in words how scared I am of that. And I think *you've guessed a big fear I have that I'll get lost, I'll lose connection with my basic needs*.
+  ** 1:51:08-1:53:39
+    *** How do you keep your humanness in a complicated system where... +
+    Walter Wink said something that really helped me. He in his book _The Powers That Be_ points out that *institutions have their own spirituality*. So *how do you connect with human beings when you're working within an institution that has a spirituality that makes violence enjoyable? Or profitable?* ... *That's how you make [violence] enjoyable: to believe that [violence] is necessary and protecting the 'free' world and so forth.* They won't say enjoyable. They'll say necessary, but it's enjoyable. +
+    The answer is *you and me need to, *
+    . *first of all, know how to create that world that we want to live in ourself, while at the same time creating what Gramsci calls _Prefigurative relationships_, that is relationships that model the larger governmental structures that we would like to see in our families and in our workplaces that we can control,*
+    . *and at the same time transforming these bigger structures by gathering up other people who share our vision, and tranforming these structures. You and me are gonna do it.*
+  ** 1:56:02-1:57:07 https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=6962
+    *** ... and *I have trust that even the people that are doing most of the violence of the world have the same needs that you and I do.* I've talked to them. I've talked to many of them. I have no doubt that at the needs level, we have the same needs. ... *But they're caught up in systems where I think it's pretty hard to stay connected to their needs. There is whole lot of competing things going on.* ... *Unless they have a friend like this, they're not gonna get in touch with that pain. It is enough to keep them spinning that they're not in touch with that pain.* They're far from it. ... *It will take [a lot more] time to bring them down to that level.* [Však? Janko.]
+    
+* link:https://www.youtube.com/watch?v=bH9t1lAX2UQ[Training Session # 2 Marshall Rosenberg CNVC org]
+  ** 48:21- https://www.youtube.com/watch?v=bH9t1lAX2UQ&feature=youtu.be&t=2901
+    *** One of the things what often people go through when they're learning Nonviolent Communication and *they see how what they're telling themselves creates their feelings*, so they see that they're telling themselves thoughts like *"That was a stupid thing to do."* and it's that the way they took it that's making them feel such shame and guilt. So very often when people see that they're thinking that way that creates their feelings of shame and guilt, then they tell to themselves *"I shouldn't feel that way! What's wrong with me? I've been stduying Nonviolent Communication long enough that I should no longer think that way!"* *They judge themselves for judging themselves which just makes them feel even worse than ever.* We suggest that in learning Nonviolent Communication is very important to keep conscious at all times that +
+     +
+    *The goal of life is not to be perfect. It's to become progressively less stupid!* +
+     +
+    *Let's learn from our limitations, let's learn from our errors. See them as opportunities to develop ourselves, and to keep in mind that everything that's worth doing, is worth doing poorly.* +
+     +
+    *We never do anything wrong. We only do things that we wouldn't have done, if we knew then what we've since learned.* [link:FIXME[Wie sprichst du mit dir selber wenn du Fehler machst?]], [link:FIXME[Workshop Danemark]]
+    *** [52:35] ... But then when I caught myself blaming myself I stopped, say this self blame and asked myself: *"Wait a minute, wait a minute, wait a minute. What need of mine didn't get met by how I responded to that man?"* And right away I could see what the need was. I was not responding to him with the *respect* that I would like to respond to people. *I wasn't meeting my own need for respecting people.* When I saw that need, I was very sad. But at least I didn't feel the kind of feelings that I felt when I was blaming myself, and shame, and guild and anger toward myself. But I felt a deep sadness. I could see that I was not responding to him in a way that met my need for respecting of people. [But this not always work. Even though I connected with my needs e.g. for humanity of the pedagogy, honor to the students and understanding of the individual student's needs and empathy to those who are struggling in their studium, I still felt rage, hatered and disgust against those teachers who still treat people like pets by punishing them for things that they shouldn't do, or by throwing them a biscuit or a cookie in a form of reward [bonus point, average value of grades for scholarships instead of needs by income of the student and his or her parents], even though I knew the teachers have a need for more engagement from students, more motivation, quality of knowledge, supporting of those who really want to learn, but at the cost of ignoring the rest, discouraging ["I'm not sure this is the right school for you." Alžbeta Klaudínyová, Algebra] and eliminating them [by points, grades, credits] in order to "Fulfill the numbers" for the amount of eliminated students instead of understanding and supporting them, oppressing [Amtssprache: "You have to use this, otherwise ..."] and frightening them ["Plagiators will be punished."] in order that the students would be easier to manipulate] +
+    And then I asked myself: *"What need of mine was I trying to meet by behaving in a way that I did?"* And all of the sudden it became very clear to me what my need was. *I needed understanding for how frightening it was for me to hear somebody saying "Above all you have to teach people obedience to authority!"* The word "above all" stimulated in me memory of how in Nazi Germany people were educated to believe *"Above all you have to obey the Führer!"* +
+    *Then I saw both parts of myself. I mourned that I didn't meet my need for respect the a way I treated this person.* But I could also see that *I behaved as I did out of my need for understanding for how frightening it was for me for authorities who have this belief that "Above all we have to teach children obedience to authority!"* By being in touch with both of those needs, I had a better chance to learn because I said to myself *"How would I have liked to behave differently in that situation?"* +
+    And I realized If I have behaved differently I would have liked to understood what was the person feeling and needing behind this statement *"Above all we have to teach people obedience!"* And I realized, he probably had a *need for order and safety* in the schools and believes that this is important for having rules to maintain this order and safety. And I had the same needs. *So then I could see that we didn't have different needs. We may have different strategies, but we didn't have different needs.* +
+    *I saw that if I would have heard that message with empathy* and seen that we have the same needs, I would have responded to him in a much different way. In a way that I believe *we could have learned from each other without becoming enemies.* +
+    ... and *then I could show him that I was also in favor of rules, but then I showed him a different way of establishing rules and rules based on [consensus and] the protective use of force, and not the punitive use of force*, and we connected in a very positive way. +
+    So I offered this as an example *how we can learn from our limitations without blaming ourselves, hating ourselves*, and *we do that by being conscious of what need isn't met by our behavior*, and *then empathizing with what needs we're trying to meet at those times that we are behaving in a way that doesn't meet some of our needs.*
+  ** 58:10- https://www.youtube.com/watch?v=bH9t1lAX2UQ&feature=youtu.be&t=3490
+    *** ...
+    
+* 
+  ** 57:51- https://www.youtube.com/watch?v=rWdQ7mKsQIc&feature=youtu.be&t=3471
+    *** ...
   
 == Fundamental Attribution Error
 
