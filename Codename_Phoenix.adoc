@@ -84,7 +84,7 @@ link:https://static1.squarespace.com/static/52898555e4b0d5b9928e8aa5/t/575773a58
 * equality / Gleichheit / rovnosť
 * predictability / Vorsehbarkeit / predvídateľnosť
 * power (with) / Macht (mit) / moc (s) +
-link:https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=2486[Marshall Rosenberg - Making Life Wonderful 2/4 - Nonviolent Communication NVC: 41:26-]
+link:https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=2486[Marshall Rosenberg - Making Life Wonderful 2/4 - Nonviolent Communication NVC: 41:26-43:06]
 * (direct) democracy / (direkte) Demokratie / (priama) demokracia
 * strength / Kraft / sila
 * protective use of force / beschützende Nutzung der Kraft / použitie sily na obranu
@@ -107,7 +107,7 @@ link:https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=2486[Marshal
 
 ---
 
-* *affection / Zuwendung / náklonnosť*
+* *affection / Zuwendung, Zuneigung / náklonnosť*
 * love / Liebe / láska
 * tenderness / Zärtlichkeit / neha
 * sensuality / Sinnlichkeit / zmyselnosť
@@ -128,7 +128,9 @@ link:https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=2486[Marshal
 * friendship / Freundschaft / priateľstvo
 * mourning / Trauern / smútenie
 * importance (of my needs) / Wichtigkeit (meiner Bedürfnisse) / dôležitosť (potrieb)
-* consciousness that my needs matter, that my needs are important and taken into consideration / Bewusstsein, dass meine Bedürfnisse wichtig sind, und in Frage genommen sind / vedomie, že na mojich potrebách záleží, že moje potreby sú dôležité a brané do úvahy
+* consciousness that my needs matter, that my needs are important and taken into consideration, that I mean something to somebody / +
+Bewusstsein, dass meine Bedürfnisse wichtig sind, und in Frage genommen sind, dass ich jemandem etwas bedeute / +
+vedomie, že na mne a mojich potrebách záleží, že moje potreby sú dôležité a brané do úvahy, že pre niekoho niečo znamenám
 * consideration / Rücksicht / ohľad (Precondition: importance / that my needs matter)
 * respekt / Respekt / rešpekt (Precondition: importance / that my needs matter)
 * honor / Ehre / úcta (Precondition: importance / that my needs matter)
@@ -136,19 +138,21 @@ link:https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=2486[Marshal
 * tolerance / Toleranz / tolerancia
 * relationships / Beziehungen / vzťahy
 * nurturing, upbringing / Erziehung / výchova
+* humanity / Menschlichkeit / ľudskosť
 * interdependency / ??? / ???
+* humility / Bescheidenheit ??? / pokora, skromnosť
 * _recognition, acknowledgement / Anerkennung / uznanie_
 * _appretiation / Wertschätzung / ocenenie_
 * _gratitude / Dankbarkeit / vďačnosť_
 * [line-through]#apology Verzeihung / ospravedlnenie#
-** (*masked need for empathy*: link:https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=4602[Marshall Rosenberg - Making Life Wonderful 2/4 - Nonviolent Communication NVC: 1:16:42-1:17:39]), When we empathize, there is nothing to forgive. link:???[(San Fran Workshop)], Forgiveness and empathy are the same thing [in the language of life.] link:???[(SELF EMPATHY)]
+** *apology* is just a *masked need for empathy*: link:https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=4602[Marshall Rosenberg - Making Life Wonderful 2/4 - Nonviolent Communication NVC: 1:16:42-1:17:39], When we empathize, there is nothing to forgive. link:???[(San Fran Workshop)], Forgiveness and empathy are the same thing [in the language of life.] link:???[(SELF EMPATHY)]
+* [line-through]#codependency / ??? / ???#
 * [line-through]#approval / Genehmigung / dovolenie, odobrenie#
 * [line-through]#affirmation / Bestätigung / potvrdenie#
 * [line-through]#sex / Geschlechtsverkehr#
 * [line-through]#sexuality / Sexualität / sexualita#
 * [line-through]#duty, obligation / die Pflicht / nutnosť, povinnosť#
 * [line-through]#commitment / Verpflichtung / obetavosť, oddanosť#
-* [line-through]#codependency / ??? / ???#
 
 ---
 
@@ -166,6 +170,8 @@ link:https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=2486[Marshal
 * goal / Ziel / cieľ
 * effectivity [Does it work, or not? - boolean] / Effektivität / efektivita
 * efficiency [How well does it work? As much as possible in as little time as possible, e.g. in case of algorithms or other things not people!] (in comparison to other things, not people) - float, percent) / Effizienz / efektivita
+* sufficiency / Suffizienz, Angemessenheit / dostatočnosť
+* excellence / Exzellenz, 
 * growth / Wachstum / rast
 * development / Entwicklung / rozvoj, vývoj (Precondition: individual initiative, dedication link:https://www.youtube.com/watch?v=lfkZJDxC-YY&feature=youtu.be&list=PLAWpwCQqndn68ADSHK1vsFUQ93n3hLcv4&t=1584[(source)])
 * consciousness / Bewusstsein / vedomie
@@ -194,9 +200,11 @@ link:https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=2486[Marshal
 * thoroughness / Gründlichkeit / dôkladnosť, dôslednosť
 * correctness / Richtigkeit / správnosť
 * validity / Gültigkeit / platnosť
+* match / Übereinstimmung / zhoda
 * seriousness / Ernsthaftigkeit / vážnosť
 * transparency / Transparenz / transparentnosť, priehľadnosť
 * links, coherences, context / Zusammenhänge, Kontext / súvislosti
+* consecutiveness / die Aufeinanderfolge / následnosť
 * _complication / Komplikation_
 * _problem / Problem_
 * _mistake, error / Fehler / chyba_
@@ -219,7 +227,8 @@ link:https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=2486[Marshal
 * sharing / Teilen / zdieľanie
 * inclusion / Einbeziehung / začlenenie
 * integration / Integration / integrácia
-* common good / Gemeinwohl / verejné blaho
+* common good / das Gemeinwohl / verejné blaho
+* contribution / der Beitrag / prínos
 * [line-through]#competition / Wettbewerb, Wettkampf / súťaž#
 * [line-through]#competition / Konkurenz / konkurencia#
 * [line-through]#race / Rennen / závodenie, preteky#
@@ -257,7 +266,8 @@ link:https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=2486[Marshal
 ---
 
 * *creation, creativity / Schöpfung, Kreativität / tvorivosť*
-* imagination / Fantasie, Vorstellungskraft / fantázia, predstavivosť
+* imagination / Vorstellungskraft / predstavivosť
+* fantasy / Fantasie / fantázia
 * inventiveness / Ideenreichtum / nápaditosť
 * play / Spiel / hra
 * beauty / Schönheit / krása
@@ -291,10 +301,13 @@ link:https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=2486[Marshal
 * alternative / Alternative / alternatíva
 * cohesion / Kohäsion / kohézia, súdržnosť
 * coupling / Kopplung / väzbovosť
-* match / Übereinstimmung / zhoda
+* encapsulation / / zapuzdrenie
+* abstraction / Abstraktion / abstrakcia
+* polymorphism / Polymorphismus / polymorfizmus
+* diversity / Vielfalt(igkeit) / rôznorodosť, diverzita
 * roughness / Rauheit / drsnosť
 * smoothness / Glätte / hladkosť
-* diversity / Vielfalt(igkeit) / rôznorodosť, diverzita
+* saturation / Sättigung / sýtosť
 * transparency / Durchsichtigkeit / priehľadnosť
 * _extrinsic motivation / extrinsische, äußere Motivation / vonkajšia motivácia_
 * _smell / der Gestank / zápach_
@@ -716,6 +729,7 @@ spreche, mit jemandem spreche, schreibe, zuhöre, mich dusche, mich mit kaltem W
 - Efficiency vs Sufficiency and Well-being - link:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3357638/#Sec4title[Manfred Max-Neef - The World on a Collision Course and the Need for a New Economy: Chapter "Crisis of Crises"]
 - School vs Education - Peter Gray
 - Education vs Indoctrination - link:https://www.youtube.com/watch?v=5EURJI9x9Qs&feature=youtu.be&t=771[(Manfred Max-Neef, Father of "Barefoot Economics" - Keynote at Zermatt Summit 2012: 12:51-13:41)], Peter Gray
+- Education vs Training - link:https://keydifferences.com/difference-between-training-and-education.html[Difference Between Training and Education]
 - Consensual Rule and Dogma - M. B. Rosenberg [Consensual rules: Resolving conflicts with children workshop], link:https://www.youtube.com/watch?v=5EURJI9x9Qs&feature=youtu.be&t=771[(Manfred Max-Neef, Father of "Barefoot Economics" - Keynote at Zermatt Summit 2012: 12:51-13:41)]
 - Interdependency vs Codependency - Alfie Kohn
 - Process vs Product - Rachel Rainbolt - episode with peter gray, Peter Gray - Play
@@ -782,7 +796,7 @@ link:https://en.wikipedia.org/wiki/Peter_principle#Summary[Peter Principle: Pete
 * Schritt für Schritt
   ** wie immer Kompliziert die Aufgabe sein mag, früher oder später komme ich auf die Schritte, und mache die Änderungen, implementiere die Lösung
 * strength in diversity
-* breathing in the not knowing, playing in the not knowing / atment in Ungewisse, spielen in Ungewisse link:[(Yoram Mosenzon - ???)], link:https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=4512[Miki Kashtan - Social Change Series – Liberation in Three Chapters - 1: 1:15:12-1:16:30]
+* breathing in the not knowing, playing in the not knowing / Atmen in Ungewisse, Spielen in Ungewisse link:[(Yoram Mosenzon - ???)], link:https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=4512[Miki Kashtan - Social Change Series – Liberation in Three Chapters - 1: 1:15:12-1:16:30]
 * Leidenschaft an Experimentieren
 * Begeisterung an Fortschritt
 * emotional power / emotionale Kraft
@@ -790,6 +804,9 @@ link:https://en.wikipedia.org/wiki/Peter_principle#Summary[Peter Principle: Pete
 * Life Long Learner (The Big Tripple-L)
 * ruhige, empathische Authoriät
 * Interesse an Entdeckung und Genuss von meinen selbstzerstörenden, depressiven, Ärger und Gewalt provozierenden Gedanken und Überzeugungen
+* *Dankbarkeit* für alle Gedanken, Sprache, Amtssprache, Vorstellungen, Urteile, Vorurteile, feindliche Bilder, Schmerzen, Ereignisse, Tätigkeiten die in mir Schuld, Scham, Ärger, Depression, Eifersucht, Neid hervorrufen.
+  ** Ich kann zumindest dankbar dafür sein, dass ich diese Stimulen, Gefühle und dahinter liegende Bedürfnisse wahrnehmen und benennen kann, obwohl ich in dem Moment nicht weiß, was ich damit tue. Ich atme in Ungewisse. Dankbarkeit für solche Möglichkeiten und Ereignisse, wiel ich das Denken, das den Frieden unterstützt üben kann, statt des Denkens, das die Gewalt provoziert und genussbar macht. Gewalt gegen mir. Gewalt gegen Anderen. Hoffnung, dass Empathie mir dabei hilft.
+* Massive power of nonviolence
 
 *2.) Preparation / Vorbereitung*
 
@@ -1633,6 +1650,13 @@ In 1945 Maria Montessori started to revive and reestablish her education in pres
 
 * Maria Montessori didn't see any virtue in obeying. link:???[Episode_143-Maria_Montessori-thehistorychicks: 1:35:48-1:35:53]
 
+* Unnecessary external discipline would actually provoke rebellion. +
+link:https://www.international-montessori.org/wp-content/uploads/2013/12/March-2016-Newsletter-English.pdf[From concrete to abstract thinking - What is abstract thinking - Montessori Motion 25/2 2016 March page 9]
+
+* Concrete adult thinkers discourage others who explore new angles. They
+do not like alternatives routes or questioning 'facts', or spending time on 'useless' ideas. +
+link:https://www.international-montessori.org/wp-content/uploads/2013/12/March-2016-Newsletter-English.pdf[From concrete to abstract thinking - Progression of the mind of the growing child - Montessori Motion 25/2 2016 March page 12]
+
 * link:https://www.youtube.com/watch?v=x4qRZt0VCak[Alfie Kohn at the OFJCC: Performance vs. Learning - The Costs of Overemphasizing Achievement]
   ** 12:36-13:22
     *** *Praise, like other rewards, are just control through seduction.*
@@ -1944,13 +1968,13 @@ Sources:+
   ** 48:09- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=2889
   ** 50:34- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=3034
     *** *Restoring the centrality of the needs is an entirely subversive move.*
-    *** *In society at large, it is incredibly destabilizing for people to imagine, shifting from "you earn what you deserve" to "you receive what you need on the basis of there being enough". ... It question too much of what we take for granted.*
+    *** *In society at large, it is incredibly destabilizing for people to imagine, shifting from _"you earn what you deserve"_ to _"you receive what you need on the basis of there being enough"_. ... It question too much of what we take for granted.*
   ** 51:47- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=3107
   ** 54:50- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=3290
   ** 55:47- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=3347
   ** 1:04:12- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=3852
   ** 1:04:40-1:05:47 https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=3880
-    *** *When you put needs at the center everything changes. ... What it would look like to put needs in the center rather than concepts. Not even the concepts of rights. Because rights, again, it's a human construct, and then we can debate about it. *Needs are biologically and relationaly given. [Needs] are indisputable. [... because all human beings have the same needs. - M.B. Rosenberg]* "The human beings of the future will be rich in needs. Whereas the human being under capitalism is reduced to one need, which is the need to have [and have more]".
+    *** *When you put needs at the center everything changes. ... What it would look like to put needs in the center rather than concepts?* Not even the concepts of rights. Because rights, again, it's a human construct, and then we can debate about it. *Needs are biologically and relationaly given. [Needs] are indisputable. [... because all human beings have the same needs. - M.B. Rosenberg]* "The human beings of the future will be rich in needs. Whereas the human being under capitalism is reduced to one need, which is the need to have [and have more]".
   ** 1:08:05- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=4085
   ** 1:08:28- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=4108
   ** 1:09:21- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=4161
@@ -2199,7 +2223,7 @@ Sources:+
 ** *In a hierarchy every employee tends to rise to his level of incompetence.*
 ** *In time, every post tends to be occupied by an employee who is incompetent to carry out its duties.*
 
-* Think for yourself and question authority. link:https://en.wikiquote.org/wiki/Timothy_Leary#Quotes[Timothy Francis Leary]
+* *Think for yourself and question authority.* link:https://en.wikiquote.org/wiki/Timothy_Leary#Quotes[Timothy Francis Leary]
 
 * link:https://www.youtube.com/watch?v=hb47PeiQCAE[Shape The World 2019 and Consulus 15th Anniversary Gala Dinner - Lawrence Chong]
 ** 4:00-4:54 https://www.youtube.com/watch?v=hb47PeiQCAE&feature=youtu.be&t=240
@@ -2306,7 +2330,7 @@ Sources:+
     *** Preconditions of violence: absence of nonviolence and nonviolent activities, absence of guilt feelings. [reference to Alfie Kohn - here's where the unconditional parenting becomes relevant to preventing violence]
     *** "Nobody can give somebody else self-respect. People can only gain that for themselves. The rest of us can influence whether they're able to do that, and one way we can is by determining whether or not the individual has access to the resources that people need in order to gain self-respect. Including, for example, education or a good job." [Malcom X - paraphrased], link:https://www.youtube.com/watch?v=_rSYiy420B0&feature=youtu.be&t=4224[1:10:24-1:11:32]
   ** 1:03:45-1:06:06 https://www.youtube.com/watch?v=_rSYiy420B0&feature=youtu.be&t=3825
-    *** ... but the ususal public attitude ... is "There's nothing you can do with this population." It's like what ... I have been thaught before I first went into the prisons: "These people are untreatable. It's hopeless. Intractable. All you can do is lock them up and throw away the key." That is totally untrue. Another lesson is ... that punishment is not the answer. Although I do think that people who are harming others do need to be isolated from the community and restrained from harming others. I don't believe that throwing away the key and letting everybody out anymore, than locking them up and throwing away the key. Both of those are equally unworkable. When someone is robbing and murdering you've got to protect the public for as long time as they're continuing to be dangerous. But above and beyond that, punishment, that is the [retributive] infliction of further pain, is totally unnecessary once you've made the community safe by putting them behind locked doors. Further pain, which we call punishment, only increases the amount of violence they commit, or will commit in the future, not to mention the violence they commit in the jai or prison. So, I believe in ... restraining people who are hurting other people the same way I believe to restraining a two-year old who's running in front of traffic. If they don't respond to words and stop, you grab them, you put your arms around them, and you pull the back, so they won't get hurt [protective use of force]. But you don't hurt them. The whole point of all of this that they don't get hurt. Unfortunatelly, we've forgotten to treat adults the way we take for granted we would treat children. But adults respond to the same psychology. *The more punitive we are, the more violent society we have.* For example, the most extreme form of punishment is capital punishment.
+    *** ... but the ususal public attitude ... is "There's nothing you can do with this population." It's like what ... I have been thaught before I first went into the prisons: "These people are untreatable. It's hopeless. Intractable. All you can do is lock them up and throw away the key." That is totally untrue. Another lesson is ... that punishment is not the answer. Although I do think that people who are harming others do need to be isolated from the community and restrained from harming others. I don't believe that throwing away the key and letting everybody out anymore, than locking them up and throwing away the key. Both of those are equally unworkable. When someone is robbing and murdering you've got to protect the public for as long time as they're continuing to be dangerous. But above and beyond that, punishment, that is the [retributive] infliction of further pain, is totally unnecessary once you've made the community safe by putting them behind locked doors. Further pain, which we call punishment, only increases the amount of violence they commit, or will commit in the future, not to mention the violence they commit in the jai or prison. So, I believe in ... restraining people who are hurting other people the same way I believe to restraining a two-year old who's running in front of traffic. If they don't respond to words and stop, you grab them, you put your arms around them, and you pull the back, so they won't get hurt [protective use of force]. But you don't hurt them. The whole point of all of this that they don't get hurt. Unfortunatelly, we've forgotten to treat adults the way we take for granted we would treat children. [I see it working both ways so that we can justify the violence done to children as well.] But adults respond to the same psychology. *The more punitive we are, the more violent society we have.* For example, the most extreme form of punishment is capital punishment.
   ** 1:07:54-1:09:08 https://www.youtube.com/watch?v=_rSYiy420B0&feature=youtu.be&t=4074
     *** ... [we know a lot more about violence than we did 40-some years ago in Massechusets Norfolk Prison - my first prison. 1:11:10] And ... our task now is to try to not only to educate ourselves about it, but also educate ... other people in positions of influence and authority. ... if you grasped the general principles I'm talking about, ... you can see for yourself how to apply them in your own particular context.
   
@@ -2485,7 +2509,7 @@ Six hour of academics is more than enough.
     
 * People of all ages are more likely to perservere when they have a chance to make the decisions about the things that affect them. Therefore, if someone doesn't persist, he or she was to some extent excluded from decision-making, rather than he or she didn't have enough self-discipline. [Alfie Kohn Symposium on Youngest Citizens]
 
-* Miki - I have some say ... . link:???[Miki - Liberation 2: ???]
+* Miki - If I have some say ... . link:???[Miki - Liberation 2: ???]
 
 * Kohn - Kids have some say ... . link:???[Alfie Kohn - Youngest Citizens]
 
@@ -2494,6 +2518,20 @@ Six hour of academics is more than enough.
 ** link:https://www.youtube.com/watch?v=h4fQEn15NgI&feature=youtu.be&t=575[[9:35]-9:47] ... It's because the moment you have large, heavy objects [cars, buildings], they fall under government regulation [endless laws] in various ways, and that regulation is ultimately enforced by violence and that violence is a sort of a thing that we often oversee ...
 ** link:https://www.youtube.com/watch?v=h4fQEn15NgI&feature=youtu.be&t=575[[12:09]-13:41] Violence becomes incorporated into our world in ways we don't recognize it. ... Even the structural vivolence: there are forms of inequality and oppression which are ultimately displacement of violence. So racism, is a form os structural violence, sexism, patriarchy. *These are forms of inequality that have violent effects.* ... *It's actually the violence that holds the entire thing together* and away there are displacements of violence. ... They are ultimately based on larger structures where violence is systematically deployed. ... but these structures work best when the violence isn't actually deployed.
 ** link:https://www.youtube.com/watch?v=h4fQEn15NgI&feature=youtu.be&t=903[[15:03]-16:05] ... because all forms of action are symbolic and communicative. *What interesting about violence is that it's the only form of action that has any real chance of having a systematic and predictable effect on others without the medium of symbolic communication of any kind.* ... like the're doing something, you shoot them and they stop. ... *But the effects of violence are fairly predictable ... and that very fact gives the violence a quality which almost all other forms of action lack which is that you can relatively predictable effects on the actions of other people about whom you understand nothing.* Any other way you want to affect some other person's actions you have to have some idea what they think is going on, who they think they are, who they think you are, what they want, what they fear. If you shoot them or hit them hard enough is kind of becomes irrelevant. *This is why violence is the preferred weapon of the stupid.*
+
+* *Manfred Max-Neef: Five Postulates and One Priciple of Economics* +
+A possible alternative of a new economy based on five postulates and one fundamental value principle:
+** *Postulate 1:* The economy serves the people and at the same time economy serves the people, b the people the economy
+** *Postulate 2:* Development is about people and not about objects.
+** *Postulate 3:* Growth is nto the same as development and development does not necessarily require growth.
+** *Postulate 4:* No economy is possible in the absence of econsystem services.
+** *Postulate 5:* The economy is a part of a larger, finite system, the biosphere, hence permanent growth is impossible. +
+*Fundamental value principle:* No economic interest under any circumstance can be above the reverence for life. +
+link:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3357638/#Sec13title[The World on a Collision Course and the Need for a New Economy - Manfred Max-Neef] +
+link:https://www.youtube.com/watch?v=GOLIRp9qbms[Manfred Max-Neef on Barefoot Economics]
+
+* The influence of advertising is quick, cumulative and for the most part, subconscious. +
+link:https://www.youtube.com/watch?v=Uy8yLaoWybk&feature=youtu.be&t=196[The dangerous ways ads see women | Jean Kilbourne | TEDxLafayetteCollege: 3:16-3:21]
 
 * *Pareto efficiency* or *Pareto optimality* is a situation where no individual or preference criterion can be better off without making at least one individual or preference criterion worse off. link:https://en.wikipedia.org/wiki/Pareto_efficiency[(Pareto Efficiency - Wiki)], link:https://www.youtube.com/watch?v=n5j5EW933Kw[(Economics: The User's Guide | Ha-Joon Chang | Talks at Google: ???-???)]
 
@@ -2529,6 +2567,8 @@ link:???[Jiddu Krishnamurti]
 * Let's find another way of meeting your needs that will be more effective and less costly. [M.B. Rosenberg]
 
 * Everything everybody does at every moment, does it to fullfil his or her needs. [M.B. Rosenberg]
+
+* Every judgement is a tragic, sucidal, alienated expression of a unmet, beautiful need. [M.B. Rosenberg]
 
 * Ich mache nichts falsch. Ich mache keine Fehler. Giraffen machen keine Fehler. Giraffen machen nur Sachen, die ihre Bedürfnisse erfüllen. Wir machen keine Fehler. Wir machen nur Sachen, die wir nicht gemacht hätten, wenn wir damals gewusst hätten, was wir seitdem gelernt haben. Das bedeutet nicht, dass wir perfekt sind. Das Ziel des Lebens ist nicht perfekt zu sein. Das Ziel des Lebens ist, fortschreitend weniger dumm zu sein. Das Ziel des Lebens ist zu feiern, wenn unsere Bedürfnisse erfüllt werden, und trauern, wenn nicht. link:youtube???[M.B. Rosenberg - Creating a Life Serving System Within Oneself], link:youtube???[M. B. Rosenberg - Wie sprichst du mit dir selber wenn du fehler machst?]
 
@@ -2854,6 +2894,7 @@ link:https://www.profolus.com/topics/four-types-of-alienation-according-to-karl-
 * Schweiz - direkte Demokratie; Kantone
 * Madagascar - Anarchy
 * Orang Asli and other indigenous cultures - Malaysia
+* Ojibwe people (and other indigenous people in North and South America)
 
 == Warum will ich programmieren?
 
@@ -2963,33 +3004,43 @@ expressive writing, empathy, NVC
 * https://safety.gwu.edu/common-reactions-trauma
 * https://safety.gwu.edu/sites/g/files/zaxdzs2386/f/downloads/Common%20Reactions%20to%20Trauma_4.pdf
 
-== Diseases / Erkrankungen / Choroby
+== Diseases, Illnesses / Erkrankungen, Krankheiten / Choroby
 
+* IBS: Irritable Bowel Syndrome [for the lack of a better name]
+* Belching
+* Flatulence
+* Heartburn
+* Stomach pain
+* Overeating
 * Bruxism
 * Snorring
 * PTSD
 * OCD
-* IBS: Irritable Bowel Syndrome
+* Depression
+* Suicide thoughts
+  ** https://echt-leben.com/mein-selbstmordversuch-hilfe-fuer-betroffene-und-angehoerige/
+    *** Nimm dein eigenes Leiden, multipliziere es mit 10 und du erhältst den Schmerz, den all deine Angehörigen über JAHRE hinweg (oder zum Teil ihr ganzes Leben lang) fühlen werden, wenn du dir das Leben nimmst.
+    *** Denke an sie. Denke daran, was du IHNEN damit antust. Wie du IHR Leben zerstörst. Ich weiß, das willst du nicht. Nimm deinen eigenen Schmerz, multipliziere ihn mit 10 und du hast den Schmerz, den deine Familie und Freunde über Jahre hinweg (zum Teil sogar ihr ganzes Leben lang) fühlen werden, wenn du dein Leben beendest. Selbst wenn du mit deinem Selbstmord auch Rache an den Leuten üben willst, die dich mies behandelt haben, werden die Auswirkungen deiner Tat nicht nur auf diese Leute begrenzt sein. Es werden auch andere Menschen betroffen sein, auf die du eben keine Wut hast. Der Schmerz wird auch diejenigen treffen, die für dich da waren. Er wird auch diejenigen treffen, die du magst – und diese Menschen wahrscheinlich sogar hundertmal stärker als diejenigen, die du eigentlich damit treffen willst.
+    *** Was, wenn die Seele wirklich weiterlebt und du mit denselben Problemen nun FÜR IMMER gefangen bist, weil du keinen Körper mehr hast, um die Dinge richtig zu stellen?
+    *** Nichts wäre schlimmer, als eine Ewigkeit lang zu bereuen was man getan hat. Hilflos, ohne Körper, um alles noch mal richtig zu stellen.
+* Burnout / Adrenal Fatigue [not sure]
+  ** link:https://duckduckgo.com/?q=adrenal+fatigue+burnout&iax=images&ia=images[]
+  ** link:https://hbr.org/2018/01/when-burnout-is-a-sign-you-should-leave-your-job[]
+  ** link:https://duckduckgo.com/?q=adrenalin+senken&ia=web[]
 * Impostor Syndrome
   ** Ständige Gedanken, dass ich nicht gut genug bin, und nie gut genug sein werde.
   ** Ich verdiene mir kein Erfolg; alles Erfolg ist Glück
   ** Ich werde nie gut genug, wegen dem System [training concentration, fetish for skill - Daniel Markovits]
   ** Peter Principle
   ** Ich wundere mich, wie die Institutionen, wie Schule oder Familie und andere äußere Faktoren diesen Zustand unterstützten?
-  *** FUndamental Attribution Error
+  *** Fundamental Attribution Error
   ** link:https://www.impulse.de/management/selbstmanagement-erfolg/hochstapler-syndrom/7363743.html?conversion=ads[Potenzielle Lösung]
 * fear of violence (and other things)
   ** Angst vor Gewalt von Autoritäten
-* Belching
-* Flatulence
-* Heartburn
-* Stomach pain
-* Overeating
+* ODD: Oppositional Defiant Disorder
+* ADHD: Attention Deficit Hyperactivity Disorder [possibly]
 * NCCP: Non-Cardiac Chest Pain
 * Dry skin in cold or windy environment
-* Burnout / Adrenal Fatigue [not sure]
-  ** link:https://duckduckgo.com/?q=adrenal+fatigue+burnout&iax=images&ia=images[]
-  ** link:https://hbr.org/2018/01/when-burnout-is-a-sign-you-should-leave-your-job[]
 
 === Violence / Gewalt
 
@@ -3024,7 +3075,7 @@ Step one on the scale, “the compulsion to prove oneself”, gives the biggest 
 
 link:https://medium.com/swlh/the-important-difference-between-hardwork-and-burnout-c712d4c10e95[The Important Difference Between Hard Work and Burnout]
 
-University of California Berkeley professor emerita and American social psychologist Christina Maslach’s research on burn-out defines it as a prolonged response to chronic emotional and interpersonal stressors. It manifests in a few key aspects, through physical and emotional exhaustion, socially dysfunctional behaviour and psychological impairment, and fuels organisational inefficiency.
+University of California Berkeley professor emerita and American social psychologist Christina Maslach’s research on burn-out defines it as a prolonged response to chronic emotional and interpersonal stressors. It manifests in a few key aspects, through physical and emotional exhaustion, socially dysfunctional behaviour and psychological impairment, and fuels organisational inefficiency. [And time managmeent doesn't relief the physical and psychological exhaustion anyway. link:https://www.theguardian.com/technology/2016/dec/22/why-time-management-is-ruining-our-lives[Why time management is ruining our lives]]
 
 ---
 
@@ -3040,6 +3091,18 @@ In fact, the National Workplace Safety and Health Research Agenda for Singapore 
 Organisations must treat employees as the soul of their company, rather than as resources to be expended at their disposal, says IMH’s Sara-Ann Lee.
 
 Ultimately, organisations should not lose sight of the largest piece in the puzzle – engagement.  Indeed, organisations should tread cautiously and strive to achieve a balance between increasing productivity and deleteriously endorsing a hustle culture.
+
+---
+
+* link:https://www.theguardian.com/technology/2016/dec/22/why-time-management-is-ruining-our-lives[Why time management is ruining our lives]
+** Yet if the ethos of efficiency and productivity risks prioritising the health of the economy over the happiness of humans, it is also true that the sense of pressure it fosters is not much good for business, either. This, it turns out, is a lesson business is not especially keen to learn.
+** he started arguing that ramping up the time pressure on your employees was a terrible way to drive such projects forward. What was needed, he had come to realise, was not an increased focus on using time efficiently. It was the opposite: *more slack*.
+** “The best companies I visited, all through the years, were never very hurried,” DeMarco said. “Maybe they used pressure from time to time, as a sort of amusing side-effect. But it was never a constant. Because you don’t get creativity for free. You need people to be able to sit back, put their feet up, and think.” Manual work can be speeded up, at least to a certain extent, by increasing the time pressure on workers. But *good ideas do not emerge more rapidly when people feel under the gun – if anything, the good ideas dry up*.
+** Part of the problem is simply that thinking about time encourages clockwatching, which has been repeatedly shown in studies to undermine the quality of work.
+** The mere awareness of their limited time triggered anxious emotions that got in the way of performance.
+** The more efficiently they manage their time, the fuller their schedule will be ...
+** *“An organisation that can accelerate but not change direction is like a car that can speed up but not steer,” DeMarco writes.* “In the short run, it makes lots of progress in whatever direction it happened to be going. *In the long run, it’s just another road wreck.” He often uses the analogy of those sliding number puzzles, in which you move eight tiles around a nine-tile grid, until all the digits are in order. To use the available space more efficiently, you could always add a ninth tile to the empty square. You just wouldn’t be able to solve the puzzle any more. If that jammed and unsolvable puzzle feels like an appropriate metaphor for your life, it’s hard to see how improving your personal efficiency – trying to force yet more tiles on to the grid – is going to be much help.*
+** [Time management, efficiency and personal productivity] is a convenient ideology from the point of view of those who stand to profit from our working harder, and our increased capacity for consumer spending.
 
 == Why did I create this?
 
@@ -3442,7 +3505,12 @@ Ako vyhadzujem veci - najprv odlozim nepotrebnu vec bokom [na odložisko] na chv
 ---
 
 What capitalism and cancer have in common? +
-Both want to continuously grow and control the entire body. Maybe we have a sick economic system... and all similar to it. Communism, Fascism, or any 'one-right-way' ideology. Truths are multiple. Life has multiple layers - as many, as there are sciences, maybe even more. I don't believe there is one 'best' ideology. There isn't one. There is no such thing as 'one best ideology'. Even pluralism or fallibilism. *Sind etwa Pluralismus und Fallibilismus nicht etwas Ähnliches, was die Manager sagen über 'open-mind', 'be inovative', 'think out of the box'.* Solutions are likely to be heterogenous, heterodox.
+Both want to continuously grow and control the entire body. +
+ +
+Growth for the sake of growth is the ideology of the cancer cell. + Cell.link:https://www.method41.com/blog/2018/11/growth-for-the-sake-of-growth-is-the-ideology-of-a-cancer-cell/[Edward Abbey] +
+ +
+Maybe we have a sick economic system... and all similar to it. Communism, Fascism, or any other 'one-right-way' ideology. Truths are multiple. Life has multiple layers - as many, as there are sciences, maybe as many as there is people on the earth, maybe even more. I don't believe there is one 'best' ideology. There isn't one. There is no such thing as 'one best ideology'. Even pluralism or fallibilism. *Sind etwa Pluralismus und Fallibilismus nicht etwas Ähnliches, was die Manager sagen über 'open-mind', 'be inovative', 'think out of the box'.* Solutions are likely to be heterogenous, heterodox. +
+Wahrheiten gibt es mehrere. Ursachen der Probleme sind mehrere. Schuld ist kollektiv. Lösungen sind komplex.
 
 ---
 
@@ -3541,6 +3609,32 @@ Je milosrdenstvo to isté ako empatia? Súcit? Vcítenie?
 
 ---
 
-Stále znova a znova sa presviedčam, že ja nepotrebujem peniaze. Ja potrebujem učiť schopnosti a budovať vzťahy.
+I don't need money. I need skills, abilities, relationships.
+Stále znova a znova sa presviedčam, že ja nepotrebujem peniaze. Ja sa potrebujem učiť schopnosti a budovať vzťahy.
 
 ---
+
+Feeling is also an information. Not only a fact is an information. +
+Gefühl ist auch eine Information. Nicht nur ein fakt ist eine Information. +
+Pocit je tiež informácia. Nie len fakt je informácia.
+
+---
+
+Der Lehrer lehrt den Studenten nicht nur die Fakten. Der Lehrer lehrt den Studenten auch die Nutzung der Macht. +
+https://www.theatlantic.com/education/archive/2016/07/students-broken-moral-compasses/492866/ +
+Warum lehrt man Empathie nicht in Schulen, wenn es so vielen Menschen hilft? Warum, Marshall? +
+Ich lehre keine Programmierer. Ich lerne Menschen die programmieren. Menschen, keine Objekte, keine Produktionsmittel, keine Menschenressourcen, keine Sklaven, keine Schafe. Menschen. Menschen die sich einfühlen können und den Sinn ihrer Arbeit kennen.
+
+---
+
+Odradek. Vielleich auch der größte Niemand kann auch zu etwas nützlich sein. [reference to "Death Stranding" and "The Cares of a Family Man" - Franz Kafka
+
+---
+
+I do identify with all, none and any single '-ism' or religion. +
+Ich identifiziere mich mit allen, keinen und keinem einzigen '-ismus' oder Religion. +
+Identifikujem sa so všetkými, žiadnymi a žiadnym jedným '-izmom' alebo náboženstvom.
+
+---
+
+The more effective I am, the closer to burnout I get.
