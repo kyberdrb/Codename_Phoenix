@@ -3496,6 +3496,8 @@ expressive writing, empathy, NVC
 * ODD: Oppositional Defiant Disorder
 * ADHD: Attention Deficit Hyperactivity Disorder [possibly]
 * Anhedonia: inability to enjoy life
+* Learning disability: in some aspects; I learned various things, but e.g. not programming, fluent English or German, enjoying the presence of other people, regulating emotions, enjoying talking with women, keeping calm when other people talk to me with raised voice
+* Difficulty understanding other people's opinion
 
 === Violence / Gewalt
 
