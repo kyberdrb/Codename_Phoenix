@@ -322,6 +322,9 @@ vedomie, že na mne a mojich potrebách záleží, že moje potreby sú dôleži
 ---
 
 * *identity / Identität / identita*
+  ** Ja som Andrej Šišila. Opravujem, čo sa pokazilo, spájam, čo sa rozdelilo. +
+  Ich bin Andrej Šišila. Ich repariere, was kaputt wurde, ich verbinde, was getrennt wurde.  +
+  I am Andrej Šišila. I repair what got broken, I connect what got separated.
 * consistency / Konsistenz / pravidelnosť, vytrvalosť
 * integrity / Integrität / integrita, súlad
 * authenticity / Authentizität / autenticita, svojskosť
@@ -814,6 +817,7 @@ link:https://en.wikipedia.org/wiki/Peter_principle#Summary[Peter Principle: Pete
 * *Dankbarkeit* für alle Gedanken, Sprache, Amtssprache, Vorstellungen, Urteile, Vorurteile, feindliche Bilder, Schmerzen, Ereignisse, Tätigkeiten die in mir Schuld, Scham, Ärger, Depression, Eifersucht, Neid hervorrufen.
   ** Ich kann zumindest dankbar dafür sein, dass ich diese Stimulen, Gefühle und dahinter liegende Bedürfnisse wahrnehmen und benennen kann, obwohl ich in dem Moment nicht weiß, was ich damit tue. Ich atme in Ungewisse. Dankbarkeit für solche Möglichkeiten und Ereignisse, wiel ich das Denken, das den Frieden unterstützt üben kann, statt des Denkens, das die Gewalt provoziert und genussbar macht. Gewalt gegen mir. Gewalt gegen Anderen. Hoffnung, dass Empathie mir dabei hilft.
 * Massive power of nonviolence
+* úcta k práci druhých ľudí
 
 *2.) Preparation / Vorbereitung*
 
@@ -1438,6 +1442,10 @@ of control.
 And you play at [self-chosen] activities until you become good at them. [link:https://soundcloud.com/greatergoodsojai/peter-gray[Peter Gray - Biological Foundations for Self-Directed Education: 53:15-53-20]]
 
 == Nonviolent Communication (NVC) / Gewaltfreie Kommunikation (GFK) / Nenásilná Komunikácia
+
+Nonviolent Communication is a *communication protocol* that supports unconditional giving and receiving based on mutual trust, voluntariness, willingness and empathy.
+
+---
 
 The communication that saved my life from suicide. +
 Die Kommunikation, die mich vom Selbstmord geretet hat.
@@ -2195,7 +2203,8 @@ Sources:+
     . Second of all we need to move away from a paradigm of production and consumption because we're gonna save the planet. We really need to move away from productivism. I would just propose that we just rip up the discipline of economics as it exists and start over. *We need to replace the ideas of production and consumption with care and freedom.* Even if you're making a bridge, you make a bridge because you care about the people can get across the river. You make a car because you care that people can get around. Even production  is a one subordinate type of care. What we do as human beings we take care of each other. Care is closely related to the notion of freedom because care is normally defined as answering to other peoples needs. But it's not just that. It's more that that. Why, for example, a prison isn't a caregiving institution, whereas something else might be? If you think about care, what is the paradigm for caring relations between a mother and a child? A mother, or a parent, takes care of a child, so that the child can grow, and be healthy and flourish. But on an immediate level, *you take care of a child [or somebody/something] so the child can go and play [Peter Gray]*. That's what children actually do when you're taking care of them. *What is play? Play is an action done for its own sake [Flow - The activity is autotelic]. It's in a way the very paradigm for freedom* because action done for its own sake is what freedom really consists of. *Play and freedom are ultimately the same thing.* A production-consumption paradigm for what an economy is, is a guarantee for ultimately destroying the planet and and each other. We need to break away from from the paradigm of degrowth entirely as well. *Care and freedom on the other hand you can increase as much as you like without damaging anything. We need to think what are ways that we can care for each other that will make each other more free. And who are the people who are providing the care, and how can they be compensated of greater freedom? And to do that we need to actually scrap almost all of the discipline of economics as it currently exists.* Because economics as it currently exists is based on assumptions of human nature that we now know that are wrong. There have been actual empirical tests of the basic fundamental assumption on the maximizing individualism that economic theory is based on and it turns out, they're not true. It tells you something about the role of economics. This has had almost not effect on econonmic teaching whatsoever. They don't really care that it's not true. But one of the things that we have discovered, which is quite interesting, is that human beings have a psychological need to be cared for, but they have even greater psychological need to care for others, or to care for something. If you don't have that, you basically fall apart. That's why [old] people get dogs. We don't just care for each other because we want to mantain each other's lives and freedoms, but our own very psychological happiness is based on being able to care about something or someone. What would happen to microeconomics if we started from [the paradigm of care, freedom and play]. Museum of care - Rojava. Because at the moment the system of value that we have is set up in such a way that this kind of trap [or contradiction - David Harvey] that I've described and the gradual bullshittization of employment we're essentialy production work as become value onto itself in such way that we're literally destroying the planet. And in order to actually reimagine a type of economics that wouldn't destroy the planet, we have to start all over again.
 
 * link:https://www.youtube.com/watch?v=s_Z7jX0fpF8[Is Capitalism Part of the Answer? - 01 - Pro-Capitalist Mark Goyder speaks]  
-** Capitalism is an economic system in which businesses are privately owned, and goods and services are sold for profit through a market. The system depends on entrepreneurs raising money to start their businesses, and the companies being allowed to fail, if they cannot make a profit. As it has grown private ownership of companies has evolved into ownership by large scale financial institutions which pool the savings of many different investors of capital.
+** *Capitalism* is an economic system in which businesses are privately owned, and goods and services are sold for profit through a market. The system depends on entrepreneurs raising money to start their businesses, and the companies being allowed to fail, if they cannot make a profit. As it has grown private ownership of companies has evolved into ownership by large scale financial institutions which pool the savings of many different investors of capital. +
+*[Capitalism - každý proti každému, a každý sám za seba]* [narozdiel od "Jeden za všetkých, všetci za jedného" [Traja mušketieri]] +
 ** Five building blocks of capitalism:
   *** Profit (Needs)
   *** Market (Mutual aid)
@@ -3371,6 +3380,8 @@ Active Clinic
 Myslím si, že vystrčené rebrá namáhajú horný žalúdočný zvierač, preto menej tesní, oslabuje sa a potom mám každé ráno kyselinu až za podnebím.
 Rebrá sa postupne zaťahujú a moja chrbtica konečne dostáva svoj prirodzený tvar.
 
+Nádych na päť dôb, výdych na päť dôb. [Podpora parasypatického nervového systému (možno aj podpora link:https://medium.com/swlh/the-brains-default-mode-what-is-it-and-why-meditation-is-the-antidote-d0408ab989d6[DMN - Default Mode Network] - akoby cvičenie bola obvyklá činnosť.)]
+
 == Food
 
 * Slow sugars
@@ -3407,6 +3418,12 @@ Rebrá sa postupne zaťahujú a moja chrbtica konečne dostáva svoj prirodzený
 
 * Food supplements
 
+* Stomach ulcer healing + Heartburn relief + IBS treatment
+** Sodium Bicarbonate (in water)
+  *** Don't mix with Vitamin C otherwise the effect will be even worse.
+** Ascorbic acid (Vitamin C)
+  *** Don't mix with Vitamin C otherwise the effect will be even worse.
+
 ** Dietary fiber
 *** link:https://www.lekaren-bella.sk/zbozi/3634053/#letak[Prebiolax] / Vemica Psyllium PROBIO PLUS / Vemica Inulín PROBIO PLUS
 ** link:https://www.adc.sk/clanky/spravna-dispenzacia-digestiva-145.html[Digestion enzymes]
@@ -3427,10 +3444,9 @@ Rebrá sa postupne zaťahujú a moja chrbtica konečne dostáva svoj prirodzený
 * Teeth
 ** Curaprox 5460
 ** ApaCare Remineralisierende Zahncreme / link:https://zubne-pasty.heureka.sk/[dalsie zubne pasty]
-** Compostable dental floss - bambus
 ** Interdental brushes: 0.4mm, 0.7mm
 ** Tongue scraper
-** GC MI Paste Plus (with fluoride) / VOCO Remin Pro / ApaCare Repair / GC Tooth Mousse (without fluoride)
+** Meridol Mouthwasch / GC MI Paste Plus (with fluoride) / VOCO Remin Pro / ApaCare Repair / GC Tooth Mousse (without fluoride)
 
 == Psyché
 
@@ -3454,6 +3470,7 @@ expressive writing, empathy, NVC
 * Overeating - psychosomatic
 * Bruxism - psychosomatic
 * Snorring
+* Tinnitus - ringing in the ears (especially in the right one)
 * NCCP: Non-Cardiac Chest Pain - psychosomatic
 * Dry skin in cold or windy environment
 * PTSD: Post-Traumatic Stress Disorder, Trauma
@@ -3594,7 +3611,7 @@ Der Nerv wird mit dem IX. und XI. Hirnnerven (Nervus glossopharyngeus bzw. Nervu
 link:https://de.wikipedia.org/wiki/Nervus_vagus[]
 
 Parasympathische Hirnnerven - 1973 +
-Hirnnerven 9 [Nervus glossopharyngeus], 10 [Nervus vagus], 7 [Nervus facialis] und 3 [Nervus oculomororius] sind parasympathische Hirnnerven [auch Nervus accessorius ist  auch mit dem Nervus vagus verbunden] +
+Hirnnerven 9 [Nervus glossopharyngeus], 10 [Nervus vagus], 7 [Nervus facialis] und 3 [Nervus oculomororius] sind parasympathische Hirnnerven [auch der Nervus accessorius ist  auch mit dem Nervus vagus verbunden]. +
 link:https://www.praktischarzt.de/medizinstudium/12-hirnnerven-merksaetze/[]
 
 Nervus oculomotorius - Steuert Augen­bewegungen, den Lidheber sowie die Regenbogenhaut (Iris).	- somatomotorisch und parasympathisch +
@@ -3634,9 +3651,9 @@ The vagus nerve controls the parasympathetic system. It intervenes in many funct
 – Send sensory information to the brain about organ status.
 
 Vagus nerve and anxiety
-When we are subjected to stressful situations is activated the sympathetic nervous system. If the tension persists and we cannot turn off the physiological response that triggers it, it won’t pass much time before problems appear.
+*When we are subjected to stressful situations is activated the sympathetic nervous system. If the tension persists and we cannot turn off the physiological response that triggers it, it won’t pass much time before problems appear.*
 
-At brain level, this involves the activation of two pathways: the hypothalamus-pituitary-adrenal axis and the brain-intestine axis.
+At brain level, this involves the activation of two pathways: the *hypothalamus-pituitary-adrenal axis* and the *brain-intestine axis*.
 
 The brain responds to stress and anxiety by increasing the production of hormones (CRFs) that goes from the hypothalamus to the pituitary gland where induces the release of another hormone (ACTH), which in turn goes through the bloodstream to adrenal glands *stimulating cortisol and adrenaline induction*.
 
@@ -3695,12 +3712,60 @@ link:https://www.alexfergus.com/blog/how-to-easily-measure-your-heart-rate-varia
 
 All too often, the readily accessible power of the vagus nerve to lower anxiety and reduce inflammation is overlooked and underestimated. I’ve written posts here that highlight practical ways to tap into the ability of your vagus nerve to combat the cortisol-producing stress response of fight-or-flight.
 
-The vagus nerve is the prime driving force of the parasympathetic nervous system which regulates our “rest-and-digest” or “tend-and-befriend” responses. On the flip side, to maintain homeostasis, the sympathetic nervous system drives the “fight-or-flight” response. Ideally, within your autonomic nervous system, the tug of war between these two polar opposite mechanisms creates a "yin-yang" type of harmony marked by homeostatic balance.
+*The vagus nerve is the prime driving force of the parasympathetic nervous system which regulates our “rest-and-digest” or “tend-and-befriend” responses.* On the flip side, to maintain homeostasis, the sympathetic nervous system drives the “fight-or-flight” response. Ideally, within your autonomic nervous system, the tug of war between these two polar opposite mechanisms creates a "yin-yang" type of harmony marked by homeostatic balance.
 
-Additionally, the individualistic "every man for himself" zeitgeist undermines collective “tending-and-befriending” and can put someone's fight-or-flight response in constant hyperdrive with no reprieve.
+Additionally, *the individualistic "every man for himself" zeitgeist undermines collective “tending-and-befriending” and can put someone's fight-or-flight response in constant hyperdrive with no reprieve.*
 
 link:https://www.psychologytoday.com/us/blog/the-athletes-way/201705/vagus-nerve-survival-guide-combat-fight-or-flight-urges[] +
 link:https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/Vagus%20Nerve%20Survival%20Guide_Bergland.jpg?itok=-cO5w7Yj[]
+
+---
+
+Today’s blog is for the “doers”, the “givers”—for those of you who find relaxation to be unproductive and tend to work way beyond 40 hours a week at your job, with your children, around the house, caregiving, listening to friends or family member’s problems or whatever it is that keeps you “on.”
+
+We’re discussing the nervous system and why it is essential to support yours, so you do not become what’s called “*sympathetic dominant*.” This is a term which refers to someone who is stuck in “fight-or-flight” mode and can’t find their off switch.
+
+Working, texting, driving, kids, fighting with your spouse, family, or other family members,  intense exercise—these all shift us OUT of rest and digest into “fight-or-flight” mode.
+
+*The body cannot function properly, let alone heal when it is in “fight-or-flight” mode ...*
+
+*Moving into a state of rest and digest is pivotal in ALL healing protocols AND a crucial aspect of being able to CHOOSE happiness no matter WHAT is going on in your life.* [Let the Nonviolent Communication help me with that and receiving events and response as a gift full of needs which I can accept or give back gracefully, although sometimes is hard to see the beauty in the needs and see them as beautiful gifts when they're expressed in a way that I can't at the moment translate into the language of life - into Nonviolent Communication - into the language of feelings and needs and possible requests.]
+
+The autonomic nervous system regulates the function of our internal organs, such as our stomach, lungs, and heart. Essentially, it keeps the show running without us having to do anything, even while we are sleeping. *[The background thread of our body]*
+
+Within the autonomic nervous system, there are two branches: the sympathetic nervous system (arousing/fight-or-flight) and *the parasympathetic nervous system (calming/rest-digest-heal)*.
+
+The parasympathetic nervous system is all about rest and relaxation, which is essential for proper digestion and healthy reproduction.
+
+When we are in a consistent state of “fight-or-flight,” this can lead to:
+
+* Digestive issues such as constipation and bloating, *despite a healthy balanced diet*. Stress is one of the most common reasons for constipation and is a focus  within all of our programs.
+* Feelings of not being able to calm down or slow down mentally and physically.
+
+*All healing occurs in a parasympathetic state; this includes healthy digestion, detoxification, and cellular regeneration.*
+
+While both nervous systems are working simultaneously, there is always one which is more active. Almost like yin and yang, when we have a healthy balance between the two it allows our body to be at ease and able to heal.
+
+We can become sympathetic dominant by working too hard, receiving too much stimulation from phones, computers and technology, over-exercising, or just being too stressed in general.
+
+Someone who is sympathetic dominant usually has a hard time relaxing; they are always working. *Our 21st-century lifestyles have set up our nervous systems to be more sympathetic dominant* but with some consciousness around it and consistent positive lifestyle and dietary choices, we can support our bodies back into homeostasis.
+
+1: Meditation And Breathwork 
+
+3: Cold Showers
+Cold water stimulates our immune system and activates our vagus nerve, which reduces our stress response. This is a nerve that is part of our autonomic nervous system and the nerve that connects the brain and digestive tract. Think of it as the communication highway between your brain and gut.
+
+*The vagus nerve regulates our heart rate and our digestive system and how each function.*
+
+*If our vagus nerve is not working optimally, it can lead to slowed motility in our gut, weight gain, anxiety, high-stress, and nutrient deficiencies. This makes it easy to understand the long-term digestive effects of stress, including irritable bowel syndrome, colitis, and SIBO.*
+
+4: Supporting Your Sleep Cycle
+Striving for a balanced circadian rhythm is essential for healing and building a strong immune system. When we are sleep-deprived, we have increased levels of stress hormones and poor cognitive health. The majority of us need 8-9 hours of sleep a night, yet the typical American sleeps 4-6 hours a night. Add a lavender diffuser to your bedroom, and be sure to turn off all screens one hour before bedtime. Also make time to watch our Food as Medicine episode on this topic called Understanding Circadian Rhythm and Sleep where we give you practical, food-based ways to do this.
+
+9: Exercise Smart
+Often when we are stressed, we tend to gravitate towards cardio and high-movement activities.  While this can be healing for some, many people find this to be too stimulating and taxes their adrenals and nervous system even more. A grounding type exercise such as yoga, walking, or pilates can be very nourishing to a nervous system stuck in fight-or-flight. Remember, stress (and cortisol) is addictive so we often crave what will continue our imbalance, such as running fast or kick-boxing, which might stimulate us vs. engaging in an exercise better suited to downregulate an overactive nervous system. 
+
+link:https://thewholejourney.com/nervous-system-healing-tips/[]
 
 ---
 
@@ -4074,7 +4139,7 @@ Capitalism, Authoritharianism, Dictatorship and the "Free" Market give the:
 * freedom to use money for arbitrary things
 * freedom to oppress others
 * freedom to exploit others
-* freedom to profit from acts of violence (war)
+* freedom to profit from acts of violence (e. g.war)
 * freedom to profit from natural disasters
 * freedom to profit from diseases
 * freedom to profit from weapons
@@ -4092,6 +4157,14 @@ Capitalism, Authoritharianism, Dictatorship and the "Free" Market give the:
 * freedom to democratically elect your own dictator
 
 because it's good for the 'economy'.
+
+The flipside of freedom:
+* freedom to change my opinion
+* freedom to choose
+* freedom to take responsibility
+* freedom to disagree and understand
+* freedom to empathize
+* freedom to care
 
 ---
 
@@ -4380,6 +4453,9 @@ Ich kann mich für immer leiden, oder kann ich etwas dagegen unternehmen. Aber i
 ---
 
 27.11.2020 - Anfang vom NoFap-Reboot +
+ +
+Tue 8.12.2020 - The Surge +
+ +
 27.02.2021 - Potenzielle Ende des Neustartes nach etwa 90 Tage
 
 *Sources:*
@@ -4388,7 +4464,8 @@ Ich kann mich für immer leiden, oder kann ich etwas dagegen unternehmen. Aber i
 * link:https://forum.nofap.com/index.php?threads/my-story-and-tips.268831/page-4#post-2810583[]
 * link:https://forum.nofap.com/index.php?threads/my-story-and-tips.268831/page-4#post-2810633[]
 * link:https://forum.nofap.com/index.php?threads/my-story-and-tips.268831/[]
-
+* link:https://nofap.com/glossary/[]
+* link:https://nofap.com/porn-addiction/[]
 
 ---
 
@@ -4422,7 +4499,29 @@ mental illness +
 
 ---
 
-Gleichgewicht zwischen Sympathikus und Parasmpathikus. +
-Gleichgewicht zwischen der Nummer der Arbeitstage und freie Tage? So stelle ich mir den Work-Life-Balance.
+Gleichgewicht zwischen Sympathikus und Parasympathikus. +
+Gleichgewicht zwischen der Nummer der Arbeitstage und freie Tage? +
+Gleichgewicht zwischen Sympathikus und Parasympathikus innerhalb des Tages. Etwa 12 Stunden aktiv sein und, der Rest, etwa 12 Stunden erholen und schlafen. +
+So stelle ich mir den Work-Life-Balance.
+
+---
+
+Just because an authority said something doesn't mean it's true.
+
+---
+
+I disaggree, but I understand. +
+Ich stimme nicht zu, aber ich verstehe. +
+Nesúhlasím, ale rozumiem.
+
+---
+
+Šuplík a Kotúčik
+
+---
+
+link:https://slovensko.rtvs.sk/clanky/zdravie/242630/mame-malo-psychiatrov[Máme málo psychiatrov - 14. 12. 2020 16:15 | Zdravie - Rádio Slovensko - Archív]
+
+link:https://radio-arch-pp.stv.livebox.sk/a520/00/0025/002518/00251813-1.mp3[Máme málo psychiatrov - celá zvuková správa]
 
 ---
