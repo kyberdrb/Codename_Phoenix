@@ -27,6 +27,8 @@ The needs is *the only reason*, why I'm feeling the way I'm feeling. Not the act
 * nadhľad
 * prostriedok, ako nebrať veci osobne; ako sa odosobniť od vecí [Peter Buček]
 * link:https://forum.earlyretirementextreme.com/viewtopic.php?p=61330&sid=bce5b9f50cde4a2243267c00f09f0905#p61330[emotional distance]
+* noncontroversial essence
+* level of abstraction above strategies that fulfil that are the purpose of these strategies
 
 Properties of needs:
 
@@ -42,10 +44,6 @@ Properties of needs:
 * *need [bold face] / das Bedürfniss [dick geschrieben] / potreba [tučne zvýraznené]*
 * _not a need - feedback / kein Bedürfniss - eine Rückmeldung / nie je potreba - spätná väzba_ - Only as a feedback that the needs were or were not fulfilled. / Nur als Rückmeldung, dass die Bedürfnisse erfült oder nicht erfüllt wurden.
 * [line-through]#not a need - a strategy / kein Bedürfniss - eine Strategie / nie je potreba - stratégia#
-
----
-
-link:https://static1.squarespace.com/static/52898555e4b0d5b9928e8aa5/t/575773a58259b5658351e8d3/1465349030412/Needs+%26+Feelings+List.pdf[Feelings and Needs list]
 
 ---
 
@@ -101,9 +99,10 @@ link:https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=2486[Marshal
 * recycling / Wiederverwendung / recyklácia, znovupoužiteľnosť
 * cautiousness, carefulness / Vorsichtigkeit / opatrnosť
 * economy, thrift / Sparsamkeit / úspornosť, šetrnosť
-* justice, fairness, equity / Gerechtigkeit / spravodlivosť
+* [restorative] justice, fairness, equity / [wiederherstellende] Gerechtigkeit / spravodlivosť [založená na obnove (vzťahov) a oprave škôd]
 * compensation / Ausgleich / kompenzácia, odškodnenie - nie ako odplata alebo trest, ale ako pomoc pri napĺňaní nenaplnených potrieb pre niekoho iného
 * _fragileness / Zerbrechlichkeit (Bedürfnis nach Schutz (physisch) oder Empathie (psychisch)) / krehkosť_
+* [line-through]#retributive justice / vergeltende Gerechtigkeit / spravodlivosť založená na odplate#
 * [line-through]#war / Krieg / vojna#
 * [line-through]#violence / die Gewalt / násilie#
 * [line-through]#government / die Regierung / vláda#
@@ -199,7 +198,7 @@ vedomie, že na mne a mojich potrebách záleží, že moje potreby sú dôleži
 * completeness / Vollständigkeit / úplnosť
 * holism / der Holismus / celostnosť
 * depth / die Tiefe / hĺbka
-* uniformity (in Data) / Uniformität, Einheitlichkeit, Gleichmäßigkeit / uniformita
+* uniformity (in Data) / Uniformität, Einheitlichkeit, Gleichmäßigkeit (in Daten) / uniformita (v dátach)
 * readability / Lesbarkeit / čitateľnosť
 * brevity / Kürze / stručnosť
 * thoroughness / Gründlichkeit / dôkladnosť, dôslednosť
@@ -249,6 +248,7 @@ vedomie, že na mne a mojich potrebách záleží, že moje potreby sú dôleži
 * awareness / Aufmerksamkeit / pozornosť
 * celebration / Feier / oslava
 * mindfulness / Achtsamkeit / vnímavosť
+  ** reference to Default Mode Network (DMN)
 * fun / Spaß / zábava
 * humor / Humor
 * amusement / Vergnügen / potešenie, zábava
@@ -271,6 +271,7 @@ vedomie, že na mne a mojich potrebách záleží, že moje potreby sú dôleži
 ---
 
 * *creation, creativity / Schöpfung, Kreativität / tvorivosť*
+  ** reference to Default Mode Network (DMN)
 * imagination / Vorstellungskraft / predstavivosť
 * fantasy / Fantasie / fantázia
 * inventiveness / Ideenreichtum / nápaditosť
@@ -362,6 +363,7 @@ vedomie, že na mne a mojich potrebách záleží, že moje potreby sú dôleži
 * [line-through]#rules / Regeln / pravidlá#
 * [line-through]#power (over) / Macht (über) / moc (nad)# link:...[Ökonomische Pseudowerte: https://www.youtube.com/watch?v=7mRe1ntgbj8&feature=youtu.be&t=1260]
 * [line-through]#obedience / Gehorsamkeit / poslušnosť#
+* [line-through]#compliance, conformity / Übereinstimmung / súhlas, poslušnosť, poddajnosť#
 * [line-through]#money / Geld / peniaze#
 * [line-through]#success / Erfolg / úspech#
 * [line-through]#[social] status / [soziales] Status / [spoločenský] status,  stav, postavenie#
@@ -387,6 +389,10 @@ vedomie, že na mne a mojich potrebách záleží, že moje potreby sú dôleži
 * faith / Glaube / viera
 * voluntariness / Freiwilligkeit / dobrovoľnosť
 * willingness, good will / Bereitschaft, Entgegenkommen / ochota
+
+---
+
+link:https://static1.squarespace.com/static/52898555e4b0d5b9928e8aa5/t/575773a58259b5658351e8d3/1465349030412/Needs+%26+Feelings+List.pdf[Feelings and Needs list]
 
 == Feelings at unfulfilled needs (Sweet pain - Girrafe mourning) / Gefühle bei unerfüllten Bedürfnissen
 
@@ -717,7 +723,7 @@ spreche, mit jemandem spreche, schreibe, zuhöre, mich dusche, mich mit kaltem W
 - Observation vs Evaluation - Jiddu Krishnamurti, M.B. Rosenberg, link:https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=1711[Miki Kashtan - Social Change Series – Liberation in Three Chapters - 1: 28:31-29:40]
 - Honesty vs Criticism and Blame - M. B. Rosenberg [Making life wonderful - part 1/4 - somewhere at the beginning]
 - Feedback and life-serving Judgement and Evaluation for decision-making vs moralistic Evaluation and Judgement, Praise, Compliments, Reward, Blame, Criticism and Punishment - Alfie Kohn
-- Natuar vs Habitual - M. B. Rosenberg - San Francisco Workshop, Ghandi
+- Natuar vs Habitual - M. B. Rosenberg - San Francisco Workshop, Gandhi
 - Request vs Demand - M. B. Rosenberg - Portland Workshop time: ??? + resolving conflicts with children workshop time: ???
 - Power over (people and nature) vs Power with (people and nature) - Mary Parker Follett, link:https://sci-hub.st/10.5840/pom20033221[Power, Freedom and Authority in Management: Mary Parker Follett’s ‘PowerWith’ - Domènec Melé, Josep M. Rosanas] Miki Kashtan [Exiting the Either/Or Trap - 30th minute], M. B. Rosenberg, Alfie Kohn, Mark Shepard-"Power over nature vs Power with nature"
 - Authority based on 'power with' model or 'working with' approach vs Authority based on 'power over' model or 'doing to' approach - M. B Rosenberg [interview with paula gloria], Mary Parker Follett, link:https://www.youtube.com/watch?v=x4qRZt0VCak[Alfie Kohn at the OFJCC: Performance vs. Learning - The Costs of Overemphasizing Achievement: ~38:00]
@@ -782,7 +788,8 @@ by Doug Newburg
 *Dream feelings / Traumgefühle:* +
 
 * joy of learning / Freude an Lernen
-* courage to make mistakes / Mut, Fehler zu machen
+* courage to make mistakes / Mut Fehler zu machen
+* willingness to learn from mistakes / Bereitschaft von Fehlern zu lernen
 * relaxed speed / entspannte Geschwindigkeit
 * easy effort / einfache Mühe
 * connection to feelings and needs also under the most painful circumstances / Verbindung mit Gefühlen und Bedürfnissen auch unter den schmerzhaftesten Umständen
@@ -1010,6 +1017,15 @@ included...]
 
 *How can I take responsibility for my life when there is always some authority who knows better than me, what I need and who tells me what should I do?*
 
+---
+
+* Does religion, childhood trauma, disfunctional families, oppression and obedience training in families, schools, work promote guilt, shame, ruminescing and regrets  about the past (spytovanie svedomia), worries and fear of the future (the great savior will come, but nobody knows when; will I go to heaven or to hell?; how can I buy the way to heaven most effectively? by following the rules of authority? really?); obedience instead of respect and responsibility, default mode network (DMN) hyperconnectivity, depression, compulsions, obsessions, anger? Well, they might say one thing and do another that totally contraditcts the words. Just because it's Holy Word doesn't mean it's nonviolent. Acts that negate and oppose the words. Let's remind us religious violence. Violence in the name of God. Destroying gifts of life that God is giving to us. Just like in the academy...
+* Can Nonviolent Communication (NVC) alter the inner voice of our inner educator and inner chooser [Dorso-Lateral Prefrontal Cortex (DLPFC)] in a way that can lead to calmer emotional state in rest and time wandering during Default Mode Network (DMN) activation? [reference do Default Mode Network (DMN)]
+* Warum sind ökologisch nachhaltige Produkte teurer als traditionelle? Warum kann nich jeder dieselben Möglichkeiten ökologisch zu leben haben? Wie der Kapitalismus und der Markt diese Ungleichheit unterstützen? Was für Änderungen brauchen wir, damit ökologisch nachhaltige Produte billiger als traditionelle Produkte werden,, und von den Menschen bevorzugt wurden?
+* Was is die Beziehung zwischen Krankheiten und chronischen Erkrankungen und systemischen Problemen in z. B. Ökologie, Ökonomie, Politik, Ausbildung, Management oder Erziehung?
+* Where are the people in positions of authority that show empathy?
+* Why can't I find any authorities in my work that can show me empathy?
+
 === Connection Requests
 
 * "Can you live with it?" link:https://www.youtube.com/watch?v=6rFMoUY6KpM&feature=youtu.be&t=3730[(Making Collaboration Real: Miki Kashtan: Maximizing Willingness for Collaboration Decision-Making: 1:02:10-1:02:15)]
@@ -1021,6 +1037,7 @@ included...]
 link:https://www.youtube.com/watch?v=AJ-ctpWQkZA&feature=youtu.be&t=4216[Nonviolent Communication (NVC): Yoram Mosenzon workshop: 'Ask for the Moon': 1:10:16]
 * What do you say about it?
 * What feeling do you have from it?
+* Did something like this already happen to you? - Had something like this already happened to you? / Hat dir etwas änliches schon mal passiert?
 
 === Strategy Requests
 
@@ -1168,7 +1185,10 @@ link:https://app.oncoursesystems.com/school/webpage/documents/GG6ffVDA49fQG2fTQH
 
 === Restorative justice
 
-A form of justice that concentrates on the restoring the relationships in the human, and between the human and the community. link:???[Barter - What is Restorative Justice - Youtube]
+A form of justice that concentrates on the restoring the relationships in the human, and between the human and the community. +
+link:???[Barter - What is Restorative Justice - Youtube] +
+link:https://peacetheology.net/pacifism/biblical-bases-for-restorative-justice/[Biblical Bases for Restorative Justice] +
+link:https://www.amazon.com/gp/customer-reviews/R2DAAW85AQT7LG/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=1563383624[Jesus Against Christianity: Reclaiming the Missing Jesus - Jack Nelson-Pallmeyer - Customer Review]
 
 * Questions of justice
 
@@ -1612,7 +1632,7 @@ Socialism, marxism, communism did the same. They were also violent, totalitarian
 link:https://www.quora.com/Why-did-Karl-Marx-say-in-1856-that-the-weak-classes-and-races-must-perish-in-a-revolutionary-Holocaust?share=1[discussion] +
 link:http://otaviopinto.com/index.php/2016/08/04/did-marx-write-this/[another discussion]
 
-* Fascism, authoritarianism or populism support *power over* people, not *power with* people, like Mary Parker Follett, Mahatma Ghandi, Marshall B. Rosenberg did.
+* Fascism, authoritarianism or populism support *power over* people, not *power with* people, like Mary Parker Follett, Mahatma Gandhi, Marshall B. Rosenberg did.
 
 *What do all of these regimes have in common? VIOLENCE!* +
 Glorification of violence. As if it was the ultimate means to achieve anything. What about nonviolence? Ethics? Humanity? Trustworthiness? Freedom? Autonomy? Joy of life? Hm? They didn't think about that, did they? +
@@ -1709,7 +1729,7 @@ By 1913 were in USA almost 100 Montessori schools. +
 Then in 1914 war broke out across the Europe. +
 To Maria, the appaling devastation convinced her that *there should be a connection between education and pacifism*. "Now comes the time for our work. We are working for peace and humanity midst the inhumanity of war. Our eyes are turned to a little child where lies the future and the hope of our world." +
 In France and Belgium Montessori schools were set up for the orphans of the conflict. +
-After the first world war, Maria Montessori returned to Italy, only to walk into the path of the world's most ambitious man. *Benito Mussolini* was impressed ... by the discipline of the students educated by Montessori method. He wanted to build a new efficient and industrial country. Mussolini supported Montessori and her's education. ... Mussolini and Montessori cooperated, but neither of them were happy with it. *The trouble was that Montessori believed that children learn best as  [responsible,] independent, free thinkers.* But free thinking was not something that Il Duce was intrested in. *Mussolini's aim was to create a nation of [obedient,] disciplined and loyal fascist.* The idea of Montessori education was educating people to think for themselves, and act for themselves, and was *scientific* rather than political. ... *"The goal [of education of Mussolini and fascism] is total indoctrination. From childhood to the soldiers grade. Fascism shapes young minds with Italy's destiny and the beauty of war."* In 1931 Mussolini announced that all schools must conform to fascism. Maria refused outright. Maria Montessori and her partner left in a hurry. In 1931 she lef her homeland never to live there again. *Within months Mussolini closed all Montessori schools in Italy.* ... Maria Montessori met with Ghandi in London. They had a great connection. Ghandi supported her philosophy: the element of community, an education that can work with all children in all cultures. *Hitler closed down all Montessori schools in Germany. In Berlin, all Montessori books were thrown on burning piles.* [Mussolini and Hitler (and fascist) didn't like citizens that ask "Why?" and complain about regulations] link:https://www.youtube.com/watch?v=TXqeTYHn0p4&feature=youtu.be&t=1785[Maria Montessori: 29:45-38:47], link:???[Episode_143-Maria_Montessori-thehistorychicks: 1:24:01-1:40:38] +
+After the first world war, Maria Montessori returned to Italy, only to walk into the path of the world's most ambitious man. *Benito Mussolini* was impressed ... by the discipline of the students educated by Montessori method. He wanted to build a new efficient and industrial country. Mussolini supported Montessori and her's education. ... Mussolini and Montessori cooperated, but neither of them were happy with it. *The trouble was that Montessori believed that children learn best as  [responsible,] independent, free thinkers.* But free thinking was not something that Il Duce was intrested in. *Mussolini's aim was to create a nation of [obedient,] disciplined and loyal fascist.* The idea of Montessori education was educating people to think for themselves, and act for themselves, and was *scientific* rather than political. ... *"The goal [of education of Mussolini and fascism] is total indoctrination. From childhood to the soldiers grade. Fascism shapes young minds with Italy's destiny and the beauty of war."* In 1931 Mussolini announced that all schools must conform to fascism. Maria refused outright. Maria Montessori and her partner left in a hurry. In 1931 she lef her homeland never to live there again. *Within months Mussolini closed all Montessori schools in Italy.* ... Maria Montessori met with Gandhi in London. They had a great connection. Gandhi supported her philosophy: the element of community, an education that can work with all children in all cultures. *Hitler closed down all Montessori schools in Germany. In Berlin, all Montessori books were thrown on burning piles.* [Mussolini and Hitler (and fascist) didn't like citizens that ask "Why?" and complain about regulations] link:https://www.youtube.com/watch?v=TXqeTYHn0p4&feature=youtu.be&t=1785[Maria Montessori: 29:45-38:47], link:???[Episode_143-Maria_Montessori-thehistorychicks: 1:24:01-1:40:38] +
 The world piece can only be achieved by the education of the children. link:https://www.youtube.com/watch?time_continue=7&v=TXqeTYHn0p4&feature=emb_logo[Maria Montessori: 43:19-43:28] +
 But in the absence of Maria Montessori, much of her work had been forgotten. link:https://www.youtube.com/watch?v=TXqeTYHn0p4&feature=youtu.be&t=2638[Maria Montessori: 43:58-44:04] +
 In 1945 Maria Montessori started to revive and reestablish her education in preschools and schools in Europe. Many of the creative people benefitted from early Montessori education. *The life should be challenging, and the challenge should be fun. [Larry Page & Sergey Brin - Founders of Google - both educated in Montessori method]* link:https://youtu.be/TXqeTYHn0p4?t=2647[Maria Montessori: 44:07-46:00] +
@@ -2049,7 +2069,7 @@ Sources:+
   ** 1:12:33- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=4353
   ** 1:13:03- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=4383
   ** 1:15:12-1:16:30 https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=4512
-    *** *Instead of having an expectation, you can have faith in it. And by moving from expectation to faith, you are aligning with life. Because faith by necessity has no control and no knowing. When you have an expectation of receiving, you have a contract with life. And the contract says "life is going to give me enough". Contract can be broken. Faith has no limit, no end, it can't be proven or unproven. Embracing not knowing is one of the most curative things I know to the illness of patriarchy. ... And to trully embrace not knowing is so liberating.*
+    *** *Instead of having an expectation, you can have faith in it. And by moving from expectation to faith, you are aligning with life. Because faith by necessity has no control and no knowing. When you have an expectation of receiving, you have a contract with life. And the contract says "life is going to give me enough". Contract can be broken. Faith has no limit, no end. It can't be proven or unproven. Embracing not knowing is one of the most curative things I know to the illness of patriarchy. ... And to trully embrace not knowing is so liberating.*
   ** 1:22:33- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=4953
   ** 1:24:53- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=5093
   ** 1:27:01- https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=5218
@@ -2120,7 +2140,7 @@ Sources:+
       **** *knowing that you matter and what matters to you*
     *** *Result of integration: _a solution that works for everyone_*
   ** 24:01-24:51
-    *** If somebody doesn't have the willingness to sit in a room and solve a problem they have a meaningful contribution in, you're in a entirely different position. Then it can be more effective to use strategies such as link:https://en.wikipedia.org/wiki/Nonviolent_resistance[*Nonviolent Resistance*]. The problem with nonviolent resistance is that it requires a whole lot more people because if you individually try to do nonviolent resistance against a corporation, it's almost impossible. You don't have enough power for that. ... We come to a limit of dialogue, not nonviolence. Violence creates only more violence [Ghandi].
+    *** If somebody doesn't have the willingness to sit in a room and solve a problem they have a meaningful contribution in, you're in a entirely different position. Then it can be more effective to use strategies such as link:https://en.wikipedia.org/wiki/Nonviolent_resistance[*Nonviolent Resistance*]. The problem with nonviolent resistance is that it requires a whole lot more people because if you individually try to do nonviolent resistance against a corporation, it's almost impossible. You don't have enough power for that. ... We come to a limit of dialogue, not nonviolence. Violence creates only more violence [Gandhi].
   ** 25:10-
     *** people converge way more on practical issues than on ideological differences. And the more the problem affects them they have a stake in solving it, and when they have the authority to solve [*a practical problem*, not an ideological one], the more likely they are to converge, because they live with the result of their deliberation. These people don't need to have direct authority. It's enough that they have moral authority. A group has moral authority when they are different groups, positions, opinions involved in the negotiation.
   ** 31:34-31:57 https://www.youtube.com/watch?v=xbto_pUFD08&feature=youtu.be&t=1894
@@ -2149,7 +2169,7 @@ Sources:+
     *** Why would somebody not participate in the process? Because some people don't believe that that process will benefit me. The resources that it would take to participate appear me to me to be too much for the benefit that I believe I will gain from it. I need to individually connect with the people to see what's going on. *What it is that they're saying 'Yes' to?*, *What keeps them from trusting the activity?* and rather avoiding the question "Why don't they want to come?".
     *** An organisation never says 'no'. It's always a human being, an individual, that say's 'no'. [And 'no' is a poor expression of a 'yes'. What is it that the someone says 'yes' to?] *And if you can think about why person is saying 'no', you're already moving towards the possibility of collaborating.*
   ** 1:05:38- https://www.youtube.com/watch?v=xbto_pUFD08&feature=youtu.be&t=3938
-    *** Global Governance Model that works for most powerful and the least powerful (reference to Daniel Markovits - The Meritocracy Trap: "... workers, middle class, but also superelite workers - unite.") If the model will work only for one of these groups, and those models will go nowhere, because we lack collectively the power to make them happen, and because ultimately if we do them, they will recreate the world that we have now even if we had the power. ... So creating something that works for both ends to me creates a robustness that could make it work, but mostly *there is a way that people who are committed to communities don't think about the individuals that are in the [institution] as something to consider. That is perhaps a reason why they're saying no. I don't see that we can get anywhere collaboratively, in a way that will create a different world, without taking into consideration the reality.* That unless you have global mass mobilization, that creates defection from the implicit support that the institutions and government have, you have to reckon with the power [over people].
+    *** Global Governance Model that works for most powerful and the least powerful (reference to Daniel Markovits - The Meritocracy Trap: "... workers, middle class, but also superelite workers - unite.") If the model will work only for one of these groups, and those models will go nowhere, because we lack collectively the power to make them happen, and because ultimately if we do them, they will recreate the world that we have now even if we had the power. ... So creating something that works for both ends to me creates a robustness that could make it work, but mostly *there is a way that people who are committed to communities don't think about the individuals that are in the [institution] as something to consider. That is perhaps a reason why they're saying 'No'. I don't see that we can get anywhere collaboratively, in a way that will create a different world, without taking into consideration the reality.* That unless you have global mass mobilization, that creates defection from the implicit support that the institutions and government have, you have to reckon with the power [over people].
     **** from both ends [reference to David Harvey: The 17 Contradictions of Capitalism: paraphrased: "... we need to work on both ends: income and exchange value of goods and services. Otherwise the income will grow, and the prices of goods and services will increase, or income will likely stagnate and the prices will go up regardless."]
   
 * link:https://www.youtube.com/watch?v=lfkZJDxC-YY[Mutual Aid - Peter Kropotkin - Ch. 1 - Mutual Aid Among Animals] or link:[the same video in a playlist for the entire book]
@@ -2177,6 +2197,7 @@ Sources:+
     *** Hundred years ago in Britain and other countries they put women to jail for asking for vote.
     *** Fifty, sixty years ago most of the founding fathers of developing nations, including Israel, were hunted down by the British and the French as terorrists.
     *** Twentyfive years ago Margaret Thatcher famously said "Anyone who thinks that there will be a black majority rule in South Africa lives in the cloud cockoo land". Which is where she was living.
+    *** *[That was the 'normal' state at that time! Therefore I'm being very cautious when I or other people describe things as 'normal' and translae it into their needs and preferences.s]*
     *** All these impossible things have happened because people fought for them. They don't give it to you. But when enough people fight for these things, things that once looked impossible can happen. [link:[Owen Jones meets Ha-Joon Chang | The economic argument against neoliberalism: 13:01-14:05]]
     *** *We need pessimism of the intellect, but optimism of the will. [Antonio Gramsci]*
     *** *It always seems impossible until it is done. [Nelson Mandela]*
@@ -2449,7 +2470,7 @@ Every act of violence somewhere is an attempt to create justice to right a wrong
 
 * [Shame] is not only now more common, its purpose has shifted from protecting the group [i.e. the community] to protecting the powerful. So *most of us walk around with some degree of shame that is just there in the background that keeps us from doing things.* And *we get shamed for what we want. If you look at early childhood, you are made to be ashamed for wanting what you want, for moving spontaneously, for going for what is of direct interest to you, for saying what is true for you, everything that is about being you is put into question.* ... This is why I decided to become 100% shameless. Why is this funny? Because the word _shameless_ describes someone who is a terrible person, totally outside of the norm. It's as if we're told that having a certain amount of shame, constatly, is a good thing. link:https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=2029[Miki Kashtan - Social Change Series – Liberation in Three Chapters - 1: 33:49-34:40, 1:34:51-1:35:23]
 
-* Authorities figures tend just by nature to use shame. link:https://www.youtube.com/watch?v=2KXwnbsQUrI&feature=youtu.be&t=123[(Restorative Justice Continuum - Howard Zehr Ph.D EM 2:03-2:12)]
+* Authorities figures tend just by nature to use shame. [I wonder why is it? Where did the education to use shame as an authority come from?] link:https://www.youtube.com/watch?v=2KXwnbsQUrI&feature=youtu.be&t=123[(Restorative Justice Continuum - Howard Zehr Ph.D EM 2:03-2:12)]
 
 * Shame is calling me to do self-reflection. And that is sometimes very painful to be willing to do my self-reflection, and to stop projecting my frustrated feelings onto other people. link:https://www.youtube.com/watch?v=0pleCht2jN4&feature=youtu.be&t=439[(NVC Guilt and Shame - Kirsten Kristensen: 7:19-7:40)]
 
@@ -2471,13 +2492,18 @@ link:???[(Cal Ripken Sr.)], link:???[(Daniel Markovits - Meritocracy and its Dis
 Unsere größte Ehre liegt nicht darin, nie zu fallen, sondern darin, dass wir jedes Mal aufstehen, wenn wir fallen. +
 Confucius
 
+* No minding! Just go! [Wim Hof - Fundamentals Course - 03-Energy Management]
+
+* God has no religion. [M. Gandhi] +
+link:https://www.quora.com/Why-did-Gandhi-say-god-has-no-religion?share=1[]
+
 * https://www.ia.gov.sk/data/files/np_PKSD/Analyzy/Stat/Prekazky_v_praci_a_ochrana_prace_NP_PKSD.pdf -- kapitola 2.12 Sabbatical - Syndróm vyhorenia
 
 * I've learned that people may forget what you said, people may forget what you did, but *people will remember how they felt with you.* +
 Ich habe gelernt, dass Leute vergessen, was du gesagt hast, Leute vergessen, was du gemacht hast, aber Leute werden sich daran erinnern, wie sie sich bei dir gefühlt haben. +
 link:???[Maya Angelou]
 
-* How to speak giraffe with our inner jackals? And in fact, they are probably the most severe jackals we will ever have to deal with. First of all they are so much faster than these other jackals. These inner jackals, they speek with a speed of light, and they have been in there for so long, that often time we are not even aware, that we are jackaling ourselves. Therefore giraffes love to have certain feelings. Giraffes love to have feelings like depression and guilt. Why does the giraffe like those feelings? Because those feelings tell us, jackals infested our thinking. That we are jackaling ourselves. We're telling ourselves that there's something wrong with us. And whenever we're doing that, as a giraffe, we want to tame those inner jackals. How do we tame an internal jackal? The same way we tame an external jackal. *No matter what message comes at you from another person, no matter how jackalish it sounds, it's simply an expression of feelings and unmet needs.* So we put giraffe ears on and we hear the feelings and the unmet needs. We do the same thing with our internal jackals. *Once we've had identified that we see what we're telling ourself, we want to translate that internal judgement into "What are the feelings and needs that are being expressed through this self judgement?" And then you know what we find?* The same thing we find with external jackals. *That there are no jackals. Jackals are simply giraffes with a language problem. [All jackals are just illiterate girrafes.] Likewise these internal messages, that keep eating out our soul and morale, if you really hear the life energy being expressed behind that message, we find out that it's a very loving message.* We don't feel bad about ourselves at all. ... Whey you have the word "fault" in your consciousness, you know, you have been beset with jackals. When we think in a jackal way, there always must be fault, blame. [But isn't this how the news are presented in media? Every day?] ... "I'm sad, I really would have liked to have known then what I'm learning today." Now you're in touch with life energy behind your message. You're really hearing what you feel and need. But notice how different it is from thinking that thinking "there is something wrong with you. That you should have known better." *Notice that when we are in touch with our feelings and needs, that motivates us to do something about the needs. But when all it goes in our head is "should have" and "what's wrong with you" [or what would the others think about me], that doesn't help us learn from the situation. That doesn't mobilize us to change.* [link:https://www.youtube.com/watch?v=RSwEC4yvrb0&feature=youtu.be&t=1209[All we can do is to hate ourselves.] We just keep beating ourselves up for years, until we tame those inner jackals which always means to get connected to the life energy behind it. link:https://www.youtube.com/watch?v=HLgGt7yLhJg&feature=youtu.be&t=6084[Atelier communication non violente - Marshall Rosenberg - Danemark - sous-titres français: 1:41:25-1:46:16]
+* How to speak giraffe with our inner jackals? And in fact, they are probably the most severe jackals we will ever have to deal with. First of all they are so much faster than these other jackals. These inner jackals, they speek with a speed of light, and they have been in there for so long, that often time we are not even aware, that we are jackaling ourselves. Therefore giraffes love to have certain feelings. Giraffes love to have feelings like depression and guilt. Why does the giraffe like those feelings? Because those feelings tell us, jackals infested our thinking. That we are jackaling ourselves. We're telling ourselves that there's something wrong with us. And whenever we're doing that, as a giraffe, we want to tame those inner jackals. How do we tame an internal jackal? The same way we tame an external jackal. *No matter what message comes at you from another person, no matter how jackalish it sounds, it's simply an expression of feelings and unmet needs.* So we put giraffe ears on and we hear the feelings and the unmet needs. We do the same thing with our internal jackals. *Once we've had identified that we see what we're telling ourself, we want to translate that internal judgement into "What are the feelings and needs that are being expressed through this self judgement?" And then you know what we find?* The same thing we find with external jackals. *That there are no jackals. Jackals are simply giraffes with a language problem. [All jackals are just illiterate girrafes.] Likewise these internal messages, that keep eating out our soul and morale, if you really hear the life energy being expressed behind that message, we find out that it's a very loving message.* We don't feel bad about ourselves at all. ... Whey you have the word "fault" in your consciousness, you know, you have been beset with jackals. When we think in a jackal way, there always must be fault, blame. [But isn't this how the news are presented in media? Every day? Justice based on retribution? *Retributive Justice?* "They did something what we label as WRONG, they do what they SHOULDN'T, therefore they DESERVE punishment!"] ... "I'm sad, I really would have liked to have known then what I'm learning today." Now you're in touch with life energy behind your message. You're really hearing what you feel and need. But notice how different it is from thinking that thinking "there is something *wrong* with you. That you *should* have known better." *Notice that when we are in touch with our feelings and needs, that motivates us to do something about the needs. But when all it goes in our head is "should have" and "what's wrong with you" [or what would the others think about me], that doesn't help us learn from the situation. That doesn't mobilize us to change.* [link:https://www.youtube.com/watch?v=RSwEC4yvrb0&feature=youtu.be&t=1209[All we can do is to hate ourselves.] We just keep beating ourselves up for years, until we tame those inner jackals which always means to get connected to the life energy behind it. link:https://www.youtube.com/watch?v=HLgGt7yLhJg&feature=youtu.be&t=6084[Atelier communication non violente - Marshall Rosenberg - Danemark - sous-titres français: 1:41:25-1:46:16]
 
 * link:https://www.youtube.com/watch?v=8kaVztNodEM[Marshall Rosenberg Nonviolent Communication RESOLVING CCONFLICTS]
 ** 3:33-8:47 https://www.youtube.com/watch?v=8kaVztNodEM&feature=youtu.be&t=213
@@ -2501,7 +2527,7 @@ link:???[Maya Angelou]
 ** 20:19-31:12 https://www.youtube.com/watch?v=8kaVztNodEM&feature=youtu.be&t=1219
   *** Jackals think of these two possibilities: I must have all the power to force other people to behave, or the other option they think of is permissivness, giving up power and just giving in, letting the children [or the other people] over. How do we express our value judgements in giraffe? *"I would like, if you're willing. But, please, don't do it unless you're willing 'cause we both lose."* How do we recognize that the other person heard a request and not a demand? How do we get across now that it is in fact "I would like, if you're willing". When the person now *trust* that we're not saying the old messages. First of all, they may be suspicious for a while. Then you get responses like "Yes, mein Führer!" They believe, this is just a jackal trying to sneak into a giraffe's clothing. Even though I'm now practicing another language. They don't know yet that I'm really graduated. [They might say:] "Don't pull any of that giraffe business on me!" There is still worry that it's still your objective to get what you want. And as long as that's your objective, you can't get it. *So, as a giraffe, it's never your objective to get what you want from other people. It's only your objective to get what both people want. It's only when the other person trusts that I value their needs equal to my own [that their needs are equally as important as mine, that their needs matter equally as mine], that I have any _power with_ that person.* This is the central difference between power over - jackal power, and power with - giraffe power. Power over, jackal power, is easy to get: all you got to do is to make the other person suffer if they don't do what you want. But giraffe power, power with, I only have that to the degree to which the other person *trusts* that I am equally interested in their need fulfillment as my own. When they trust that I know that I can't benefit at their expense [because benefitting at somebody else's expense is not a benefit at all, because it's not sustainable, and it crumbles sooner or later anyway], and I have no desire to. It's only when they trust, I believe firmly enough, for what I'm asking for, I don't have to use fear, guilt or shame inducing tactics [or any other power over tactics]. When they trust all of that, then they can hear that that's just my request. This might be new on my part, so they might not trust it yet. +
   Different ways that jackals express no: "Yea, yea, yea, later", "Yes, mein Führer", "Who was your slave in your prior incarnation", or (sigh). All of these reaction tell us that this person is burdened, they're having to protect the most precious that each of us has: our autonomy. That is so difficult when that's under pressure. We'll fight to the death if we will have any source of humaneness left in us. None of us want's to do things because we're forced to do it. That's what I mean by "loving the life in the 'no'", be happy that this person is not doing it. Because when people do it and they don't look inside to see they're doing it inspite of themselves, everybody pays. That's why in giraffe we really mean it: *"Please do this ONLY IF you are willing. We all suffer unless everybody is doing things simply because they want to, because they see how it contributes to life."* +
-  I'm not saying what you should say. If I'd tell you what you should say, my guess is you'll have trouble accepting it. "I'm offering you something that I'd say..." ... I wouldn't say "Only do this if you want to" 'cause I'm still telling them what to do. I'm still thinking that I'm the person who's job it is to tell them, what to do. That wouldn't meet my need, just if they did, if they want to. The other thing about that is, as a giraffe, I know that people never do anything except what they want. So that's kind of superflous. I don't think anybody ever does anything except what they want. The only difference is, jackals lie about it. They say "I didn't wanna do it." Then why did you do it? "They made me do it." "I had to do it." "Superiors orders." "Company policy." [Amtssprache - a language that denies choice and responsibility.] There's no responsibility for actions in Jackalland. But a giraffe speaking person knows that in each moment each of us only does only what we want. In this sense, giraffes is not introducing anything new into the universe. *People as long as they've ever been around don't do anything except what they want.* +
+  *I'm not saying what you should say. If I'd tell you what you should say, my guess is you'll have trouble accepting it. "I'm offering you something that I'd say..."* ... *I wouldn't say "Only do this if you want to" 'cause I'm still telling them what to do. I'm still thinking that I'm the person who's job it is to tell them, what to do.* That wouldn't meet my need, just if they did, if they want to. *The other thing about that is, as a giraffe, I know that people never do anything except what they want.* So that's kind of superflous. I don't think anybody ever does anything except what they want. The only difference is, jackals lie about it. They say "I didn't wanna do it." Then why did you do it? "They made me do it." "I had to do it." "Superiors orders." "Company policy." [Amtssprache - a language that denies choice and responsibility.] There's no responsibility for actions in Jackalland. But a giraffe speaking person knows that in each moment each of us only does only what we want. In this sense, giraffes is not introducing anything new into the universe. *People as long as they've ever been around don't do anything except what they want.* +
   "What if we requested the other person to do something?" Well, even before the conversation starts, *if my objective is to get the other person to do what I want I've lost already.* *"What would the giraffe objective be?" To make a connection with that person. Giraffe dance. Giraffes like to dance. And there is a certain kind of dance that goes: Empathy, Honesty, Empathy, Honesty, ... And giraffes really like that dance 'cause they believe miracles can come off that dance. When we really connect with people in a certain way, any kind of conflict can be resolved* without fear, without guilt, without shame [or any other power over tactics]. *So we trust that dance.* If we go in wanting to dance, well, and we trust that we may come out with the person doing what we want, for reasons what we want. There is no force on it, they're doing it willingly 'cause they see the purpose [meaning, reason]. Or we come out of it valuing what the other person dit, or wants to do. Maybe, so *we don't know, that as a giraffe, we know that if we dance, we'll like whereever we end up. I'm trying to form a kind of connection with this person, that I think is conducive to working out whatever differences are there. I want to form a quality of connection, that's my primary objective*, quality of the connection, and then I trust, that if that quality is of a certain sort, where all of our energy doesn't go into defending each other, violating each other. *When we're really safe, and we really trust that each has the other person's well being at mind, then I know, that this is gonna get results.* I have no doubt about it. But I won't go in there, thinking that that's got to be, that they're gonna study.  ... *So I don't know how it's gonna come out, but but I know that if we get there in a certain process, we'll both like it [breathing in the not knowing]. It has to be clear about our values [needs, purposes, reasons]: "What quality of connection do I value making with people?" "Do I value people as an equals?" "If so, then does my behaviour demonstrate that when I'm with other people?"* That doesn't mean that I have equal knowledge, or equal strength, but do I really value treating people as equals. "And how do I do that, if this person is age 5, or 12?" *"Do I value the use of violence for people to get their way?" So it's for me just being consistent with my values and "How I would like people to treat me?" If that's really what I value, that quality of our connection, and trust that it is of a certain sort, then I trust wherever the conflict goes.*
 ** 59:03-1:01:06 https://www.youtube.com/watch?v=8kaVztNodEM&feature=youtu.be&t=3543
   *** Culturally and politically some people might not be used to this reflection [of feelings and needs] back. [The may consider it as an "invasion" into their private space]. [So, after the empathy,] they may say "Don't pull any of that psychology crap on me!" **So we [show empathy] it again. Silently. For this to be powerful doesn't mean we have to say it outloud.* It's at the very moment that I turn my atention what is this person feeling. So when he says "Don't pull any of that psychology crap on me!" I turn my attention to what is the other person feeling [and what of their needs are not being fulfilled] when he/she says that. I guess the other person is scared and annoyed [nervous, uncomfortable, unpleasant], 'cause he/she may not understand what this [my response] is all about, and the other person wanted me to respond in a way that he/she was more familiar with. That's what I hear in that message. I don't have to say it outloud. *I'd like to be able to say it outlout to check it out 'cause I might be wrong, but just the fact that I'm trying to find the person's feelings [and unfulfilled needs with possible request for me] is already a success. Because when I'm looking for another person's feelings, I take away all power that person has to limit my power, my personal sense of respect.* Only when I take in the judgement, it starts to get scary.
@@ -2665,7 +2691,7 @@ link:???[Jiddu Krishnamurti]
 
 * *It's very dangerous to mix up the words natural and habitual. We have been trained to be quite habitual at communicating in ways that are quite unnatural.* link:https://darjeelingzen.blogspot.com/2012/03/gandhi-select-quotations.html[Mahatma Gandhi]
 
-* ... I think Giraffe is a natural way for human beings to communicate. Now when I was learning giraffe, I kept saying to myself "This isn't the natural way for people to talk!" And just at the right moment I read something that Ghandi said. Ghandi said "Don't mix up that which is habitual with that which is natural." That made sense to me. Certainly it wasn't habitual for me to speak Giraffe. But Ghandi says that *what is natural is that what you gravitate to spiritually. It feels right to you, and you're willing to do a lot of practice, a lot of work because you see the work is in the harmony with your own values.* I really do believe that Giraffe is much closer to spiritual basis of people, and they feel that talking this way makes more sense intuitivelly. To talk just about what they feel, what they need, inspite of the fact that they may have to do a lot of practice, inspite of the fact that *for a while until we learn how to use these ears, it can be kind of scary because it requires to being open and honest in a pretty vulnerable way. And we do know that until the other people do join us, we're likely to hear a lot of things coming back, but we're gonna need these ears on.* +
+* ... I think Giraffe is a natural way for human beings to communicate. Now when I was learning giraffe, I kept saying to myself "This isn't the natural way for people to talk!" And just at the right moment I read something that Gandhi said. Gandhi said "Don't mix up that which is habitual with that which is natural." That made sense to me. Certainly it wasn't habitual for me to speak Giraffe. But Gandhi says that *what is natural is that what you gravitate to spiritually. It feels right to you, and you're willing to do a lot of practice, a lot of work because you see the work is in the harmony with your own values.* I really do believe that Giraffe is much closer to spiritual basis of people, and they feel that talking this way makes more sense intuitivelly. To talk just about what they feel, what they need, inspite of the fact that they may have to do a lot of practice, inspite of the fact that *for a while until we learn how to use these ears, it can be kind of scary because it requires to being open and honest in a pretty vulnerable way. And we do know that until the other people do join us, we're likely to hear a lot of things coming back, but we're gonna need these ears on.* +
 link:https://www.youtube.com/watch?v=HLgGt7yLhJg&feature=youtu.be&t=2682[Atelier communication non violente - Marshall Rosenberg - Danemark - sous-titres français: 44:42-46:17]
 
 * the importance of present request link:...[Marshall Rosenberg Making Life Wonderful cca 1:31:36-1:33:35]
@@ -2921,6 +2947,7 @@ link:https://www.youtube.com/watch?v=jArsTeP66FE&feature=youtu.be&t=5863[Film 02
     And to this day *this has been quite a relief for me to be conscious _"I don't have to worry about being honest with people and how they might respond? I only have to be prepared to empathically connect with whatever comes back."_ And that means my power is in my hands. My security is in my hands. [reference to Intrinsic locus of control]* *It's not in what other people think about me or say to me.*
     
 * link:https://www.youtube.com/watch?v=WfJ_NasCFfQ[Marshall Rosenberg Experiencing Needs as Gifts CD NVC Nonviolent Communication - Michael Hurin]
+  ** *The map is not the territory. You're not aware of the dangers of the words. Words are never what they say. [Words are descriptions of other persons feelings and needs, whether more accurate or alienated from them, but always about feelings and needs.]*
   ** link:https://www.youtube.com/watch?v=WfJ_NasCFfQ&feature=youtu.be&t=2184[36:24-38:21-43:05] +
   It's a blessing to serve. It's a blessing to be asked. +
   I'm blessed by you asking me to do something for you. +
@@ -3119,7 +3146,8 @@ link:https://www.youtube.com/watch?v=jArsTeP66FE&feature=youtu.be&t=5863[Film 02
   
 * link:https://www.youtube.com/watch?v=aQYIQUS2VBQ[NONVIOLENT COMMUNICATION AND MONEY: DR. MARSHALL ROSENBERG]
   ** link:https://www.youtube.com/watch?v=aQYIQUS2VBQ&feature=youtu.be&t=234[] +
-  How to use money in giraffe way:
+  How to use money in giraffe way: +
+  [Don't hate money, don't love money. Money itself is cold, detached, indifferent. Money itself is a tool. *A tool isn’t good or bad on its own.* Think of a knife [or a programming language]. It’s amoral. I can use it for good—to cook a meal for my family. Or I could use it violently, to harm an innocent person. In either case, the knife isn’t right or wrong. The person wielding it is the one we pass judgment on. link:http://www.pretendtobepoor.com/why-do-you-hate-money/[]]
   . Never pay money for anything. (Bezahle niemals Geld für etwas.) *Give money. Give it to serve life the way you want to serve. Give money to help people do what they wanna do. If what they do enriches my life, I'd like to give them money to keep giving this to others. (Gib Geld. Gib Geld um das Leben zu dienen, auf einer Weise, auf der du dienen willst.)* +
   . Never charge money for anything. (Verlange niemals Geld für etwas.) *Request money. Request money from people to help you do the work you want to do. (Bitte um Geld. Bitte um Geld von Menschen, damit sie dir helfen, deine Arbeit zu tun, die du machen willst.)*
   . *Transform the concept of worth. (Wandle das Konzept des Wertes um.)* Get that out of your head that anything is worth a certain amount of money. +
@@ -3257,6 +3285,10 @@ link:https://www.youtube.com/watch?v=AdrDAik86rc[Fundamental Attribution Error |
 
 ---
 
+* The author apparently had to conduct a *massive study* in order to realize something...: *performance is connected in some way to the environment at work*. link:https://www.amazon.com/gp/customer-reviews/R28N91UVDKLWN6/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=0691154511[Customer Review - Chasing Stars: The Myth of Talent and the Portability of Performance - Boris Groysberg]
+
+---
+
 The environment matters. The upbringing and education matters. It's not everything in the individual, as almost everything I see tries to convince me of. The enviromental factors and wealth have a decisive impact on the success of the individual.
 
 I can alter my internal environment, my feelings, through *gratitude*. *Gratitude* to practice tolerance, patience, responsibility for my own feelings, empathy, sympathy, enviromental attribution thinking...
@@ -3300,8 +3332,6 @@ Different uses of power - Forms of government:
 
 - *Homo economicus* - narrowly self-interested person with the goal to maxmimize his/her own utility *without consideration of other people* always acting rationaly and reasonably. [great, just awesome economic model of human. [sarcasm] But to not consider other people's needs is not rational. It leads to violence, y'now? Take a look at James Gilligan's work about shame, pride, violence and his work in prisons in Michigan.]
 
-- Marx - he didn't solve all the systemic problems, but I think he solved a lot of them. Finally I've found some relief when I started to read, watch and listen to marxists. I started to make connections and sense why am I suffering under current economic system. And I would suffer under any authoritarian system. It all gradually became clearer to me why am I experiencing so much suffering in this world.
-
 link:https://www.profolus.com/topics/four-types-of-alienation-according-to-karl-marx/[THE FOUR TYPES OF ALIENATION] + link:https://en.wikipedia.org/wiki/Marx%27s_theory_of_alienation#Types_of_alienation[(wiki)]
 
 . *Alienation of the worker from their product:* The design and development of a production rest not in the hands of a worker but within the decisions of the capitalists. A worker does not have control over what he or she intends to produce or the specifications of his or her product.
@@ -3319,6 +3349,7 @@ link:https://www.profolus.com/topics/four-types-of-alienation-according-to-karl-
 ---
 
 * Kurdistan - Rojava - Anarchy; Democratic Confederalism
+  ** link:https://libcom.org/library/confederalism-democratic-confederalism-rojava[*Confederalism, Democratic Confederalism and Rojava*]
 * Bhutan - Gross National Happiness
 * Schweiz - direkte Demokratie; Kantone
 * Lescar Pau - Frankreich; VIllage Emmaüs Lescar-Pau
@@ -3326,6 +3357,10 @@ link:https://www.profolus.com/topics/four-types-of-alienation-according-to-karl-
 * Orang Asli and other indigenous cultures - Malaysia
 * Ojibwe people (and other indigenous people in North and South America)
 * Chile - Revolution against government, constitution and economic system for better education, health care and pensions
+
+---
+
+In rejecting both capitalism and the state, some libertarian socialists [libertarian marxists] align themselves with anarchists in opposition to both capitalist representative democracy and to authoritarian forms of Marxism.
 
 == Warum will ich programmieren?
 
@@ -3470,9 +3505,10 @@ expressive writing, empathy, NVC
 * Overeating - psychosomatic
 * Bruxism - psychosomatic
 * Snorring
+* Dry skin in cold or windy environment
+* cold hands
 * Tinnitus - ringing in the ears (especially in the right one)
 * NCCP: Non-Cardiac Chest Pain - psychosomatic
-* Dry skin in cold or windy environment
 * PTSD: Post-Traumatic Stress Disorder, Trauma
   ** trauma from authoritarian, violent and abusive upbringing and education
   ** link:https://www.psychologytoday.com/us/articles/199201/wounds-never-heal[Wounds That Never Heal]
@@ -3507,14 +3543,17 @@ expressive writing, empathy, NVC
   ** "I'm not good enough."
   ** Peter Principle
   ** Ich wundere mich, wie die Institutionen, wie Schule oder Familie und andere äußere Faktoren diesen Zustand unterstützten?
-* fear of violence (and other things)
+* fear of violence (and of other things)
   ** Angst vor Gewalt von Autoritäten
 * fear of losing control of my life / Angst vor Verlust der Kontrolle über meinem Leben
-* ODD: Oppositional Defiant Disorder
+* Disgust of autocratic authorities
 * ADHD: Attention Deficit Hyperactivity Disorder [possibly]
 * Anhedonia: inability to enjoy life
 * Learning disability: in some aspects; I learned various things, but e.g. not programming, fluent English or German, enjoying the presence of other people, regulating emotions, enjoying talking with women, keeping calm when other people talk to me with raised voice
-* Difficulty understanding other people's opinion
+* Cynicism
+* Social Death
+  ** https://academic.oup.com/qjmed/article/110/1/5/2638390
+* Porn Addiction
 
 === Violence / Gewalt
 
@@ -3551,6 +3590,26 @@ Step one on the scale, “the compulsion to prove oneself”, gives the biggest 
 link:https://medium.com/swlh/the-important-difference-between-hardwork-and-burnout-c712d4c10e95[The Important Difference Between Hard Work and Burnout]
 
 University of California Berkeley professor emerita and American social psychologist Christina Maslach’s research on burn-out defines it as a prolonged response to chronic emotional and interpersonal stressors. It manifests in a few key aspects, through physical and emotional exhaustion, socially dysfunctional behaviour and psychological impairment, and fuels organisational inefficiency. [And time managmeent doesn't relief the physical and psychological exhaustion anyway. link:https://www.theguardian.com/technology/2016/dec/22/why-time-management-is-ruining-our-lives[Why time management is ruining our lives]]
+
+---
+
+According to our results, the *most common reason* cited for working to burnout was to hit deadlines. Thirty-eight percent of respondents said that was one of the reasons they worked to burnout.
+
+The *second most common reason* was to maintain productivity stats. Thirty-four percent of our respondents said that was why they worked to burnout, so our data appear to back up that sentiment.
+
+Fear of being fired was actually the *third most common reason* respondents gave for working until burnout. Thirty-three percent of employees admitted this was one of the reasons they did so.
+
+It’s notable that *the top three reasons all center on maintaining productivity, meeting deadlines, and fear*. The more rewards-based incentives, like working toward a promotion or for a raise, ranked significantly lower on the list. We believe that reveals something interesting about the mind-set of employees today.
+
+_What can employers do to get an understanding of what this situation is like at their workplace?_
+
+Employers can start by talking to their employees. This can be done in a number of ways, ranging from anonymous surveys to more formal question-and-answer sessions. It depends on the culture of the company. But ultimately, if employers want to know how their employees are feeling, the best way to find out is to ask the source.
+
+*_How can employers begin to address some of the issues highlighted in these findings?_*
+
+*They can start by asking themselves tough questions. What type of example are they setting? Do leaders visibly take vacation, or do they perpetuate a culture of work martyrdom?*
+
+*Culture is set from the top down, and if employers are unhappy with the culture their employees feel, the first and hardest step is to honestly look in the mirror.*
 
 ---
 
@@ -3847,19 +3906,365 @@ link:https://www.andrologie-experten.de/themen/hormonstoerungen[]
 link:https://www.angelika-kastner.de/buchtipps/adrenalindominanz-erfolgreich-behandeln.html[]
 link:https://www.medmeister.de/adrenalin-pflanzlich-senken/[]
 
+== Default Mode Network (DMN)
+
+*or how idleness and mindfulness can be productive.*
+
+---
+
+*The default mode network (DMN)*, also known as the default network, *is a network of interacting brain regions known to have activity highly correlated with each other* and distinct from other networks in the brain.
+
+*The default mode network is most commonly shown to be active when* a person is not focused on the outside world and *the brain is at wakeful rest, such as during daydreaming and mind-wandering.* But *it is also active when the individual is thinking about others* [empathy for others], *thinking about themselves* [empathy for oneself], *remembering the past* [learning], and *planning for the future* [hypothetical thinking - Sel-Directed Education (SDE) - Peter Gray - Play].
+
+The network activates “by default” when a person is not involved in a task. Though *the DMN was originally noticed to be deactivated in certain goal-oriented tasks and is sometimes referred to as the task-negative network*, it can be active in other goal-oriented tasks such as social working memory or autobiographical tasks. *The DMN has been shown to be negatively correlated with other networks in the brain such as attention networks. [Process vs Product - so orientation to goals interferes with DMN developlent?]*
+
+Evidence has pointed to disruptions in the DMN of people with Alzheimer’s and autism spectrum disorder.
+
+=== Function Of The Default Mode Network
+
+The default mode network is known to be involved in many seemingly different functions:
+
+It is the neurological basis for the self:
+
+* Autobiographical information: Memories of collection of events and facts about one’s self
+
+* Self-reference: Referring to traits and descriptions of one’s self
+
+* *Emotion of one’s self: Reflecting about one’s own emotional state* +
+*Self-empathy and mindfulness?*
+
+Thinking about others:
+
+* Theory of Mind: Thinking about the thoughts of others and what they might or might not know
+
+* *Emotions of other: Understanding the emotions of other people and empathizing with their feelings* +
+*Does this mean that Nonviolent Communication and practicing empathy promotes the development of DMN?*
+
+* *Moral reasoning: Determining just and unjust result of an action [Life-enriching and Life-harming or Life-destroying]*
+
+* *Social evaluations: Good-bad attitude judgments about social concepts [Life-enriching and Life-harming or Life-destroying]*
+
+* Social categories: Reflecting on important social characteristics and status of a group
+
+Remembering the past and thinking about the future:
+
+* Remembering the past: Recalling events that happened in the past
+
+* Imagining the future: Envisioning events that might happen in the future
+
+* Episodic memory: Detailed memory related to specific events in time
+
+* Story comprehension: Understanding and remembering a narrative
+
+The default mode network is active during passive rest and mind-wandering. Mind-wandering usually involves thinking about others, thinking about one’s self, remembering the past, and envisioning the future.
+
+Electrocorticography studies (which involve placing electrodes on the surface of epileptic patient’s brains) have shown the default mode network becomes activated within an order of a fraction of a second after participants finish a task.
+
+Studies have shown that when people watch a movie, listen to a story, or read a story, their DMNs are highly correlated with each other. DMNs are not correlated if the stories are scrambled or are in a language the person does not understand, suggesting that the network is highly involved in the comprehension and the subsequent memory formation of that story.
+
+The DMN is shown to even be correlated if the same story is presented to different people in different languages, further suggesting the default mode network is truly involved in the comprehension aspect of the story and not the auditory or language aspect.
+
+The default mode network has shown to deactivate during external goal-oriented tasks such as visual attention or cognitive working memory tasks, thus leading some researchers to label the network as the task-negative network.
+
+However, when the tasks are external goal-oriented tasks that are known to be a role of the DMN, such as social working memory or an autobiographical task, the DMN is positively activated with the task and correlates with other networks such as the network involved in executive function.
+
+=== Anatomy
+
+The default mode network is an interconnected and anatomically defined set of brain regions. The network can be separated into hubs and subsections:
+
+*Functional hubs:* Information regarding the self [reference to NVC - Self-empathy]
+
+*Posterior cingulate cortex (PCC) & precuneus:* Combines bottom-up (not controlled) attention with information from memory and perception. The ventral (lower) part of PCC activates in all tasks which involve the DMN including those related to the self, related to others, remembering the past, thinking about future, and processing concepts plus spatial navigation. [reference to NVC - Self-empathy] +
+The dorsal (upper) part of PCC [dorsal anterior cingulate cortex - ACC] involves involuntary awareness and arousal. *The precuneus is involved in visual, sensorimotor, and attentional information. [reference to Mindfulness]*
+
+*Medial prefrontal cortex (mPFC):* Decisions about self processing such as personal information, autobiographical memories, future goals and events, and decision making regarding those personally very close such as family. *The ventral (lower) part is involved in positive emotional information and internally valued reward.* +
+*[So when the people are led to intrinsic motivation it is also benefitial for their brain, at least this part of the brain, and emotional regulation?* +
+*Reference to Montessori Method, Alfie Kohn - Unconditional Parenting, Intrinsic motivation, M.B. Rosenberg - Life-Enriching Education]*
+
+*Angular gyrus:* Connects perception, attention, spatial cognition, and action and helps with parts of recall of episodic memories
+
+*Dorsal medial subsystem:* Thinking about others [NVC - Empathy for others, NVC and H. Zehr: Restorative Justice, Peter Gray - SDE - Play - Hypothetical thinking]
+
+Functional hubs: PCC, mPFC, and angular gyrus +
+Dorsal medial prefrontal cortex (dmPFC): Involved in social directed thought such as determining or inferring the purpose of others' actions [reference to Attribution Theory - External Attribution, NVC - Empathy to others] +
+Temporoparietal junction (TPJ): Reflects on beliefs about others, also known as theory of mind [Empathy for Others]+
+Lateral temporal cortex: Retrieval of social semantic and conceptual knowledge +
+Anterior temporal pole: Abstract conceptual information particularly social in nature
+
+*Medial temporal subsystem:* Autobiographical memory and future simulations
+
+Functional hubs: PCC, mPFC, and angular gyrus +
+Hippocampus (HF+): Formation of new memories as well as remembering the past and imagining the future +
+Parahippocampus (PHC): Spatial and scene recognition and simulation +
+Retrosplenial cortex (RSC): Spatial navigation +
+Posterior inferior parietal lobe (pIPL): Junction of auditory, visual, and somatosensory information and attention
+
+The default mode network is most commonly defined with resting state data by putting a seed in the posterior cingulate cortex and examining which other brain areas most correlate with this area. The DMN can also be defined by the areas deactivated during external directed tasks compared to rest.
+
+It has been shown that the default mode network exhibits the highest overlap in its structural and functional connectivity, which suggests that the structural architecture of the brain may be built in such a way that this particular network is activated by default.
+
+In the infant brain, there is limited evidence of the default network, but default network connectivity is more consistent in children aged 9–12 years, suggesting that the default network undergoes developmental change.
+
+Function connectivity analysis in monkeys shows a similar network of regions to the default mode network seen in humans. The PCC is also a key hub in monkeys; however, the mPFC is smaller and less well connected to other brain regions, largely because human’s mPFC is much larger and well developed.
+
+Diffusion MRI imaging shows white matter tracts connecting different areas of the DMN together. The structural connections found from diffusion MRI imaging and the functional correlations from resting state fMRI show the highest level of overlap and agreement within the DMN areas. This provides evidence that neurons in the DMN regions are linked to each other through large tracts of axons and this causes activity in these areas to be correlated with one another.
+
+=== Pathology
+
+The default mode network has been hypothesized to be relevant to disorders including Alzheimer’s disease, autism, schizophrenia, depression, chronic pain and others.
+
+People with Alzheimer’s disease show a reduction in glucose (energy use) within the areas of the default mode network. These reductions start off as slight decreases in mild patients and continue to large reductions in severe patients. Surprisingly, disruptions in the DMN begin even before individuals show signs of Alzheimer’s disease.
+
+Plots of amyloid-beta, which is thought to cause Alzheimer’s disease, show the buildup of the protein is within the DMN. This prompted Randy Buckner and colleagues to propose the high metabolic rate from continuous activation of DMN causes more amyloid-beta protein to accumulate in these DMN areas.
+
+These amyloid-beta proteins disrupt the DMN and because the *DMN is heavily involved in memory formation and retrieval*, this disruption leads to the symptoms of Alzheimer’s disease.
+
+DMN is thought to be disrupted in individuals with autism spectrum disorder. These individuals are impaired in social interaction and communication which are tasks central to this network.
+
+Studies have shown worse connections between areas of the DMN in individuals with autism, especially between the mPFC (involved in thinking about the self and others) and the PCC (the central core of the DMN). The more severe the autism, the less connected these areas are to each other. It is not clear if this is a cause or a result of autism.
+
+*Lower connectivity was found across the default network in people who have experienced long term trauma, such as childhood abuse or neglect, and is associated with dysfunctional attachment patterns.* Among people experiencing posttraumatic stress disorder, *lower activation was found in the posterior cingulate gyrus compared to controls*. *Hyperconnectivity* of the default network *has been linked to rumination in depression and chronic pain.*
+
+=== Modulation
+
+The default mode network (DMN) may be modulated by the following interventions and processes:
+
+*Acupuncture*
+
+Deactivation of the limbic brain areas and the DMN. It has been suggested that this is due to the pain response.
+
+*Meditation*
+
+Structural changes in areas of the DMN such as the temporoparietal junction, posterior cingulate cortex, and precuneus have been found in meditation practitioners. There is reduced activation and reduced functional connectivity of the DMN in long-term practitioners.
+
+Various forms of nondirective meditation, including Transcendental Meditation and Acem Meditation, have been found to activate the DMN.
+
+*Sleeping And Resting Wakefulness*
+
+In resting wakefulness, functional connectivity between nodes of the DMN is strong. The onset of sleep is associated with a decrease in connectivity between the DMN and the task-positive network.
+
+In stage N2 of NREM sleep, decrease in connectivity between the posterior cingulate cortex and medial prefrontal cortex. In stage N3 of NREM sleep there are further decreases in connectivity between the PCC and MPFC.
+
+In REM sleep, there is a possible increase in connectivity between nodes of the DMN. Functional connectivity between nodes of the DMN in their resting-state is usually strong, but sleep deprivation results in a decrease in connectivity within the DMN. Recent studies also suggest a decrease in connectivity between the DMN and the task-positive network as a result of sleep loss.
+
+* [Are *pineal gland and pituitary gland (hypophisis)* also involved in sleeping patterns and DNF functioning?]
+
+=== Default Mode Network History
+
+*Hans Berger*, the inventor of the electroencephalogram, was the first to propose the idea that *the brain is constantly busy*. In a series of papers published in *1929* he showed that the electrical oscillations detected by his device do not cease even when the subject is at rest. However, his ideas were not taken seriously, and a general perception formed among neurologists that only when a focused activity is performed does the brain (or a part of the brain) become active.
+
+In the 1950s, to the surprise of the researchers, Louis Sokoloff and his colleagues noticed metabolism in the brain stayed the same when a person went from a resting state to performing effortful math problems suggesting active metabolism in the brain must also be happening during rest.
+
+In the 1970s, Ingvar and colleagues observed blood flow in the front part of the brain became the highest when a person is at rest. Around the same time, intrinsic oscillatory behavior in vertebrate neurons was observed in cerebellar Purkinje cells, inferior olivary nucleus and thalamus.
+
+In the 1990s, with the advent of positron emission tomography (PET) scans, researchers began to notice that when a person is involved in perception, language, and attention tasks the same brain areas become less active compared to passive rest, and labeled these areas as becoming “deactivated”.
+
+Later, experiments by neurologist Marcus E. Raichle’s lab at Washington University School of Medicine and other groups showed that the brain’s energy consumption is increased by less than 5% of its baseline energy consumption while performing a focused mental task. These experiments showed that the brain is constantly active with a high level of activity even when the person is not engaged in focused mental work. Research thereafter focused on finding the regions responsible for this constant background activity level.
+
+Raichle coined the term “default mode” in 2001 to describe resting state brain function; the concept rapidly became a central theme in neuroscience. Around this time, the idea was implanted that this network of brain areas is involved in internally directed thoughts and is suspended during specific goal-directed behaviors.
+
+In 2003, Greicius and colleagues examined resting state fMRI scans and looked at how correlated different sections in the brain are to each other and found the correlation maps showed the same areas Raichle found active during rest and that others found to deactivated. It was important because it demonstrated a convergence of methods all lead to the same areas being involved in the DMN. Since then other resting state networks (RSNs) have been found, such as visual, auditory, and attention networks, some of them are often anti-correlated with the default mode network.
+
+In the beginning to mid 2000s, researches labeled the *default mode network* as the *task negative network [TNN]* because *it was deactivated when participants had to perform tasks*. *DMN was thought to only be active during passive rest and then turned off during externally focused goal-directed tasks.* *However, studies have demonstrated the DMN to be active in external goal-directed tasks which is known to involve the DMN* such as *social working memory* or *autobiographical tasks*.
+
+Around 2007, the number of papers referencing the default mode network  skyrocketed. All years prior to 2007, there were 12 papers published that referenced “default mode network” or “default network” in the title, however, between 2007 and 2014 there were 1384 papers published. One reason for the increase in papers is a result of the robust effect of finding the DMN with resting state scans.
+
+Another reason is the DMN can be measured with a short and effortless resting state scans meaning they can be performed on any population including young children, clinical populations, and nonhuman primates. A third reason is role of the DMN has been expanded to more than just a passive brain network.
+
+link:https://sciencebeta.com/default-mode-network/[]
+
+---
+
+The DMN is also thought to play a role, in combination with other brain networks, in key human qualities such as *creativity*. As a person idles and her mind drifts, the activity of the DMN may help give rise ideas that other networks then vet and process further. [This is why the best ideas arise usually when people don't work, but usually by accident or when they're washing their teeth, daydream or just laying down.]
+
+link:https://www.psychologytoday.com/us/basics/default-mode-network[]
+
+---
+
+*Mindfulness-Based Exposure Therapy*
+
+This 16-week nontrauma-focused intervention was developed by the authors at the VA Ann Arbor, incorporating mindfulness training from MBCT [Mindfulness Based Cognitive Therapy], PTSD [Post-Traumatic Stress Disorder] psychoeducation, and in vivo exposure from PE [psychoeducation] therapy, and *self-compassion exercises*. In vivo exposures were conducted only to avoided (and objectively safe) situations or activities. It was explicitly stated that no imaginal exposure or processing of trauma memories would be done in this group. *The intervention consists of four “modules”:* +
+*(1) PTSD psychoeducation and relaxation,* +
+*(2) mindfulness of body and breath exercises and in vivo exposure,* +
+*(3) mindfulness of emotion in vivo exposure* and +
+*(4) self-compassion training.* +
+*The classes were 2 hr each and participants complete daily homework in between sessions.*
+
+*Results*
+
+*MBET* (N = 14) was associated with a *significant decrease in PTSD symptom severity* and PCGT was associated (N = 9) with a *trend level improvement* (Table 2 and Fig. 1). *MBET showed a significant reduction in total CAPS score [Clinician Administered PTSD Scale]* (pre vs. post MBET t(13) = 3.20, P = .007, average 15.6 point decrease in total CAPS, effect size Cohen’s d = 0.92).
+
+*Discussion*
+
+This study presents evidence of changes in DMN rsFC in combat veteran PTSD patients following a 16-week group psychotherapy that involved *daily mindfulness training (MBET) [Mindfulness-Based Exposure Therapy]*. PTSD *patients who completed MBET showed increased* pre- to posttherapy DMN (PCC seed) *connectivity to DLPFC regions within the CEN [Central Executive Network]*. This *increased DMN–CEN connectivity was seen only in the group who had engaged in mindfulness training*, and not in those who had completed an active control therapy (PCGT), and a treatment-group (MBET vs. PCGT) x time (post- vs. pretherapy) interaction was observed in whole brain analyses. These findings are consistent with the long-standing concept that the prolonged forms of attention training found in mindfulness-based intervention might lead to increased capacity to volitionally switch ones attention from “narrative” forms of self-referential states (which can be associated with anxiety and rumination), to other forms of self-referential states, such as “experiencing” sensation and interoception.[23, 24] *This is consistent with the primary skills explicitly trained in mindfulness training: developing metacognitive awareness of one’s attention and the capacity to volitionally “shift” one’s attention from “mind-wandering” self-narrative to explicit tasks of interoception and attention to breath (i.e., to the object of meditation, the sensations of the breath).* *Increased recruitment of executive network circuits _[reference to Self-Directed Executive Functioning - Play - Peter Gray - Self-Directed Education (SDE)]_* (and in particular, with DLPFC regions associated with volitional control of attention) during resting state could reflect a potential mechanism underlying the salutary effects of *mindfulness training* on *emotional regulation*, involving *increased volitional control of mental states*.
+
+link:https://sci-hub.tf/10.1002/da.22481[King, Anthony P.; Block, Stefanie R.; Sripada, Rebecca K.; Rauch, Sheila; Giardino, Nicholas; Favorite, Todd; Angstadt, Michael; Kessler, Daniel; Welsh, Robert; Liberzon, Israel (2016). ALTERED DEFAULT MODE NETWORK (DMN) RESTING STATE FUNCTIONAL CONNECTIVITY FOLLOWING A MINDFULNESS-BASED EXPOSURE THERAPY FOR POSTTRAUMATIC STRESS DISORDER (PTSD) IN COMBAT VETERANS OF AFGHANISTAN AND IRAQ. Depression and Anxiety, 33(4), 289–299. doi:10.1002/da.22481]
+
+---
+
+*Mindfulness-based exposure and response groups*
+
+The MB-ERP [Mindfulness-Based Exposure and Response Prevention] group will be provided with 10 sessions of mindfulness-based behaviour therapy (ERP), each session lasting two hours. Session 1 will introduce the rationale for ERP alongside the rationale for including mindfulness principles and practice. Sessions 2 to 9 will each start with a 10-minute mindfulness practice: mindfulness of the breath and body (session 1); mindfulness of the breath, body, sounds and thoughts (sessions 2-3); mindfulness of thoughts (session 4-5); and mindfulness of body, thoughts, urges and action (sessions 6-10). Mindfulness practice will be followed by a 20-minute Socratic inquiry about the practices in order to draw out learning, with a particular emphasis on the three areas noted above: non-judgmental acceptance of (intrusive) thoughts, non-judgmental acceptance of physical sensations (of anxiety) and a recognition that it is possible to choose whether or not to follow behavioural urges (to engage in compulsive behaviours). A three-minute mindfulness breathing space practice [12] will also be introduced from session 6 onwards for participants to use on a daily basis to bring awareness to current experiences and to facilitate engagement in ERP tasks. In session 1, participants will be given an MP3 player with the range of mindfulness practices for daily home practice, with practice being recorded in the daily diary. The final 90 minutes of MB-ERP session will follow the same ERP protocol outlined above with the addition that whilst engaging in ERP tasks, *participants will be encouraged to bring mindfulness skills to the tasks*. In particular, this will involve an *encouragement to bring mindfulness to intrusive thoughts as they arise* (allowing thoughts to arise without suppressing them or becoming absorbed with them), to bring mindfulness to physical sensations of anxiety (*noticing and accepting physical sensations of anxiety with curiosity and interest*) and to bring mindfulness to urges to engage in compulsive behaviours (noticing compulsive urges and *recognising there is a choice available* - a choice to follow the urge and a choice to allow the urge to remain, without following it). Session 10 will focus on consolidating learning from the therapy and developing a therapy blueprint for continuing MB-ERP after the therapy has concluded.
+
+*Discussion*
+
+*Exposure and Response Prevention (ERP) is the most well-established and strongly evidenced psychological therapy for obsessive compulsive disorder (OCD).* However, the approach is challenging for patients because *it involves* them directly and regularly confronting their anxiety-provoking triggers and *staying with their feelings of anxiety, rather than attempting to eliminate them by engaging in compulsive behaviours*. It is perhaps not surprising, therefore, that many people refuse ERP as a treatment option [37], that about a quarter of people who do start ERP drop out [8] and that many of those who do remain engaged in therapy sessions fail to engage in the recommended regular between-session ERP tasks, which is associated with poorer therapy outcomes [10]. Taken together, around half of people with OCD fail to show recovery after ERP [7]. Mindfulness-based ERP (MB-ERP) for OCD has the potential to increase engagement with ERP and, therefore, could potentially improve therapy outcomes. *The therapy encourages patients to attend non-judgementally to their intrusive thoughts, increase their acceptance of physical sensations of anxiety, and bring greater awareness to urges to engage in compulsive behaviours.* This pilot study directly compares MB-ERP groups to standard ERP groups with the primary aim of generating effect sizes for OCD symptom severity and measures of therapy engagement in order to calculate the sample size needed for a definitive trial. The hypothesis for the definitive trial is that, in comparison to ERP, MB-ERP will lead to a greater reduction in OCD symptom severity and greater rates of participant engagement. *Exposure and Response Prevention has remained relatively unchanged since its development almost 50 years ago and yet it remains the most effective therapy for OCD [2].* Mindfulness-based ERP has the potential to enhance the effectiveness of ERP through improving participant engagement in therapy sessions and in therapy tasks. This pilot study is the first step in evaluating this possibility and the next steps will be determined by the outcomes of this study.
+
+link:https://sci-hub.tf/10.1186/s13063-015-0664-7[Strauss, Clara; Rosten, Claire; Hayward, Mark; Lea, Laura; Forrester, Elizabeth; Jones, Anna-Marie (2015). Mindfulness-based exposure and response prevention for obsessive compulsive disorder: study protocol for a pilot randomised controlled trial. Trials, 16(1), 167–. doi:10.1186/s13063-015-0664-7]
+
+---
+
+Luckily, that mind-wandering isn’t always on.
+
+There are times we are free of that voice. In particular, when we are doing something active [Sympathic Nervous System; Task Positive Network (TPN)]. Something we love to do.
+
+In those moments, we feel at our best. That’s when you are in “FLOW.”
+
+Science defines *Flow* as an *optimal state of consciousness*. *In flow, you perform and feel your best.* The task you’re doing absorbs you so much that everything else disappears.
+
+Even your decision-making happens effortlessly. Every decision and action flows seamlessly into the next. Flow is as close to picture-perfect decision-making as you can get. That’s why it’s called flow.
+
+*In flow, parts of the brain*, don’t become hyperactive but they *deactivate*. *We know the name for that state as [transient hypofrontality]*. transient — meaning temporary — hypo (it means slowing doing, shut down), frontality.
+
+Frontality refers to your prefrontal cortex or the executive function of the brain. [reference to Self-Directed Executive Functioning; Play - Peter Gray]
+
+It’s where all our higher cognitive functions resist. Our sense of will, morality, a sense of self, complex decision-making [*inner chooser* - NVC] etcetera all comes from our PFC. It’s what makes ‘you’ human.
+
+*Now, in flow, that area goes quiet.* +
+*[So during the activity I have to silence my inner critic? Do I have to turn off my critical thinking during that activity too?]*
+
+That also the reason time passes so strangely. We calculate time all over the prefrontal cortex/PFC. [Therefore I turned off all time indicators on my computers.]
+
+Also, your dorsal lateral prefrontal cortex [DLPFC] — known as your inner critic [*inner educator* - NVC] — goes off.
+
+When that happens, magic takes place. You feel instantly free of yourself. As a result, things like creativity and risk-taking go through the roof. You probably feel you’re invincible. That’s why flow is considered the most addictive state.
+
+*The brain also produces 5 of the most potent neurochemicals.*
+These are all performance-enhanced neurochemicals, but also feel-good pleasure drugs.
+
+The brain releases neurochemicals like *norepinephrine, dopamine, anandamide, serotonin, and endorphins all together. If you were to buy a drug version of all those neurochemicals and combine them, You’d end up dead or in a coma. The brain combines these neurochemicals beautifully.*
+
+One of those neurochemicals you’ve probably heard of called dopamine.
+We associate dopamine with learning, creativity, and motivation — It makes you capable of taking in more information and process it more deeply.
+And that’s just one neurotransmitter. Imagine the effect of the rest.
+Unfortunately for us, the brain’s default mode is the opposite of this enjoyable state of high focus and high performance.
+The good news is that meditation is as close to flowing as you can get.
+
+A link:https://news.harvard.edu/gazette/story/2011/01/eight-weeks-to-a-better-brain/[study from Harward] found that when people went through 8 weeks of meditation, critical areas of the brain that associate with *awareness*, stress, and *empathy* change.
+They grew *new grey matter in* their *cerebral cortex*, which connects to attention and emotional integration [emotional regulation - inhibiory neurons].
+Also, the *grey matter in the amygdala, the brain’s emotional center, deceased*.
+*They gained more control over their emotions.*
+*Even impulse control becomes better.*
+
+By interviewing 500 of the top world-class performers, [Tim Ferriss] saw that the most practiced routine they have is meditation. [Just like Doug Newburg found out among world-class performers that they are mindful of their feelings. They remind themselves how they want to feel and are in the environment and among those people who stimulate these feelings.] At least 80% of them have some mindfulness practice/meditation. [Meditation in my case takes the form of passive resting: lying down; or active internal dialogue: Nonviolent Communication practice - experiencing events and responses from others as precious gifts, no matter how they're expressed because I know that they don't react to me, but to their unfulfilled needs. Because that's behind every event and response: feelings and needs. Although sometimes it takes me a while until I realize what concretely they might be and what can I do or say differently next time to live more in harmony with my needs and learn from my mistakes.]
+
+They know that it can help them gets more control over their lives. [reference to Internal locus of control]
+
+And that meditation can stop them from being yanked around by the voice in their head.
+
+A common assumption that we make, somewhat subconscious, is that happiness depends on external factors such as success or things. [That's how we've been raised and educated.]
+
+We’re chasing it hoping one day if we get it, all our problems will melt away.
+It doesn’t. All we’re doing is fulfilling our pleasures/desires [fulfilling our needs] and avoiding boredom/pain [unplesant feelings]. *We’re confusing pleasure-seeking with happiness.* [Maybe because the domination systems and education system support extrinsic motivation, pleasing the authorities, habitual obedience, avoiding punishment, desire of reward and praise and chasing stars? Reference to Chasing Stars: The Myth of Talent and the Portability of Performance - Boris Groysberg]
+
+The tendency towards negativity is what the brain’s default mode network is all about. [Yea, because many of us were educated more that anything else to worry about the future and moralistically judge others when they're not behaving 'normally' or in a way that we don't like from schools and religion. maybe nVC and compassion/empathy will help me to perceive events and responses diffently, with more compassion and tolerance to be in line with the restorative justice, protective use of force, therapy, care and rehabilitation.]
+
+However, the brain is plastic — meaning changeable. [And maybe NVC can change the operation of the DMN and perhaps other areas of the brain.]
+
+We can form new neural pathways to become happier. We can choose our destiny. [But before we have to be exposed from outside to the other options, otherwise we wouldn't even know about them.]
+
+We don’t have to live our lives like we’re half dead. A happier life is one doorstep away, and meditation is knocking.
+
+The bottom line, happiness is a skill, just like you can train your body in the gym. So you can prepare yourself to be happy. And being mindful might do the trick
+However, it doesn’t mean you won’t be vulnerable. It just means your going to navigate life with a little more ease.
+
+link:https://medium.com/swlh/the-brains-default-mode-what-is-it-and-why-meditation-is-the-antidote-d0408ab989d6[]
+
+---
+
+...in 2001 when a neurologist by the name of Dr. Marcus Raichle at Washington University revealed a network of brain structures responsible for the inattentive wandering of our minds. Furthermore, Dr. Raichle showed that these same structures were deactivated when we engage in attention-demanding tasks. He coined the term, “default mode network,” to describe the group of structures active during our “default,” inattentive state (1).
+
+The following decade revealed many more details about the default mode network (DMN) that further validated Dr. Berger’s almost century-old (1929 paper) claim that the brain was still very much “on” even when we let our attention wander.
+e
+Now that we have the historical context let’s examine the importance of the DMN to mindfulness and mental health.
+
+image:https://i2.wp.com/dailymeditate.com/wp-content/uploads/2015/01/Default-Mode-Network.jpg?w=500&ssl=1[]
+
+A critical point regarding [the] *relationship [between Task Positive Network (TMP) and Default Mode Network (DMN) is* that] they are *mutually exclusive*.
+
+*The activation of the DMN inhibits the TPN and vice versa.*
+
+In fact, *no study has demonstrated the simultaneous activation of the two networks* (4). *The relationship between the DMN and the TPN is analogous to the relationship between inhalation and exhalation: despite their intimate nature, the two cannot exist simultaneously.*
+
+image:https://i0.wp.com/dailymeditate.com/wp-content/uploads/2015/01/TPN.jpg[]
+
+*The TPN [Task Positive Network] is involved in present moment awareness.*
+
+The TPN is engaged when we attend to the here and now. *It is the action network. [Sympathic Nervous System?]* The TPN is our direct line to mindfulness and the Present Moment in which worry and sadness cannot survive.
+
+link:https://dailymeditate.com/neuroscience-mindfulness/[]
+
+---
+
+Why is meditation theoretically so good, so helpful, so transformative?
+
+The good folks at link:https://www.youtube.com/watch?v=Aw71zanwMnY[AsapSCIENCE] took the time to dig into the actual research into meditation ... but here are seven things that scientific research tells us about what meditation does for the body and brain.
+
+1. *Meditation can help you deal with stress and negative emotions.*
+
+link:https://www.ncbi.nlm.nih.gov/books/NBK180102/[Multiple studies have shown] that meditation can help reduce levels of depression and anxiety, along with helping people tolerate pain better. The researchers conclude that mindfulness meditation in particular might help people deal with psychological stress, though they say that more research is needed into how meditation might help lead to positive mental health (beyond reducing effects of negative stresses).
+
+2. *At the same time, meditation could boost positive skills like memory and awareness.*
+
+Research shows that link:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3289949/[meditators have unique brains] with well-developed areas that might be connected to the mastery of awareness and emotional control. While it's possible that people with such brains might be more likely to meditate in the first place, other link:http://www.psyn-journal.com/article/S0925-4927(10)00288-X/pdf[research does show] that after completing a meditation program there are changes in participants' brains that are connected to memory, self-awareness, and perspective.
+
+3. *Meditating for years is associated with brain changes that help you get along with others.*
+
+Buddhist monks and other long term meditation practitioners link:https://www.ncbi.nlm.nih.gov/pubmed/18365029[show much more developed] brain regions associated with empathy, though the reasons for that are likely complex. link:http://www.serotonin-dojo.jp/pdf/articles_005.pdf[Researchers have seen] that meditation can also change brain waves, leading to higher levels of alpha brain waves — which are link:http://web.mst.edu/~psyworld/sleep_stages.htm[generally associated with] a state of wakeful relaxation. This can help reduce negative moods and feelings including anger, tension, and sadness.
+
+image:https://i.insider.com/54cff7346bb3f73e481b7747?width=700&format=jpeg&auto=webp[]
+
+The default mode network refers to a network of brain regions that are active when the mind is in a meditative state — wakeful, at rest, and not focused on external distractions. This state of mind is associated with various positive effects and with reductions in negative stresses like anxiety and depression.
+
+4. *It doesn't take long to see meditation's benefits — just weeks can change your brain.*
+
+link:http://www.sciencedirect.com/science/article/pii/S092549271000288X[Several studies] link:https://www.ncbi.nlm.nih.gov/pubmed/21334442[show that after an eight-week] meditation program, participants had denser brain tissue in areas connected to learning, emotion regulation, and memory processing.
+
+Additionally, they showed decreased amounts of grey matter in parts of the amygdala, a brain area connected to fear and stress. In a study published in link:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2840837/[Social Cognitive And Affective Neuroscience], researchers write that in general, people who stimulate an area of the brain repeatedly (generally by learning a skill) show an increase in grey matter, while not using an area of the brain *decreases grey matter in [amygdala - in the center of fear and stress]*. They write that in this case, participants who reduced their stress response the most were the ones that showed the biggest decrease in grey matter in this area of the brain.
+
+5. *The benefits of meditation extend to other parts of your body too, including your heart.*
+
+Mindfulness training has been link:https://www.ncbi.nlm.nih.gov/pubmed/17107296[connected to decreased blood pressure] and a more variable heart rate — which is a good thing, meaning your body can better regulate blood flow depending on how much oxygen you need at the time. link:https://well.blogs.nytimes.com/2009/11/20/can-meditation-curb-heart-attacks/[Researchers] (and the link:https://www.heart.org/HEARTORG/GettingHealthy/StressManagement/TakeActiontoControlStress/Meditation-and-Heart-Health_UCM_452930_Article.jsp[American Heart Association]) say a likely mechanism for this is that meditation could reduce the levels of stress hormones that can cause inflammation and other physical problems.
+
+6. *There are also signs that meditation can help boost your immune system — or at least help ward off the flu.*
+
+In a link:https://www.ncbi.nlm.nih.gov/pubmed/12883106[study], researchers took two groups of people and had one group complete an eight week meditation course. At the end of the eight weeks, the people in the meditation group showed increased left-side brain activity. At that point, the researchers injected both groups with the flu vaccine. The meditators had a stronger immune response (their bodies produced more flu-fighting antibodies), and the higher the level of left-brain activity in general, the greater the immune response.
+
+7. *Meditation may help prevent genetic damage.*
+
+One link:https://onlinelibrary.wiley.com/doi/10.1002/cncr.29063/abstract[study showed that cancer survivors] who completed a meditation program showed increased telomere length — telomeres are protein complexes that protect our genes, and shortened telomeres have been linked to various diseases. Researchers say that the possible mechanism for this is that reducing stress could help certain enzymes that lengthen telomeres, though more research in more diverse populations is needed.
+
+As the video below explains, meditation can't take the place of taking care of yourself — so you should keep going to the doctor, getting exercise, and eating vegetables. It's also worth noting that much of this research is still fairly preliminary and as we learn more about the brain and how it responds to different types of activity, our perspective on how all this works could change.
+
+But it "may be a way of working out your brain with extra health benefits. And since your brain controls all of you, why not relax and say 'Ommmm...' every once in a while."
+
+Or for those weirded out by thinking "ommmm," just go ahead and take some time to sit and breathe.
+
+link:https://www.businessinsider.com/how-meditation-changes-your-brain-2015-1[]
+
 == Why did I create this?
 
 Chcel som sa vyliečiť z tráviacich problémov. Bolestí žalúdka, nafukovania, únavy po jedle.
 
 Doktori to vzdali. Skúšali všetko možné. Nakoniec mi povedali: "Nevieme liečiť niečo, čo nevieme ani diagnostikovať". "Tak dík." pomyslel som si a išiel som preč.
 
-Bol som zúfalý a vyčerpaný z choroby. Lekári tiež. Tak som po dvoch rokoch prevzal zodpovednosť za svojou liečbu do vlastných rúk.
+Bol som zúfalý a vyčerpaný z choroby. Lekári tiež. Tak som po dvoch rokoch prevzal zodpovednosť za svojou liečbu do vlastných rúk. Načo sú také autority, čo mi nevedia pomôcť.
 
-Do ďalších dvoch rokoch sa môj zdravotný stav výrazne zlepšil. Asi som mal šťastie. Ale liečba psychosomatickej choroby, syndrómu dráždivého čreva (IBS - Irritable Bowel Syndrome), je komplikovaná a zdĺhavá. A nie len vnútorné, ale aj vonkajšie prostredie, hrá rovnako významnú úlohu pri liečbe. Je to aj rezonancia, súzvuk, súlad, harmónia medzi vonkajším a vnútorným prostredím. Toto tvrdenie potvrdzuje aj vedecká disciplína *epigenetika*. Ak naozaj vonkajšie prostredie ovplyvňuje biológiu človeka, t. j. jeho epigenóm, potom dokážeme vytvoriť vzťah medzi spoločnosťou a zdravím človeka, a medzi telom a dušou človeka, jeho pocitmi, potrebami, zážitkami, vnímaním vonkajšieho prostredia.
+Do ďalších dvoch rokoch sa môj zdravotný stav pomaly zlepšoval. Asi som mal šťastie. Ale liečba psychosomatickej choroby, syndrómu dráždivého čreva (IBS - Irritable Bowel Syndrome), je komplikovaná a zdĺhavá. Navyše terapia na túto diagnózu nie je jednoznačne stanovená. Sú to veľmi všeobecné, nejednoznačné rady. Ak keď aj to sú aj konkrétne rady, je to skôr liečba, čiže tlmenie symptómov, nie príčiny. A nie len vnútorné, ale aj vonkajšie prostredie, hrá rovnako významnú úlohu pri liečbe. Je to aj rezonancia, súzvuk, súlad, harmónia medzi vonkajším a vnútorným prostredím. Toto tvrdenie potvrdzuje aj vedecká disciplína *epigenetika*. Ak naozaj vonkajšie prostredie ovplyvňuje biológiu človeka, t. j. jeho epigenóm, potom dokážeme vytvoriť vzťah medzi spoločnosťou a zdravím človeka, a medzi telom a dušou človeka, jeho pocitmi, potrebami, zážitkami, vnímaním vonkajšieho prostredia.
 
 Čo vytvára našu realitu?
 
-* Vlastné vedomosti, vnímanie, interpretácie a ďalšie vlastné vplyvy
+* Vlastné vedomosti, vnímanie, interpretácie a ďalšie vnútorné vplyvy
 * Výchova
 * Vzdelanie
 * Vonkajšie prostredie
@@ -4131,7 +4536,7 @@ Gestapo-Pädagogik (feindliches Bild) =
 
 Capitalism, Authoritharianism, Dictatorship and the "Free" Market give the:
 
-* freedom to overwork yourself to death
+* freedom to overwork yourself to death [karoshi - 過労死 - Japan]
 * freedom to suffer
 * freedom to compete (into exhaustion (on the "free market"))
 * freedom to starve
@@ -4182,7 +4587,7 @@ waiting for UBI - Universal Basic Income...
 
 ---
 
-*Hobbesian model:* people are greedy and selfish and therefore must have a tyran that will oppress them to discipline them. [What a myth. Protective, not punitive use of force. Empathy and cooperation, not selfishness and competition] link:https://www.pabusinesssupport.co.uk/the-problem-with-meritocracy/[The Problem with Meritocracy]
+*Hobbesian model:* people are greedy and selfish and therefore must have a tyran that will oppress them to discipline them. [What a myth. Protective, not punitive use of force. Empathy and cooperation, not selfishness, individualism and competition] link:https://www.pabusinesssupport.co.uk/the-problem-with-meritocracy/[The Problem with Meritocracy]
 
 ---
 
@@ -4525,3 +4930,18 @@ link:https://slovensko.rtvs.sk/clanky/zdravie/242630/mame-malo-psychiatrov[Máme
 link:https://radio-arch-pp.stv.livebox.sk/a520/00/0025/002518/00251813-1.mp3[Máme málo psychiatrov - celá zvuková správa]
 
 ---
+
+Hadám komunitu, kde i povedia "Nevieš? Nevadí. Ukážeme ti, naučíme ťa, pomôžeme ti."
+
+---
+
+https://literaryterms.net/cynicism/
+
+---
+
+Dying of exposure in work. Ehm, excuse me, paid empoyment.
+
+---
+
+Ich will als ein Mensch wargenommen werden, +
+nicht als eine Nummer, Buchstabe, Produktionsfaktor, menschliche Resource, menschliches Kapital, Objekt, Risiko.
