@@ -345,7 +345,7 @@ vedomie, že na mne a mojich potrebách záleží, že moje potreby sú dôleži
 * lightness / Leichtigkeit / ľahkosť
 * fluency, smoothness / Flüssigkeit / plynulosť
 * gracefulness / Anmut / ladnosť
-* endurance / Ausdauer / vytrvalosť
+* endurance, tenacity / Ausdauer, Beharrlichkeit / vytrvalosť, húževnatosť
 * naturalness / Natürlichkeit / prírodnosť, prirodzenosť
 * resonance / Resonanz / rezonancia, súzvuk
 * determination / Entschlossenheit / rozhodnosť
@@ -711,6 +711,7 @@ spreche, mit jemandem spreche, schreibe, zuhöre, mich dusche, mich mit kaltem W
 * hopeful / hoffnungsvoll / plný nádeje
 * goot (vague feeling - needs to be more closely specified in order to make a closer connection) / gut / dobre
 * passionate / leidenschaftlich / vášnivý
+* in trance, ecstatic / in Trance, verzückt / v extáze, nadšený
 
 ^^ Dream feelings [Doug Newburg - RPM]. Diese Gefühle habe ich bei erfühlten Bedürfnissen. [NVC Buch]
 
@@ -759,7 +760,9 @@ spreche, mit jemandem spreche, schreibe, zuhöre, mich dusche, mich mit kaltem W
 * Robustness vs Perfection link:https://www.youtube.com/watch?v=kzHrBM6CHfE&feature=youtu.be&t=1889[An Interview with Elinor Ostrom: 31:29-31:53]
 * Participatory Democracy, Flatpack Democracy (Frome), Democratic Confederalism, Communalism, Stateless Democracy, Anarchist Communism, Libertarian Socialism, Mutual aid (Emmaüs Lescar-Pau) vs Autocracy, Representative Democracy, Authoritarianism, Populism, Fascism, Nazism and Nationalism etc. link:https://mesopotamia.coop/the-internal-system-of-the-communes-in-rojava/[(THE INTERNAL SYSTEM OF THE COMMUNES IN ROJAVA)]
 * Einsamkeit (Loneliness) vs Selbstständigkeit (Autonomy)
+* Einsamkeit vs Alleinsein
 * Work vs Paid Employment link:https://forum.earlyretirementextreme.com/viewtopic.php?p=104923#p104923[Burnout: bradley]
+* Self-Discipline vs Self-Fulfillment
 * link:https://www.fachverband-gfk.org/wp-documents/anlage_3_schluesselunterscheidungen.pdf[und mehr Unterschiede...]
 
 Culturally learned beliefs - Life-harming beliefs - irrational beliefs:
@@ -2852,7 +2855,7 @@ link:https://www.youtube.com/watch?v=jArsTeP66FE&feature=youtu.be&t=5863[Film 02
      +
     *Let's learn from our limitations, let's learn from our errors. See them as opportunities to develop ourselves, and to keep in mind that everything that's worth doing, is worth doing poorly.* +
      +
-    *We never do anything wrong. We sometimes do things that we wouldn't have done, if we knew then what we've since learned.* [link:https://www.youtube.com/watch?v=iibgCYQTXCs&feature=youtu.be&t=983[Marshall B. Rosenberg - How do you talk to yourself about making mistakes: 16:23-19:40]], [link:https://www.youtube.com/watch?v=HLgGt7yLhJg&feature=youtu.be&t=6084[Atelier communication non violente - Marshall Rosenberg - Danemark - sous-titres français: 1:40:20-1:46:16, 1:45:20]] +
+    *We never do anything wrong [because we're all children of God, and any children of God can't do anything wrong because God doesn't do anything wrong]. We sometimes do things that we wouldn't have done, if we knew then what we've since learned.* [link:https://www.youtube.com/watch?v=iibgCYQTXCs&feature=youtu.be&t=983[Marshall B. Rosenberg - How do you talk to yourself about making mistakes: 16:23-19:40]], [link:https://www.youtube.com/watch?v=HLgGt7yLhJg&feature=youtu.be&t=6084[Atelier communication non violente - Marshall Rosenberg - Danemark - sous-titres français: 1:40:20-1:46:16, 1:45:20]] +
      +
     We never know what we want until we get it. That's what makes life fun. +
     *Christianity requires the willingness to sin courageously.* [Paul Tillich] +
@@ -3550,7 +3553,7 @@ expressive writing, empathy, NVC
 * fear of violence (and of other things)
   ** Angst vor Gewalt von Autoritäten
 * fear of losing control of my life / Angst vor Verlust der Kontrolle über meinem Leben
-* Disgust of autocratic authorities
+* Disgust of autocratic authorities (dictators)
 * ADHD: Attention Deficit Hyperactivity Disorder [possibly]
 * Anhedonia: inability to enjoy life
 * Learning disability: in some aspects; I learned various things, but e.g. not programming, fluent English or German, enjoying the presence of other people, regulating emotions, enjoying talking with women, keeping calm when other people talk to me with raised voice
@@ -3558,6 +3561,7 @@ expressive writing, empathy, NVC
 * Social Death
   ** https://academic.oup.com/qjmed/article/110/1/5/2638390
 * Porn Addiction
+* Fußpilz
 
 === Violence / Gewalt
 
@@ -4884,13 +4888,15 @@ Tue 8.12.2020 - The Surge +
  +
 Thu 7.1.2020 - The Surge +
  +
-Sat 27.02.2021 - Potenzielle Ende des Neustartes nach etwa 90 Tage
+Sat 16.1.2020 - The Surge +
+ +
+Sat 27.02.2021 - Potenzielle Ende des Neustartes nach etwa 90 Tage. Vielleicht werde ich die Neustartzeit noch verlängern.
 
 Geschenke zu Frauen und Mädchen: Freiheit, Ehre, Sicherheit, Geborgenheit, Rücksicht, Privatsphäre, Würde, Menschlichkeit
 
-Geschenke zu mir: Gesundheit für meinen Geist und Körper, Freiheit von zwanghaften Vorstellungen und Gedanken, ehre zu meinem Körper, Genuss Entspannung in der Anwesendheit von Frauen nund Mädchen, Verantwortung für mein Verhalten, meinen Körper und meine Gedanken
+Geschenke zu mir: Gesundheit für meinen Geist und Körper, stärkerer Magen, schwächere Magenentzündung, stärkere Augen, etnspanntere Muskeln, hauptsächlich auf dem Rücken, stärkere Immunität, Freiheit von zwanghaften Vorstellungen, Gedanken und Tätigkeiten, *Freiheit von Sklaverei* der Gedanken und Tätigkeiten, Ehre zu meinem Körper, *Genuss und Entspannung und Geborgenheit in der Anwesendheit von Frauen nund Mädchen*, in der Anwesendheit von Frauen nund Mädchen ohne Trance-Gefühle sein, Verantwortung für mein Verhalten, meinen Körper und meine Gedanken, weniger empfindliches Geschlechtsorgan
 
-All diese Geschenke gebe ich ihnen und mir gleichzeitig, jedes Mal, wenn ich mich nach NoFap-Prinzipien halte.
+All diese Geschenke gebe ich ihnen, Mädchen und Frauen, und mir gleichzeitig, jedes Mal, wenn ich mich nach NoFap-Prinzipien halte.
 
 *Sources:*
 
@@ -4929,7 +4935,7 @@ mental illness +
 
 ---
 
-*Miecha je zbernica.* Nervy sú vodiče, káble. Mozog je procesor, operačná pamäť a trvalé úložisko. Zmysly sú senzory vnímajúce podnety zvonku aj zvnútra (vnímavosť, propriorecepcia). Kosti sú oceľové tyče a dávajú pevnosť. Svaly sú piesty a dávajú pružnosť.
+*Miecha je zbernica.* Nervy sú vodiče, káble. Mozog je procesor, operačná pamäť a trvalé úložisko. Zmysly sú senzory vnímajúce podnety zvonku aj zvnútra (vnímavosť, propriorecepcia). Kosti sú železá. Svaly sú piesty.
 
 ---
 
@@ -4984,6 +4990,8 @@ Manchmal sind die Bedürfnisse anderer Menchen für mich sehr schwierig als *wer
 Es gibt nicht solches als mentale Krankheit. *Ich sehe mentale Krankheiten als eine Folge von niedriger emotionalen Intelligenz und schwacher Erziehung und Ausbilung zur Empathie und Verantwortung.* Und das kann man nie durch Gehorsamkeit lernen. In dem wir uns mehr in emotionaler Intelligenz ausbilden werden, werden wir gesünder in unserem Geist und Körper. Je mehr emotiolaner Intelligenz, desto schwächer die mentale Krankheiten, weniger von mentalen Krankheiten, desto gesünder der Geist und Körper [reference to psychosomatic, nervus vagus]. +
 Neexistuje nič také ako psychická choroba. *Psychické choroby vidím ako dôsledok nízkej emocionálnej inteligencie a slabej výchovy a vzdelaniu k empatii a zodpovednosti.* A to sa nikdy nedá naučiť poslušnosťou.
 
+Thomas Szasz - The Myth of the Mental Illness
+
 ---
 
 Pokým tu bude výchova, vzdelávanie a inštitúcie založené na notorickej poslušnosti a dominancii, dovtedy tu bude totalita.
@@ -5002,8 +5010,30 @@ I would like people to distinguish between evaluation and observation. +
 
 ---
 
-I would like people to understand that you don't have to go to the church in order to live emphatic, moral and ethical life. That there are multiple ways to practice and claim a faith. That spirituality doesn't depend on religion. People commited acts of violence in the name of God, in the name of science and in the name of other ideologies. Therefore I see the idea of nonviolence as revolutionary. Revolution is a spiritual transformation. Spiritual transformation from retributive justice to restorative justice. From domination to cooperation. From self-lessness and selfishness to self-fullness. From duty, Amtssprache, anger, depression, guilt, shame to empathy, peace. From moralistic judgements to the consciousness that everything that people do to us or to other people, even acts of violence, conflicts and destruction, is a precious gift, a gift, a gift from God, because all people have been created by God, and the reason why they commit acts of violence is because they had, or have been educated and brought up to do violence, not because we're all are sinners and our human nature is evil. *It's because of the outside factors that we internalize.* Just like we can internalize empathy from the outside environment. We can be educated and brought up to empathy from an early age. +
+I would like people to understand that you don't have to go to the church in order to live emphatic, moral and ethical life. That there are multiple ways to practice and claim a faith. That spirituality doesn't depend on religion. People commited acts of violence in the name of God, in the name of science and in the name of other ideologies. Therefore I see the idea of nonviolence as revolutionary. Revolution is a spiritual transformation. Spiritual transformation from retributive justice to restorative justice. From domination to cooperation. From self-lessness and selfishness to self-fullness. From duty, Amtssprache, anger, depression, guilt, shame to empathy, peace. From moralistic judgements to the consciousness that everything that people do to us or to other people, even acts of violence, conflicts and destruction, is a precious gift, a gift, a gift from God, because all people have been created by God, and the reason why they commit acts of violence is because they had, or have been educated and brought up to do violence, not because we're all are sinners and our human nature is evil [Social Darwinism and Hobbesian model]. *It's because of the outside factors that we internalize.* Just like we can internalize empathy from the outside environment. We can be educated and brought up to empathy from an early age. +
 
 ---
 
-Instead of bragging or diminishing my abilities and activities, I can describe  what I observe that is going on in me.
+Instead of bragging or diminishing my abilities and activities, I can describe  what I observe that is going on in me, what's alive in me. Tell the other person how I feel, what I need. Say what I would like from the other person to do to give the other person an opportunity to make my life more wonderful, in order to feel the joy of giving and fulfilling needs.
+
+---
+
+Auch wenn mich jemand anschimpft, mich anschreit, mich Sachen sagt, die für mich unangenehm sind, mit jemandem Anderen schläft, nicht mit mir in einer Haushalt bleiben will, es ist immer *ein Segen* von der anderen Person zu einer anderen göttlichen Wesen: zu mir. *Ein Segen von einem göttlichen Wesen*, *ein wertvolles Geschenk*, die mir diese wertvolle Geschenke der Gefühle und Bedürfnisse gibt, *für die ich dankbar bin; für die ich mir auswählen kann, dankbar zu sein.*.
+
+---
+
+Gesegnet von Schmerzen, Krankheiten, Leiden und Süchte.
+
+---
+
+Es ist weich, warm, feucht, genau wie meine Empathie ;)
+
+---
+
+Niemand ist schuld. Wir alle, auch die Managers, sind von diesem ökonomischen System beeinträchtigt. Wir sind nicht schuld, Managers sind nicht schuld, ökonomisches System is nicht schuld, Vergangenheit ist auch nicht schuld. Alle Entscheidungen in der Vergangenheit hätten die Leute, Führer und Autorithäten nicht getroffen, wenn sie dann gewusst hätten, welche katastrophale und zerstörerische Folgen es haben wird. Der gegenwärtige Zustand ist auch von unserer Natürlichkeit verursacht. Von unserer Kreativität.
+
+---
+
+Allse "-ismen" sind eine Falle, denn sie sind alles konkrete Strategien, eine tragische, entfremdete Äußerung der Gefühle und Bedürfnisse
+
+---
