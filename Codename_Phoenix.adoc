@@ -106,6 +106,8 @@ link:https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=2486[Marshal
 * [restorative] justice, fairness, equity / [wiederherstellende] Gerechtigkeit / spravodlivosť [založená na obnove (vzťahov) a oprave škôd]
 * compensation / Ausgleich / kompenzácia, odškodnenie - nie ako odplata alebo trest, ale ako pomoc pri napĺňaní nenaplnených potrieb pre niekoho iného
 * _fragileness / Zerbrechlichkeit (Bedürfnis nach Schutz (physisch) oder Empathie (psychisch)) / krehkosť_
+* [line-through]#power (over) / Macht (über) / moc (nad)#
+* [line-through]#domination / Herrschaft / dominancia#
 * [line-through]#retributive justice / vergeltende Gerechtigkeit / spravodlivosť založená na odplate#
 * [line-through]#war / Krieg / vojna#
 * [line-through]#violence / die Gewalt / násilie#
@@ -323,6 +325,7 @@ vedomie, že na mne a mojich potrebách záleží, že moje potreby sú dôleži
 * _extrinsic motivation / extrinsische, äußere Motivation / vonkajšia motivácia_
 * _smell / der Gestank / zápach_
 * [line-through]#productivity / Produktivität / produktivita#
+* [line-through]#destruction / Zerstörung / ničenie#
 
 ---
 
@@ -763,6 +766,7 @@ spreche, mit jemandem spreche, schreibe, zuhöre, mich dusche, mich mit kaltem W
 * Einsamkeit vs Alleinsein
 * Work vs Paid Employment link:https://forum.earlyretirementextreme.com/viewtopic.php?p=104923#p104923[Burnout: bradley]
 * Self-Discipline vs Self-Fulfillment
+* neurology, neuroanatomy, neurophysiology, neurochemistry, neuropharmacology, or neurosurgery vs psychiatry [thanks Thomas Szasz]
 * link:https://www.fachverband-gfk.org/wp-documents/anlage_3_schluesselunterscheidungen.pdf[und mehr Unterschiede...]
 
 Culturally learned beliefs - Life-harming beliefs - irrational beliefs:
@@ -830,8 +834,10 @@ link:https://en.wikipedia.org/wiki/Peter_principle#Summary[Peter Principle: Pete
 * Interesse an Entdeckung und Genuss von meinen selbstzerstörenden, depressiven, Ärger und Gewalt provozierenden Gedanken und Überzeugungen
 * *Dankbarkeit* für alle Gedanken, Sprache, Amtssprache, Vorstellungen, Urteile, Vorurteile, feindliche Bilder, Schmerzen, Ereignisse, Tätigkeiten die in mir Schuld, Scham, Ärger, Depression, Eifersucht, Neid hervorrufen.
   ** Ich kann zumindest dankbar dafür sein, dass ich diese Stimulen, Gefühle und dahinter liegende Bedürfnisse wahrnehmen und benennen kann, obwohl ich in dem Moment nicht weiß, was ich damit tue. Ich atme in Ungewisse. Dankbarkeit für solche Möglichkeiten und Ereignisse, wiel ich das Denken, das den Frieden unterstützt üben kann, statt des Denkens, das die Gewalt provoziert und genussbar macht. Gewalt gegen mir. Gewalt gegen Anderen. Hoffnung, dass Empathie mir dabei hilft.
-* Massive power of nonviolence
+* healing power of nonviolence
 * úcta k práci druhých ľudí
+* expecting the best of others
+* expecting the best of myself
 
 *2.) Preparation / Vorbereitung*
 
@@ -877,7 +883,7 @@ link:https://en.wikipedia.org/wiki/Peter_principle#Summary[Peter Principle: Pete
 * The act of learning is more important than how well [or fast] I'm learning.
   Das, dass ich lerne ist wichtiger, als das, wie gut [oder schnell] ich lerne. +
   link:???[Alfie Kohn ??? + Cedric Dumont - From Fear to Flow ???]
-* People who I let myself to inspire from / Leute von denen ich mich inspirieren lasse
+* People who I let myself to inspire from / Leute von denen ich mich inspirieren lasse:
 ** Ivo Toman - TAXUS Learninig - Lernen einer Fremdsprache durch gleichzeitiges Hören und Lesen eines wortwortlichen Textes in der Mutter- oder Fremdsprache, der zu dem gehörtem Text gehört.
 ** *Wim Hof - Wim Hof Methode*
 ** Marie Kondo - Konmari-Methode
@@ -929,6 +935,9 @@ link:https://en.wikipedia.org/wiki/Peter_principle#Summary[Peter Principle: Pete
 ** Elinor Ostrom - Book: Governing the Commons: The Evolution of Institutions for Collective Action; The Tragedy of the Commons research; Design Principles for Collective Managing of Shared Resources - Arguments for collective ownership, collective decision making, direct democracy, and their mix with private [land] ownership
   *** https://www.davidharvey.org/media/Harvey_on_the_Commons.pdf
 ** Bruce Lipton, Peter Spork - Epigenetics
+** Thomas Szasz - Bücher: The Myth of the Mental Illness; Liberation by Oppression
+** John Cacioppo - Loneliness; Buch: Loneliness: Human Nature and the Need for Social Connection
+** Rafah Harfoush - Buch: Hustle and Float: Reclaim Your Creativity and Thrive in a World Obsessed with Work
 
 == Questions
 
@@ -1018,7 +1027,8 @@ included...]
 * What are my long-term goals for other people to feel about themselves?
 * What are my long-term goals for other people to feel about their life in general? [connection to Doug Newburg - Resonance Performance Model questions]
 * Do my practices support these long-term goals?
-* Is what I do consistent with what I say?
+* Is what I do consistent with what I say and believe in?
+* What can I do for you to dissolve your concerns and doubts?
 
 ---
 
@@ -2211,6 +2221,8 @@ Sources:+
   ** 46:46- https://www.youtube.com/watch?v=n5j5EW933Kw&feature=youtu.be&t=2806
   ** 54:10- https://www.youtube.com/watch?v=n5j5EW933Kw&feature=youtu.be&t=3250
   ** 54:15- https://www.youtube.com/watch?v=n5j5EW933Kw&feature=youtu.be&t=3255
+  ** 56:49- https://www.youtube.com/watch?t=3409&v=n5j5EW933Kw&feature=youtu.be
+    *** I sometimes joke that *the most difficult job is to be a responsible citizen of a democratic country* because you have to care about everything. From global warming, to your country's income inequality, balance of payments, monetary policy, defense policy, what have you. If you tell people: "Well, we have 727 issues. Let's all think about it." they'll not do it. So you need to focus. [Pick] one or two issues, [which] will depend on the time and the coutry. ... I think that in the US the concern fo inequalities has actually became very strong. 
   
 * link:https://www.youtube.com/watch?v=ti3rjogF_VU[Owen Jones meets Ha-Joon Chang | The economic argument against neoliberalism]
   ** 2:32-5:12
@@ -2430,7 +2442,233 @@ Sources:+
     *** ... but the ususal public attitude ... is "There's nothing you can do with this population." It's like what ... I have been thaught before I first went into the prisons: "These people are untreatable. It's hopeless. Intractable. All you can do is lock them up and throw away the key." That is totally untrue. Another lesson is ... that punishment is not the answer. Although I do think that people who are harming others do need to be isolated from the community and restrained from harming others. I don't believe that throwing away the key and letting everybody out anymore, than locking them up and throwing away the key. Both of those are equally unworkable. When someone is robbing and murdering you've got to protect the public for as long time as they're continuing to be dangerous. But above and beyond that, punishment, that is the [retributive] infliction of further pain, is totally unnecessary once you've made the community safe by putting them behind locked doors. Further pain, which we call punishment, only increases the amount of violence they commit, or will commit in the future, not to mention the violence they commit in the jai or prison. So, I believe in ... restraining people who are hurting other people the same way I believe to restraining a two-year old who's running in front of traffic. If they don't respond to words and stop, you grab them, you put your arms around them, and you pull the back, so they won't get hurt [protective use of force]. But you don't hurt them. The whole point of all of this that they don't get hurt. Unfortunatelly, we've forgotten to treat adults the way we take for granted we would treat children. [I see it working both ways so that we can justify the violence done to children as well.] But adults respond to the same psychology. *The more punitive we are, the more violent society we have.* For example, the most extreme form of punishment is capital punishment.
   ** 1:07:54-1:09:08 https://www.youtube.com/watch?v=_rSYiy420B0&feature=youtu.be&t=4074
     *** ... [we know a lot more about violence than we did 40-some years ago in Massechusets Norfolk Prison - my first prison. 1:11:10] And ... our task now is to try to not only to educate ourselves about it, but also educate ... other people in positions of influence and authority. ... if you grasped the general principles I'm talking about, ... you can see for yourself how to apply them in your own particular context.
+
+* link:https://www.youtube.com/watch?v=p6Jp_xt2Xo4[John Cacioppo: Social Isolation]
+  ** link:https://www.youtube.com/watch?t=1112&v=p6Jp_xt2Xo4&feature=youtu.be[18:32-24:19]
+    *** Facettes (dimensions) of loneliness
+      **** Emotional loneliness: Feelings of social isolation / intimate connection
+        ***** I lack companionship
+        ***** I feel left out
+        ***** I feel isolated from others
+        ***** I am unhappy being so withdrawn
+        ***** e.g. mariage (but a happy one)
+      **** Social loneliness: Feelings of relational cononection
+        ***** There are people to whom I feel close
+        ***** There are people who really understand me
+        ***** There are people to whom I can talk
+        ***** There are people to whom I can turn
+        ***** e.g. close realative & friends / close realative & friends spoken to at least every 2 weeks
+      **** Collective connection: Feelings of collective connection
+        ***** I feel in tune with the people around me
+        ***** I feel part of a group of friends
+        ***** I have lot in common with the people around me
+        ***** I am an outgoing person
+        ***** e.g. group membership
+  ** 24:19-26:24
+    *** So, I don't know if it's universal, but it's profoundly generalizible so far.
+    *** ... (Hypotheses:) +
+    *- Genes that promote behavior which increases the odds of the genes surviving ar eperpetuated* +
+    *- When offspring have long periods of abject dependency, selfish genes incline social brains and bonds* +
+    If you are in conditions of pervation, and you're very selfish, *you're homo economicus*, right? You're very selfish and only concerned about your own behavior and your own survival and your own hedonism, *and you have a child who needs protection and needs food*, but there isn't much food. So you don't engage in any self-protective or bonded behavior, you only engage in your own self-preservation, you're likely to survive and have more offspring, but *your genes will not make it into the genepool because none of your offspring will have offspring of their own.* *In mamals it's the ability to become a grandparent because the infants are dependent on you for survival.*
+  ** 30:50-35:38
+    *** Consequences of loneliness
+  ** 35:38-36:32
+    *** The vicious cycle of loneliness
+    *** [self-perpetuating and self-exacerbating, similar to meritocracy]
+  ** 42:55-44:34
+    *** *How does the brain of a lonely vs non-lonely person differ in the response to the negative social vs non-social pictures?*
+    *** Response to negative pictures: lonely people had higher activity in visual cortex and link:[temporoparietal junction] brain area *[reference to DMN - Default Mode Network]*
+    *** [temporoparietal junction] (an area between brain tissue instead of brain tissue itself) has been associated with perspective taking, theory of mind, empathy ... it's responsible for an increadible magic trick: *attentional control that allows for your focus of attention from inside your skull and simulate inside someone elses skull to take their point of view.*
+    *** [These areas of the brain are more active in lonely individuals because] it's dangerous on the social perimeter [homeless people, job/home/relationship insecure people]. [Lonely] brains are concerned about self-preservation. If there is a negative social event, your brain goes on alert, now it's concerned about protection of you [therefore all the judgements of me being selfish, irresponsible, inconsiderate and being like a dictator, boss. *The condition of loneliness apparently blocks empathy. This may be a reason, why nonviolent communication alleviates symptoms of loneliness - because nonviolent communication promotes empathy* to oneself and to others].
+  ** 44:34-45:59 +
+    *** When we look at social skills [soft-skills], *lonely individuals have the same social skills than the non-lonely*. We're looking ... at the same person. They didn't loose social skills. *But if I'm thinking about myself rather than you, I'm not gonna exercise ... social skills. So you express poor social skills [soft-skills]* because you (and your brain) have become *more concerned about self-preservation, than the concern about others around you.*
+    *** Lonely individuals and nonlonely individuals, at least young adults, were in very similar circumstances. *But the hassles* ... *are felt to be more extreme by lonely* ... *individuals.*
+  ** 45:24-47:25
+    *** Positive pictures: activates brain area anteroventral striatum [reward centre: _A neural basis for social cooperation: Rilling, 2002_; _Reward, motivation and emotions  systems associated with early-stage intense romatic love: Aron, 2005, J. Neurophys (Journal of Neurophysiology)_] responsible for cooperation, passionate love; this is the dopamine rich area. And the effect is such that *the less lonely you feel, the more ventral striatum activation you see,  [i. e. the less lonely you feel, the more you can feel the joy that the others are feeling].* When you're feeling alienated and sad, you it's harder for you to enjoy other people's happiness. *Lonely individuals* ... *showed greater ventral striatum activity on the nonsocial picture, although both lonely and nonlonely groups graded both pictures equally pleasant.* ... Lonely individuals rated positive encounters less uplifting than nonlonely.
+  ** 47:28-50:48
+    *** sleep deprivation - lonely individuals experience more micro-awakenings during the sleep, therefore they are feeling more tired than the nonlonely individuals, even though lonely group slept for at least as much or even longer, that the nonlonely group. *Lonely individuals have lower sleep efficiency [lower sleep efficienci = more shallow sleep; sleep fragmentation: more fragmented sleep due to disturbances from deep sleep by micro-awakenings; more time to fall asleep] than nonlonely individuals.* ... *If you're feeling threatened during a day, you're also not detoxifying those stressful days as much across a lifetime, and that also can contribute to increased morbidity and mortality.*
+  ** 50:49-51:18
+    *** daytime fatigue - *how isolated you feel that night, is predicting the daytime disfunction they feel the next day* [i. e. affects how tired you'll be during the day], but the daytime disfunction isn't predicting how isolated they feel.
+  ** 52:25-1:01:29
+    *** effects of sleep debt ... are mimicking many of the effects of aging [Spiegel et al. (1999)] [reference to parasymphatetic nervous system, nervus vagus] [the deep repairing processes induced by the parasympathetic nervous systems in sleep are constantly interrupted by the micro-awakenings during the sleep because of the perceived threat from the feeling of lonelines and thinking that is disconnected from needs and that is provoking violence toward oneself - constant awareness - therefore the body recovers only partially, superficially, which creates an environment for diseases.]
+      **** metabolic syndrome (e.g., lower glucose tolerance)
+      **** neural alternations (e.g., increased sympathetic tonus)
+      **** hormonal alternations (e.g., cortisol regulation)
+    *** effects of peceived isolation +
+      **** hypertension
+      **** neuroendocrine imbalances
+      **** gene expression and immune system and immune cells distribution alternations
+      **** image:res/tT_Loneliness_Dysphoria_Stress_and_Immunity_A_Role-Figure_1.jpeg[]
+  ** 1:01:30-1:03:33
+    *** Loneliness increases the probability of mortality even more than alcohol or obesity. Loneliness and the quality of relationships, *quality of connection [reference to Nonviolent Communication]*, affects the quality of life and the longevity of the individual [does that mean that nonviolent communication prolongs one's life?].
+    *** loneliness is contagious - it's self-exasterbating and self-spreading
+
+* link:https://www.youtube.com/watch?v=xvIZjGEBvI8[John Cacioppo on How to Cope with Loneliness | Big Think]
+  ** 8:09-9:51
+    *** expect the best - If you are in a positive relationship, that
+is, one where you’re not being exploited, you’re being rewarded, the other person’s getting rewards from the interaction… No one treats other individuals perfectly all the time. We don’t treat ourselves perfectly all the time, so we don’t treat our friends ideally all the time. Lonely individuals who are primed to expect rejection can take even a perceived insult and see it as a confirmation for what they feared, and the pain is intense for them, and so, in order to protect themselves, they can distance themselves from the person so that they’re not hurt further. And, of course, paradoxically, that makes it a self fulfilling prophecy, that they’re not going to have that rich relationship that sustained. Once you’ve realized that, then you can counteract that self fulfilling prophecy, saying: +
+ +
+"Okay, my tendency is to want to retreat. That did hurt. That was inappropriate. But there’s a possibility of perhaps just having an honest discussion about it, maybe not today, but tomorrow." +
+ +
+Having an honest discussion and saying: +
+ +
+"... but, you know, it’s okay. I forgive. Let’s just… But please don’t do that again." +
+ +
+That turns out to be the difference between marriages that are happy and marriages that aren’t. *It’s not whether there’s a fight, it’s whether the next day the two in the marriage try to do things that bring the couple back together.* They actually expect the best of the other person. And if we know anything from research, it said, *expectations drive behaviors*. *If you expect the best of [other people]* your partner or of your friends, *you won’t get perfect behavior, but you’re actually getting better treatment from them than if you expect the worst.*
+  ** 12:34-12:44
+    *** So, you can tell that you’re lonely if effectively you have all these [uplifting] interactions and you’re not leaving feeling more energized and upbeat as a result of it. 
+  ** 12:57-14:34
+    *** In physiology there are two components: +
+    there is creating energy out of energy stores, fats, sugars, carbohydrates [proteins], +
+    but there is also repair and maintenance processes of the body, and *the quint essential restorative process of the body is sleep.* And one of the surprising findings of our research is that *loneliness makes sleep less efficient*. It makes it less salubrious [healthy]. Sleep is where you detoxify stressful days. Loneliness is characterized with less detoxification of those stressful days. And we've found this in young adults, in middle aged and older adults, in cross-sectional research and longitutinal research. Why it might be the case? *In evolutionary times* [reference to evolutionary psychology - Peter Gray - SDE] *when you fall asleep, you are vulnerable. You are subject to attack. You're a subject of predation.* If you have others around you, there is a security. You can sleep more soundly knowing that there is, if you will, a positive social surround. *If you feel* alone *[lonely] whether you with others or not, that positive social surround is absent, and so one is more quickly disturbed, there are more micro-awakenings, you'll awaken with higher daytime fatigue.* This occurs over decades from what our research suggests. This is another factor through which loneliness has deleterious effects on both mind and biology.
+
+* link:https://www.youtube.com/watch?v=3pY-SoYi2l4[Thomas Szasz: A preview]
+  ** What is the _it_ that we're talking about when we talk about mental illness or mental health?
+  ** *Before we discuss and analyze something and especially make recommendations about _it_, we better be sure what the _it_ is.* [17th century English jurist (who?)]
+  ** So what is this _it_? (Or rather what it is not?)
+    *** ... in my opinion it is not illness, in the strict medical sense.
+    *** *[I see it as a low level of emotional intelligence, self-directed executive functioning and internal locus of control, which can be learned and cultivated]*
+  ** illness is a bodyly lesion; someting wrong with the human anatomy or physiology - part of physics or chemistry - something objectively measurable, indentifiable
+  ** brain is [also] a part of our body [thus also affected by diseases - brain illneses]
+  ** if the brain disease is indentifiable by doctors, then it belongs to the neurology. But when it is not, then people talk about mental illness and they talk about finding the lesion in the body [in the brain] and *various treatments of [these, so called mental illnesses have been] all based on the idea that there is something wrong with the body.*
+  ** Well I don't think it's that.
+  ** *[Mental illness] is a human phenomenon, a human product. It's something that people make or people experience. The operative word here is _meaning_.*
+  ** *Everything we do, every behavior, every action, all body movements has meaning and communicates something. Even the way we look, the way we dress, our hair.*
+  ** *Why do some people operate in a way that other people notice and then label?* Because in the ordinary course of events everybody assumes that everybody else is _normal_. [but what is normal? Was normalization during communism normal? Is violence or nonviolence normal? Who defines normal?]
+  ** *How does the idea of mental illness arise?*
+    *** It arises from the old English language as a synonym for _eccentric_, _odd_, that this is something undesirable and should be got rid of [e.g. hallucinations and delusions].
+    *** I think *hallucinations* is a form of talking to ourselves. They hear voices, I'm not doubting their experience, but since nobody is talking to them, they're hearing themselves. Essentially like in dreaming. [These people maybe don't know how to talk to their inner voice whithout talking out loud.] Or the voices are telling you "Go to high building and jump off."
+    *** A *delusion* is a belief that other people call a delusion because it is very unusual or perhaps very threatening, like you have a delusion that God is talking to you "Your wife is a witch and you should poison her. The sooner the better." +
+    [This voices are all created in our heads by our imagination and creativity and are an alienated, tragic, suicidal expression of feelings and unmet needs, which the person is not yet aware of. training in emotional intelligence and nonviolent communication may help.]
+  ** *Any belief that is an unusual belief can be called a delusion.* [which might be a problem in innovations and creativity. The same thing can be a delusion for one person, but a creative piece of art and human imagination for another.] Typically bizarre religious beliefs. They're bizarre because they're not standard. 
+  ** [Hallucinations and delusions] are really extremely powerful but misleading terms because [they imply] that there is something wrong with your head [physiologically - and that it can be mechanically or electrically repaired with violence, force and coercion]. *No one follows that if you talk Hungarian or German there is something wrong with your head. You're using different vocabulary.* 
+  ** To show you how right I am and how absurud standard psychiatry is, let's speak what psychiatrists think is a mental illness. I will pick one which was a leading mental illness throughout a major part of my career. I wrote a book "The Manufacture of Madness" in which two chapters are devoted to this 'illness'. This 'illness' is called *homosexuality*. What happened to it? *The American Psychiatric Association voted that it is no longer an 'illness'. But voting is a political process. You can't vote on the carcinoma of the pancreas or a melanoma or malaria, which are illnesses.* So this is laughable, but it is very serious because in psychiatric history this is not the only example. +
+  [Then how can I trust the legitimacy of psychiatric authorities, if they can't even objectively decide, what is and what isn't an illness, and whether it actually is an illness? I find it suspicious. *In that case I don't have to worry about any diagnose anymore because now I know that all of them are illegitimate and are tragic expressions of unmet needs.*] +
+  The diagnosis of hysteria was eliminated in 1980. [It's got another name, but it is basically still that.] *The diagnosis is [only] the name. There is nothing else but a name. The diagnosis is like 'Thomas Szasz'. Now I could change my name too, I would be still the same person.*
+  ** This leads to a kind of global, philosophical, religious observation: the way that 'mental illness' and 'mental health' are used especially colloquially, journalistically, in everyday life in the United States, but ... in England too, and in other countries, implies that, *if there was no mental illness then the people would live mentally healthy lives, and there would be essentially no problems. They would have no problems.* I think *this is a completely nonsensical view because it denies the fact that no matter what you do, life is a continuous series of challenges and problems with which you have to cope.*
+  ** *That life is an infinite blessing and perhaps an even more infinite burden.*, which explains why people go mad and why people kill themselves. It is not because they're ill, *it is because life has become for them too unpleasant.*
+  ** This is kind of a religious view that *life is no picnic*. We have to constantly struggle to understand god better and we never get there. And it doesn't matter what we do because if we solve some problem medically, chemically, by mastering something then if we keep on living we will do something else then that will be the problem. Typically, if we're not married, we want to be married. That will solve a problem. And then new problems [arise]. The same thing with children. You don't have children, you have children. Then that's a problem because we will have children and then they give us problems. And the same thing on and on and on until we die. That's why on the gravestone it says 'Requiescat in Pace' - Rest In Peace. That's the only place where it's peace. And in madness, it's a retreat - there is more peace relatively.
+
+* link:https://www.youtube.com/watch?v=7Riet8REzsQ[Thomas Szasz: Does mental illness exist?]
+  ** 0:20-4:52
+    *** *Question (summary):* If one accepts that mental illness does not exist, but that people suffer, is there any activity to be undertaken to help people? +
+    *Answer:* Many things can be done. *The field is wide open.* *But it requires the repudiation of the medical approach.* I'm speaking very candidly [honestly]. We can't have it with every which way. *What we should do cannot be answered in a generic form because we are dealing with individual human beings.* We're not dealing with types, or when you have a melanoma or malaria, where we know. There are certain number of things that will help, and lots of other things that that will not help. [but somethimes we don't know upfront what will help, when it will help and how much it will help, but we can somewhat estimate it] *Here, what will help, depends entirely on that individual: on their, his or her:*
+      **** *social network*
+      **** *the person's intellectual and other assets and liabilities*
+      **** *money*
+      **** *social standing, who they are?*
+      **** *what kind of people they are surrounded by*
+      **** *their own spirit, what they want to do about it?*
+      **** *the society in which they live* and
+      **** *some kind of helper* which is not an expert in any way: minister, priest, doctor, teacher... Doctor used to mean teacher. *Some third party, who really wants to help this person and wants to adhere to the old medical Hyppocratic saying:* +
+       +
+      link:https://en.wikipedia.org/wiki/Hippocratic_Oath#%22First_do_no_harm%22[*First do no harm.*] +
+      [link:https://en.wikipedia.org/wiki/Primum_non_nocere[*Primum non nocere.*]] +
+       +
+      *If you use any kind of coersion, you are out of the picture.* +
+      *You cannot help people with force. [Or teach anybody annything with force or violence, otherwise the people you teach will learn a pattern of violence. Reference to Alfie Kohn, Life-Enriching Education]* And this is of course totally alien to psychiatry because *if you abolish all psychiatric force there would be no psychiatry.*
+    *** There are two answers [on the statement "The mental illness doesn't exist."]
+      **** *"But don't you think that people suffer?"* +
+      Because, of course, they do. You just don't want to call that the same kind of suffering that the suffering from backache or toothache. It's a different kind of suffering.
+      **** And secondly they say: *"Aha! You want 15 year old children to take heroin? You want people to commit suicide?"* +
+      I don't want any of those things. *I just don't want doctors to lock up people and drug them forcibly [with the use of psychological violence, institutional violence or even physical force] because they say "We are going to prevent this suicide.".* Which of course is all predictive. They're talking about the future. They don't know if somebody is going to commit suicide until he [or she] is dead. The person could change the mind the last minute.
+  ** 4:53-9:45
+    *** *Question (summary):* Being given a diagnosis and meeting people with the same diagnosis helped me. Treatment involved doctors and psychologists and I got considerably better. Was I wrong?
+    *** *Answer:* No. You have not mentioned something important. *You implied that all this was done with your consent in your entire narrative.* [Mental illnes and coersive treatment] are not two different concepts because *historically, psychiatric diagnoses were made against people's will*. To my mind, these are not two different things, these are two different approaches to the same phenomenon.
+      **** One is *whether or not a mental illness is an illness* is a *categorical, logical, medical analysis*
+      **** and the other one is *the use of force* [which] is a *political analysis*
+    *** In medicine the use of force is forbidden. [Maybe protective use of force, not the punitive use of force. Reference to NVC] ... No? Can you treat someone with diabetes against his will? Yes, if you call in a psychiatrist [in the name of the Mental Health Act]. But the patient plays the main role here, whether the patient will take the insulin and in what dosage.
+  ** 16:37-21:48
+    *** *Question (summary):* If we think about the 'it' as human suffering, do you think human suffering can have an impact on our biochemistry, physiology and bodily function [reference to epigenetics]? Is there a connection between the two?
+    *** *Answer:* Without a doubt. It seems to me common sensical that how our life goes, how we feel, influences our pysiology.
+    *** *Question (summary) cont.:* Is it the doctor's job to attempt to correct that?
+    *** *Answer:* What a doctor's job is, is defined essentially by two [or three] power sources: *the doctor* and *the state* in which he [or she] works and *the profession* in which the doctor works which delimits it. What is a doctor's job? In America ... psychiatry and psychiatrist have often been called the sewers of society. That expresses the idea. *[Psychiatry] deals with ... people who most doctors don't want to deal with.* Because they want to deal with dermatology, urology, gynecology, cardiology etc., and all the specialties. The more science advances, the more complicated these things get. Doctors become more and more specialized [which may be to a benefit for people]. ... So it's a long-winded answer "Is it the doctors job...?" Which doctors? It is certainly not the general practicioner's job because [they] cannot do it properly. *This would be a job for 'mental health', but in my opinion that won't work either, because the 'it' is too varied. The clientele is too varied.* +
+    *I look upon psychiatric help, psychotheraphy as a tennis game.* If you play tennis very well then your game will depend very much on what kind of a player you are playing with. *You will play a much better game against a stronger player than against an amateur.* Now the same thing happens in a conversation. This is a very sophisticated conversation we're having already. This is not an average conversation about mental illness. *But then [the course of and the experience from the conversation] depend on your input and on my answers and on who is sitting here, and we would have a different conversation.* So, you see, this is very complicated. Very simple.
+      
+* link:[Thomas Szasz: The role of the State]
+  ** 0:22-4:34
+    *** The core duty of the state and the government is to protect everyone's life, liberty and property [John Locke]. In the American Constitution because of slavery they changed 'property' to the 'pursuit of happiness'.
+    *** The Declaration of Intependence says *we are all created equal*, *of course, they had slaves* (1776-1865), and, of course, *human had no vote*, but, you know, we are all created equal, it sounds good and it's a good idea. You have a divine right, higher right ... for life, liberty and property, which means the state doesn't have any right to take away your life or your liberty. That's why you can't just lock up someone who [you judged as] crazy. Because even the 'crazy' person also has the right for liberty, so then you have to circumvent it, if you want to lock up a crazy person. That's where psychiatry comes in. *And they couldn't say 'property' cause that would have meant validating slavery. [people in positions of slaves were a property of other people owning these people in the position of slaves - people were owning people]* so they changed it to the pursuit of happiness.
+    *** You get a service from the state which is likely not to by as good as a private service. And don't blame this on me. This is a fact of life. *This is called capitalism.* Cause if incentives are better, it works better [until they don't - reference to Alfie Kohn, Life-Enriching Education]. Most people I know don't use National Health service. *Even I wouldn't use the National Health Service, even if my life depended on it, despite the Veterans Service, because I can _afford_ not to go there.* *This again points up the fact that we are unequal.*
+  ** 12:08-
+    *** I wanted to say clearly, and it's common sense after all, that *the modern state is the most powerful entity that we have*. *And therefore it can also do a lot of good.* George Washington (1732-1799; US president: 1789-1797) compared it to a fire: "State is a dangerous master because it's like fire. It can warm you, it can burn down your house."
+    *** I have no hesitation of defending capitalism in the sense in which . I could have quoted contemporary, current figures, like Friedrich Hayek or Ludwig von Mises [well, they died, but their ideas are still effective today]. There is a long line of people from Locke to the modern times. This idea of capitalism is fundamental to mankind that Locke and these people didn't invent it. *It goes back to biblical times to the old image in the judao-christian religions [where] God is a kind of a super capitalist. He wants everything. He created everything. This is very pertinent to killing. You don't have a right to kill anyone or yourself because its God's property.* This is inherently human nature ownership. [But religion will also give you diagnosis of menatal illness: *sin*, which means "Serve life. Promote life. Don't damage life. Don't kill life." Religions support violence. *There is also the nonviolent site to religions, but it's not widely known, therefore not widely accepted.*]
+    *** *America has been during capitalism the land of greatest unbelievable advancement of people from nothing to billionares and back again.* And that's another american saying: *"From rags, to riches and back again. In three generations."* That's freedom. *Freedom is the most expensive thing in the world.* *That's why it's called link:https://en.wikipedia.org/wiki/Golden_handcuffs[golden handcuffs [zlaté putá]] when you sell out to an organization*, when you sell out to scientology, or to psychiatry, or to medicine. Doesn't matter to who. *When you no longer maintain your own integrity and then you sell out.* To that extent you curtail your freedom.
+    *** *What should the state do?* Because the problem with the state is, *who gets control of [the state]?* [Maybe all people through link:https://en.wikipedia.org/wiki/Democratic_confederalism[Democratic Confederalism]? through combination of direct democracy (anarchy) and representative democracy (chosen councilors for a given purpose from a directly democratic, i.e. anarchistic, community that will represent the given community on the behalf of the community) where the concilors will agregate higher and higher through their cancelors and go upward until they're all chosen councellors from all countries united - one man and one women from each country? maybe?] Politics through voting of political parties? But that's nothing particulary democratic about it. That's power politics. It has its own dangers, particulary in a large pluralistic society. That's not very pretty.
+  ** 19:08-23:50
+    *** I identified myself from the words when I went to the patients or potential patients and that *"I am selling listening and talking which is totally confidential."* That's the service I give. [Gym studios sell health and movement. Advertisment sells happiness. Or maybe not even selling but giving. They're all giving these gifts.] No suicide prevention, no nothing. And I had a flourishing practice. Because *this is a service that is essentially a religious service, a human service, for which there is an enormous need in modern society because nobody can talk to anybody and nobody listens.* You are selling your time in a way I always thought of it as a high priced carpentry, or garage mechanic. And I did whatever the client wanted. Whatever sort of problem the patient had. Assuming I could address the problem. *This is the beauty of capitalism because whether it works or not is defined by the buyer.* [I don't know whether it's a beauty from capitalism or the beauty of the direct feedback which is far older than capitalism ;) ]
+    *** *What is a proper ending of a psychotherapy?* Which is the right ending? It could end in a better life, it could end in [another way]. In that case it's open-ended. *[Psychotherapy] is a therapy for increasing self-determination and freedom. The purpose of psychotherapy is to give people more self-determination and freedom that they had before.* Because typical symptom is one of constraint. Typically a phobia, or "I would like to do X", "I would like to stop X". This system with the proper client works very, very well. It's not that hard to help people (or, metaphorically, cure people).
+  ** 24:49-
+    *** The 'free market' [I see] a problem there because *if the society is ruled by people who want us to buy things, then that's very limiting on what we are as human beings.* ... *So I feel quite hopefull what the future might hold, but I do think we have to break out of this consumer society that we are held in.*
+    *** This issue is very obvious in the connection between drug companies, their influence, their connection to the government. ... 40 years ago I have been preoccupied by this phenomenon. *We don't live in a democracy. [Some might see it] as a [representative] democracy. We used to live up until modern age in theocracies [ruling by a divine individual]. Then, we in the west developed 'democracies'.* At least in the last 50 years in America it's quite clear that we don't live in a democracy, we live in what I have called *pharmacracy* [different point that Daniel Markovits said - that we live in a *meritocracy*. Anyway, what we all agree on is that it is ruling of the elites who represent us]. In a state which is the same as a theocracy, except instead of a church and state union, we have a medicine, pharmacology, drug union with the state.
+    *** Drug war: Opium is a great tranquilizer. Opium is far less harmful than any of the modern psychiatric drugs. +
+    [what about other legally restricted drugs? marijuana? and what about the drugs that are legally allowed: alcohol, tobacco and others? What about the side effects of psychiatric medicine and legally restricted drugs? Referenece to link:https://www.youtube.com/watch?v=7RiZoW22uc8[James Gilligan Part 2]]
+    *** Corporations generally still are restrained, but not the way it was originally intended, but by link:https://en.wikipedia.org/wiki/United_States_antitrust_law[anti-trust laws].
+      **** Citing from Wikipedia: In the United States, antitrust law is a collection of federal and state government laws that regulate the conduct and organization of business corporations and are generally intended to promote competition for the benefit of consumers. link:https://ssrn.com/abstract=2908838[2] +
+      [But is competition actually benefitial for the consumers? Is monopoly beneficial for the consumers? reference to Peter Kropotkin - Mutual Aid. Alfie Kohn says clearly that competition makes less likely for people to be empathic towards others and themselves. And empathy is one of the main building block of Nonviolent Communication by Marshall Rosenberg with wide usage from mediation, conflict resolution, care of relationship, decision making etc. And if we would know how to speak the language of life, we would maybe stop killing each other, or use violence at any level in any form. *Because peace is rational, efficient and productive.*]
+    *** This clearly ilustrates the power of the state, the power of ideas, and the power of money. *What we can do is to intelligenly counteract this systems.*
   
+* link:[Thomas Szasz: The Function of Psychiatry]
+  ** 1:18-7:09
+    *** *It's illegal for the state to lock up anyone who has not been indully convicted of a crime.* Thank God. This is a rule of law. A great English inheritance. *You cannot go to a prison and say "Please, let me in."* The judge cannot say: "I don't like your face. You're acting crazy. I will lock you up." The rest would be only a justification for it. There are only two justifications: one is law braking, the other one is mental illness. And this is what I have objected to. This is where I came in into the picture. I realized this when I was 5 years old, that *there is something wrong with the system*. +
+    [not only with the individuals that is something wrong with them because they internalized the system, therefore became 'mentally ill'. so it's not the individuals that there is something wrong with, it's the systems that produce and support the people to internalize that systems which promotes the development of such thinking and behaving that we label as 'mental illness'] +
+    Why do we have the system? Because modern society needs it because the criminal law is a too blunt an instrument. *[Criminal law] does not protect people from civil injuries.* [Erving Goffman]. We don't have to invent a wheel. This is psychiatry. *If we didn't have psychiatry, we would have to invent it. It fills a huge gap. Because most people who annoy people are not criminals.* Most people are locked up in America are totally innocent in a human sense of any crime. 90% are lower class, blacks, locked up for drug offenses. What's a drug offense? *That you sell heroin or cocaine to somebody who wants to buy it. That used to be called 'free trade' by Adam Smith.* +
+    *If you sell alcohol, that's trade.* +
+    *If you sell cigarettes, that's trade.* +
+    *If you sell marijuana, 20 year in prison.* +
+    And if you are in an upper class, maybe 2 weeks in a mental hospital. Or if you are a movie star then you go into rehab, and then the judge says "Okay. You have already served enough time." +
+    *So [psychiatry and mental illness] is a social control mechanism that supplements law.* +
+    If you read my books you will see more than once I have said: +
+     +
+    *Psychiatry is not a branch of medicine. Psychiatry is a branch of the law.* +
+     +
+    [And we know that law is part of justice which is in most coutries in the world mostly practiced as a *retributive justice*. And we know how suicidal retributive justice is. Reference to Marshall Rosenberg, Nonviolent Communication, Restorative Justice, Howard Zehr] +
+    Unlike endocrinology, or ophtalmology. Psychiatry has always been a branch of the law. We have mental health laws everywhere. What are our mental health laws? We don't have cancer laws. We don't have pneumonia laws? It's obvious. *That doesn't mean that there is voluntary psychiatry. Or voluntary religion.* I'm entirely in favor of psychiatric acts within consenting adults. You want a lobotomy? Have one. Electric shock? Have one. *I believe in freedom. And responsibility. But is should be your decision. And you should preferably know what you are doing. But if not that's your problem.* After all, getting married is very dangerous. *Nobody can stop you by law from that.* Having a child can be very dangerous. You can have a malformed child. *Life is full of terrible risks that we take.* And it's not limited to psychiatry.
+    *** English and American papers used to be full of the political abuse of psychiatry in the Soviet Union. *If they do it, it's an abuse. If we do it, it's great medicine.* ... In America in the 1830/1840, before the Civil War, there was a diagnosis called 'Drapetomania': slave that ran away from Louisiana to Chicago cause he was crazy. He had it so good. Exactly like in Soviet Union. It's so good here. Everything is for you. If you want to leave, you must be crazy. [Yea, 'everything' and 'for you', and of course they had censorship, underground intelligence agency commiting violence and persecutions, restrictions for travelling etc.] Exactly like in the mental hospital. You go in voluntarily and you say: "Doctor, this is here wonderful. I'm not ready to leave." Then they lock your door. These are facts I'm telling you, it's not an interpretation. And *I'm saying, that it can be no progress in this field, until this is taken care of. First you have to abolish slavery. Then you can work on freedom.* That has been a curse on American history, which still hasn't been worked out. Once you make one of those mistakes, it's very serious. *The consequences of slavery are very much alive in America. Today.*
+  ** 7:09-10:25
+    *** *Question:* ... the treatment of mental illness if OK, as long as you agree to have it. That doesn't take into account the power imbalance that psychiatrists can exert an awful lot of influence on you, which may agree to something ..., which [you wouldn't agree on], if you had had all the information about the short-term and long-term effects and side effects. *So I think it's very difficult to have voluntary psychiatric treatment in the current psychiatric way of practicing.*
+    *** ... a power imbalance between an expert an a layman. That is the underside of Adam Smith's free market and specialization in any field. *You are pointing out the problem of having to be a careful decision maker in a free society.* [reference to link:https://www.youtube.com/watch?t=3501&v=n5j5EW933Kw&feature=youtu.be[Ha-Joon Chang: 58:21] "... *the most difficult job is to be a responsible citizen of a democratic country* ..."] +
+    But it connects to the second part of the question [that voluntary psychiatric treatment _in the current situation_ is not possible]. The answer to that dovetails [coincides, matches] with the importance that *the expert should be on tap, not on top* link:https://hbr.org/2012/07/keep-experts-on-tap-not-on-top[[1]]. That's an American saying. I didn't make that up. *[An expert] should not have any power over you. He should not be able to force you. [Only 'power with' you. (Mary Parker Follett, Miki Kashtan, M.B. Rosenberg, NVC)] Use the force of the government. Force means a state [like coersive schooling, pedagogy, therapy, ...] of some agent of the state [teacher, doctor, policeman, officer, ...]* whether they're in a blue coat or in a white coat. ... What do you know about the person you marry? You certainly don't know what kind of child you're going to have. I mean biologically.
+  ** 10:26-15:40
+    *** *Question:* ... when dealing with really vulnerable people, whether they be children or adults, how would you go about protecting people who haven't got as much information.
+    *** *By giving [people] more* [*and*, maybe even more importantly, giving people *better*] *information*. ... if you want to help them with this informational problem. ... *By warning them about do-gooders.* ... *I am a strong believer in every individual having a God given right and obligation to assume responsibility for his or her life, which includes informing himself [or herself] in this day and age. If you don't inform yourself you're a dead duck.* This is why intelligent [or well educated people] want their children well educated, so that they cannot be easily fooled, misled. ... And you say "Who will inform them?" *How do you tell the difference between the person who is out to inform you or misinform you?* I've been attacked [told] for misinforming people for turning people away from "good" psychiatric help. It's correct. Although it's information, it's misinformation.
+    *** We are all in this game together because we are all in life. How come I am sitting here now? How come I wasn't killed during the war and holocaust? *My parents, my family, my brother, we were better informed and decided to leave Hungary in 1938. That was the difference between all the hundreds of thousands of Jews and also non-Jews who left Europe and Germany, and who didn't leave. Information!* The typical information was "Nothing can happen here. [Germany] is the land of Goethe. This is a land of culture." And Germany was. Germany between 1870 and 1933 was the most cultured, most advanced coutry in literature, in science, in movie making, in technology, in physics, and it doesn't take long to change the playing field. Now depending what you know, what information you have, what misinformation you listen to, the typical story that people told each other, was "Don't leave yet, just listen to Hitler, listen to how hoarse his voice is. He has cancer of the throat. He will die soon." I'm just mentioning one of these stories from my teenage years. That's information [although it's misinformation]. And then there was a further question: "Should you go to America or should you go to Soviet Union?"
+  ** 15:41-21:05
+    *** *Question:* ... maybe you had that opportunity to go to the united States because you had the resources to do that, but for those people who didn't had the wealth or the opportunity to use the services and resources that might help them. Where does it leave them?
+    *** Those people were helped by religions and philantropists. You're asking *"How to make life more fair?"* [Yes, because when the access to opportunities is dependend on wealth, and the people doesn't have the amount of wealth to fully satisfy their needs, then inequality is the result.] 
+    *** (I'm just saying that there may be a part for paternalism [protective use of force] [and maybe altruism] when the people don't have the resources).
+    *** I have no objections to paternalism [protective use of force] as long as it's noncoersive paternalism. [But isn't protective use of force always noncoersive, especially when it's given empathically? When there is coersion, there is violence, and then there cannot be any use of protective use of force. Thats punitive use of force for the purpose of revenge.] Any parent-child relationship.
+    *** *In America, millions of children are on link:[Ritalin] [a drug for 'treating' ADHD and ADD]. If you're happy with that, that's where paternalism get you, and that's where medicine will get you in psychiatry.* That is the new lobotomy. ... When I went to medical school, there was no such thing as childhood depression. Why? Because they [academic and medical authorities] assumed that children wouldn't be depressed. [And why would the children at that time would be depressed? They played freely outside with other children, which is one of the preventive activities against depression, or deep sadness. Reference to Peter Gray - Self-Directed Education] Why should they be depressed? Why should anybody be depressed? [Maybe because we are raised and educated in a way that promotes this? Alfie Kohn, M.B. Rosenberg - Life-Enriching Education, Peter Gray - Self-Directed Education]
+    *** (Depression is often a response to a [perceived] difficult situation.)
+    *** *Depression [or deep sadness] is exactly like pain. [It stimulates the same pain centre in brain than physical pain. Reference to John Cacioppo - Loneliness] If you have a disease, or if somebody is stepping on your toe, you cut yourself, you have pain. It has meaning.*
+  ** link:https://www.youtube.com/watch?t=1242&v=tY78qJNLoQ0&feature=youtu.be[20:42-21:05]
+    *** But instead of depression, or calling it sadness, we now have clinical depression. It's called *word magic*. ... It's pure word magic. Clinical. *Everything is clinical [or holy, academic, scientific]*: clinical research, clinical findings, clinical social [reports], clinical psychology, clinical history... *You add that word - boom - nobody can touch you.*
+  ** 21:06-24:14
+    *** *Question (summary):* How does mental health and coersion fit into caring for children or with people with learning disabilities [in standard school pedagogy; unfortunately, Montessori approach is not the 'mainstream' in public schools].
+    *** [The belief about children is that they] deserve to be coerced.
+    *** Society has eighteen months in which to educate and coerce and mould the child to make an appropriate citizen: Englishmen. If the society has failed until that time that doesn't entitle it to continue to be coersive. That there is no coersion after the age eighteen. [But the coersion still continues through self-educating with misinformation, culture, society, media, parenting and religion] [link:https://blog.supplysideliberal.com/post/130451830002/john-stuart-mills-vigorous-advocacy-of-education[John Stuart Mill]]
+    *** Ideally speaking, *children are the property, almost literally, of their parents.* +
+    *[What? A child is not a human being, but a property? That's the belief behind all the violence and coercion towards children?]* +
+    And if all goes well, it works. [Depending how we define 'well' and 'works'...]
+    *** If you fall into the hands of human beings [that use punitive use of force instead of protective use of force] and you're powerless, then your life probably will be ruined. And there isn't anything anybody can do about it.
+  ** 24:15-28:03
+    *** link:https://www.cchr.de/quick-facts/introduction.html[Citizens Commision On Human Right] (CCHR)
+      **** [How I would like to react in surprising situations - this calmness] If you believe in it, it's a religion. If you don't believe in it, it's a cult. Wasn't christianity a cult?
+      **** *I founded CCHR because it's the only organization still* [in 2007 - update needed] *that has lots of money and will hire lawyers to get people out of prisons called mental hospitals* in America. It continues to do that. And I'm still happy to be associated with them. *If you are now a down and out person in a mental hospital, locked up, you will not get out.*
+    *** If somebody coerces somebody and this is known, then the police comes and arrests you. It's called *assault and battery [Gewaltanwendung und Körperverletzung / použitie násilia a ublíženie na zdraví]*. If you don't let somebody leave for three minutes from the office, you're a dead duck. You have kidnapped him. That's a law [Amtssprache]. *You cannot deprive someone of liberty [legally].* ... *How is my association with scientology any better or worse than if I was associated with alternate Judaism or Christianity?*
+  ** 28:04-
+    *** This is *a profound deception of psychiatry* wich represents itself as it were a dermatology.
+    *** In 1900 or 1910, if you went to a person identified as a psychoanalyst, he could not, he would not have thought of doing anything involuntarily. He didn't have the power to lock you up.
+    *** ... everyone who now goes to a psychiatrist is entrapped. [Maybe times changed and psychiatry too, or not?]
+    *** *There cannot be any voluntary psychiatry in a situation where the expert to whom you go is in fact an agent of the state [and] has the power and duty to lock you up.* ... *because there is no way you can protect yourself from the 'duty to protect'. That is paternalism.*
+    *** link:https://en.wikipedia.org/wiki/Ideas_Have_Consequences[Richard M. Weaver - Ideas Have Consequences] - *To me, these three words are so powerful because ideas lead to actions. [reference to Cedric Dumont - From Fear to Flow]*.
+    *** *This idea that the psychiatrist should be responsible for the patients in a way that no other doctor is, also opens them up to other responsibilities.* [which might endager them, therefore maybe they commit these atrocities] [violation of the Single Responsibility Principle - SOLID principles; NVC - Responsibility: my responsibility, responsibility of other people, obedience vs. responsibility (Atelier communication non violente - Marshall Rosenberg - Danemark); parent's responsibility for a child].
+    *** Medicalization of Everyday Life - a book by Thomas Szasz
+      **** medicalization of obesity, anorexia, internet addiction, ... These are now the new diseases? The new 'Drapetomania'? Religion, coersion, everything mixed up? Separation of power between church and state. These are all interlapping issues. Around the issue of coersion. That is always the cutting edge.
+      
+* link:https://www.youtube.com/watch?v=a0WeOuV1imk[Rahaf Harfoush 'A Crisis in Creativity' | TRG 30]
+  ** 
+      
 * link:https://veganvanguardpodcast.com/47-social-emotional-learning-sel-for-socialism-and-animal-liberation-with-pierce-delahunt/[47. Social Emotional Learning (SEL) for Socialism and Animal Liberation with Pierce Delahunt]
   ** 25:30-25:58
   ** 29:01-32:34
@@ -2441,8 +2679,8 @@ Sources:+
       **** Demand - Amtssprache
       **** Deserve - making violence enjoyable
   ** 32:34-35:41
-    *** Capitalism, i.e. Anti-Socialism on an institutional level, forces us to be antisocial with each other because *the more you internalize the [capitalist] system, the more we ask the question "What we can extract from someone else." which is the basis of capitalism.* It's "What can I get out of this?". Then every gift that I give to someone becomes a liability or loss that I have to account for. +
-    Institutionalized socialism would mean, if implemented well [according to the Nonviolent Principles], connection with others and giving to others with everyone's needs met then there is no threating over every last bit, or trying to accumulate more to ensure that we never suffer the loss that we don't have enough ever again.
+    *** Capitalism, i.e. Anti-Socialism on an institutional level, forces us to be antisocial with each other because *the more you internalize the [domination] system, the more we ask the question "What we can extract from someone else?" which is the basis of capitalism.* It's "What can I get out of this?". Then every gift that I give to someone becomes a liability or loss that I have to account for. +
+    Institutionalized socialism would mean, if implemented well [according to the Nonviolent Principles], connection with others and giving to others with everyone's needs met then there is no threatening over every last bit, or trying to accumulate more to ensure that we never suffer the loss that we don't have enough ever again.
   ** 43:06-45:47
   ** 50:49-51:00
   ** 53:55-55:17
@@ -3353,6 +3591,8 @@ link:https://www.profolus.com/topics/four-types-of-alienation-according-to-karl-
 . *Alienation of the worker from other workers:* The reduction of labor to a mere market commodity creates the so-called labor market in which a worker competes against another worker. Labor is traded in a competitive labor market instead of considering it as a constructive socioeconomic activity characterized by collective common effort.
 ** unfulfilled needs: community
 
+Result of alienation: loneliness, from the lack of meaning, intimacy and community
+
 ---
 
 * Kurdistan - Rojava - Anarchy; Democratic Confederalism
@@ -3364,6 +3604,7 @@ link:https://www.profolus.com/topics/four-types-of-alienation-according-to-karl-
 * Orang Asli and other indigenous cultures - Malaysia
 * Ojibwe people (and other indigenous people in North and South America)
 * Chile - Revolution against government, constitution and economic system for better education, health care and pensions
+* The Hutterite Colonies (USA, Canada) - low-loneliness communities
 
 ---
 
@@ -3502,21 +3743,29 @@ expressive writing, empathy, NVC
 
 == Diseases, Illnesses / Erkrankungen, Krankheiten / Choroby
 
+* Back pain - muscle imbalances, pain from chestbone, through the rib up to the shoulderblades (underneath them)
 * IBS: Irritable Bowel Syndrome [for the lack of a better name] (approx. since January 2017) - psychosomatic [somatized traumas and psychological pain]
 * Chronic gastritis (approx. since November 2015) - psychosomatic [somatized traumas and psychological pain]
-* Stomach pain [stomach ulcers and sensitive places, duodenum gate]
-* Fatigue after meal [unstable - usually after overeating]
+* Stomach pain - stomach ulcers and sensitive places, duodenum gate - usually after of any meal size for about one hour
+* Fatigue after meal - *unstable* - usually after of any meal size for about one hour; sometimes stronger, sometimes weaker - after milk products with added lactase-drops: Joghurt, Brimsen, Quark?
+* Headache - after meal or after longer time (approx. one hour or more) outside
+* Pressure in heart and inner side of the left arm - usually after longer physical and mental exertion
+* Arythmia - usually when working when I try to finalize something and I'm physically and metally exhausted
+* Stool of different density: at the beginning thick, at the end almost liquid
+* Sklbanie svalov
 * Belching
 * Flatulence
-* Heartburn
-* Overeating - psychosomatic
+* Heartburn (especially after waking (up to the tonsils and the roof of the mouth) or lying for longer time cca 10 minutes)
+* Overeating - psychosomatic: Du musst das aufessen, sonst...!
 * Bruxism - psychosomatic
-* Snorring
+* Snorring ?
+* Fußpilz
 * Dry skin in cold or windy environment
-* cold hands
+* Cold hands
 * Tinnitus - ringing in the ears (especially in the right one)
 * NCCP: Non-Cardiac Chest Pain - psychosomatic
 * PTSD: Post-Traumatic Stress Disorder, Trauma
+  ** after my experiences from work, school and home
   ** trauma from authoritarian, violent and abusive upbringing and education
   ** link:https://www.psychologytoday.com/us/articles/199201/wounds-never-heal[Wounds That Never Heal]
     *** one of severe pieces of evidence pointing to a new and surprising scientific consensus: *Traumatic events ... can alter the brain's chemistry.*
@@ -3526,7 +3775,7 @@ expressive writing, empathy, NVC
     *** In other words, *researchers found a series of neurobiological changes that left PTSD sufferers with an altered brain metabolism--vulnerable to surges of noradrenaline--thus prompting the alarm states. [maybe alarm states of helplessness, frustration, tension and consequent burnout?]*
     *** ... one clue may come from dozens of studies with animals that show that *suffering severe trauma in early life increases susceptibility to the impact of other trauma later on.* One implication is that *people who were victims of abuse as children may be among the most vulnerable to PTSD as adults.* "*Once you're exposed to early kinds of stresses, you're more reactive to later ones*," says the VA's Dr. Krystal.
     *** As researchers have focused on trauma and the brain, they have found two other major shifts in addition to the *noradrenaline system's increased vulnerability to adrenaline rushes*: One of the main changes is in the brain circuit linking the hypothalamus and the pituitary gland. During stress, this circuit triggers the release of CRF, an important stress hormone. *Trauma seems to leave this brain system prone to oversecreting CRF, thereby reacting to emergencies that do not exist in reality.*
-* OCD
+* OCD - as if it would be a bad thing ;)
 * Depression
 * Suicide thoughts
   ** https://echt-leben.com/mein-selbstmordversuch-hilfe-fuer-betroffene-und-angehoerige/
@@ -3550,6 +3799,7 @@ expressive writing, empathy, NVC
   ** "I'm not good enough."
   ** Peter Principle
   ** Ich wundere mich, wie die Institutionen, wie Schule oder Familie und andere äußere Faktoren diesen Zustand unterstützten?
+  ** There is no impostor syndrome, because everybody is learning the entire life. otherwise we all would have been impostors (e. g. according to the Peter principle).
 * fear of violence (and of other things)
   ** Angst vor Gewalt von Autoritäten
 * fear of losing control of my life / Angst vor Verlust der Kontrolle über meinem Leben
@@ -3559,9 +3809,11 @@ expressive writing, empathy, NVC
 * Learning disability: in some aspects; I learned various things, but e.g. not programming, fluent English or German, enjoying the presence of other people, regulating emotions, enjoying talking with women, keeping calm when other people talk to me with raised voice
 * Cynicism
 * Social Death
+  ** Social suicide commited on Wednesday 2020/10/21 during the defense of my disertaton thesis and state's exam
   ** https://academic.oup.com/qjmed/article/110/1/5/2638390
 * Porn Addiction
-* Fußpilz
+* Chronic faigue and exhaustion
+* Quick exhaustion from work
 
 === Violence / Gewalt
 
@@ -3656,7 +3908,7 @@ Ultimately, organisations should not lose sight of the largest piece in the puzz
 
 Sympathetic vs Parasympathetic Nervous System
 
-image::https://publish.imotions.com/wp-content/uploads/2019/11/Sympathetic-parasympathetic-nervous-systems.png[]
+image::res/Sympathetic-parasympathetic-nervous-systems.png[]
 
 Sympathic nervous system (SNS) activation leads to a “fight or flight” response, +
 and Parasypathic nervous system (PNS) activation leads to a “rest and digest” response.
@@ -4196,7 +4448,7 @@ The following decade revealed many more details about the default mode network (
 e
 Now that we have the historical context let’s examine the importance of the DMN to mindfulness and mental health.
 
-image:https://i2.wp.com/dailymeditate.com/wp-content/uploads/2015/01/Default-Mode-Network.jpg?w=500&ssl=1[]
+image::res/Default-Mode-Network.jpg[]
 
 A critical point regarding [the] *relationship [between Task Positive Network (TMP) and Default Mode Network (DMN) is* that] they are *mutually exclusive*.
 
@@ -4204,7 +4456,7 @@ A critical point regarding [the] *relationship [between Task Positive Network (T
 
 In fact, *no study has demonstrated the simultaneous activation of the two networks* (4). *The relationship between the DMN and the TPN is analogous to the relationship between inhalation and exhalation: despite their intimate nature, the two cannot exist simultaneously.*
 
-image:https://i0.wp.com/dailymeditate.com/wp-content/uploads/2015/01/TPN.jpg[]
+image::res/TPN-Task_Positive_Network.jpg[]
 
 *The TPN [Task Positive Network] is involved in present moment awareness.*
 
@@ -4230,7 +4482,7 @@ Research shows that link:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3289949/[m
 
 Buddhist monks and other long term meditation practitioners link:https://www.ncbi.nlm.nih.gov/pubmed/18365029[show much more developed] brain regions associated with empathy, though the reasons for that are likely complex. link:http://www.serotonin-dojo.jp/pdf/articles_005.pdf[Researchers have seen] that meditation can also change brain waves, leading to higher levels of alpha brain waves — which are link:http://web.mst.edu/~psyworld/sleep_stages.htm[generally associated with] a state of wakeful relaxation. This can help reduce negative moods and feelings including anger, tension, and sadness.
 
-image:https://i.insider.com/54cff7346bb3f73e481b7747?width=700&format=jpeg&auto=webp[]
+image::res/dmn-54cff7346bb3f73e481b7747.jpeg[]
 
 The default mode network refers to a network of brain regions that are active when the mind is in a meditative state — wakeful, at rest, and not focused on external distractions. This state of mind is associated with various positive effects and with reductions in negative stresses like anxiety and depression.
 
@@ -4323,17 +4575,19 @@ Výrazne mi v tom pomohlo štúdium a tréning nenásilnej komunikácie. Začal 
 
 == Notes
 
-*Emotional inteligence:* The ability to recognize and manage one's own emotions and emotions of other people. link:https://www.skillsyouneed.com/general/emotional-intelligence.html[EI - Source] +
+*Emotional inteligence:* The ability to recognize and manage one's own emotions and emotions of other people. link:https://www.skillsyouneed.com/general/emotional-intelligence.html[EI - Source]
+
 *Empathy:*
 
 * Awareness of the feelings and needs in myself and other people and being able to see things from the point of view of others. link:https://www.skillsyouneed.com/general/emotional-intelligence.html[Empathy - Source] +
 or
 * a manifestation of unconditional love to oneself and to other people. +
 Prejav nepodmienej lásky k sebe a k blížnym. ( to znie dobre B-] )
+* Prejav pokoja a bratskej lásky (to, čo si kresťania prajú pri svätej omši a potom si podávajú ruky)
 
 *Mutual aid* From each according to their abilities to each according to their needs. / Jeder nach seinen Fähigkeiten, jedem nach seinen Bedürfnissen. link:https://en.wikipedia.org/wiki/From_each_according_to_his_ability,_to_each_according_to_his_needs#:~:text=%22From%20each%20according%20to%20his,of%20goods%2C%20capital%20and%20services.[Idea of mutual aid - Source]
 
-I do aggree with Marx on alienation. I do agree with Marx on the idea of "From each according to their abilities to each according to their needs." And that's perhaps the only things what I aggree with Marx on. But I don't aggree with Marx on any kind of violence. Even revolutions can be nonviolent. And preserve dignity and humanity of all. Marxism is only one of the pieces of the whole picture. There are many. The world is multi-layered. The life is multi-layered. There is not a single truth. There is always space for further exploration. I see a heterogenous, heterodox solutions in each empirical problem. I just hope that the needs will give me creativity.
+I do aggree with Marx on alienation in labor. I do agree with Marx on the idea of "From each according to their abilities to each according to their needs." And that's perhaps the only things what I aggree with Marx on. But I don't aggree with Marx on any kind of violence. Even revolutions can be nonviolent. And preserve dignity and humanity of all. Marxism is only one of the pieces of the whole picture. There are many. The world is multi-layered. The life is multi-layered. There is no single truth. There is always space for further exploration. I see a pluralistic, heterogenous, heterodox solutions in each empirical problem. I just hope that the needs will give me creativity experience more pleasure when dealing with unpleasant situations.
 
 ---
 
@@ -4468,7 +4722,7 @@ No one deserves anything. But everybody needs something. Everybody needs the sam
 
 ---
 
-I'm not a thing, agent, factor of production, human capital, commodity, number, letter or anything. I am a human that has feelings that I want to express and needs that I want to fulfill.
+I'm not a thing, agent, factor of production, human capital, commodity, number, letter, robot, machine or anything. I am a human that has feelings that I want to express and needs that I want to fulfill in order to live a happy, satisfying and hopefully long life, despite problems and conflicts that arise.
 
 ---
 
@@ -4994,7 +5248,7 @@ Thomas Szasz - The Myth of the Mental Illness
 
 ---
 
-Pokým tu bude výchova, vzdelávanie a inštitúcie založené na notorickej poslušnosti a dominancii, dovtedy tu bude totalita.
+Pokým tu bude výchova, vzdelávanie a inštitúcie založené na notorickej poslušnosti a dominancii, dovtedy tu bude v poriadku totalita a moc nad ľuďmi.
 
 ---
 
@@ -5030,10 +5284,34 @@ Es ist weich, warm, feucht, genau wie meine Empathie ;)
 
 ---
 
-Niemand ist schuld. Wir alle, auch die Managers, sind von diesem ökonomischen System beeinträchtigt. Wir sind nicht schuld, Managers sind nicht schuld, ökonomisches System is nicht schuld, Vergangenheit ist auch nicht schuld. Alle Entscheidungen in der Vergangenheit hätten die Leute, Führer und Autorithäten nicht getroffen, wenn sie dann gewusst hätten, welche katastrophale und zerstörerische Folgen es haben wird. Der gegenwärtige Zustand ist auch von unserer Natürlichkeit verursacht. Von unserer Kreativität.
+Niemand ist schuld. Wir alle, auch die Managers, sind von diesem ökonomischen System beeinträchtigt. Wir sind nicht schuld, Managers sind nicht schuld, ökonomisches System is nicht schuld, Vergangenheit ist auch nicht schuld. Alle Entscheidungen in der Vergangenheit hätten die Leute, Führer und Autorithäten nicht getroffen, wenn sie dann gewusst hätten, welche katastrophale und zerstörerische Folgen es haben wird. Der gegenwärtige Zustand ist auch von unserer Natürlichkeit verursacht. Von unserer Kreativität. Aber auch Kreativität kann gegen dem Leben wirken, statt das Leben zu unterstützen.
 
 ---
 
 Allse "-ismen" sind eine Falle, denn sie sind alles konkrete Strategien, eine tragische, entfremdete Äußerung der Gefühle und Bedürfnisse
+
+---
+
+The idea of _sin_ interferes with the ability to show empathy to others and onerself because sin is a diagnosis, a moralistic judgement when somebody doesn't behave in the way somebody else wanted, expected or imagined.
+
+---
+
+Maybe when I imagine the rest of others body as transparent, I could concentrate myself only on the other person's head and by that avoid distractions.
+
+---
+
+"Pekne pindala." [Pekne sa hnevala.] +
+link:https://www.rtvs.sk/televizia/archiv/16350/256909#1386[Pumpa 23.1.2021: 25:56-26:17]
+
+---
+
+Maybe gradually I will have more energy, stronger health and feel comfortable in my mind and body. link:https://soundcloud.com/ultrarecords/bakermat-one-day-vandaag[One Day]
+
+---
+
+Epidemic of *burnout* - Rafah Harfoush +
+Epidemic of *violence* - James Gilligan +
+Epidemic of *loneliness* - John Cacioppo +
+Epidemic of *life-alienated and violence provocative language and thinking* - Marshall B. Rosenberg
 
 ---
