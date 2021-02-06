@@ -2,6 +2,8 @@
 
 Reborn from ashes.
 
+To burn, but to never burn out.
+
 _This document is in a constant work-in-progress state._
 
 == Human needs / Menschliche Bedürfnisse / Ľudské potreby
@@ -111,6 +113,7 @@ Properties of needs:
 * order / Ordnung / poriadok
 * equality / Gleichheit / rovnosť
 * predictability / Vorsehbarkeit / predvídateľnosť
+* prevention / Prävention / prevencia
 * power (with) / Macht (mit) / moc (s) +
 link:https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=2486[Marshall Rosenberg - Making Life Wonderful 2/4 - Nonviolent Communication NVC: 41:26-43:06]
 * (direct) democracy / (direkte) Demokratie / (priama) demokracia
@@ -282,6 +285,7 @@ vedomie, že na mne a mojich potrebách záleží, že moje potreby sú dôleži
 * amusement / Vergnügen / potešenie, zábava
 * enjoyment / Genuss / pôžitok
 * softness / Weichheit / mäkkosť
+* silkiness / Geschmeidigkeit / hebkosť
 * culture / Kultur / kultúra
 * silence / Stille / ticho
 * relaxation / Entspannung / uvoľnenie
@@ -826,6 +830,7 @@ by Doug Newburg
 * comfort in my own body / Bequemheit in meinem eigenen Körper
 * joy of learning / Freude an Lernen
 * courage to make mistakes / Mut Fehler zu machen
+* Bewusstsein, dass Fehler zu machen ist eine natürliche Folge des Lernens
 * Genuss, Fehler zu machen
 * willingness to learn from mistakes / Bereitschaft von Fehlern zu lernen
 * relaxed speed / entspannte Geschwindigkeit
@@ -1693,7 +1698,7 @@ What about *critical thinking*? Pluralism? Diversity? Tolerance? Thinking for ou
 
 == Quotes
 
-plain or paraphrased
+plain, paraphrased, with added comments for further references
 
 *The Montessori Method*
 
@@ -2060,6 +2065,16 @@ Sources:+
 17 Rilling, J.K.; Sanfey, A.G.; Aronson, J.A.; Nystrom, L.E.; Cohen, J.D. (2004). "Opposing BOLD responses to reciprocated and unreciprocated altruism in putative reward pathways". NeuroReport. 15 (16): 2539–2543. doi:10.1097/00001756-200411150-00022. PMID 15538191.
 18 Kosfeld, M.; Heinrichs, M; Zak, P.J.; Fischbacher, U.; Fehr, E. (2005). "Oxytocin increases trust in humans". Nature. 435 (7042): 673–676. doi:10.1038/nature03701. PMID 15931222.
 19 Bowles, Samuel and Herbert Gintis "A Cooperative Species: Human Reciprocity and its Evolution" (Princeton University Press; Reprint edition)
+
+* Dôvera je krehká. +
+ [Júlia Šimková - jedno z našich terapeutických sedení]
+
+* link:https://adobeindd.com/view/publications/181b67bb-0047-40ce-9e13-18c17d5b39be/1/publication-web-resources/pdf/AO_2_FINAL_WEB.pdf[Konšpiračné teórie - SAV 2021]
+  ** Na rozdiel od krajín pod nacistickým či komunistickým vplyvom bola vo Veľkej Británii zachovaná pluralita tlače, a dokonca ani počas vojny nebolo zakázané počúvanie nepriateľského rozhlasu. Veľa pozornosti sa však venovalo osvete. Odborníci aj politici v britských médiách vysvetľovali, ako nacistická propaganda funguje, a motivovali poslucháčov, aby si pri prípadnom počúvaní nepriateľského rozhlasu sami všímali propagandistické nástroje, prvky manipulácie verejnej mienky a šírenia dezinformácií.
+  ** V oblastiach pod vplyvom nacistických a komunistických vlád sa presadil reštriktívny prístup, ktorý kombinoval viaceré nástroje. Informačným dáždnikom sa obyvateľstvo izolovalo od vonkajších zdrojov, napríklad zákazom dovozu tlačovín, plombovaním rádií či rušičkami signálu. Domáce médiá boli zbavené nezávislosti a podriadené preventívnej cenzúre. Šírenie nepotvrdených správ bolo vnímané ako akt vzdoru, a preto bolo rôznymi spôsobmi postihované. Mohlo byť klasifikované napríklad ako trestný čin šírenia paniky, prezradenia štátneho tajomstva, znižovania vážnosti štátnych predstaviteľov a podobne. Aj na výsledky týchto politík dnes s odstupom možno hľadieť ako na dáta prirodzeného experimentu, ktoré potvrdzujú, že socializačná funkcia fám zvyšuje ich odolnosť voči úradným zákazom. Napríklad správy Štátnej bezpečnosti o verejných náladách potvrdzujú, že na šírení fám sa zúčastňovali aj ľudia, ktorí sami boli profesijnou súčasťou vtedajšej „oficiálnej“ sféry. Zapájaním sa do reťaze neoficiálneho spravodajstva mohli pred svojím okolím dávať najavo, že majú prístup k exkluzívnym zdrojom informácií. Prezentovali sa ako „ten, čo také veci vie a má odkiaľ vedieť“ a tiež potvrdzovali lojalitu k skupine ďalších „dôveryhodných“, medzi ktorými „také veci možno povedať“.
+  ** Je pre nás mentálne namáhavé prekonať automatický sklon vysvetľovať správanie druhých na základe ich vnútorných vlastností a zamyslieť sa nad situačnými faktormi, ale ešte náročnejšie je pripustiť, že niečo neblahé je výsledkom náhody.
+  ** Skupinová identita však niekedy preváži epistemickú racionalitu, pretože pre mnohých ľudí je dôležitejšie niekam patriť, ako mať pravdu [napĺňanie potreby po spolupatričnosti na úkor kritického myslenia a spoľahlivosti informácií].
+  ** Autoritárske znaky znamenajú, že jednotlivci sú ochotnejší podriadiť sa spoločenským autoritám. Autoritárske osobnostné znaky sú typicky žiaduce v politických systémoch, kde jednotlivci disponujú malou mierou osobných slobôd, teda napríklad fašizmus alebo stalinizmus [čiže totality. Žeby demokracia [priama demokracia - anarchia - decentralizácia, overovanie legitimity autorít, a podpora súcitu a kritického myslenia v inštitúciách a výchove] bola jedným z faktorov, ktorý by zvýšil vedomie o rizikách takýchto teórií].
 
 * There are three ways of dealing with difference: domination, compromise and integration [consensus]. By domination only one side gets what it wants; by compromise neither side gets what it wants; by integration [consensus] we find a way by which both sides may get what they wish. [NVC supports integration ;) ] link:https://www.toolshero.com/toolsheroes/mary-parker-folett/#:~:text=Mary%20Parker%20Follett%20quotes,is%20to%20create%20more%20leaders.%E2%80%9D[Mary Parker Follett], link:miki.kashtan_2020[(Miki Kashtan: Exiting the Either/Or Trap - Beyond Consensus vs. Command and Control: 30:14-32:57)]
 
@@ -2921,10 +2936,11 @@ link:https://veganvanguardpodcast.com/48-covid-19-and-seizing-the-means-part-2-w
 
 * The nakedness of standing without a frame, in a new paradigm, carries the pleasures of freedom but it also can evoke fears of looking foolish and exposed, feelings of shame that can readily erupt into rage and attack. This is the moment when we are most tempted to return to the familiar, to restore an old framework at all costs—this moment of paradigm shift, of epiphany or sudden radical insight, the creative moment in the lives of artists and scientists, the moment when our ordinary vision is removed and we come to see that the old ways of seeing were mistaken, were blinding us to what we now can see. link:https://www.uky.edu/~eushe2/quotations/gilligan.html[(Carol Gilligan, The Birth of Pleasure - Introduction)]
 
-* *No human being is good [no human being is bad - judging is too easy], but all are sacred.* +
-*Kein menschliches Wesen ist gut [kein menschliches Wesen ist schlecht - Beurteilen ist zu einfach], aber alle sind heilig.* +
-*Žiadna ľudská bytosť nie je dobá [žiadna ľudská bytosť nie je zlá - odsudzovať je príliš jednoduché], ale všetky sú posvätné.*
-link:https://www.youtube.com/watch?v=LdOFhyKACxE[Dr. James Gilligan - On How All Human Beings Are Sacred], link:restoration_justice_part[Rosenberg - Creating a Life Serving System within Oneself]
+* *No human being is good [no human being is bad (judging is too easy)], but all are sacred.* +
+*Kein menschliches Wesen ist gut [kein menschliches Wesen ist schlecht (Beurteilen ist zu einfach)], aber alle sind heilig.* +
+*Žiadna ľudská bytosť nie je dobá [žiadna ľudská bytosť nie je zlá (odsudzovať je príliš jednoduché)], ale všetky sú posvätné.*
+link:https://www.youtube.com/watch?v=LdOFhyKACxE[Dr. James Gilligan - On How All Human Beings Are Sacred] +
+link:restoration_justice_part[Rosenberg - Creating a Life Serving System within Oneself]
 
 * link:https://www.youtube.com/watch?v=_rSYiy420B0[Dr. James Gilligan - Youth and violence The role of education inspiring solutions]
   ** 1:02:17-1:09:18 https://www.youtube.com/watch?v=_rSYiy420B0&feature=youtu.be&t=3737
@@ -4754,7 +4770,7 @@ No one deserves anything. But everybody needs something. Everybody needs the sam
 
 ---
 
-I'm not a thing, agent, factor of production, human capital, human resource, commodity, number, letter, robot, machine, animal or a dog that has to obey or anything similar. I am a human being that has feelings that I want to express and needs that I want to fulfill in order to live a happy, satisfying and hopefully long life, and have consciousness that I can sustain my well-being despite problems and conflicts.
+I'm not a thing, agent, factor of production, social capital, human capital, human resource, commodity, number, letter, robot, machine, animal or a dog that has to obey or anything similar. I am a human being that has feelings that I want to express and needs that I want to fulfill in order to live a happy, satisfying and hopefully long life, and have consciousness that I can sustain my well-being despite problems and conflicts.
 
 ---
 
@@ -5311,13 +5327,14 @@ Instead of bragging or diminishing my abilities and activities, I can describe  
 ---
 
 Auch wenn mich jemand anschimpft, mich anschreit, mir Sachen sagt, die mich verletzen oder die mir Sorgen machen, es ist immer *ein Segen* von der anderen Person. +
-*Was immer jemand tut oder sagt, oder wenn ich ein Fehler mache, es ist die wunderbarste Sache, die ich in dem Moment machen könnte. Es ist für mich ein wunderbares Geschenk und ein Segen von einem bedauernswerten, göttlichen Wesen, für den ich dankbar sein kann. Ich kann mir auswählen, dass ich für diese Geschenke und Segen dankbar sein werde. Und Ärger und das Verlangen nach Vergeltung mit Mitgefühl, Verständnis und Toleranz. Von Ereignissen lernen, die ich nicht gemacht hätte, wenn ich damals gewusst hätte, was ich jetzt weiß.* +
+*Was immer jemand tut oder sagt, es ist die wunderbarste Sache, die ich in dem Moment machen könnte. Fehler sind eine natürliche Folge des Lernens. Fehler sind notwending für das Lernen. Ohne Fehler wäre kein Lernen, keinen Fortschritt. Wenn ich mich für meine Fehler hassen werde, werde ich nie von meinen Fehlern lernen. Es ist für mich ein wunderbares Geschenk und ein Segen von einem bedauernswerten, göttlichen Wesen, für den ich dankbar sein kann. Ich kann mir auswählen, dass ich für diese Geschenke und Segen dankbar sein werde, und das, was die andere Person gesagt oder getan hat, als eine Gelegenheit, gewaltfreie Kommunikation zu üben und meine Robustheit zu verstärken. Und Ärger und das Verlangen nach Vergeltung mit Mitgefühl, Verständnis und Toleranz. Von Ereignissen lernen, die ich nicht gemacht hätte, wenn ich damals gewusst hätte, was ich jetzt weiß.*
+
 *Das, was die andere Person sagt oder tut, ist die wunderbarste Sache, die die Person jetzt tun könnte.* +
 *Vielleicht diese Denkweise hilft mir, die Fehler mit Mut machen, und meine und Anderer Fehler und Vorurteile mit Mitgefühl, Verständnis und Toleranz wahrzunehmen. Und vielleicht werde ich mir das Leben mehr genießen, mehr Freiheit, Entspannung und Vertrauen erleben.*
 
-Čokoľvek niekto urobí alebo povie, alebo aj keď ja urobím chybu, je to tá najúžasnejšia vec, ktorú by ten človek mohol v danej chvíli urobiť. Je to vzácny dar a požehnanie od poľutovaniahodného, božieho stvorenia pre mňa, za ktoré môžem byť vďačný. Môžem si vybrať, že budem za tieto dary a požehnania vďačný. A nahradiť zlosť a túžbu po odplate súcitom, porozumením a toleranciou. Poučiť sa z udalostí, ktoré by som nebol urobil, keby som vtedy vedel to, čo viem teraz. Vnímať túto situáciu ako príležitosť na učenie. Možno mi toto myslenie pomôže, robiť chyby s odvahou, a vnímať svoje aj druhých chyby a predsudky so súcitom, porozumením a toleranciou. A možno si budem viac užívať život, zažívať viac slobody, uvoľnenia a dôvery.
+Kedykoľvek urobím chybu, je to tá najúžasnejšia vec, ktorú som mohol urobiť, pretože môžem svoje chyby vnímať ako príležitosť na učenie. Čokoľvek niekto urobí alebo povie, je to tá najúžasnejšia vec, ktorú ten človek mohol v danej chvíli urobiť. Je to vzácny dar a požehnanie od poľutovaniahodného, božieho stvorenia pre mňa, za ktoré môžem byť vďačný. Je mi toho človeka ľúto, lebo by som chcel, aby to, čo urobil alebo povedal, vedel povedať aj inak. Môžem si vybrať, že budem za tieto dary a požehnania vďačný. A nahradiť zlosť a túžbu po odplate súcitom, porozumením a toleranciou. Poučiť sa z udalostí, ktoré by som nebol urobil, keby som vtedy vedel to, čo viem teraz. Vnímať túto situáciu ako príležitosť na učenie. Možno mi toto myslenie pomôže, robiť chyby s odvahou, a vnímať svoje aj druhých chyby a predsudky so súcitom, porozumením a toleranciou. A možno si budem viac užívať život, zažívať viac slobody, uvoľnenia a dôvery.
 
-*Never give your power away to other people by submitting or rebelling. Everytime you empathize, you take all power from the other person that the other person has _over_ you, and keep it in your self. Then you can transform it to the power _with_ you.*
+*Never give your power away to other people by submitting or rebelling. Everytime you empathize, you take all power from the other person that the other person has _over_ you, to dehumanize you, and keep your power and humanity in your self and for yourself. Then you can transform it to the power _with_ you thourgh empathy to yourself and to the other person.*
 
 * link:https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=2135[Marshall Rosenberg - Making Life Wonderful 2/4 - Nonviolent Communication NVC - 35:35]
 * link:https://www.youtube.com/watch?t=3282&v=WfJ_NasCFfQ&feature=youtu.be[Marshall Rosenberg Experiencing Needs as Gifts CD NVC Nonviolent Communication - 54:42]
@@ -5371,5 +5388,17 @@ Chcel by som, aby si mysleli, že to čo robím, je tá najúžasnejšia vec na 
 ---
 
 PPPPT - Pretty Powerful Peace-Promoting Thinking
+
+---
+
+Ich möchte, dass die Leute, besonders Journalisten und Leute in Medien, haptsächlich diejenigen, die an den Nachrichten arbeiten, den Unterschied zwischen Beobachtung und Bewertung erkennen können. Ich möchte, dass die Nachrichten nur aus Beobachtungen bestehen. Oder, zumindest, hauptsächlich von beobachtungen. Dann werden vielleicht die Nachrichten auch den Leuten beibringen, Beobachtung und Bewertung voneinander zu trennen, und so die Intelligenz des Volkes zu erhöhen.
+
+---
+
+Veľmi mi záleží na vzťahoch s ľuďmi. Chcem mať dobré vzťahy s ľuďmi. A zároveň mi záleží, aby som mal také pracovné podmienky, aby som mohol zo seba dať to najlepšie.
+
+---
+
+Durch Schuld und Scham können wir nie verantwortliche Leute erziehen. Schuld und Scham erhöhen die Wahrscheinlichkeit, dass die Leute die Verantwortung für Gefühle anderer Menschen fühlen werden. Aber das ist *emotionell* unverantwortlich, obwohl wir dann *intellektuell* verantwortlich sein können. Das ist ein Widerspruch.
 
 ---
