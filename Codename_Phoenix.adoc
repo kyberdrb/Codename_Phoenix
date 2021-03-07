@@ -2912,9 +2912,9 @@ link:???[Cedric Dumont - From Fear to Flow: ???-???]
 
 * link:https://en.wikipedia.org/wiki/Ahimsa[Ahimsa] - Nonviolence +
 link:https://en.wikipedia.org/wiki/Satyagraha[Satyagraha] - Nonviolent resistance +
-M. Ghandi
+Mahatma Ghandi
 
-* link:[RAHAF HARFOUSH - Hustle and Float]
+* link:https://www.youtube.com/watch?v=uYAOoIuO4XU[RAHAF HARFOUSH - Hustle and Float]
   ** 0:21-0:24 https://www.youtube.com/watch?t=21&v=uYAOoIuO4XU&feature=youtu.be
     *** Where do our beliefs about work come from?
   ** 0:49-1:12 https://www.youtube.com/watch?t=49&v=uYAOoIuO4XU&feature=youtu.be
@@ -3052,9 +3052,11 @@ M. Ghandi
        *Now, in order for us to judge our economic output, we're using productivity metrics [from the 19th century] that were designed to build widgets, but we're trying to apply it to industries that create ideas.* +
        +
       If I said to you *"Well, Jill, how many ideas do you come up with in an hour?"* you're like *"Well, that's totally absurd."* +
-      *And that's the point. The systems that we put into place, we've taken creativity and productivity, we fused them together, but in a way that doesn't make sense in a way that was never designed for the type of work that we are doing. Not only do these systems not only were these systems never made for this type of work they actively hurt our capacity to perform this type of work.* When I started uncovering that I kept thinking to myself well this is this is so wild that *as creatives we are willingly participating in systems that work against our capacity to tap into our highest levels of performance. Why?* +
-        +
-        *The so the answer is belief systems culture the stories we tell ourselves and the media about what success looks like and who gets to be successful.*
+      *And that's the point. The systems that we put into place, we've taken creativity and productivity, we fused them together, but in a way that doesn't make sense in a way that was never designed for the type of work that we are doing. Not only do these systems not only were these systems never made for this type of work they actively hurt our capacity to perform this type of work.* When I started uncovering that I kept thinking to myself: +
+       +
+      *"This is so wild that as creatives we are _willingly_ participating in systems that work against our capacity to tap into our highest levels of performance. Why?* +
+       +
+      *The so the answer is belief systems culture the stories we tell ourselves and the media about what success looks like and who gets to be successful.*
       *** *One of the things that really hit me around is* the notion of an assembly line and *the 40 hour work week*. Which I don't know how many in this virtual room are working 40 hours a work week. It's probably more than that. *But those protocols and that paradigm was built for a time that's different than now.* And there's somewhere in the book where you describe the the research that's been done that suggests that *the creative brain actually requires fewer hours of scheduled work [fewer hours of structured time and more unstructured time - to play and explore freely - SDE - Self-Directed Education - Peter Gray] because rest is also required* did I get that right?
       *** It just makes me so happy, it's been so lovely to to hear how much like this book meant to you because when I wrote it I honestly thought I was just like screaming into the void and so you absolutely got it. *The 40 hours and nine to five is arbitrary. link:https://bebusinessed.com/history/history-40-hour-workweek/[[brief history of a 40 hour workweek]]* Those numbers were based on the industrial era negotiations where it was eight hours for work, eight hours for sleep and eight hours for recreation. *Eight hours happened to be the time that worked best for like manual labor*, for industrial era labor. +
        +
@@ -5175,34 +5177,32 @@ Why is meditation theoretically so good, so helpful, so transformative?
 
 The good folks at link:https://www.youtube.com/watch?v=Aw71zanwMnY[AsapSCIENCE] took the time to dig into the actual research into meditation ... but here are seven things that scientific research tells us about what meditation does for the body and brain.
 
-1. *Meditation can help you deal with stress and negative emotions.*
-
+1. *Meditation can help you deal with stress and negative emotions.* +
+ +
 link:https://www.ncbi.nlm.nih.gov/books/NBK180102/[Multiple studies have shown] that meditation can help reduce levels of depression and anxiety, along with helping people tolerate pain better. The researchers conclude that mindfulness meditation in particular might help people deal with psychological stress, though they say that more research is needed into how meditation might help lead to positive mental health (beyond reducing effects of negative stresses).
 
-2. *At the same time, meditation could boost positive skills like memory and awareness.*
-
+2. *At the same time, meditation could boost positive skills like memory and awareness.* +
+ +
 Research shows that link:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3289949/[meditators have unique brains] with well-developed areas that might be connected to the mastery of awareness and emotional control. While it's possible that people with such brains might be more likely to meditate in the first place, other link:http://www.psyn-journal.com/article/S0925-4927(10)00288-X/pdf[research does show] that after completing a meditation program there are changes in participants' brains that are connected to memory, self-awareness, and perspective.
 
-3. *Meditating for years is associated with brain changes that help you get along with others.*
-
-Buddhist monks and other long term meditation practitioners link:https://www.ncbi.nlm.nih.gov/pubmed/18365029[show much more developed] brain regions associated with empathy, though the reasons for that are likely complex. link:http://www.serotonin-dojo.jp/pdf/articles_005.pdf[Researchers have seen] that meditation can also change brain waves, leading to higher levels of alpha brain waves — which are link:http://web.mst.edu/~psyworld/sleep_stages.htm[generally associated with] a state of wakeful relaxation. This can help reduce negative moods and feelings including anger, tension, and sadness.
-
-image::res/dmn-54cff7346bb3f73e481b7747.jpeg[]
-
+3. *Meditating for years is associated with brain changes that help you get along with others.* +
+ +
+Buddhist monks and other long term meditation practitioners link:https://www.ncbi.nlm.nih.gov/pubmed/18365029[show much more developed] brain regions associated with empathy, though the reasons for that are likely complex. link:http://www.serotonin-dojo.jp/pdf/articles_005.pdf[Researchers have seen] that meditation can also change brain waves, leading to higher levels of alpha brain waves — which are link:http://web.mst.edu/~psyworld/sleep_stages.htm[generally associated with] a state of wakeful relaxation. This can help reduce negative moods and feelings including anger, tension, and sadness. image:res/dmn-54cff7346bb3f73e481b7747.jpeg[] +
+ +
 The default mode network refers to a network of brain regions that are active when the mind is in a meditative state — wakeful, at rest, and not focused on external distractions. This state of mind is associated with various positive effects and with reductions in negative stresses like anxiety and depression.
 
-4. *It doesn't take long to see meditation's benefits — just weeks can change your brain.*
-
-link:http://www.sciencedirect.com/science/article/pii/S092549271000288X[Several studies] link:https://www.ncbi.nlm.nih.gov/pubmed/21334442[show that after an eight-week] meditation program, participants had denser brain tissue in areas connected to learning, emotion regulation, and memory processing.
-
+4. *It doesn't take long to see meditation's benefits — just weeks can change your brain.* +
+ +
+link:http://www.sciencedirect.com/science/article/pii/S092549271000288X[Several studies] link:https://www.ncbi.nlm.nih.gov/pubmed/21334442[show that after an eight-week] meditation program, participants had denser brain tissue in areas connected to learning, emotion regulation, and memory processing. +
+ +
 Additionally, they showed decreased amounts of grey matter in parts of the amygdala, a brain area connected to fear and stress. In a study published in link:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2840837/[Social Cognitive And Affective Neuroscience], researchers write that in general, people who stimulate an area of the brain repeatedly (generally by learning a skill) show an increase in grey matter, while not using an area of the brain *decreases grey matter in [amygdala - in the center of fear and stress]*. They write that in this case, participants who reduced their stress response the most were the ones that showed the biggest decrease in grey matter in this area of the brain.
 
-5. *The benefits of meditation extend to other parts of your body too, including your heart.*
-
+5. *The benefits of meditation extend to other parts of your body too, including your heart.* +
+ +
 Mindfulness training has been link:https://www.ncbi.nlm.nih.gov/pubmed/17107296[connected to decreased blood pressure] and a more variable heart rate — which is a good thing, meaning your body can better regulate blood flow depending on how much oxygen you need at the time. link:https://well.blogs.nytimes.com/2009/11/20/can-meditation-curb-heart-attacks/[Researchers] (and the link:https://www.heart.org/HEARTORG/GettingHealthy/StressManagement/TakeActiontoControlStress/Meditation-and-Heart-Health_UCM_452930_Article.jsp[American Heart Association]) say a likely mechanism for this is that meditation could reduce the levels of stress hormones that can cause inflammation and other physical problems.
 
-6. *There are also signs that meditation can help boost your immune system — or at least help ward off the flu.*
-
+6. *There are also signs that meditation can help boost your immune system — or at least help ward off the flu.* +
+ +
 In a link:https://www.ncbi.nlm.nih.gov/pubmed/12883106[study], researchers took two groups of people and had one group complete an eight week meditation course. At the end of the eight weeks, the people in the meditation group showed increased left-side brain activity. At that point, the researchers injected both groups with the flu vaccine. The meditators had a stronger immune response (their bodies produced more flu-fighting antibodies), and the higher the level of left-brain activity in general, the greater the immune response.
 
 7. *Meditation may help prevent genetic damage.*
@@ -6253,10 +6253,12 @@ Ich werde Sie vermissen, Júlia Šimeková.
 - Z mojich skúseností, a z toho, čo počúvam od ľudí, je veľmi ťažké pre človeka vybudovať si odolnosť voči vplyvom ostatných ľudí, keď sa nachádza v zraňujúcom prostredí.
 -- Áno. A zároveň si uvedomujem, že aj keby som sa od rodičov odsťahoval teraz, bolo by to len dočasné riešenie Teraz mám na výber z dvoch zlých možností. [doplniť pokračovanie...]
 
--Pre niekoho je nad jeho sily prejaviť porozumenie. ... Niekto nemusí chcieť prijať tento spôsob myslenia.
+- Aj keď som sa vedel spojiť zo svojimi pocitmi a potrebami pred dizertačnou skúškou, myslenie, ktoré vo mne provokovalo násilie bolo tak silné, že by som všetkých učiteľov postavil doradu a strieľal. Bolo nad moje sily preukázať im porozumenie. Súcitiť s nimi.
+
+- Pre niekoho je nad jeho sily prejaviť porozumenie. ... Niekto nemusí chcieť prijať tento spôsob myslenia.
 
 *Starať sa. O dušu.*
 
-21.1.2021, 3.2.2021, 17.2.2021, 3.3.2021
+Konzultácie: 21.1.2021, 3.2.2021, 17.2.2021, 3.3.2021
 
 ---
