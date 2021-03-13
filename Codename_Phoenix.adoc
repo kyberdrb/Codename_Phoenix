@@ -112,7 +112,7 @@ Properties of needs:
 * security / Sicherheit / bezpečnosť, zabezpečenie
 * order / Ordnung / poriadok
 * equality / Gleichheit / rovnosť
-* predictability / Vorsehbarkeit / predvídateľnosť
+* foreseeability, predictability / Voraussehbarkeit, Vorhersehbarkeit / predvídateľnosť
 * prevention / Prävention / prevencia
 * power (with) / Macht (mit) / moc (s) +
 link:https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=2486[Marshall Rosenberg - Making Life Wonderful 2/4 - Nonviolent Communication NVC: 41:26-43:06]
@@ -176,14 +176,14 @@ vedomie, že na mne a mojich potrebách záleží, že moje potreby sú dôleži
 * relationships / Beziehungen / vzťahy
 * nurturing, upbringing / Erziehung / výchova
 * humanity / Menschlichkeit / ľudskosť
-* interdependency / ??? / ???
-* humility / Bescheidenheit ??? / pokora, skromnosť
+* interdependency / Abhängigkeit [basiert auf Mitarbeit] / závislosť [na základe vzájomného napĺňania potrieb s ohľadom na druhých ľudí a prostredie]
+* humility / Bescheidenheit / pokora, skromnosť
 * _recognition, acknowledgement / Anerkennung / uznanie_
 * _appretiation / Wertschätzung / ocenenie_
 * _gratitude / Dankbarkeit / vďačnosť_
 * [line-through]#apology Verzeihung / ospravedlnenie#
 ** *apology* is just a *masked need for empathy*: link:https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=4602[Marshall Rosenberg - Making Life Wonderful 2/4 - Nonviolent Communication NVC: 1:16:42-1:17:39], When we empathize, there is nothing to forgive. link:???[(San Fran Workshop)], Forgiveness and empathy are the same thing [in the language of life.] link:???[(SELF EMPATHY)]
-* [line-through]#codependency / ??? / ???#
+* [line-through]#codependency / Abhängigkeit [] / závislosť [na základe napĺňania potrieb na úkor druhých ľudí alebo prostredia]#
 * [line-through]#approval / Genehmigung / dovolenie, odobrenie#
 * [line-through]#affirmation / Bestätigung / potvrdenie#
 * [line-through]#sex / Geschlechtsverkehr#
@@ -537,6 +537,8 @@ link:???[Feelings vs Thoughts pdf]
 * attacked
 * belitted
 * betrayed
+  ** feelings: hurt, in pain, sad, disappointed
+  ** needs: trust, support, 
 * blamed
 * bullied
 * boxed in
@@ -790,15 +792,18 @@ spreche, mit jemandem spreche, schreibe, zuhöre, mich dusche, mich mit kaltem W
 - Empathy vs Sympathy - link:...[M. B. Rosenberg], link:https://youtu.be/KX_tgRM84RA?t=370[(Nonviolent Communication (NVC): Yoram Mosenzon full workshop: 'Connecting in Conflict': 6:10-8:08)]
 - Empathy vs Forgiveness - link:...[M.B. Rosenberg - Creating Life Serving System Withing Oneself: ???]
 * Intensity vs Consistency - link:???[Simon Sinek]
-* To deserve something vs To need something
+* To need something vs To deserve something
 * Robustness vs Perfection link:https://www.youtube.com/watch?v=kzHrBM6CHfE&feature=youtu.be&t=1889[An Interview with Elinor Ostrom: 31:29-31:53]
-* Participatory Democracy, Flatpack Democracy (Frome), Democratic Confederalism, Communalism, Stateless Democracy, Anarchist Communism, Libertarian Socialism, Mutual aid (Emmaüs Lescar-Pau) vs Autocracy, Representative Democracy, Authoritarianism, Populism, Fascism, Nazism and Nationalism, Dictatorship etc. link:https://mesopotamia.coop/the-internal-system-of-the-communes-in-rojava/[(THE INTERNAL SYSTEM OF THE COMMUNES IN ROJAVA)]
+* Participatory Democracy, Flatpack Democracy (Frome), Democratic Confederalism, Communalism, Stateless Democracy, Anarchist Communism, Libertarian Socialism, Libertarian Marxism, Mutual Aid (Emmaüs Lescar-Pau) vs Autocracy, Representative Democracy, Authoritarianism, Populism, Fascism, Nazism and Nationalism, Dictatorship etc. link:https://mesopotamia.coop/the-internal-system-of-the-communes-in-rojava/[(THE INTERNAL SYSTEM OF THE COMMUNES IN ROJAVA)]
 * Einsamkeit (Loneliness) vs Selbstständigkeit (Autonomy)
 * Einsamkeit vs Alleinsein
 * Work vs Paid Employment link:https://forum.earlyretirementextreme.com/viewtopic.php?p=104923#p104923[Burnout: bradley]
 * Self-Discipline vs Self-Fulfillment
 * neurology, neuroanatomy, neurophysiology, neurochemistry, neuropharmacology, or neurosurgery vs psychiatry [thanks Thomas Szasz]
-* productivity with purpose and mindfulness vs productivity at all cost
+* productivity, growth and profit with purpose and mindfulness vs productivity, growth and profit at all cost
+* Manager vs Kommandant, General, Diktator
+* Spirituality vs Religion
+  ** I can live a deep, spiritual life without the violence and oppresion of any religion. I can make my own religion and be consistent with it.
 * link:https://www.fachverband-gfk.org/wp-documents/anlage_3_schluesselunterscheidungen.pdf[und mehr Unterschiede...]
 
 Culturally learned beliefs - Life-harming beliefs - irrational beliefs:
@@ -818,7 +823,13 @@ Culturally learned beliefs - Life-harming beliefs - irrational beliefs:
 - I can't do anything good enough. / Ich kann nichts gut genug machen. / Nič neviem urobiť dosť dobre.
 - "Netreba sa stále vyhovárať na prostredie." [Lenže, čo ak to nie sü výhovorky. Valídne sú vždy vnútorné aj vonkajšie príčiny a okolnosti. Ak by som pripisoval väčší význam iba tým vnútorným, osobným okolnostiam väčšiu váhu a zanedbával vplyv prostredia, dopustil by som sa základnej chyby atribúcie (Fundamental Attribution Error). Rastlinu tiež nesadíme medzi chemikálie. A toxické prostredie, pesticídy, počasie a zloženie pôdy tiež ovplyvňujú jej kvalitu a obsah živín, bez ohľadu, aká silná a odolná rastlina je. To isté platí pre zvieratá. To isté platí pre ľudí.]
 - Keď sa tomu nerozumieš, nechaj to tak [mamina]
-- Work has to be suffering. Work has to be unpleasant. Work has to be toil.
+- Chcieť? Môžeš. [mamina]
+- Work has to be suffering. Work has to be unpleasant. Work has to be toil. [Miki Kashtan, Peter Gray]
+- „Keby si sa viac snažil, mohol by si byť ako Ondrej!“ +
+„ Ako je možné, že Fero mohol mať jednotku a ty nie?“ +
+„Pozrite sa na Aničkin zošiť, takto má vyzerať krásny zošit!“ +
+„Tá písomka nemohla byť taká ťažká, keď to Evka, Lenka a Peťko zvládli bez akýchkoľvek problémov.“ +
+link:https://eduworld.sk/cd/zuzana-granska/457/jana-novackova-sutaze-by-v-skolach-mali-mat-minimalny-priestor[Jana Nováčková: Súťaže by v školách mali mať minimálny priestor - Zuzana Gránska]
 
 == Resonance Performance Model [RPM]
 
@@ -833,6 +844,7 @@ by Doug Newburg
 *Dream feelings / Traumgefühle:*
 
 * tolerance to other people's beliefs, ideologies and worldviews
+* vzťah plný hlboké ho porozumenia a nehy
 * Bewusstsein, dass ich immer zur Auswahl habe
 * Entspannung unter Leuten und in einem Kollektiv
 * greater control over my mind and body
@@ -1638,7 +1650,7 @@ Teach them to use punishment to get their needs met.
 *Für jeden Preis. Ich habe nicht zum Auswahl.* +
 *Za čo ťa platím.* +
 *Nevyhováraj sa!* +
-*Čo si ostatní o tebe pomyslia? / Was würden die Anderen über dich denken? / What will the others think of you?* [Chcel by som, aby si mysleli, že to čo robím, je tá najúžasnejšia vec na svete, akú môžem robiť. Chcel by som, aby ostatní videli, aký krásny je dar rozmanitosti. Ako nás Boh požehnal rôznorodosťou.]
+*Čo si ostatní o tebe pomyslia? / Was würden die Anderen über dich denken? / What will the others think of you?* [Chcel by som, aby si mysleli, že to čo robím, je tá najúžasnejšia vec na svete, akú môžem robiť. Chcel by som, aby ostatní videli, aký krásny je dar rozmanitosti. Ako nás Boh požehnal rôznorodosťou. Že existujú aj iné spôsoby, ako premýšľať nad ostatnými, nad udalosťami, ktore podporuju sucit, pokoj a radost zo zivota.]
 **** Why do you have to, jackal? *It's the [company] policy, rule, law, order, tradition, habit*
 
 . Teach people *retributive justice* link:???[(CNVC Training Session 1 - ??? - ???)], link:https://www.youtube.com/watch?v=jArsTeP66FE&feature=youtu.be&t=1230[Film 02 SELF EMPATHY Session 1 - M.B. Rosenberg - 20:30-]
@@ -3304,7 +3316,7 @@ Mahatma Ghandi
   ** If you've ever tried to read an article online you're familiar with this process where you read the article, and then you click the link, and then you go to another article, and then a blog post, and then maybe a video, and then a tweet, and then a forum discussion from five years ago, and then another article, and essentially there is no end point, but even though rationally we know this we have been conditioned over decades to always still be seeking that exit point. To seek that end point. 
   ** This becomes a bit challenging because with the advent of our devices we're constantly also being distracted with all of this influx of information and so what happens is we feel this pressure to get to the end to know everything to achieve mastery and instead we just get confused and distracted. *This is dangerous because most people's response to overwhelm is to throw their hands up and say you know what I'm just gonna stick with what's comfortable I'm just gonna stick with what I know. This is a very important behavior to understand that our psychological stress our race to inbox zero our race to try to read everything and keep on top of everything is the behavior that has been taught to us for many many years so what we need to do instead and culturally* 
   ** *We need to start teaching this in schools and training and organizations is we need to develop a state of what I call _informational Zen_.* I'm gonna give you guys a little secret which is:
-    *** *It's never going to be possible to learn everything and to read everything, and that's ok.*
+    *** *It's never going to be possible to learn everything and to read everything, and that's okay.*
   ** *But we have a productivity work culture that emphasizes "getting to the end", "crossing things off the list".*
   ** *One of the ways that we [may] adapt is, we need to update the way that we engage with information in a way [with which] we understand that we are in a limitless information ecosystem, so there's no point in trying to rush and get everything because you'll never will.*
 
@@ -3540,11 +3552,15 @@ link:https://veganvanguardpodcast.com/48-covid-19-and-seizing-the-means-part-2-w
 
 * The nakedness of standing without a frame, in a new paradigm, carries the pleasures of freedom but it also can evoke fears of looking foolish and exposed, feelings of shame that can readily erupt into rage and attack. This is the moment when we are most tempted to return to the familiar, to restore an old framework at all costs—this moment of paradigm shift, of epiphany or sudden radical insight, the creative moment in the lives of artists and scientists, the moment when our ordinary vision is removed and we come to see that the old ways of seeing were mistaken, were blinding us to what we now can see. link:https://www.uky.edu/~eushe2/quotations/gilligan.html[(Carol Gilligan, The Birth of Pleasure - Introduction)]
 
-* *No human being is good [no human being is bad (judging is too easy)], but all are sacred.* +
-*Kein menschliches Wesen ist gut [kein menschliches Wesen ist schlecht (Beurteilen ist zu einfach)], aber alle sind heilig.* +
-*Žiadna ľudská bytosť nie je dobá [žiadna ľudská bytosť nie je zlá (odsudzovať je príliš jednoduché)], ale všetky sú posvätné.*
-link:https://www.youtube.com/watch?v=LdOFhyKACxE[Dr. James Gilligan - On How All Human Beings Are Sacred] +
-link:restoration_justice_part[Rosenberg - Creating a Life Serving System within Oneself]
+* link:https://www.youtube.com/watch?v=LdOFhyKACxE[Dr. James Gilligan - On How All Human Beings Are Sacred]
+  ** dokoncit zaciatok videa
+
+    *No human being is good [no human being is bad (judging is too easy)], but all are sacred.* +
+    *Kein menschliches Wesen ist gut [kein menschliches Wesen ist schlecht (Beurteilen ist zu einfach)], aber alle sind geweiht.* +
+    *Žiadna ľudská bytosť nie je dobrá [žiadna ľudská bytosť nie je zlá (odsudzovať je príliš jednoduché)], ale všetky sú posvätné.* +
+    link:restoration_justice_part[[Rosenberg - Creating a Life Serving System within Oneself]]
+
+  ** dokoncit zvysok videa
 
 * link:https://www.youtube.com/watch?v=_rSYiy420B0[Dr. James Gilligan - Youth and violence The role of education inspiring solutions]
   ** 1:02:17-1:09:18 https://www.youtube.com/watch?v=_rSYiy420B0&feature=youtu.be&t=3737
@@ -3561,6 +3577,8 @@ Pozorovanie bez posudzovania je najvyššou formou ľudskej inteligencie. +
 link:???[Jiddu Krishnamurti]
 
 * Ich kämpfe nicht. Ich *übersetze* alles in gewaltfreie Kommunikation. In die Sprache des Lebens. In die Sprache der Beobachtungen, Gefühle, Bedürfnisse und Bitten. I do it for me. I want to suffer less! For me! link:???[(M.B. Rosenberg)], link:https://www.youtube.com/watch?v=NR9JyTqaIto&feature=youtu.be&t=3465[NVC Israeli and Palestinian panel at Ecome Center February 2015 (Nonviolent Communication): 57:45-1:03:13]
+
+* *Ich gehe nicht programmieren. Ich gehe mich um ein Softwareprojekt kümmern. Ich gehe mich um den Code kümmern.* [dissolve fear of programming]
 
 * Let's find another way of meeting your needs that will be more effective and less costly. [M.B. Rosenberg]
 
@@ -3690,7 +3708,7 @@ link:https://www.youtube.com/watch?v=jArsTeP66FE&feature=youtu.be&t=5863[Film 02
     *** *How about grades? The only purpose I see in grades is to maintain a cast system in our society, and to hide it as a meritocracy or democracy [representative democracy, not direct democracy].* ... "I'm choosing not to give grades." ... "Half the students of this university are black, half are white, blacks get 80% of failing grades, I choose not to participate on any evaluation scheme that differentiates on the basis of race or culture [or socioeconomic status]. Also, research shows that *the more grades are given the more students lose perspective on what they're learning.* So *then they learn not for the value of what they're learning, but for the extrinsic rewards*", which of course is the *purpose in the jackal culture*. *You want people to get used to working for extrinsic rewards, things like salaries [points, grades, credits, titles, etc. so they'll be able to pollute the environment and do anything else as long as the boss tells them to do it. And then they get their rewards. So that's what you want to train them for in school.*"
     *** *"We have to have accountability!"* and I said "Now that I share the universitie's desire at that level. *We do need to know, whether people have learned, what ... the course involved.* ... *I will give you at the end of the course an instruction, a measurable assessment, of what students could do at the end that they couldn't do at the beginning.* I this respect I'm far more accountable, than a teacher who gives you a C or D. You don't know what that student could do? You will know what each of my students can do at the end what they couldn't do at the beginning." So because of that, I was being more accountable.
   ** 30:05-33:29 https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=1805
-    *** I don't think you get angry because your need for respect and appreciation isn't getting met. *For example, if I come along and I say to you "Get out of my way, idiot!" and for whatever reason you think "Maybe his wife died, and he is mourning." I don't think you'd feel angry. [reference to Fundamental Attribution Error; Is it the thinking that is the cause of calmness and understanding?]* Even though your need wasn't getting met for respect or so ..., but I don't think you'd be angry. Because you'd probably tell yourself something different than what you're telling yourself if your angry. So you still haven't answered my question about the cause of your anger. *Just because your need for respect doesn't get met doesn't make you angry. [It's the thinking that makes me angry and provokes violence?]* ... [Feelings] are the first thing what we [may be] aware of, but it's not the first thing that happens. Te first thing that happens is when I'm asking you to get at now that you haven't gotten at yet. And that's whatwhy I'm pushing you to get at it. Because it needs to be gott out into the light [to the consciousness], and that is I think *you need to be clear what is making you angry. It's not that your need is not getting met. What are you telling yourself? [The thinking makes me angry? The thinking is the cause of my feelings? Unpleasant and pleasant?]* +
+    *** I don't think you get angry because your need for respect and appreciation isn't getting met. *For example, if I come along and I say to you "Get out of my way, idiot!" and for whatever reason you think "Maybe his wife died, and he is mourning." I don't think you'd feel angry. [reference to Fundamental Attribution Error; Is it the thinking that is the cause of calmness and understanding?]* Even though your need wasn't getting met for respect or so ..., but I don't think you'd be angry. Because you'd probably tell yourself something different than what you're telling yourself if your angry. So you still haven't answered my question about the cause of your anger. *Just because your need for respect doesn't get met doesn't make you angry. [It's the thinking that makes me angry and provokes violence?]* ... [Feelings] are the first thing what we [may be] aware of, but it's not the first thing that happens. Te first thing that happens is when I'm asking you to get at now that you haven't gotten at yet. And that's why I'm pushing you to get at it. Because it needs to be got out into the light [of the consciousness], and that is I think *you need to be clear what is making you angry. It's not that your need is not getting met. What are you telling yourself? [The thinking makes me angry? The thinking is the cause of my feelings? Unpleasant and pleasant?]* +
     *"Some jackal thought". That's the first thing that came. But your inner jackals speak so rapidly, and it's been in there for so long  that you're very often not conscious of them.* +
     *I'm saying all of these [feelings: anger, depression, guilt, shame and maybe rage, hate, jealousy and envy] can be productive if you do the following work:*
     . If you identify the thinking that is making you feel this way.
@@ -5427,7 +5445,7 @@ No one deserves anything. But everybody needs something. Everybody needs the sam
 
 ---
 
-I'm not a thing, agent, factor of production, social capital, human capital, human resource, commodity, number, letter, robot, machine, trash that sooner or later will be recycled, an animal, a dog that has to obey or anything similar. I am a human being that has feelings that I want to express and needs that I want to fulfill in order to live a happy, satisfying and hopefully long life, and have consciousness that I can sustain my well-being despite problems and conflicts.
+I'm not a thing, agent, factor of production, social capital, human capital, human resource, commodity, number, letter, robot, machine, trash that sooner or later will be recycled, an animal, a sheep, a dog that has to obey or anything similar. I am a human being that has feelings that I want to express and needs that I want to fulfill in order to live a happy, satisfying and hopefully long life, and have consciousness that I can sustain my well-being despite problems and conflicts.
 
 ---
 
@@ -5522,7 +5540,7 @@ Capitalism, Authoritharianism, Dictatorships and the "Free" Market give the:
 * freedom to pollute the environment
 * freedom to spread an infectious disease
 * freedom to destroy
-* freedom fo corruption
+* freedom for corruption
 * freedom to oppress others
 * freedom to exploit others
 * freedom to profit from acts of violence (e. g. war)
@@ -5543,7 +5561,7 @@ Capitalism, Authoritharianism, Dictatorships and the "Free" Market give the:
 * freedom to commit suicide
 * freedom to democratically elect your own dictator (participatory democracy)
 
-because it's _"rational"_ and _"good"_ for the _"economy"_. Or rather chrematistics?
+because it's _"rational"_ and _"good"_ for the _"economy"_. Or, rather, chrematistics?
 
 and on the other side it gives, and there is, *the freedom with responsibility*:
 
@@ -5551,13 +5569,13 @@ and on the other side it gives, and there is, *the freedom with responsibility*:
 * freedom to choose
 * freedom to take responsibility
 * freedom to disagree and understand
-* freedom to empathize
+* freedom of speech with the freedom to listen and talk with deep, emphatic, emotional understanding
 * freedom to care
 * freedom to give unconditionaly
 * freedom to receive unconditionaly
 * freedom to love unconditionally
-* freedom to choose pedagogy
-* freedom to choose your own teacher
+* freedom to choose my own pedagogy
+* freedom to choose my own teacher
 * freedom to learn what I want the way I want
 
 ---
@@ -6260,5 +6278,177 @@ Ich werde Sie vermissen, Júlia Šimeková.
 *Starať sa. O dušu.*
 
 Konzultácie: 21.1.2021, 3.2.2021, 17.2.2021, 3.3.2021
+
+---
+
+Einerseits Hass gegen Authoritäten, andererseits ein starkes Verlangen nach tiefem Verständnis und Zärtlichkeit.
+
+---
+
+Vielleicht deswegen fühle ich so starke Schuld und Scham, weil mir die Beziehungen mit anderen Menschen und die Bequemheit der anderer Menschen um mich so wichtig sind. Ich will mir diese Beziehungen so schätzen. Wenn ich unter anderen Menschen bin, frage ich mich oft "Was denken sie diese Menschen über mich? Fühlen sie sich wohl in meiner Awesendheit?" Aber wenn etwas schief geht, und sie eine schlechtere Laune haben, und dazu noch etwas über mich sagen, ich denke mir gleich, dass sie sich so schlimm wegen mir fühlen. +
+Dass ich die Ursache für ihre Gefühle bin. Das ist Schuld. +
+Dass etwas mit mir nicht stimmt. Das ist Scham. +
+Und diese Gefühle erlebte ich regelmäßig, sie wurden und immer noch sind so stark in mir verstärkt, dass sie zu einem unendlich erschöpfenden Last wurden. Die Schmerzen, seelische Schmerzen sind wahnsinnig groß, tief und intensiv. Und nur durch Empathie kann ich die Schönheit in diesen Gefühlen, in diesen Schuld und Scham erregenden Ereignissen sehen, und dankbar für sie sein, weil ich sehe, dass ich durch diese bittere Ereignisse Frieden, Versöhnung und Hoffnung für eine Anwesendheit mit weniger Schmerzen und mehr und tieferem Verständnis sehen kann.
+
+---
+
+Odvodzovanie si vlastnej hodnoty od vykonov
+
+Ked som pracoval vo firme, zo zaciatku ma to bavilo: riesit ulohy, skumat, skusat, hrat sa s rieseniami... Ale postupne som si zacal pracu brat domov, lebo som bol rozbehnuty z prace a chcel som uzavriet par veci. V praci som sa nedokazal sustredit na pracu, lebo som si nerozumel s kolegami v kancelarii, tak som radsej nad pracou rozmyslal doma, namiesto toho, aby som oddychoval.
+
+Bolesti sa zhorsovali, unava rastla, a ja som sa citil bezmocny. "Co by mi pomohlo vychadzat s kolegami, mat pozitok z prace a citit sa pohodlne vo svojom tele?" pytal som sa sameho seba.
+
+Konflikty medzi kolegami sa vyostrovali. Oci ma palili. Brucho, zaludok, crevo a chrbat boleli. Maval som palenie zahy kazdy den, niekolkokrat za den. Nenavidel som svojho sefa, svojich kolegov, svoju pracu.
+
+Praca bola peklo, doma bolo peklo, mna vsetko bolelo, a nikto mi nevedel pomoct. Mam obavy, ze sa to bude opakovat, ked sa znova zamestnam: ze ma kolektiv znovu neprijme, a ze sa mi zhorsi zdravie. Mozno keby mi menezment ukazal, ze praca nemusi byt peklo. [Lawrence Chong: ... That [The work] doesn't have to feel like hell.]
+
+Neviem, ci dokazem spracovat pocity viny a hanby, ked mi nieco nevyjde, ked nie som dost dobry. Hlavne, ked sa to opakuje den co den v kolektive.
+
+joy of work
+joy of movement
+tolerancia k presvedceniam inych ludi
+tolerancia inych ludi k mojim presvedceniam
+
+Opustenie zranujuceho rodica alebo partnera. Lebo v pritomnosti takeho cloveka sa tazko da zotavit z bolesti, a rany a dusi sa nehoja, hoja sa pomalsie alebo sa este viac prehlbuju.
+
+You will never know everything and that's okay. link:https://www.youtube.com/watch?t=77&v=s-1rSDJvo2U&feature=youtu.be[[The Information Ecosystem: Why We’re Overwhelmed | Rahaf Harfoush: 1:17]] +
+You will never be perfect, and that's okay. It's okay to make mistakes. It's okay to be and look less than perfect. It's okay when others are less than perfect. I can be less than perfect and that's okay. But it's so difficult for me to accept when I was so brutalized for every mistake that I've ever did.
+
+So I internalized fear of making mistakes, failures, errors. Feelings of shame, guilt. Because after every mistake came punishment. Religion only reinforced these feeling, instead of giving me deep, empathic, emotional understanding, they gave me penitance - hatered of my imperfections. "You should be as perfect as your heavenly God! You must be! When you're not, you're a bad, sinnful, wretched, creepy person who will never be good enough regardless how hard you'll try! [shame] See how Jesus suffered? How he was crucified? That's because of you! [guilt] He suffered because of you, so you must give him thanks by obeying Him! [habitual obedience to authority] Pray for forgiveness to our heavenly Father! Hate yourself for your sins in penitance, so that the heavenly Father can forgive you! Hate yourself more! MORE! OK, I forgive you. Asshole! But don't ever do that again, otherwise...!"
+
+Keď sa tomu nerozumieš, nechaj to tak!
+Chcieť? Môžeš.
+Tieto, a iné sebadôveru likvidujúce vety ma naučili moji rodičia. Ďakujem mamina. Dali ste mi život, aby ste mi ho potom zničili. Istú dobu som uvažoval nad tým, že radšej skapem, ako žiť v takýchto bolestiach.
+
+Versuchen sie mich nicht zu steuern. Ich bin kein Lenkrad.
+
+Es gibt einen Unterschied zwischen einem Manager und einem Kommandant, General, Diktator.
+
+Verantwortung vs Gehorsamkeit
+
+I want to have som say about what I do, how I do it, and how long I'll be doing it. I want to give my best in this company, but deadlines are keeping me from doing my best. Deadlines, time-management, and other myths. What is the point of deadlines? What happens if I miss a deadline? Will I get punishment or help and understanding? I want to feel the pleasure and satisfaction of making a good work.
+
+- "Rýchlo! Rýchlo! Musíme to stihnúť do deadlinu!"
+Ja: "Rýchlo! Rýchlo! Prineste mi rakvu! Musím rýchlo zomrieť!"
+[zdroj: tatkov kolega]
+
+Dissolve guilt: +
+Not me or what I did, but the other person's thinking about his or her unfulfilled needs is the cause of his or her feelings. I can only be a stimulus for other people's feelings. For one person I can stimulate joy, for another person disgust. But it's not my behavior that is the cause. It's the other persons thinking about its needs that are or aren't being fulfilled. I can only be responsible for my own words, actions, feelings and needs. The other person is responsible for its own words, actions, feelings and needs. Mixing these responsibilities causes the blurring of boudnaries who is responsible for what. We can be tricked into thinking that we're the cause of other persons feelings by upbringing and education in which the people around us used guilt or shame as a tool to manipulate our behavior. But, of course, this manipulation comes for an enourmous cost. The cost is the loss of trust and inability to give and receive to that person unconditionaly. +
+My needs is the origin of my feelings. +
+My thinking is the cause of my feelings. Not other people or the environment, although the other people and the environment may be a very strong stimulus for my words and actions. And the other people and environment can reinforce and encourage us to think that the source of our suffering is caused by other people or the environment. "It's because of you! It's your fault! Don't you see how I'm suffering for you?" +
+When we take other people's words personally, we got used to think that we are responsible for other persons feelings. We take responsibility for the other persons feelings. +
+That's guilt. Taking responsibility for other person's feelings.
+
+Dissolve shame: +
+People make mistakes, and that's okay. You didn't do anything wrong. Nobody does anything wrong. You were just trying to meed your own needs, and that activity didn't work. Mistakes are a way to learn. Sometimes I do things that I wouldn't have done if I knew then what I since have learned. Sometimes I do things that I wouldn't have done if I knew then what consequences it will have. That's responsibility. Mistakes teach us responsibility, but only when we're connected with the life energy, with ours and other people's feelings and needs, and when we mourn, when we feel sad and disappointed what we've done, if we knew the consequences then, if we only had had the foreseeability of the present and future consequences of our words and actions. +
+People look different, and that's okay. +
+People do and say things that I don't understand, and that's okay.
+
+Dissolve anger, rage, hatered, envy, jealousy: +
+No human being is good, no human being is bad, but all are sacred. link:https://www.youtube.com/watch?v=LdOFhyKACxE[[Dr. James Gilligan - On How All Human Beings Are Sacred]]
+
+Dissolve depression: +
+When you empathize, you take away all power that the other person has over you, to dehumanize you. +
+When you empathize, you take away all power that the other person has over you, and keep this power in yourself. +
+When you empathize, there's nothing to forgive. +
+The map is not the territory. You're not aware of the danger of words. Words are never what they say. Words have some implicit meaning. We give them meaning through our past experiences and education. At the same time, we can override this implicit meaning and ascribe them another one, a different one. We can choose to ascribe them such meaning, that enriches our lives the most. +
+Words are stimulus. +
+Our thinking is the cause. +
+Our needs are the root of our feelings. +
+When the stimulus and feelings are redirected through peace-promoting thinking, in order to be in full contact with our empathic abilities. +
+Being aware of external, not only internal attribution. You can interpret anything in the way that most enriches your life, and in the way that prevent you to give your power away to other people to dehumanize you, and to keep your power within yourself. Keeping your power in your hands. You can even interpret and translate blame and The Holy Bible into the language of life. Because, unfortunately, Bible is written in the language of domination, in the language of moralistic judgements, violence, retributive justive, competition, evil human nature, not in the language of observations, feelings, needs and requests, compassion, deep, emotional, emphathic understanding, tenderness, unconditional love.
+
+Dissolve submission and rebelion, replace obedience with responsibility, and create a new way of leadership: +
+I would never want the other person to do what I told them at their expense. At the cost of their needs being met. +
+I would never want that the other person does what I tell him or her, when it would go against his or her well-being or willingness. +
+I would never want to fulfill my needs at the cost of other people's needs or the environment. +
+And the same thing I want from others. That they also don't want to fulfill their needs at the expense of me, other people, or the environment. +
+Ja si stale budem obnovovat vedomie o tom, ze ostatni ludia a autority su bozie stvorenia. Ukazem im, ze nemaju absolutne ziadnu moc nadomnou, aj ked su normativne, pravne alebo spolocensky nadradeni. Ukazem im, ze mi mozu prikazat cokolvek. Ja si aj tak vzdy urobim podla seba tak, ako mi to v dany moment dava zmysel, a tak ako to najviac obohati moj zivot a prinesie pokoj a radost zo zivota. +
+Skusim vnimat autority nie ako diktatorov, generalov, velitelov, ale ako seberovnych, bez ohladu a vek, pohlavie a spolocenske postavenie, aj ked na mna kricia; hovoria, ze to kvoli tebe sa veci kazia; ze ta potrestaju, ked neposluchnes, a budu si chciet naplnat svoje potreby na ukor mojich; aj ked hovoria, ze to co hovorim, nie je pravda. +
+Chcel by som, aby sa viac menezerov riadilo podla vyskumu od Googlu - Projektu Oxygen. Es gibt einen Unterschied zwischen einem Manager und einem Kommandant.
+
+Dissolve fear of making mistakes: +
+Hriech je chyba. A mýliť sa je ľudské. Za to ze sme hriesny, cize robime chyby, sa nemusime skvarit v ohni vecneho zatratenia (MUHAHAHAHA!) Práve naopak. Hriechy, čiže chyby, môžu byť veľmi silným prostriedkom pre učenie. Viac úľavy mi prinieslo empatické porozumenie od psychologičky, než sebanenávisť a múdre rady a vyvolávanie viny a hanby od kňaza pri spovedi a na omši. Nenávisť a pocity viny a hanby blokujú učenie, a robia ho povrchným a násilným. A ja nechcem podporovať takúto ideológiu, takéto vnímanie chýb. Ja chcem podporovať vedomie, že Boh sa o nás všetkých stará, a aj napriek všetkým chybám, ktoré robíme, nám všetkým nám prejavuje svoju *bezpodmienečnú lásku*.
+
+Mimochodom, ako sa moze niekto tesit zo zivota, ked ma neustale na mysli, aby nespachal ziadny hriech. Vsak ked hriech je chyba, a mylit sa je ludske a Boh nas vsetkych miluje bezpodmienecne. Navyse, vdaka chybam sa ludia ucia, za predpokladu, ze sa za ne nebudu nenavidiet a mat pocity viny a hanby, ktore nabozenstva tak intenzivne podporuju. Chudaci knazi. Fyzicke utrpenie z imaginarnych veci. Nastastie to zahranuje nenasilie, ale o tom som sa zo ziadnej omse nedozvedel. Cudujem sa preco?
+
+V momente, ked sa myslienka nenasilia zacleni do inych ideologii, vsetky ideologie sa transformuju.
+
+Prestane zalezat na tom, aku ideologiu clovek vyznava a podla toho si vybral stranu. Vsetci sme na jednej strane, lebo sme jedno ludske spolocenstvo. Nie krestania, nie evanielici, nie zidia, nie moslimovia, nie budhisti, nie hinduisti, nie laviciari, nie praviciari, nie diagnozy, ale ludia, pre boha ziveho.
+
+Ja verim, ze keby sme sa vedeli porozpravat prave na tejto hlbokej, emocionalnej, empatickej urovni, nemuseli by sme do seba strielat, kricat na seba, ale zacali by sme rozmyslat nad tym, ako mozeme urobit svoj zivot a zivot toho druheho krajsim. Amen.
+
+Now you have power with that person. Now the other people have no power over you. You took all power over you from them for yourself and transformed this power into power with them. Into power of understanding. Into power of empathy. Into power of nonviolence.
+
+*Čo si ostatní o tebe pomyslia? / Was würden die Anderen über dich denken? / What will the others think of you?* [Chcel by som, aby si mysleli, že to čo robím, je tá najúžasnejšia vec na svete, akú môžem robiť. Chcel by som, aby ostatní videli, aký krásny je dar rozmanitosti. Ako nás Boh požehnal rôznorodosťou. Že existujú aj iné spôsoby, ako premýšľať nad ostatnými, nad udalosťami, ktore podporuju sucit, pokoj a radost zo zivota.]
+
+---
+
+Capitalism makes us all addicts. Capitalism is turning us into addicts. +
+Domination systems make us all addicts. Domination systems are turning us into addicts.
+
+Shame, Guilt, Fear of Punishment, Obedience, Christianity, Religion
+
+If I don't overcome these feelings of guilt, shame, fear of punishment, fear of what other people will think of me, fear of exclusion, notions of obedience at all cost, then I'll be never be able to learn with pleasure and work with joy and care about other people and foster relationships with them. This step is absolutely critical. It destroys and transforms everything, so that something new can emerge. My past, my present and my future. This gives me the robustness I'm looking for. Robustness to listen and talk with a deep, empathic, emotional understanding. This is how I understand the Freedom of Speech!
+
+feel as if they are controlled by a remote control [by guilt and shame] - Alfie Kohn: Overemphasizing Achievement
+
+by watching porn you are giving your power away to the people who participate and reinforce the destruction of humanness, tenderness, softness, gracefulness, ...
+
+you care about your relationships and the well-being of other people around you. You care about it so much and you go so far that you take responsibility for their feelings. And that makes you easily manipulable. Because now, you associated yourself with their pain. You now think that you're the cause of their emotional suffering. But that's impossible. It's psychologically impossible to cause someone else's emotional pain. You can stimulate it strongly, but it's their interpretations, their thinking about their feelings and unmet needs that are the cause of their feelings. And that is their responsibility.
+
+---
+
+3.3.2021 8:30-9:30
+
+Po 26 rokoch som dostal porozumenie, ktore som tak potreboval. Ani som nevedel, ze sa mi pri tom tak ulavi. Konecne! Nevedel som, ze prave porozumenie je to, co prave tak velmi potrebujem. *Hlboke, emocionalne, empaticke porozumenie.* Ale padol som tak hlboko, ze som si za porozumenie platil u psychologicky, pani Julie Simekovej. Bola to prijemna skusenost.
+
+Toto porozumenie som nedostal ani od rodicov, ani od ucitelov, ani od knazov, ani od nabozenstva, ani od kamaratov, ani od nikoho. Az na vynimky, kedy prejavili sucit mlcanim, a podla mna vtedy ani nevedeli, ze to nejaky sucit je. To su nase systemy: vychova, vzdelavaci system, ekonomicky system, kultura, spolocnost, media, nabozenstva. Tak si vytvorim vlastne systemy, ktore budu fungovat dlhodobo a udrzatelne, nie tieto sracky zalozene na manipulacii vinou, hanbou, sutazivostou, strachom z trestu alebo tuzbou po odmene. Vytvorim si systemy zalozene na nepodmienecnom vzajomnom davani a prijmani, ktore budu zalozene na sucite, ucte, porozumeni, dovere, dobrovolnosti, zodpovednosti a ochote.
+
+Na co su take systemy, take nabozenstva, taka vychova, take kultury, ktore vychovavaju k zavislosti a poslusnosti, namiesto toho aby liecili ludi hlbokym, emocionalnym, empatickym porozumenim a vychovavali ich k samostatnosti, spulupraci, tolerancii, sucitu a emocionalnej inteligencii. Preco tak velmi nasledujeme systemy zalozene na dominancii? Autoritam v takychto systemoch to vyhovuje, lebo oni chcu mat poslusne ovecky, ktore urobia to co im autorita prikaze, nie to, aby vnimali svoje telo, respektovali hranice svojho tela, vedeli pracovat samostatne aj v kolektive, vedeli prevziat zodpovednost za svoje slova a ciny, vedeli vychadzat s ludmi, vedeli riesit konflikty a rozdiely medzi ludmi, vedeli sa vcitit a rozpravat a pocuvat so sucitom, vediet sa vzit do koze druheho cloveka a tak rozvijali svoju emocionalnu inteligenciu.
+
+Podla mna sa vsetky tieto dominancne systemy rozsypu v momente, ked sa zacne zvysovat povedomie o emocionalnej inteligencii.
+
+Ludia si zacnu uvedomovat rozdiel medzi poslusnostou a zodpovednostou. A kto hovori, ze poslusnost je zodpovedna, ten si protireci, pretoze poslusnost a zodpovednost sa navzajom odpudzuju a maju uplne odlisne dosledky.
+
+Preto neposlucham a nesutazim. Namiesto toho vnimam svoje telo. Lebo telo je chramom Ducha Svateho. Duch Svaty je prejavom Bozej lasky a Bozia laska je bezpodmienecna.
+
+Zatial to moze spravit iba jednotlivec sam za seba. To je individualna revolucia. Ked tychto jednotlivcov bude pribudat, o to vacsia bude sanca, ze sa globalne systemy transformuju tak, ze budu lepsie, dlhodobo a udrzatelne naplnat potreby ludi. Amen.
+
+---
+
+11.3.2021
+
+Ich habe einem Mädchen und einer Frau die Fokus-Optik-Laden helfen finden. Ich fühlte Wärme, Zufriedenheit, Freude, Entspannung, Sicherheit. Meine Bedürfnisse nach gegenseitiger Hilfe, Verständnis, Gemeinschaft, Nähe, Verbindung, Einsatz, Orientation im Raum, Überblick, Vertrauen, Erfüllung, Zusammenarbeit wurden erfüllt. Ich habe es mir die ganze Zeit genossen. Es war für mich ein sehr angenehmes Erlebnis. Ich habe der Beiden bedingungsloses Geben gezeigt.
+
+Früher am denselben Tag habe ich meine Schwester umgearmt und an dem Rücken gekratzt. Ich fühlte mich entspannt, geborgen, glücklich. Meine Bedürfnisse nach Sanftheit, Weichheit, Zärtlichkeit, Wärme, Nähe, Intimität, Vertrauen, Liebe, Rücksicht, Toleranz, Annahme erfüllt wurden.
+
+Ich möchte diese Gefühle jeden Tag erleben. [RPM - Doug Newburg]
+
+---
+
+I'm burning. Like a flame. But not like a calm, soft flame. I'm burning, like a flame from burner in a hot air balloon, like a flame at gas welding.
+
+---
+
+Why people fear of anarchy? Because everybody does what they want. That was, that is, and that will always be true.
+
+---
+
+Das christliche Leben ist erbaut, verbessert, und verändert durch die Gemeinschaft mit Jesus Christus, freiwillig und ungezwungen. +
+link:https://www.gottes-wort.com/erneuerung.html[ERNEUERUNG: GOTTES INNERE VERÄNDERUNGEN - Ungezwungen]
+
+---
+
+Ideale Umgebung:
+* Self-Directed Executive Functioning
+* Internal Locus of Control
+* Intrinsische Motivation
+
+---
+
+Pre mna je odmenou dobry vztah s druhym clovekom. +
+Für mich ist eine Beluhnung, eine gute Beziehung mit dem anderen Mensch zu haben. +
+For me is a reward to have a good relationship with the other person.
 
 ---
