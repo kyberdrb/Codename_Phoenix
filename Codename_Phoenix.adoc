@@ -208,7 +208,7 @@ vedomie, že na mne a mojich potrebách záleží, že moje potreby sú dôleži
 * effectivity [Does it work, or not? - boolean] / Effektivität / efektivita
 * efficiency [How well does it work? As much as possible in as little time as possible, e.g. in case of algorithms or other things not people!] (in comparison to other things, not people) - float, percent) / Effizienz / efektivita
 * sufficiency / Suffizienz, Angemessenheit / dostatočnosť
-* excellence / Exzellenz, 
+* excellence / Exzellenz / výnimočnosť
 * growth / Wachstum / rast
 * development / Entwicklung / rozvoj, vývoj (Precondition: individual initiative, dedication link:https://www.youtube.com/watch?v=lfkZJDxC-YY&feature=youtu.be&list=PLAWpwCQqndn68ADSHK1vsFUQ93n3hLcv4&t=1584[(source)])
 * consciousness / Bewusstsein / vedomie
@@ -776,6 +776,7 @@ spreche, mit jemandem spreche, schreibe, zuhöre, mich dusche, mich mit kaltem W
 - Intrinsic motivation vs Extrinsic motivation - link:https://www.youtube.com/watch?v=x4qRZt0VCak[Alfie Kohn at the OFJCC: Performance vs. Learning - The Costs of Overemphasizing Achievement]
 - Internal motivation vs Extrinsic motivation - link:https://www.youtube.com/watch?v=x4qRZt0VCak[Alfie Kohn at the OFJCC: Performance vs. Learning - The Costs of Overemphasizing Achievement]
 - Excellence vs Superiority - Is Meritocracy a Sham? | Amanpour and Company: link:https://www.youtube.com/watch?v=BLEvJUNfyBY&feature=youtu.be&t=592[9:52-11:32], link:https://www.youtube.com/watch?v=BLEvJUNfyBY&feature=youtu.be&t=910[15:10-16:24]
+  ** https://www.alfiekohn.org/article/excellence/
 - Duty and Obligation vs Freedom and Choice - Maria Montessori, Peter Gray, Alfie Kohn, M. B. Rosenberg
 - Retributive justice vs Restorative justice - M. B. Rosenberg, Miki Kashtan, Howard Zehr, link:https://www.youtube.com/watch?v=msWYVhmuQhw&feature=youtu.be&t=604[(Albany Addresses Bullying: Miki Kashtan: A Compassionate Perspective on Bullying 3/5/2011: 10:04-12:43)]
 - Violence vs Justice - link:https://www.youtube.com/watch?v=msWYVhmuQhw&feature=youtu.be&t=604[(Albany Addresses Bullying: Miki Kashtan: A Compassionate Perspective on Bullying 3/5/2011: 10:04-12:43)]
@@ -804,6 +805,7 @@ spreche, mit jemandem spreche, schreibe, zuhöre, mich dusche, mich mit kaltem W
 * Manager vs Kommandant, General, Diktator
 * Spirituality vs Religion
   ** I can live a deep, spiritual life without the violence and oppresion of any religion. I can make my own religion and be consistent with it.
+  ** So much violence had been, and still is being commited in the name of God, in the name of religion, sacrificing for other or greater good link:http://www.faithfreedom.org/jesus-the-revolutionary-versus-muhammad-aka-allah-the-antigod-of-the-muslims/[[JESUS THE REVOLUTIONARY VERSUS MUHAMMAD AKA ALLAH (THE ANTIGOD) OF THE MUSLIMS]]
 * link:https://www.fachverband-gfk.org/wp-documents/anlage_3_schluesselunterscheidungen.pdf[und mehr Unterschiede...]
 
 Culturally learned beliefs - Life-harming beliefs - irrational beliefs:
@@ -839,14 +841,22 @@ by Doug Newburg
 
 *Das Ziel:* C++ Programmierer in Österreich
 
+The importance of inner attitude and outer support, environment.
+
+You can try so hard, as hard as you can, to achieve something, when you don't have the support from outside.
+
 *1.) The Dream / Der Traum*
 
 *Dream feelings / Traumgefühle:*
 
-* tolerance to other people's beliefs, ideologies and worldviews
-* vzťah plný hlboké ho porozumenia a nehy
+* unconditional tolerance
+  ** tolerance to other people's beliefs, ideologies and worldviews
+* vzťah plný hlboké ho porozumenia, nehy a nesexuálnej intimity (túlenia, maznania)
 * Bewusstsein, dass ich immer zur Auswahl habe
 * Entspannung unter Leuten und in einem Kollektiv
+* unconditional love
+* unconditional empathy
+* greater contact with my body, feelings and needs
 * greater control over my mind and body
 * comfort in my own body / Bequemheit in meinem eigenen Körper
 * joy of learning / Freude an Lernen
@@ -2932,7 +2942,7 @@ Mahatma Ghandi
   ** 0:49-1:12 https://www.youtube.com/watch?t=49&v=uYAOoIuO4XU&feature=youtu.be
     *** ...trace all of the things that we thought we know about work, about productivity and creativity ... how cultural attitudes, how historical events ... have shaped our modern understanding of the ideals of work.
   ** 1:19-2:11 https://youtu.be/uYAOoIuO4XU?t=79
-    *** productivity ... in the context of managing people, was originally developed by armies and governments [e.g. schools - August Hermann Francke (Peter Gray - SDE - Self-Directed Education) - and state institutions]. These organisations wanted to figure out a way to manage people who were doing highly standardized tasks. And in doing so, developed many of the tools that we actually use today. During the industrial revolution businesses adopted many of the strategies because they shared a lot of similarities with organizations like governments and military. *They too had a large workforce [large group of people] that had to stand at the assembly line [mostly in dirty environment for 12 to 16 hours] and perform these repeated tasks over and over again [until they alienate themselves from themselves entirely - Karl Marx - 4 types of alienation - and eventually burn out].* And this for a long time was the basis of much of our understanding about how to measure this thing called productivity. How to measure our performance.
+    *** productivity ... in the context of managing people, was originally developed by armies and governments [e.g. schools - August Hermann Francke (Peter Gray - SDE - Self-Directed Education) - and state institutions]. These organisations wanted to figure out a way to manage people who were doing highly standardized tasks. And in doing so, developed many of the tools that we actually use today. During the industrial revolution businesses adopted many of the strategies because they shared a lot of similarities with organizations like governments and military. *They too had a large workforce [large group of people] that had to stand at the assembly line [mostly in dirty environment for 12 to 16 hours] and perform these repeated tasks over and over again [until they alienate themselves from themselves entirely - Karl Marx - 4 types of alienation - and eventually burn out entirely].* And this for a long time was the basis of much of our understanding about how to measure this thing called productivity. How to measure our performance.
   ** 2:22-2:44 https://www.youtube.com/watch?t=142&v=uYAOoIuO4XU&feature=youtu.be
     *** *Today productivity has become an individual pursuit. ... Productivity has become a skill, a sport, but a focus on delivering it and on developing it lies directly on the individual.*
   ** 2:49-4:36 https://www.youtube.com/watch?t=169&v=uYAOoIuO4XU&feature=youtu.be
@@ -3314,10 +3324,12 @@ Mahatma Ghandi
   ** Think about how people used to consume newspapers. You have a beginning and an end, you read the newspaper, once you are finished, you are completely educated or you're reasonably educated about how the world was working. Same goes for watching the evening news.
   ** *What we have here is we have decades of an education philosophy that has taught us to engage with information in this way. But now the information ecosystem is very different we have moved from a limited and fixed end ecosystem, so one where it was very easy to tell where to begin and where to end, to a thriving infinite ecosystem that's unlimited and open-ended.*
   ** If you've ever tried to read an article online you're familiar with this process where you read the article, and then you click the link, and then you go to another article, and then a blog post, and then maybe a video, and then a tweet, and then a forum discussion from five years ago, and then another article, and essentially there is no end point, but even though rationally we know this we have been conditioned over decades to always still be seeking that exit point. To seek that end point. 
-  ** This becomes a bit challenging because with the advent of our devices we're constantly also being distracted with all of this influx of information and so what happens is we feel this pressure to get to the end to know everything to achieve mastery and instead we just get confused and distracted. *This is dangerous because most people's response to overwhelm is to throw their hands up and say you know what I'm just gonna stick with what's comfortable I'm just gonna stick with what I know. This is a very important behavior to understand that our psychological stress our race to inbox zero our race to try to read everything and keep on top of everything is the behavior that has been taught to us for many many years so what we need to do instead and culturally* 
-  ** *We need to start teaching this in schools and training and organizations is we need to develop a state of what I call _informational Zen_.* I'm gonna give you guys a little secret which is:
-    *** *It's never going to be possible to learn everything and to read everything, and that's okay.*
-  ** *But we have a productivity work culture that emphasizes "getting to the end", "crossing things off the list".*
+  ** This becomes a bit challenging because with the advent of our devices we're constantly also being distracted with all of this influx of information and so what happens is we feel this pressure to get to the end to know everything to achieve mastery and instead we just get confused and distracted. *This is dangerous because most people's response to overwhelm is to throw their hands up and say: "You know what? I'm just gonna stick with what's comfortable. I'm just gonna stick with what I know." This is a very important behavior to understand that our psychological stress our "race to _inbox zero_", our "race to try _to read everything_ and _keep on top of everything_" is the behavior that has been taught to us for many many years.*
+  ** *What we need to do instead and culturally, we need to start teaching this in schools and training and organizations, is we need to develop a state of what I call _informational Zen_.* I'm gonna give you guys a little secret which is: +
+     +
+    *It's never going to be possible to learn everything and to read everything, and that's okay.* +
+     +
+  *But we have a productivity work culture that emphasizes "getting to the end", "crossing things off the list".*
   ** *One of the ways that we [may] adapt is, we need to update the way that we engage with information in a way [with which] we understand that we are in a limitless information ecosystem, so there's no point in trying to rush and get everything because you'll never will.*
 
 * link:https://www.youtube.com/watch?v=ZyIwg03nUqk[Rahaf Harfoush Explains Why Productivity Kills Creativity]
@@ -3546,21 +3558,30 @@ link:https://www.youtube.com/watch?v=Uy8yLaoWybk&feature=youtu.be&t=196[The dang
 
 * BNP (Brutto Nationalprodukt - GDP/HDP) beinhaltet auch den Verkauf von Güte und Dienstleistungen, wie z. B. Waffen, Tabak, Alkohol, Prostitution, Drogen, organisierte Kriminalität, hazardne??? Spiele und Wetten +
 BNP ignoriert externe einflüsse der Produktion und Dienstleistungen, wie z. B. Umweltverschmutzung, Zufriedenheit der Menschen (Einwohner, Angestellten, Studenten, Schüller), Nachhaltigkeit Haushaltspflege und Betreuung zu Hause. +
+ +
 HDP (hruby domaci produkt) zahrna (priamo ci nepriamo) aj predaj tovarov a sluzieb, ako su napr. zbrane, tabak, alkohol, prositucia, drogy, organizovana kriminalita, hazardne hry a tipovanie. HDP ignoruje externe vplyvy vyroby a sluzieb, ako su napr. znecistenie zivotneho prostredia, spokojnost ludi (obyvatelov, zamestnancov, studentov, ziakov), pracu v domacnosti. +
 link:https://80000hours.org/2015/08/what-are-the-10-most-harmful-jobs/[(What are the 10 most harmful jobs?)], +
 link:https://veganvanguardpodcast.com/48-covid-19-and-seizing-the-means-part-2-with-bitchy-shitshow/[(Mexie - veganvanguard - 48. - Covid-19 and Seizing the Means (Part 2) with Bitchy Shitshow: ??? 1:00:00)]
 
 * The nakedness of standing without a frame, in a new paradigm, carries the pleasures of freedom but it also can evoke fears of looking foolish and exposed, feelings of shame that can readily erupt into rage and attack. This is the moment when we are most tempted to return to the familiar, to restore an old framework at all costs—this moment of paradigm shift, of epiphany or sudden radical insight, the creative moment in the lives of artists and scientists, the moment when our ordinary vision is removed and we come to see that the old ways of seeing were mistaken, were blinding us to what we now can see. link:https://www.uky.edu/~eushe2/quotations/gilligan.html[(Carol Gilligan, The Birth of Pleasure - Introduction)]
+  ** reference to link:https://www.youtube.com/watch?v=s-1rSDJvo2U&t=301s[The Information Ecosystem: Why We’re Overwhelmed | Rahaf Harfoush: 5:01-5:08] +
+   +
+  It's never going to be possible to learn everything and to read everything, and that's okay.
 
 * link:https://www.youtube.com/watch?v=LdOFhyKACxE[Dr. James Gilligan - On How All Human Beings Are Sacred]
-  ** dokoncit zaciatok videa
-
+  ** I put in this book becasue it examplified my attitude toward the words human beings you can imagine in the present. People who have done the worst things to other people. And the quote was this. There was a statement about human beings: +
+     +
+    *None are good, but all are sacred.* +
+     +
     *No human being is good [no human being is bad (judging is too easy)], but all are sacred.* +
     *Kein menschliches Wesen ist gut [kein menschliches Wesen ist schlecht (Beurteilen ist zu einfach)], aber alle sind geweiht.* +
     *Žiadna ľudská bytosť nie je dobrá [žiadna ľudská bytosť nie je zlá (odsudzovať je príliš jednoduché)], ale všetky sú posvätné.* +
     link:restoration_justice_part[[Rosenberg - Creating a Life Serving System within Oneself]]
-
-  ** dokoncit zvysok videa
+  ** *And I realized "That expressed how I approached the prisoners." I could not have worked with multiple murderers and serial rapists and so forth, if I was blinded by my moral condemnation of them. But I couldn't say that despite all of that, there is a human being there with something in him, that I experience as sacred. As in all human beings.* +
+   +
+   *That there's some aspects of humanity that one just must not violate. Or you lose your own humanity.* +
+   +
+  *That's what I call the _sacred element_ in every human. Even the worst.*
 
 * link:https://www.youtube.com/watch?v=_rSYiy420B0[Dr. James Gilligan - Youth and violence The role of education inspiring solutions]
   ** 1:02:17-1:09:18 https://www.youtube.com/watch?v=_rSYiy420B0&feature=youtu.be&t=3737
@@ -3576,15 +3597,20 @@ Beobachten ohne zu bewerten ist die höchste Form der menschlichen Intelligenz. 
 Pozorovanie bez posudzovania je najvyššou formou ľudskej inteligencie. +
 link:???[Jiddu Krishnamurti]
 
-* Ich kämpfe nicht. Ich *übersetze* alles in gewaltfreie Kommunikation. In die Sprache des Lebens. In die Sprache der Beobachtungen, Gefühle, Bedürfnisse und Bitten. I do it for me. I want to suffer less! For me! link:???[(M.B. Rosenberg)], link:https://www.youtube.com/watch?v=NR9JyTqaIto&feature=youtu.be&t=3465[NVC Israeli and Palestinian panel at Ecome Center February 2015 (Nonviolent Communication): 57:45-1:03:13]
+* Ich kämpfe nicht. Ich *übersetze* alles in gewaltfreie Kommunikation. In die Sprache des Lebens. In die Sprache der Beobachtungen, Gefühle, Bedürfnisse und Bitten. link:???[[M.B. Rosenberg]] +
+I do it for me. I want to suffer less! For me! +
+link:https://www.youtube.com/watch?v=NR9JyTqaIto&feature=youtu.be&t=3465[NVC Israeli and Palestinian panel at Ecome Center February 2015 (Nonviolent Communication): 57:45-1:03:13]
 
-* *Ich gehe nicht programmieren. Ich gehe mich um ein Softwareprojekt kümmern. Ich gehe mich um den Code kümmern.* [dissolve fear of programming]
+* Ich kämpfe nicht. Ich gehorche nicht. Ich höre auf meinen Körper, damit ich mir Achtsamkeit entwickle, und damit ich verantwortliche Entscheidungen treffe, um meine Bedürfnisse zu erfüllen, mit Rücksicht auf die Grenzen meines Körpers und auf die Bedürfnisse anderer Menschen. +
+I don't compete. I don't obey. I listen to my body, in order to develop mindfulness and to make responsible decisions to meet my needs with consideration of the limitations of my body and the needs of other people.
+
+* *Ich gehe nicht programmieren. Ich gehe mich um den Code kümmern. Ich gehe mich um ein Softwareprojekt kümmern.* [dissolve fear of programming]
 
 * Let's find another way of meeting your needs that will be more effective and less costly. [M.B. Rosenberg]
 
 * Everything everybody does at every moment, does it to fullfil his or her needs. [M.B. Rosenberg]
 
-* Every judgement is a tragic, sucidal, alienated expression of a unmet, beautiful need. [M.B. Rosenberg]
+* Every judgement is a tragic, sucidal, alienated expression of a unmet, beautiful need. [M.B. Rosenberg, Yoram Mosenzon]
 
 * Ich mache nichts falsch. Ich mache keine Fehler. Giraffen machen keine Fehler. Giraffen machen nur Sachen, die ihre Bedürfnisse erfüllen. Wir machen keine Fehler. Wir machen nur Sachen, die wir nicht gemacht hätten, wenn wir damals gewusst hätten, was wir seitdem gelernt haben. Das bedeutet nicht, dass wir perfekt sind. Das Ziel des Lebens ist nicht perfekt zu sein. Das Ziel des Lebens ist, fortschreitend weniger dumm zu sein. Das Ziel des Lebens ist zu feiern, wenn unsere Bedürfnisse erfüllt werden, und trauern, wenn nicht. link:youtube???[M.B. Rosenberg - Creating a Life Serving System Within Oneself], link:youtube???[M. B. Rosenberg - Wie sprichst du mit dir selber wenn du fehler machst?]
 
@@ -5960,7 +5986,7 @@ Nesúhlasím, ale rozumiem.
 
 ---
 
-Šuplík a Kotúčik
+Šuplík, Kotúčik, Chumáčik a Napchávačik
 
 ---
 
@@ -6019,23 +6045,6 @@ I would like people to understand that you don't have to go to the church in ord
 ---
 
 Instead of bragging or diminishing my abilities and activities, I can describe  what I observe that is going on in me, what's alive in me. Tell the other person how I feel, what I need. Say what I would like from the other person to do to give the other person an opportunity to make my life more wonderful, in order to feel the joy of giving and fulfilling needs.
-
----
-
-Auch wenn mich jemand anschimpft, mich anschreit, mir Sachen sagt, die mich verletzen oder die mir Sorgen machen, es ist immer *ein Segen* von der anderen Person. +
-*Was immer jemand tut oder sagt, es ist die wunderbarste Sache, die ich in dem Moment machen könnte. Fehler sind eine natürliche Folge des Lernens. Fehler sind notwending für das Lernen. Ohne Fehler wäre kein Lernen, keinen Fortschritt. Wenn ich mich für meine Fehler hassen werde, werde ich nie von meinen Fehlern lernen. Es ist für mich ein wunderbares Geschenk und ein Segen von einem bedauernswerten, göttlichen Wesen, für den ich dankbar sein kann. Ich kann mir auswählen, dass ich für diese Geschenke und Segen dankbar sein werde, und das, was die andere Person gesagt oder getan hat, als eine Gelegenheit, gewaltfreie Kommunikation zu üben und meine Robustheit zu verstärken. Und Ärger und das Verlangen nach Vergeltung mit Mitgefühl, Verständnis und Toleranz. Von Ereignissen lernen, die ich nicht gemacht hätte, wenn ich damals gewusst hätte, was ich jetzt weiß.*
-
-*Das, was die andere Person sagt oder tut, ist die wunderbarste Sache, die die Person jetzt tun könnte.*
-
-*Vielleicht diese Denkweise hilft mir, die Fehler mit Mut machen, und meine und Anderer Fehler und Vorurteile mit Mitgefühl, Verständnis und Toleranz wahrzunehmen. Und vielleicht werde ich mir das Leben mehr genießen, mehr Freiheit, Entspannung und Vertrauen erleben. Vielleicht durch diese Denkweise wandle ich meine Umgebung, sodass sie mich in dieser Denkweise unterstützt, und mir die Resonanz gibt, die mich mit Sicherheit einfüllt.*
-
-Kedykoľvek urobím chybu, je to tá najúžasnejšia vec, ktorú som mohol urobiť, pretože môžem svoje chyby vnímať ako príležitosť na učenie. Čokoľvek niekto urobí alebo povie, je to tá najúžasnejšia vec, ktorú ten človek mohol v danej chvíli urobiť. Je to vzácny dar a požehnanie od poľutovaniahodného, božieho stvorenia pre mňa, za ktoré môžem byť vďačný. Je mi toho človeka ľúto, lebo by som chcel, aby to, čo urobil alebo povedal, vedel povedať aj inak. Môžem si vybrať, že budem za tieto dary a požehnania vďačný. A nahradiť zlosť a túžbu po odplate súcitom, porozumením a toleranciou. Poučiť sa z udalostí, ktoré by som nebol urobil, keby som vtedy vedel to, čo viem teraz. Vnímať túto situáciu ako príležitosť na učenie. Možno mi toto myslenie pomôže, robiť chyby s odvahou, a vnímať svoje aj druhých chyby a predsudky so súcitom, porozumením a toleranciou. A možno si budem viac užívať život, zažívať viac slobody, uvoľnenia a dôvery.
-
-*Never give your power away to other people by submitting or rebelling. Everytime you empathize, you take all power from the other person that the other person has _over_ you, to dehumanize you, and keep your power and humanity in your self and for yourself. Then you can transform it to the power _with_ you thourgh empathy to yourself and to the other person.*
-
-* link:https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=2135[Marshall Rosenberg - Making Life Wonderful 2/4 - Nonviolent Communication NVC - 35:35]
-* link:https://www.youtube.com/watch?t=3282&v=WfJ_NasCFfQ&feature=youtu.be[Marshall Rosenberg Experiencing Needs as Gifts CD NVC Nonviolent Communication - 54:42]
-* link:TODO[NVC Training Course #2 TODO time?]
 
 ---
 
@@ -6326,7 +6335,7 @@ Es gibt einen Unterschied zwischen einem Manager und einem Kommandant, General, 
 
 Verantwortung vs Gehorsamkeit
 
-I want to have som say about what I do, how I do it, and how long I'll be doing it. I want to give my best in this company, but deadlines are keeping me from doing my best. Deadlines, time-management, and other myths. What is the point of deadlines? What happens if I miss a deadline? Will I get punishment or help and understanding? I want to feel the pleasure and satisfaction of making a good work.
+*I want to have som say about what I do, how I do it, and how long I'll be doing it. I want to give my best in this company, but deadlines are keeping me from doing my best. Deadlines, time-management, competition and other myths are holding me back to giving my best and experience the joy of making a good work. What is the point of deadlines? What happens if I miss a deadline? Will I get punishment or help and understanding? I want to feel the pleasure and satisfaction of making a good work, the pleasure of a job well done.*
 
 - "Rýchlo! Rýchlo! Musíme to stihnúť do deadlinu!"
 Ja: "Rýchlo! Rýchlo! Prineste mi rakvu! Musím rýchlo zomrieť!"
@@ -6342,7 +6351,25 @@ That's guilt. Taking responsibility for other person's feelings.
 Dissolve shame: +
 People make mistakes, and that's okay. You didn't do anything wrong. Nobody does anything wrong. You were just trying to meed your own needs, and that activity didn't work. Mistakes are a way to learn. Sometimes I do things that I wouldn't have done if I knew then what I since have learned. Sometimes I do things that I wouldn't have done if I knew then what consequences it will have. That's responsibility. Mistakes teach us responsibility, but only when we're connected with the life energy, with ours and other people's feelings and needs, and when we mourn, when we feel sad and disappointed what we've done, if we knew the consequences then, if we only had had the foreseeability of the present and future consequences of our words and actions. +
 People look different, and that's okay. +
-People do and say things that I don't understand, and that's okay.
+People do and say things that I don't understand, and that's okay. +
+Ich möchte, dass andere leute auch diese im Verstand und in der Seele finden, statt nur darüber nachzudenken und davon zu sprechen, was mit den anderen nicht stimmt, und wer verdient sich eine Strafe. Ich will, dass die Anderen auch die befreiende Zärtlichkeit der bedingungslosen Empathie finden. Dass sie die heilende Kraft der wiederherstellenden Gerechtigkeit spüren. Dass sie die Entspannung und Geborgenheit von einem tiefen, emotionalen, emphatischem Verständnis fühlen. Dass sie das Beste über andere Leute denken. Dass sie eine Denkweise finden, die ihre innere Ruhe unterstützt, die ihre Gesundheit verstärkt, die den Leuten hilft, sich um sich und um die andere Leute mit bedingungsloser Toleranz, bedingungsloser Liebe, bedingungsloser Empathie zu kümmern.
+
+Dass auch die Anderen die Schönheit in Vielfaltigkeit und Unterschiedlichkeit sehen.
+
+Auch wenn mich jemand anschimpft, mich anschreit, mir Sachen sagt, die mich verletzen oder die mir Sorgen machen, es ist immer *ein Segen* von der anderen Person. +
+*Was immer jemand tut oder sagt, es ist die wunderbarste Sache, die ich in dem Moment machen könnte. Fehler sind eine natürliche Folge des Lernens. Fehler sind notwending für das Lernen. Ohne Fehler wäre kein Lernen, keinen Fortschritt. Wenn ich mich für meine Fehler hassen werde, werde ich nie von meinen Fehlern lernen. Es ist für mich ein wunderbares Geschenk und ein Segen von einem bedauernswerten, göttlichen Wesen, für den ich dankbar sein kann. Ich kann mir auswählen, dass ich für diese Geschenke und Segen dankbar sein werde, und das, was die andere Person gesagt oder getan hat, als eine Gelegenheit, gewaltfreie Kommunikation zu üben und meine Robustheit zu verstärken. Und Ärger und das Verlangen nach Vergeltung mit Mitgefühl, Verständnis und Toleranz. Von Ereignissen lernen, die ich nicht gemacht hätte, wenn ich damals gewusst hätte, was ich jetzt weiß.*
+
+*Das, was die andere Person sagt oder tut, ist die wunderbarste Sache, die die Person jetzt tun könnte.*
+
+*Vielleicht diese Denkweise hilft mir, die Fehler mit Mut machen, und meine und Anderer Fehler und Vorurteile mit Mitgefühl, Verständnis und Toleranz wahrzunehmen. Und vielleicht werde ich mir das Leben mehr genießen, mehr Freiheit, Entspannung und Vertrauen erleben. Vielleicht durch diese Denkweise wandle ich meine Umgebung, sodass sie mich in dieser Denkweise unterstützt, und mir die Resonanz gibt, die mich mit Sicherheit einfüllt.*
+
+Kedykoľvek urobím chybu, je to tá najúžasnejšia vec, ktorú som mohol urobiť, pretože môžem svoje chyby vnímať ako príležitosť na učenie. Čokoľvek niekto urobí alebo povie, je to tá najúžasnejšia vec, ktorú ten človek mohol v danej chvíli urobiť. Je to vzácny dar a požehnanie od poľutovaniahodného, božieho stvorenia pre mňa, za ktoré môžem byť vďačný. Je mi toho človeka ľúto, lebo by som chcel, aby to, čo urobil alebo povedal, vedel povedať aj inak. Môžem si vybrať, že budem za tieto dary a požehnania vďačný. A nahradiť zlosť a túžbu po odplate súcitom, porozumením a toleranciou. Poučiť sa z udalostí, ktoré by som nebol urobil, keby som vtedy vedel to, čo viem teraz. Vnímať túto situáciu ako príležitosť na učenie. A chcel by som, aby to tak vnímali aj ostatní. Možno mi toto myslenie pomôže, robiť chyby s odvahou, a vnímať svoje aj druhých chyby a predsudky so súcitom, porozumením a toleranciou. A možno si budem viac užívať život, zažívať viac slobody, uvoľnenia a dôvery.
+
+*Never give your power away to other people by submitting or rebelling. Everytime you empathize, you take all power from the other person that the other person has _over_ you, to dehumanize you, and keep your power and humanity in your self and for yourself. Then you can transform it to the power _with_ you thourgh empathy to yourself and to the other person.*
+
+* link:https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=2135[Marshall Rosenberg - Making Life Wonderful 2/4 - Nonviolent Communication NVC - 35:35]
+* link:https://www.youtube.com/watch?t=3282&v=WfJ_NasCFfQ&feature=youtu.be[Marshall Rosenberg Experiencing Needs as Gifts CD NVC Nonviolent Communication - 54:42]
+* link:TODO[NVC Training Course #2 TODO time?]
 
 Dissolve anger, rage, hatered, envy, jealousy: +
 No human being is good, no human being is bad, but all are sacred. link:https://www.youtube.com/watch?v=LdOFhyKACxE[[Dr. James Gilligan - On How All Human Beings Are Sacred]]
@@ -6356,13 +6383,20 @@ Words are stimulus. +
 Our thinking is the cause. +
 Our needs are the root of our feelings. +
 When the stimulus and feelings are redirected through peace-promoting thinking, in order to be in full contact with our empathic abilities. +
-Being aware of external, not only internal attribution. You can interpret anything in the way that most enriches your life, and in the way that prevent you to give your power away to other people to dehumanize you, and to keep your power within yourself. Keeping your power in your hands. You can even interpret and translate blame and The Holy Bible into the language of life. Because, unfortunately, Bible is written in the language of domination, in the language of moralistic judgements, violence, retributive justive, competition, evil human nature, not in the language of observations, feelings, needs and requests, compassion, deep, emotional, emphathic understanding, tenderness, unconditional love.
+Being aware of external, not only internal attribution. You can interpret anything in the way that most enriches your life, and in the way that prevent you to give your power away to other people to dehumanize you, and to keep your power within yourself. Keeping your power in your hands. You can even interpret and translate blame and The Holy Bible into the language of life. Because, unfortunately, Bible is written in the language of domination, in the language of moralistic judgements, violence, retributive justive, competition, evil human nature, not in the language of observations, feelings, needs and requests, compassion, deep, emotional, emphathic understanding, tenderness, unconditional love. +
+Wenn ich mir bewusst werde, dass nichts in der Bibel wortwortlich geschrieben ist, sonder alles ist in Bilder und Metaphoren geschrieben, dann kann ich mir sie interpretieren, wie ich will. Weil es keine Zeugenaussagen sind. Es sind Meinungen der Menschen aus der Zeit, wann die Dominationssysteme herrschen. Deswegen kann ich mir die Bibel auch gewaltfrei interpretieren. Auch die Worte in Gebeten ändern, damit sie in Übereinstimmung mit der Philosophie der Gewaltfreiheit waren. Alles kann ich in die gewaltfreie sprache übersetzen, alles was ich sehe, höre, anfasse, rieche, schmecke, wahrnehme. Alle Lieder, alle Texte, alle Aussagen. Ich werde weiter die Gewaltfreie Kommunikation üben. Es dauert, es erschöpft mich, aber die heilende Wirkungen sind stark. *Wir können uns einen solchen Weg auswählen, die unser Leben, mit Rücksicht zu anderen Menschen, am meisten bereichert.* +
+Und das wird auch richtig sein, weil es mehrere Wege gibt, wie man die Welt verstehen kann. Und so will ich, dass die ganze Welt auch aussieht: gewaltfrei, voller bedingungslosen Liebe, bedingungslosen Toleranz und bedingungslosen Empathie.
 
-Dissolve submission and rebelion, replace obedience with responsibility, and create a new way of leadership: +
-I would never want the other person to do what I told them at their expense. At the cost of their needs being met. +
-I would never want that the other person does what I tell him or her, when it would go against his or her well-being or willingness. +
-I would never want to fulfill my needs at the cost of other people's needs or the environment. +
-And the same thing I want from others. That they also don't want to fulfill their needs at the expense of me, other people, or the environment. +
+*Dissolve submission and rebelion, replace obedience with responsibility, and create a new way of leadership:* +
+ +
+*I would never want the other person to do what I told them at their expense. At the cost of their needs being met.* +
+ +
+*I would never want that the other person does what I tell him or her, when it would go against his or her well-being or willingness.* +
+ +
+*I would never want to fulfill my needs at the cost of other people's needs or the environment.* +
+ +
+*And the same thing I want from others. That they also don't want to fulfill their needs at the expense of me, other people, or the environment.* +
+ +
 Ja si stale budem obnovovat vedomie o tom, ze ostatni ludia a autority su bozie stvorenia. Ukazem im, ze nemaju absolutne ziadnu moc nadomnou, aj ked su normativne, pravne alebo spolocensky nadradeni. Ukazem im, ze mi mozu prikazat cokolvek. Ja si aj tak vzdy urobim podla seba tak, ako mi to v dany moment dava zmysel, a tak ako to najviac obohati moj zivot a prinesie pokoj a radost zo zivota. +
 Skusim vnimat autority nie ako diktatorov, generalov, velitelov, ale ako seberovnych, bez ohladu a vek, pohlavie a spolocenske postavenie, aj ked na mna kricia; hovoria, ze to kvoli tebe sa veci kazia; ze ta potrestaju, ked neposluchnes, a budu si chciet naplnat svoje potreby na ukor mojich; aj ked hovoria, ze to co hovorim, nie je pravda. +
 Chcel by som, aby sa viac menezerov riadilo podla vyskumu od Googlu - Projektu Oxygen. Es gibt einen Unterschied zwischen einem Manager und einem Kommandant.
@@ -6447,8 +6481,33 @@ Ideale Umgebung:
 
 ---
 
-Pre mna je odmenou dobry vztah s druhym clovekom. +
+Pre mňa je odmenou dobrý vzťah s druhým človekom. +
 Für mich ist eine Beluhnung, eine gute Beziehung mit dem anderen Mensch zu haben. +
 For me is a reward to have a good relationship with the other person.
+
+---
+
+Mindfulness and Responsibility: mindfulness of one's own body, in order to make responsible decisions, develop empathy and Self-Directed Executive Functioning - self-sufficiency, authenticity, spontaneity. +
+Achtsamkeit und Verantwortung: Achtsamkeit von dem eigenen Körper, damit man eine verantwortliche Entscheidung trifft, Empathie und Self-Directed Executive Functioning - Selbstständigkeit, Authentizität, Spontaneität - entwickelt. +
+Vnímavosť a Zodpovednosť: vnímavosť vlastného tela, aby sme mohli robiť zodpovedné rozhodnutia, rozvíjať empatiu a Self-Directed Executive Functioning - samostatnosť, autenticitu, spontánnosť
+
+---
+
+internalized fear of failure mistakes errors shame guilt punishment religion
+
+---
+
+You don't have to hate or reject something or somebody when you don't like it. Just say "I preffer something different."
+
+---
+
+Lebo nikto nemôže dať toľko lásky človeku, ako človek človeku. +
+Andrej Danko
+
+A asi mal pravdu. Asi ani pes, ani akékoľvek iné zviera alebo vec, alebo prostredie nedokáže prejaviť taký druh lásky, aký dokáže len iný človek.
+
+---
+
+How can we talk about, express, show and think about sex and sexuality, and preserve humanness, dignity and honor of people being involved, especially women?
 
 ---
