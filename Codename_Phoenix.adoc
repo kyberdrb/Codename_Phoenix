@@ -173,6 +173,9 @@ vedomie, že na mne a mojich potrebách záleží, že moje potreby sú dôleži
 * honor / Ehre / úcta (Precondition: importance / that my needs matter)
 * dignity / Würde / dôstojnosť (Precondition: importance / that my needs matter)
 * tolerance / Toleranz / tolerancia
+  ** I disaggree, but I understand. +
+    Ich stimme nicht zu, aber ich verstehe. +
+    Nesúhlasím, ale rozumiem.
 * relationships / Beziehungen / vzťahy
 * nurturing, upbringing / Erziehung / výchova
 * humanity / Menschlichkeit / ľudskosť
@@ -334,11 +337,13 @@ vedomie, že na mne a mojich potrebách záleží, že moje potreby sú dôleži
 * thickness / Dichte / hustota
 * humidity / Feuchtigkeit / vlhkosť
 * dryness / Trockenheit / sucho
+* style / Stil / štýl
+* alternative / Alternative / alternatíva
+* rigidity / Steifheit / pevnosť
+* ductility / Dehnbarkeit / rozťažnosť
 * elasticity / Elasizität / elasticita, pružnosť
 * plasticity / Plastizität / plasticita
 * viscosity / Viskosität / viskozita
-* style / Stil / štýl
-* alternative / Alternative / alternatíva
 * cohesion / Kohäsion / kohézia, súdržnosť
 * coupling / Kopplung / väzbovosť
 * encapsulation / / zapuzdrenie
@@ -348,7 +353,9 @@ vedomie, že na mne a mojich potrebách záleží, že moje potreby sú dôleži
 * roughness / Rauheit / drsnosť
 * smoothness / Glätte / hladkosť
 * saturation / Sättigung / sýtosť
-* transparency / Durchsichtigkeit / priehľadnosť, transparentnosť
+* transparency / Durchsichtigkeit / priesvitnosť, transparentnosť link:https://www.lernhelfer.de/schuelerlexikon/physik/artikel/lichtdurchlaessigkeit-von-stoffen[[1]]
+* translucency / Lichtdurchlässigkeit / priehľadnosť link:https://www.lernhelfer.de/sites/default/files/lexicon/article_image/BWS-PHY-0651-03.gif[[1]], link:https://duckduckgo.com/?q=Lichtdurchl%C3%A4ssigkeit&iax=images&ia=images&iai=http%3A%2F%2Fgrund-wissen.de%2Fphysik%2F_images%2Flichtdurchlaessigkeit.png&pn=1[[2]]
+* opacity / Undurchsichtigkeit, Lichtundurchlässigkeit / nepriesvitnosť, nepriehľadnosť link:https://iniciativastic3eso.files.wordpress.com/2015/03/transparenttranslucentopaque.png[[1]]
 * adventure / das Abenteuer / dobrodružstvo
 * _extrinsic motivation / extrinsische, äußere Motivation / vonkajšia motivácia_
 * _smell / der Gestank / zápach_
@@ -851,7 +858,10 @@ You can try so hard, as hard as you can, to achieve something, when you don't ha
 
 * unconditional tolerance
   ** tolerance to other people's beliefs, ideologies and worldviews
-* vzťah plný hlboké ho porozumenia, nehy a nesexuálnej intimity (túlenia, maznania)
+* vzťah plný hlbokého porozumenia, nehy a nesexuálnej intimity (túlenia, maznania, dotýkania, hladkania, škrabkania, bozkávania)
+* deep, healing, unconditional, emotional, empathic understanding
+* sincere, healing, unconditional, empathic gratitude
+  ** for the diversity of people, animals and things in the world
 * Bewusstsein, dass ich immer zur Auswahl habe
 * Entspannung unter Leuten und in einem Kollektiv
 * unconditional love
@@ -5974,20 +5984,15 @@ mental illness +
 
 ---
 
-Gleichgewicht zwischen Sympathikus und Parasympathikus. +
-Gleichgewicht zwischen der Nummer der Arbeitstage und freie Tage? +
-Gleichgewicht zwischen Sympathikus und Parasympathikus innerhalb des Tages. Etwa 12 Stunden aktiv sein und, und der Rest, etwa 12 Stunden erholen und schlafen. +
-So stelle ich mir den Work-Life-Balance.
+* Gleichgewicht zwischen Sympathikus und Parasympathikus. +
+* Gleichgewicht zwischen der Nummer der Arbeitstage und freie Tage? +
+* Gleichgewicht zwischen Sympathikus und Parasympathikus innerhalb des Tages.
+  ** Etwa 12 Stunden aktiv sein und, und der Rest, etwa 12 Stunden erholen und schlafen. So stelle ich mir den Work-Life-Balance.
+* Gleichgewicht zwischen Geben und Nehmen.
 
 ---
 
 Just because an authority said something doesn't mean it's true.
-
----
-
-I disaggree, but I understand. +
-Ich stimme nicht zu, aber ich verstehe. +
-Nesúhlasím, ale rozumiem.
 
 ---
 
@@ -6565,6 +6570,6 @@ To znamená, že náboženstvo, tak ako nám ho predkladajú cirkevné autority,
 
 Je mi ľúto všetkých kňazov a duchovných, ktorí sa podieľajú na tomto náboženskom násilí. Chcel by som, aby všetky náboženstvá prijali filozofiu nenásilia a rozprávali nenásilnou komunikáciou, a tak šírili pokoj, mier, lásku, súcit a vzájomné, hlboké, liečivé, bezpodmienečné, emocionálne, empatické porozumenie.
 
-Vina a hanba nie sú prejavmi lásky. Sú prejavmi nenávisti. A nenávisť je sebazničujúca. Ježiš nás učí milovať jeden druhého, prejavovať mu nepodmienečnú toleranciu, súcit a lásku, bezpodmienečne dávať a príjmať. Ježiš nás učí nenásiliu. Preto, keď kamkoľvek, na čokoľvek alebo na kohokoľvek aplikujeme filozofiu nenásilia, nastane premena od choroby ku zdraviu. V to verím. To ma zachránilo od sebazničenia - od samovraždy.
+Vina a hanba nie sú prejavmi lásky. Sú prejavmi nenávisti. A nenávisť je sebazničujúca. Ježiš nás učí milovať jeden druhého, prejavovať mu nepodmienečnú toleranciu, súcit a lásku, bezpodmienečne dávať a príjmať a byť vďačný za všetky dary, ktoré môžme dávať a prijímať. Ježiš nás učí nenásiliu. Preto, keď kamkoľvek, na čokoľvek alebo na kohokoľvek aplikujeme filozofiu nenásilia, nastane premena od choroby ku zdraviu. V to verím. To ma zachránilo od sebazničenia - od samovraždy.
 
 A za to budem do smrti vďačný.
