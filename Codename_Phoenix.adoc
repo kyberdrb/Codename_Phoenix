@@ -160,7 +160,7 @@ link:https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=2486[Marshal
 * help, aid / Hilfe / pomoc
 * support, aid / Unterstützung / podpora
 * generosity / Großzügigkeit / veľkorysosť
-* unconditionality / Bedingungslosigkeit / nepodmienenosť
+* unconditionality / Bedingungslosigkeit / nepodmienenosť, bezpodmienečnosť
 * communication / Kommunikation / komunikácia
 * friendship / Freundschaft / priateľstvo
 * mourning / Trauern / smútenie
@@ -760,7 +760,7 @@ spreche, mit jemandem spreche, schreibe, zuhöre, mich dusche, mich mit kaltem W
 
 == Comparisons
 
-- Punishment and Rewards vs Discipline, Care, *Unconditional* Love and Reason - link:https://www.youtube.com/watch?v=Qk8fOOMWOGc[Shaping Discipline with a Restorative Approach - Part 4], Alfie Kohn, Samuel P. Oliner + Pearl M. Oliner [Altruistic Personality + Samuel Oliner Testimony], Miki Kashtan [Exiting the Either/Or Trap - 17th minute]
+- Punishment and Rewards vs Discipline, Care, Reason *Unconditional* Love and Empathy  - link:https://www.youtube.com/watch?v=Qk8fOOMWOGc[Shaping Discipline with a Restorative Approach - Part 4], Alfie Kohn, Samuel P. Oliner + Pearl M. Oliner [Altruistic Personality + Samuel Oliner Testimony], Miki Kashtan [Exiting the Either/Or Trap - 17th minute]
 - Shame, Punishment and Revenge vs Safety, Respect, Responsibility, Care and Unconditional Love - Miki Kashtan-Bullying, link:https://www.youtube.com/watch?v=2KXwnbsQUrI&feature=youtu.be&t=87[Restorative Justice Continuum - Howard Zehr Ph.D EM 1:27-2:12], link:https://www.youtube.com/watch?v=0pleCht2jN4&feature=youtu.be&t=439[NVC Guilt and Shame - Kirsten Kristensen: ???-???, Alfie Kohn, James Gilligan - Shame]
 - Production and Comsumption vs Care and Freedom - link:https://www.youtube.com/watch?v=kikzjTfos0s&feature=youtu.be&t=2958[On Bullsh*t Jobs | David Graeber | RSA Replay: 49:18-49:44]
 - Gratitude and Appreciation vs Reward, Praise and Compliments - M. B. Rosenberg, Alfie Kohn, Peter Gray
@@ -861,11 +861,13 @@ You can try so hard, as hard as you can, to achieve something, when you don't ha
 * vzťah plný hlbokého porozumenia, nehy a nesexuálnej intimity (túlenia, maznania, dotýkania, hladkania, škrabkania, bozkávania)
 * deep, healing, unconditional, emotional, empathic understanding
 * sincere, healing, unconditional, empathic gratitude
-  ** for the diversity of people, animals and things in the world
+  ** for the diversity of people, animals, things, events and experiences in the world
+  ** "Thank you, that you are. / Danke, dass du bist. / Ďakujem, že si."
 * Bewusstsein, dass ich immer zur Auswahl habe
 * Entspannung unter Leuten und in einem Kollektiv
-* unconditional love
-* unconditional empathy
+* unconditional love and empathy
+  ** because unconditional empathy is a practical sign of unconditional love
+  ** Everything everybody does, does it to fulfill one's own needs, which is a sign of life - that's beautiful - even though the strategy that one uses may come for an enourmous cost of other needs. Sometimes even at the cost of human lifes. Let's choose and learn other strategies that will meet our needs better with less cost, without hatered of our mistakes.
 * greater contact with my body, feelings and needs
 * greater control over my mind and body
 * comfort in my own body / Bequemheit in meinem eigenen Körper
@@ -4337,7 +4339,7 @@ In rejecting both capitalism and the state, some libertarian socialists [liberta
 * Lebo chcem žiť svoj sen.
 * Lebo chcem mať okolo seba ľudí, od ktorých sa môžem niečo naučiť.
 * Lebo chcem mať prácu, ktorá mi umožní učiť sa stále niečo nové.
-* Lebo chcem mať prácu, ktorá mi dáva zmysel.
+* Lebo chcem mať prácu, ktorá mi d����va zmysel.
 * Lebo chcem každý deň dávať zo seba to najlepšie.
 * Lebo chcem mať prácu, ktorá pomáha ostatným.
 * Lebo sa chcem naučiť spolupracovať.
@@ -5581,7 +5583,6 @@ Capitalism, Authoritharianism, Dictatorships and the "Free" Market give the:
 * freedom to pollute the environment
 * freedom to spread an infectious disease
 * freedom to destroy
-* freedom for corruption
 * freedom to oppress others
 * freedom to exploit others
 * freedom to profit from acts of violence (e. g. war)
@@ -5593,6 +5594,9 @@ Capitalism, Authoritharianism, Dictatorships and the "Free" Market give the:
 * freedom to profit from prostitution
 * freedom to profit from pornography
 * freedom to profit from tobacco
+* freedom to profit from corruption
+* freedom to profit from patents
+* freedom to slow down or even block advancement in science with patents and copyrights
 * freedom to gamble
 * freedom to bet
 * freedom to fight
@@ -6294,6 +6298,8 @@ Ich werde Sie vermissen, Júlia Šimeková.
 
 - Pre niekoho je nad jeho sily prejaviť porozumenie. ... Niekto nemusí chcieť prijať tento spôsob myslenia.
 
+- Máte veľmi dobre vyvinutý zmysel pre pozorovanie.
+
 *Starať sa. O dušu.*
 
 Konzultácie: 21.1.2021, 3.2.2021, 17.2.2021, 3.3.2021
@@ -6373,7 +6379,15 @@ Ich möchte, dass andere leute auch diese im Verstand und in der Seele finden, s
 Dass auch die Anderen die Schönheit in Vielfaltigkeit und Unterschiedlichkeit sehen.
 
 Auch wenn mich jemand anschimpft, mich anschreit, mir Sachen sagt, die mich verletzen oder die mir Sorgen machen, es ist immer *ein Segen* von der anderen Person. +
-*Was immer jemand tut oder sagt, es ist die wunderbarste Sache, die ich in dem Moment machen könnte. Fehler sind eine natürliche Folge des Lernens. Fehler sind notwending für das Lernen. Ohne Fehler wäre kein Lernen, keinen Fortschritt. Wenn ich mich für meine Fehler hassen werde, werde ich nie von meinen Fehlern lernen. Es ist für mich ein wunderbares Geschenk und ein Segen von einem bedauernswerten, göttlichen Wesen, für den ich dankbar sein kann. Ich kann mir auswählen, dass ich für diese Geschenke und Segen dankbar sein werde, und das, was die andere Person gesagt oder getan hat, als eine Gelegenheit, gewaltfreie Kommunikation zu üben und meine Robustheit zu verstärken. Und Ärger und das Verlangen nach Vergeltung mit Mitgefühl, Verständnis und Toleranz. Von Ereignissen lernen, die ich nicht gemacht hätte, wenn ich damals gewusst hätte, was ich jetzt weiß.*
+*Was immer jemand tut oder sagt, es ist die wunderbarste Sache, die ich in dem Moment machen könnte. Fehler sind eine natürliche Folge des Lernens. Fehler sind notwending für das Lernen. Ohne Fehler wäre kein Lernen, keinen Fortschritt. Wenn ich mich für meine Fehler hassen werde, werde ich nie von meinen Fehlern lernen.*
+
+*Hass gegen Fehler stört das effiziente und optimale Lernen.* +
+*Hatered of mistakes interferes with efficient und optimal learning.* +
+*Nenávisť za chyby bráni efektívnemu a optimálnemu učeniu.*
+
+Es behindert *learning rate* und *Generalisationsfähigkeit*. Zwei Grundparameter eines neuralen Netwerkes. Die künstliche und menschliche Neuralnetzwerk sind in diesen Parameter änlich. Was sie aber unterscheidet ist, dass die künstliche Neuralnetzwerk ist nicht von *Gefühlen* beeiträchtigt. *Aber menschliches Neuralnetzwerk ist auf Gefühle extrem fühlig. Das zeigt die Forschung wieder und wieder.* Doug Newburg, Peter Gray, M.B. Rosenberg, Maria Montessori, Alfie Kohn, John Cacioppo, Rahaf Harfoush etc.
+
+*Es ist für mich ein wunderbares Geschenk und ein Segen von einem bedauernswerten, göttlichen Wesen, für den ich dankbar sein kann. Ich kann mir auswählen, dass ich für diese Geschenke und Segen dankbar sein werde, und das, was die andere Person gesagt oder getan hat, als eine Gelegenheit, gewaltfreie Kommunikation zu üben und meine Robustheit zu verstärken. Und Ärger und das Verlangen nach Vergeltung mit Mitgefühl, Verständnis und Toleranz. Von Ereignissen lernen, die ich nicht gemacht hätte, wenn ich damals gewusst hätte, was ich jetzt weiß.*
 
 *Das, was die andere Person sagt oder tut, ist die wunderbarste Sache, die die Person jetzt tun könnte.*
 
@@ -6406,6 +6420,35 @@ link:https://www.youtube.com/watch?v=l7TONauJGfc&feature=youtu.be&t=3308[NVC Mar
  +
 Walter Wink, the theologian, says *"It's very important to be conscious that institutions have their own spirituality."* +
 *So many structures are set up in a way that are designed to get people to obey authority no matter what the authority wants them to do.* So I would hope that we educate ourselves that *no matter what structures we're in, we stay connected to our own spirituality, and neither submit, nor rebel.*. And then I hope that we all develop the skill that my son had demonstrated by *no matter how people speak to us, whatever their titles, that we try to see their humanness, but not to give them the power, to make us submit or rebel, and not to give them the power to create shame on our part, depression on our part*, but this requires some skills that we'll be talking about in subsequent sessions that will show us *how to see other people's humanness even when they're speaking to us in a violent language, even if they have positions of power within institutions that do not share values of compassion*.
+
+This is the song I want to hear when I or others make mistakes. This is the song I want others to play in their heads. This is the song that I want to hear when I feel guilt, shame, depression, anger, rage, hatered, envy, jealousy, when I want to criticize, blame, judge other people as "bad" and "wrong", "they shouldn't do this", "they must do that", "they're deserving punishment" etc.:
+
+.Marshall B. Rosenberg - See Me Beautiful link:https://www.musixmatch.com/lyrics/Marshall-B-Rosenberg/See-Me-Beautiful[(1)] link:https://www.songtexte.com/songtext/marshall-b-rosenberg/see-me-beautiful-43e0bb87.html[(2)]
+  See me beautiful, look for the best in me.
+  That's what I really am and all I want to be.
+  It may take some time,
+  It may be hard to find,
+  But see me beautiful.
+
+  See me beautiful, each and ev'ry day.
+  Could You take a chance?
+  Could You find a way?
+  To see me shining through,
+  In ev'ry thing I do,
+  And see me beautiful.
+
+  See me beautiful, look for the best in me.
+  That's what I really am and all I want to be.
+  It may take some time,
+  It may be hard to find,
+  But see me beautiful.
+
+  See me beautiful, each and ev'ry day.
+  Could You take a chance?
+  Could You find a way?
+  To see me shining through,
+  In ev'ry thing I do,
+  And see me beautiful.
 
 ### Dissolve anger, rage, hatered, envy, jealousy
 
@@ -6576,4 +6619,22 @@ Je mi ľúto všetkých kňazov a duchovných, ktorí sa podieľajú na tomto n�
 
 Vina a hanba nie sú prejavmi lásky. Sú prejavmi nenávisti. A nenávisť je sebazničujúca. Ježiš nás učí milovať jeden druhého, prejavovať mu nepodmienečnú toleranciu, súcit a lásku, bezpodmienečne dávať a príjmať a byť vďačný za všetky dary, ktoré môžme dávať a prijímať. Ježiš nás učí nenásiliu. Preto, keď kamkoľvek, na čokoľvek alebo na kohokoľvek aplikujeme filozofiu nenásilia, nastane premena od choroby ku zdraviu. V to verím. To ma zachránilo od sebazničenia - od samovraždy.
 
-A za to budem do smrti vďačný.
+A za to budem do smrti, aj po smrti, vďačný.
+
+---
+
+Trapia ma chronicke traviace tazkosti: tazoba na zaludku, plynatost, unava a bolesti hlavy po jedle, bolesi brucha, palenie zahy po zobudeni, chronicke bolesti chrbta, zotavujem sa z vyhorenia a traumy.
+
+Snazim sa pomahat si ako viem, ale bolesti su stale rovnake, a uz neviem, ako by som si pomohol sam.
+
+A lutost, utesovanie, povzbudzovanie ani rady mi akosi nepomahaju.
+
+---
+
+When you know that you need to take responsibility and when you know what the boundaries are, that you're responsible for, then learning anything is easy.
+
+When you don't know that you need to take responsibility, or the boundaries of what you're responsible for are blurred, then learning anything becomes almost impossible and comes at a enourmous cost.
+
+Peter Gray - Self-Directed Education
+
+---
