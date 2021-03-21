@@ -1030,6 +1030,7 @@ link:https://en.wikipedia.org/wiki/Peter_principle#Summary[Peter Principle: Pete
   *** pedagogy of the poor [similarity to the Paulo Freire]
 ** Júlia Šimeková - Psychologin/Psychoterapeutin bei *O dušu o.z.*
   *** systemický prístup (systemic approach): Krátka terapia zameraná na riešenie (Steve de Sheizer); Naratívna systemická terapia (Epston)
+** Robert Schleip - Fascia and its reactions to chemicals, emotions and movement
 
 == Questions
 
@@ -3558,6 +3559,14 @@ Six hour of academics is more than enough.
 
 * Kohn - Kids have some say ... . link:???[Alfie Kohn - Youngest Citizens]
 
+* Die Prägung aus der Kindheit ist der Kern, das „Saatkorn“ für die Atmosphäre, die wir als Erwachsene in uns selbst, mit anderen Menschen
+und somit in unserem Leben erzeugen. +
+link:https://wingwave.com/fileadmin/user_upload/presse/pdf/KuS-05-2014_Der_Superreiz_Cora_BesserSiegmund.pdf[Der Superreiz]
+
+* Fascie potřebují pravidelnou stimulaci. [Pohyb. Ale nie len tak hociaký pohyb. Terapeutický pohyb, napr. jóga, pilates, fasciálny trénning, mäkké techniky, fyzioterapia...] Jinak stratí pružnost, stuhnou a slepí se. +
+link:https://www.youtube.com/watch?t=799&v=gmKwuzjuxLw&feature=youtu.be[...Skrytý svět fascií.. - Dokument CZ HD (2019): 13:19-13:27]
+* [Emocne napatie moze sposobovat stuhnutost fascii. Fascie nemusia reagovat na cvicenie a stale mozu byt skratene, pokial je napatie, alebo ine pocity pri nenaplnenych potrebach, dlhodobe, chronicke, t.j. trva tyzdne, mesiace, roky. Vplyvu roznych pocitov a latok na svalove vlakna sa venuje *Robert Schleip*.]
+
 * link:https://www.youtube.com/watch?v=h4fQEn15NgI[The Gun Has No Trigger: David Graeber]
 ** link:https://www.youtube.com/watch?v=h4fQEn15NgI&feature=youtu.be&t=507[[8:27]-8:46] ... but if we would incorporate ourselves then we have to have a whole hierarchical structure, president, vicepresident, *and those rules and regulations are enforced ultimately by violence* ...
 ** link:https://www.youtube.com/watch?v=h4fQEn15NgI&feature=youtu.be&t=575[[9:35]-9:47] ... It's because the moment you have large, heavy objects [cars, buildings], they fall under government regulation [endless laws] in various ways, and that regulation is ultimately enforced by violence and that violence is a sort of a thing that we often oversee ...
@@ -3569,7 +3578,7 @@ A possible alternative of a new economy based on five postulates and one fundame
 ** *Postulate 1:* The economy serves the people and not the people the economy.
   *** I would reformulate it as +
    +
-  The economy and people help each other mutually. Because people create the economy.
+  The economy and people help each other mutually. Because all people create the economy. Economy is the people.
 ** *Postulate 2:* Development is about people and not about objects.
 ** *Postulate 3:* Growth is nto the same as development and development does not necessarily require growth.
 ** *Postulate 4:* No economy is possible in the absence of econsystem services.
@@ -4469,18 +4478,20 @@ expressive writing, empathy, NVC
 
 == Diseases, Illnesses / Erkrankungen, Krankheiten / Choroby
 
-* Back pain - muscle imbalances, pain from chestbone, through the rib up to the shoulderblades (underneath them)
+* Back pain - chronic - my entire life; muscle imbalances, pain from chestbone, through the rib up to the shoulderblades (underneath them)
+  ** accordion playing played a role - sitting posture when playing: one-side rotated posture created muscle imbalances around cervical and thoracic, and maybe lumbal, spine
 * IBS: Irritable Bowel Syndrome [for the lack of a better name] (approx. since January 2017) - psychosomatic [somatized traumas and psychological pain]
-* Chronic gastritis (approx. since November 2015) - psychosomatic [somatized traumas and psychological pain]
+* Gastritis (approx. since November 2015) - chronic; psychosomatic [somatized traumas and psychological pain], overeating, emotional tension
+* Duodenogastroesophageal reflux (approx. since 2017)
 * Stomach pain, Feeling of heavy stomach - after meal; the meal just doesn't move when I'm awake, working, or even walking. Even after after a walk I feel tired. Only when I'm resting with Ohrenstöpsel and a band over my eyes - maximum nonstimulation - then the meal in the stomach and bowel moves.- stomach ulcers and sensitive places, duodenum gate - usually after of any meal size for about one hour
 * Fatigue after meal - my body essentially shuts down; I can't work, speak, think - *unstable* - usually after of any meal size for about one hour; sometimes stronger, sometimes weaker - after milk products with added lactase-drops: Joghurt, Brimsen, Quark?
 * Headache - after meal or after longer time (approx. one hour or more) outside
 * Pressure in heart and inner side of the left arm - usually after longer physical and mental exertion
 * Arythmia - usually when working when I try to finalize something and I'm physically and metally exhausted
 * Stool of different density: at the beginning thick, at the end almost liquid
-* Sklbanie svalov
-* Belching
-* Flatulence
+* Sklbanie svalov - nestale
+* Belching - after every meal, on full stomach, on empty stomach, everyday
+* Flatulence - after every fruit and vegetable
 * Heartburn (especially after waking (up to the tonsils and the roof of the mouth) or lying for longer time cca 10 minutes)
 * Overeating - psychosomatic: Du musst das aufessen, sonst...!
 * Bruxism - psychosomatic
@@ -4488,7 +4499,11 @@ expressive writing, empathy, NVC
 * Fußpilz
 * Dry skin in cold or windy environment
 * Cold hands
-* Tinnitus - ringing in the ears (especially in the right one)
+* Tinnitus - ringing in the ears (especially in the right one), susceptible to sensory overload by superstimulation
+* Lupus
+* svetloplachosť/Lichtscheu/Photophobia - susceptible to sensory overload by superstimulation
+* visual snow
+* mouches volantes
 * NCCP: Non-Cardiac Chest Pain - psychosomatic
 * PTSD: Post-Traumatic Stress Disorder, Trauma
   ** after my experiences from work, school and home
@@ -6521,6 +6536,7 @@ Now you have power with that person. Now the other people have no power over you
 
 #### Dissolve revenge, retribution, resentment, desire to punish
 
+* Čo by som chcel, aby ten druhý povedal, aby som bol spokojný?
 * Ako by som preložil to, čo som počul do nenásilnej komunikácie?
 * Čo by som chcel, aby ten druhý povedal, aby to bolo v súlade s princípmi nenásilnej komunikácie? [a tak videl jeho alebo jej ľudskosť, a tak si uchránil svoj pokoj v duši, aby som sa mohol lepšie sústrediť na starostlivosť o druhého, nie na to, kto má pravdu.]
 
@@ -6753,5 +6769,9 @@ Ako by sa dalo vychovávať k ohľaduplnosti k ostatným ľuďom na základe sam
 *Mamina:* Chcela by som, aby si urobil, čo ti poviem. Ale iba vtedy, keď to budeš robiť rád a dobrovoľne.
 
 Cvičím si svoju slobodu, zvoliť si takú interpretáciu, ktorá najviac podporí život, s čo najmenšími nákladmi a nevýhodami.
+
+---
+
+Blahoslavený tí, čo zažili, vyskúšali a overili, lebo ich je kritické myslenie.
 
 ---
