@@ -116,7 +116,7 @@ Properties of needs:
 * security / Sicherheit / bezpečnosť, zabezpečenie
 * order / Ordnung / poriadok
 * equality / Gleichheit / rovnosť
-* foreseeability, predictability / Voraussehbarkeit, Vorhersehbarkeit / predvídateľnosť
+* foreseeability, predictability / Voraussehbarkeit, Vorhersehbarkeit / predvídavosť, predvídateľnosť
 * prevention / Prävention / prevencia
 * power (with) / Macht (mit) / moc (s) +
 link:https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=2486[Marshall Rosenberg - Making Life Wonderful 2/4 - Nonviolent Communication NVC: 41:26-43:06]
@@ -1144,6 +1144,14 @@ included...]
 
 * Ako by som preložil to, čo som počul do nenásilnej komunikácie?
 * Čo by som chcel, aby ten druhý povedal, aby to bolo v súlade s princípmi nenásilnej komunikácie?
+
+---
+
+* Ako žiť s nepredvídateľnou chronickou chorobou?
+
+---
+
+* Wie diese Nachricht beeinflüsst mein Leben jetzt? [Kritik der Nachrichten in Medien - sie sind immer länger, aber ihre Wert ist immer geringer. Sie behandeln über Probleme, die mich nicht direkt berühren. Ich habe genug meiner Sorgen.]
 
 === Connection Requests
 
@@ -3633,6 +3641,34 @@ Beobachten ohne zu bewerten ist die höchste Form der menschlichen Intelligenz. 
 Pozorovanie bez posudzovania je najvyššou formou ľudskej inteligencie. +
 link:???[Jiddu Krishnamurti]
 
+* Quotes from Marshall B. Rosenberg [link:https://www.nonviolentcommunication.com/resources/mbr-quotes/[1]]
+	** Every time I mess up is a chance to practice. +
+	** Depression is the reward we get for being ‘good’. +
+	** Don’t hate the circumstance, you may miss the blessing [and be grateful for that]. +
+	** Fear of punishment diminishes self-esteem and goodwill. +
+	** Learning is too precious to be motivated by coercive tactics. +
+	** People do not hear our pain when they believe they are at fault. +
+	** The number one rule of our training is empathy before education. +
+	** Blaming and punishing others are superficial expressions of anger. +
+	** It may be most difficult to empathize with those we are closest to. +
+	** Empathy is a respectful understanding of what others are experiencing. +
+	** Every message, regardless of form or content, is an expression of a need. +
+	** When we fear punishment, we focus on consequences, not on our own values. +
+	** With empathy, I’m fully with them, and not full of them – that’s sympathy. +
+	** The cause of anger lies in our thinking – in thoughts of blame and judgment. +
+	** NVC gives us tools and understanding to create a more peaceful state of mind. +
+	** Always listen to what people need rather than what they are thinking about us. +
+	** Upset? Ask yourself what  this person does that is a trigger for judging them? +
+	** Punishment also includes judgmental labeling and the withholding of privileges. +
+	** Compliments and praise, for their part, are tragic expressions of fulfilled needs +
+	** Behind intimidating messages are simply people appealing to us to meet their needs. +
+	** Get very clear about the kind of world we would like and then start living that way. +
+	** When we hear the other person’s feelings and needs, we recognize our common humanity. +
+	** We can never make anyone do anything against their will without enormous consequences. +
+	** We use NVC to evaluate ourselves in ways that engender growth rather than self-hatred. +
+	** As long as I think I ‘should’ do it, I’ll resist it, even if I want very much to do it.
+  ** 
+
 * Ich kämpfe nicht. Ich *übersetze* alles in gewaltfreie Kommunikation. In die Sprache des Lebens. In die Sprache der Beobachtungen, Gefühle, Bedürfnisse und Bitten. link:???[[M.B. Rosenberg]] +
 I do it for me. I want to suffer less! For me! +
 link:https://www.youtube.com/watch?v=NR9JyTqaIto&feature=youtu.be&t=3465[NVC Israeli and Palestinian panel at Ecome Center February 2015 (Nonviolent Communication): 57:45-1:03:13]
@@ -4496,15 +4532,15 @@ expressive writing, empathy, NVC
 * Overeating - psychosomatic: Du musst das aufessen, sonst...!
 * Bruxism - psychosomatic
 * Snorring ?
-* Fußpilz
+* [line-through]#Fußpilz# - hoffentlich geheilt
 * Dry skin in cold or windy environment
 * Cold hands
 * Tinnitus - ringing in the ears (especially in the right one), susceptible to sensory overload by superstimulation
-* Lupus
+* dandruff/Schuppen/lupiny
 * svetloplachosť/Lichtscheu/Photophobia - susceptible to sensory overload by superstimulation
 * visual snow
 * mouches volantes
-* NCCP: Non-Cardiac Chest Pain - psychosomatic
+* NCCP: Non-Cardiac Chest Pain - somatic: spine, back tension; psychosomatic: worries, sadness, loneliness, exhaustion
 * PTSD: Post-Traumatic Stress Disorder, Trauma
   ** after my experiences from work, school and home
   ** trauma from authoritarian, violent and abusive upbringing and education
@@ -6391,7 +6427,7 @@ Ja: "Rýchlo! Rýchlo! Prineste mi rakvu! Musím rýchlo zomrieť!"
 
 Not me or what I did, but the other person's thinking about his or her unfulfilled needs is the cause of his or her feelings. I can only be a stimulus for other people's feelings. For one person I can stimulate joy, for another person disgust. But it's not my behavior that is the cause. It's the other persons thinking about its needs that are or aren't being fulfilled. I can only be responsible for my own words, actions, feelings and needs. The other person is responsible for its own words, actions, feelings and needs. Mixing these responsibilities causes the blurring of boudnaries who is responsible for what. We can be tricked into thinking that we're the cause of other persons feelings by upbringing and education in which the people around us used guilt or shame as a tool to manipulate our behavior. But, of course, this manipulation comes for an enourmous cost. The cost is the loss of trust and inability to give and receive to that person unconditionaly. +
 My needs is the origin of my feelings. +
-My thinking is the cause of my feelings. Not other people or the environment, although the other people and the environment may be a very strong stimulus for my words and actions. And the other people and environment can reinforce and encourage us to think that the source of our suffering is caused by other people or the environment. "It's because of you! It's your fault! Don't you see how I'm suffering for you?" +
+My thinking is the cause of my feelings. Not other people or the environment, although the other people and the environment may be a very strong stimulus for my words and actions. And the other people and environment can reinforce and encourage us to think that the source of our suffering is caused by other people or the environment. "It's because of you! It's your fault! Don't you see how I'm suffering for you? It's your job to make me happy!" +
 When we take other people's words personally, we got used to think that we are responsible for other persons feelings. We take responsibility for the other persons feelings.
 
 Encapsulation principle in guilt: +
@@ -6812,7 +6848,7 @@ Trh nenapĺňa moje potreby.
 Vorbereitung für meine nächste Psychotherapie:
 
 * Angst vor intimen Beziehungen
-  ** Ich fühle mich als ob ich mich ersticke, wenn ich mir vorstelle, dass ich in einer Haushalt mit einem Mädchen jeden Tag leben werde.
+  ** Ich fühle mich als ob ich mich ersticke, wenn ich mir vorstelle, dass ich mit einem Mädchen eine Beziehung hätte, oder dass ich in einer Haushalt mit einem Mädchen jeden Tag leben werde.
 * Hass gegen Authoritäten
   ** Selbstopfern. Vertrauen der Authoritäten: ich dachte mir, dass wenn ich den Authoritäten, Eltern, Lehrer, Priester, Manager, gehorchen sein werde, schaffe ich etwas im Leben. Ich habe mich so geirrt. Ich habe mich in ihnen enttäuscht. Sie hatten und haben immer noch keine Ahnung, was sie machen, und welche langfristige, katastrophale, zerstörerische Folgen diese Art Erziehung, Pädagogik und Management auf Leute hat.
 * Sorgen im Kollektiv zu arbeiten
@@ -6820,7 +6856,7 @@ Vorbereitung für meine nächste Psychotherapie:
 * chronische Schmerzen
   ** Rücken, Bauch, Kopf, Augen
   ** psychosomatische Krankheiten: Verschlechterung der Symptome - Sodbrennen, Kopfschmerzen, Bauchschmerzen - bei unangenehmen Gefühlen
-  ** Ich kann mir nicht vorstellen, wie ich mit solchen Beschwerden eine Beziehung haben werde? Welches Mädchen möchte einen kranken, erschöpften Invaliden? Werde ich noch fähig werde, zu arbeiten? 8 Stunden? 4 Stunden?
+  ** Ich kann mir nicht vorstellen, wie ich mit solchen Beschwerden eine Beziehung haben werde? Welches Mädchen möchte einen kranken, erschöpften Invaliden mit unvoraussehbarer, chronisher Krankheit? Werde ich noch fähig werde, zu arbeiten? 8 Stunden? 4 Stunden? Welcher Arbeitnehmer möchte einen ausgebrannten Angestellten mit unvoraussehbarer, chronisher Krankheit? link:https://www.psychologytoday.com/us/blog/turning-straw-gold/201403/the-extra-burdens-faced-young-people-chronic-illness[The Extra Burdens Faced by Young People with Chronic Illness]
 
 ---
 
@@ -6852,7 +6888,7 @@ ich möchte dass mir andere sagen "du leidest, und das ist in ordnung." "Du hast
 
 *"Ich mag dich auch wenn du Fehler machst. Ich liebe dich bedingungslos."*
 
-Ich möchte, dass die Anderen zunehmen, annehmen, dass ich leide, und nicht meine Gefühle und Schmerzen ablehnen oder vermindern.
+Ich möchte, dass die Anderen zunehmen, annehmen, dass ich leide, und nicht meine Gefühle und Schmerzen ablehnen oder vermindern. Accept my pain! Show me empathy!
 
 ich möchte dass mir die anderen die empathie geben, die ich brauche, weil nur dass für mich ein zeichen, ein beweis sein wird, dass sie mir bedingungslos annehmen. ich brauche bedingungslose annahme durch empathie. keine ratschläge, keine motivationsreden, kein trösten, keine sympathie. nur bedingungslose annahme meinen leiden durch empathie von anderen
 
@@ -6867,3 +6903,11 @@ es ist schwierig für mich eine beziehung, besonders eine intime oder profession
 ---
 
 Luxus stelle ich mir anders aus: einfach reparierbare, robuste, ökologische - bei der Herstellung und beim Nutzen - nachhaltige Produkte.
+
+---
+
+Len pre to, že je niečo v súlade so zákonom, neznamená, že je to morálne, etické alebo dlhodobo udržateľné. +
+A opačne. Ak je niečo morálne, etické alebo dlhodobo udržateľné, neznamená to, že na to existuje zákon. +
+Načo sú mi zákony. Každý zákon, pravidlo, nariadenie vychádza z potrieb, ktoré chce naplniť. Lenže k uvedomovaniu si svojich potrieb ma rodičia, škola, spoločnosť, kultúra, médiá a náboženstvo nenaučili. Načo je toto všetko? Načo sú také inštitúcie? Načo sú? Keď robia len peklo! Srať na ne!
+
+---
