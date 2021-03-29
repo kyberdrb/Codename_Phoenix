@@ -777,7 +777,8 @@ spreche, mit jemandem spreche, schreibe, zuhöre, mich dusche, mich mit kaltem W
 - Needs as an obligation, contest, competition or transaction vs Needs as a gift [M.B. Rosenberg - Experiencing Needs As a Gift]
 - Observation vs Evaluation - Jiddu Krishnamurti, M.B. Rosenberg, link:https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=1711[Miki Kashtan - Social Change Series – Liberation in Three Chapters - 1: 28:31-29:40]
 - Honesty vs Criticism and Blame - M. B. Rosenberg [Making life wonderful - part 1/4 - somewhere at the beginning]
-- Feedback and life-serving Judgement and Evaluation for decision-making vs moralistic Evaluation and Judgement, Praise, Compliments, Reward, Blame, Criticism and Punishment - Alfie Kohn
+- Feedback and Life-Serving Judgement and Evaluation for decision-making vs Moralistic Evaluation and Judgement, Praise, Compliments, Reward, Blame, Criticism and Punishment - Alfie Kohn
+- Life-Serving Judgements: judgements that support our decision making vs Moralistic Judgements: judgements that we make when other people don't behave in a way we'd like
 - Natuar vs Habitual - M. B. Rosenberg - San Francisco Workshop, Gandhi
 - Request vs Demand - M. B. Rosenberg - Portland Workshop time: ??? + resolving conflicts with children workshop time: ???
 - Power over (people and nature) vs Power with (people and nature) - Mary Parker Follett, link:https://sci-hub.st/10.5840/pom20033221[Power, Freedom and Authority in Management: Mary Parker Follett’s ‘PowerWith’ - Domènec Melé, Josep M. Rosanas] Miki Kashtan [Exiting the Either/Or Trap - 30th minute], M. B. Rosenberg, Alfie Kohn, Mark Shepard-"Power over nature vs Power with nature"
@@ -1116,15 +1117,24 @@ included...]
 * What value has the task I engage in?
 * What is the point of this task?
 * Unterstützen Hausaufgaben die Ausbrennung in den Studenten?
-* Auf welcher Weise formt die Erziehung durch Bestrafungen und Belohnungen die Sprache meines inneren Lehrer? link:???[Alfie Kohn - Unconditional Parenting + Punished by Rewards], link:???[M.B. Rosenberg - How do you talk to yourself when you're making mistakes?]
+* Auf welcher Weise formt die Erziehung durch Bestrafungen und Belohnungen die Sprache meines inneren Lehrers? link:???[Alfie Kohn - Unconditional Parenting + Punished by Rewards], link:???[M.B. Rosenberg - How do you talk to yourself when you're making mistakes?]
 * Why punishment and reward never work?
 ** What would I want the other person to do differently? → _punishment sometimes works_
 ** What do I want the other person's reasons to be for doing what I request of them? → _punishment never works_
 * What teaches punishment and rewards other people?
+
 * What are my long term goals for other people to be?
 * How I like them to turn out?
 * What would I want the to be like?
 * Aké deti chceme, aby vychádzali zo škôl? link:https://videoportal.joj.sk/noviny/epizoda/84549-noviny-tv-joj[Noviny TV JOJ: 13.11.2020 - 19:51-19:58; 17:13-20:13]
+* Akých učiteľov chceme, aby vychadzali z vysokých škôl?
+* Akú pedagogiku učia vysoké školy budúcich učiteľov?
+* Akých obyvateľov chce vychovávať štát, vláda, politici?
+* Akých zamestnancov chceme, aby vychádzali z firiem?
+* K akým hodnotám vychováva firma svojich zamestnancov?
+* K akým hodnotám vychovávajú rodičia svoje deti?
+* K akým hodnotám sa vychovávame navzájom?
+
 * Is that what I'm doing consistent with what I want?
 * Is that what I'm doing consistent with my long-term goals?
 * Do the things that I say and do contribute to my long term goals?
@@ -2928,6 +2938,7 @@ link:???[Maya Angelou]
   *This is a good example where the truth sets us free. The truth is, this person has feelings and needs. So why get caught up in their images?*
 ** 1:05:01-1:06:09 https://www.youtube.com/watch?v=8kaVztNodEM&feature=youtu.be&t=3901
   *** *Better to have [the Nonviolent Communication] in your heart and be broken for the words. "Whenever I really get connected to that energy, even when I speak jackal it's giraffe." So the words aren't as important as the consciousness of why I'm interrested in giraffe. The quality of the connection. If that's really what you're after, the words come with practice. But it's that spiritual quality at the beginning. Without that [spiritual quality] the rest doesn't help.*
+** 1:39:07-
   
 * link:https://www.youtube.com/watch?v=l7TONauJGfc[NVC Marshall Rosenberg - San Francisco Workshop - FULL ENGLISH SUBTITLES TRANSCRIPTION]
   ** 1:24:02-1:25:07 https://www.youtube.com/watch?v=l7TONauJGfc&feature=youtu.be&t=5042
@@ -7018,8 +7029,8 @@ beschuldigungen, kritik, vorwürfe, streitereien, auslachung, panik, stress, sch
 
 different kinds of beauty +
 different kinds of intimity +
-beauty and intimity with honor, dignity, authenticity, privacy. for everybody, but  especially for girls and women +
-without sexualization, objectification, suffering, addiction promoting or any kind of direct or indirect violence
+beauty and intimity with honor, dignity, humanity, authenticity, privacy. for everybody, but  especially for girls and women +
+without sexualization, objectification, suffering, addiction promoting, product promoting or any kind of direct or indirect violence
 
 ---
 
