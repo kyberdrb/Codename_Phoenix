@@ -22,6 +22,7 @@ The needs is *the only reason*, why I'm feeling the way I'm feeling. Not the act
 
 *What is a need? / Was ist ein Bedürfnis?*
 
+* Sign of life. / Ein Zeichen des Lebens. / Prejav života.
 * Life seeking expression within oneself.
 * Manifestation of the divine energy in each living phenomenon, in each life form. link:https://www.youtube.com/watch?v=sHcq9BEXt4I&feature=youtu.be&t=767[Dr Julia Kim - The Gross National Happiness of Bhutan: 12:47-13:01]
 * A *need* is a manifestation of life, a manifestation of divine energy within us. All human beings have the same needs. A *value* is a need with a particular level of importance. The importance of a need changes with time, circumstances and preferences.
@@ -61,6 +62,8 @@ The needs is *the only reason*, why I'm feeling the way I'm feeling. Not the act
                 /__| |__\
 
 link:https://storage.googleapis.com/cdn.thenewstack.io/media/2018/03/4d780610-screenshot-from-star-asciimation-wars.png[Inspiration]
+* things that you cannot buy, that are not even things, but that matter the most
+* foundation of life
 
 Properties of needs:
 
@@ -817,6 +820,9 @@ spreche, mit jemandem spreche, schreibe, zuhöre, mich dusche, mich mit kaltem W
 * Spirituality vs Religion
   ** I can live a deep, spiritual life without the violence and oppresion of any religion. I can make my own religion and be consistent with it.
   ** So much violence had been, and still is being commited in the name of God, in the name of religion, sacrificing for other or greater good link:http://www.faithfreedom.org/jesus-the-revolutionary-versus-muhammad-aka-allah-the-antigod-of-the-muslims/[[JESUS THE REVOLUTIONARY VERSUS MUHAMMAD AKA ALLAH (THE ANTIGOD) OF THE MUSLIMS]]
+  ** God has no religion. [Ghandi]
+* Canadian values: Peace, Order and Good Government vs US values: Life, Liberty and Pursuit of Happiness
+* freedom of speech vs responsibility of speech
 * link:https://www.fachverband-gfk.org/wp-documents/anlage_3_schluesselunterscheidungen.pdf[und mehr Unterschiede...]
 
 Culturally learned beliefs - Life-harming beliefs - irrational beliefs:
@@ -848,22 +854,27 @@ link:https://eduworld.sk/cd/zuzana-granska/457/jana-novackova-sutaze-by-v-skolac
 
 by Doug Newburg
 
-*The goal:* C++ programmer in Austria
-
-*Das Ziel:* C++ Programmierer in Österreich
-
 The importance of inner attitude and outer support, environment.
 
 You can try so hard, as hard as you can, to achieve something, when you don't have the support from outside.
+
+---
+
+*The goal:* C++ programmer in Austria
+
+*Das Ziel:* C++ Programmierer in Österreich
 
 *1.) The Dream / Der Traum*
 
 *Dream feelings / Traumgefühle:*
 
+* Ruhe in der Seele
+  ** Konspirationstheorien, die das Beste in den Leuten suchen, beschützen meine Ruhe in der Seele, meine innere Ruhe und Frieden.
+* freedom to choose my own interpretation - freedom to choose the interpretation that will enrich my life the most and protect my peace of soul with the respect to others
 * unconditional tolerance
   ** tolerance to other people's beliefs, ideologies and worldviews
 * vzťah plný hlbokého porozumenia, nehy a nesexuálnej intimity (túlenia, maznania, dotýkania, hladkania, škrabkania, šteklenia, bozkávania)
-* deep, healing, unconditional, emotional, empathic understanding
+* deep, healing, unconditional, emotional, respectful, empathic understanding = empathy
 * sincere, healing, unconditional, empathic gratitude
   ** for the diversity of people, animals, things, events and experiences in the world
   ** "Thank you, that you are. / Danke, dass du bist. / Ďakujem, že si."
@@ -871,7 +882,7 @@ You can try so hard, as hard as you can, to achieve something, when you don't ha
 * Entspannung unter Leuten und in einem Kollektiv
 * unconditional love and empathy
   ** because unconditional empathy is a practical sign of unconditional love
-  ** Everything everybody does, does it to fulfill one's own needs, which is a sign of life - that's beautiful - even though the strategy that one uses may come for an enourmous cost of other needs. Sometimes even at the cost of human lifes. Let's choose and learn other strategies that will meet our needs better with less cost, without hatered of our mistakes.
+  ** Everything everybody does, does it to fulfill one's own needs, which is a sign of life. That's beautiful. Even though the strategy that one uses may come for an enourmous cost of other needs. Sometimes even at the cost of human lifes. Let's choose and learn other strategies that will meet our needs better with less cost, without hatered of our mistakes.
 * greater contact with my body, feelings and needs
 * greater control over my mind and body
 * comfort in my own body / Bequemheit in meinem eigenen Körper
@@ -2776,7 +2787,7 @@ That turns out to be the difference between marriages that are happy and marriag
     *** (Depression is often a response to a [perceived] difficult situation.)
     *** *Depression [or deep sadness] is exactly like pain. [It stimulates the same pain centre in brain than physical pain. Reference to John Cacioppo - Loneliness] If you have a disease, or if somebody is stepping on your toe, you cut yourself, you have pain. It has meaning.*
   ** link:https://www.youtube.com/watch?t=1242&v=tY78qJNLoQ0&feature=youtu.be[20:42-21:05]
-    *** But instead of depression, or calling it sadness, we now have clinical depression. It's called *word magic*. ... It's pure word magic. Clinical. *Everything is clinical [or holy, academic, scientific]*: clinical research, clinical findings, clinical social [reports], clinical psychology, clinical history... *You add that word - boom - nobody can touch you.*
+    *** But instead of depression, or calling it sadness, we now have clinical depression. It's called *word magic*. ... It's pure word magic. Clinical. *Everything is clinical [or holy, religious, academic, scientific]*: clinical research, clinical findings, clinical social [reports], clinical psychology, clinical history... *You add that word - boom - nobody can touch you.*
   ** 21:06-24:14
     *** *Question (summary):* How does mental health and coersion fit into caring for children or with people with learning disabilities [in standard school pedagogy; unfortunately, Montessori approach is not the 'mainstream' in public schools].
     *** [The belief about children is that they] deserve to be coerced.
@@ -5673,7 +5684,9 @@ Domination Systems, Capitalism, Authoritharianism, Dictatorships and the "Free" 
 
 because it's _"rational"_ and _"good"_ for the _"economy"_. Or, rather, chrematistics?
 
-and on the other side it gives, and there is, *the freedom with responsibility*:
+On the other side there is the 
+
+*Freedom with responsibility:*
 
 * freedom to change my opinion
 * freedom to choose
@@ -6813,7 +6826,8 @@ Cvičím si svoju slobodu, zvoliť si takú interpretáciu, ktorá najviac podpo
 
 ---
 
-Blahoslavený tí, čo zažili, vyskúšali a overili, lebo ich je kritické myslenie.
+Blahoslavený tí, čo zažili, vyskúšali a overili, lebo ich je kritické myslenie. +
+Blahoslavení tí, čo sú spokojní s málom, lebo ich je pokoj v duši.
 
 ---
 
@@ -6934,4 +6948,89 @@ I'm transformimg the universe every day, in order to enjoy work, learning, progr
 
 ---
 
+domination systems are designed to disconnect people from their life, from their observations,  feelings, needs and requests and replaces them with moralistic judgements, analysis, diagnoses, obedience and the notion of duty.
 
+domination systems replaces our natural language, the language of life, the language for enjoying life, with the language of obedience to authority, guilt, shame, anger and depression.
+
+let's not participate in these violent systems. we're having enough violence on the planet already.
+
+let's transform these systems and create systems that will promote mindfulness, joy of life, interest in learning, curiosity, willingness, freedom with responsibility, fulfilment in work, peace of soul, empathy in relationships.
+
+systems that will be receptive for self-reflexion. directly democratic systems that will actually fulfill needs of all people, not only our pockets. 
+
+---
+
+co by som ja mohol povedat, aby som poucil toho druheho cloveka? co by som vtedy mohol povedat, aby som jemu alebo jej ukazal, aka odpoved alebo cinnost od neho alebo od nej by mi danej chvili obohatila zivot najviac? stara mama: co si si to nedal skor robit. poor her. how could she enjoy life when shes making accusations all the time
+
+---
+
+this language and thinking isnt here for us to enjoy life. this language and thing is here for us to be obedient to authority
+
+---
+
+bei der erfüllung meiner bedürfnisse fühle ich mich angenehm, ruhig, eingesetzt, entspannt. ich möchte denanderen umarmen, obwohl er oder sie schreit, mich anschimpft oder mir vorwürfe macht. arme menschen. warum fühle ich mich so? warum hilft es mir meine innere ruhe, meine ruhe in der seele zu beschützen? ich wundere mich... 
+
+---
+
+why be scared of judgements? all judgements are windows to the other persons heart. sometimes these windows may be dark, dirty, distant, they are still opportunities to show care for the other person. although sometimes it may be painful. especially when im in pain too. then i can either:
+* give myself empathy, 
+* educate calmly the other person what she or be could say or do instead to show me respectful understanding,
+* or when my message isn't understood when I say it in a peaceful, calm way, then *scream vulnerably*
+* or *leave and process what happened and continue in discussion later
+
+---
+
+Die Voraussetzung ist 
+
+* "Hätten wir keine Leiden erlebt, würden wir glücklich leben." 
+* "Hätten wir keine Fehler gemacht, würden wir am schnellsten lernen."
+
+Das alles haben versucht uns unsere Eltern, Lehrer, Pfarer, Manager und andere Authoritäten beibringen. Sie lagen aber falsch, weil es sehr kostlich für uns sind, weil wir dann mit unserer Freude an Arbeit, mit Genuss an Lernen und mit unserer mentalen und psychischen Gesundheit bezahlen. Und diese Preis, diese Kosten, kann man überhaupt nicht mit Geld korrigieren oder ersetzen.
+
+---
+
+sadness as a way of life +
+traurigkeit als lebensweise +
+smútok ako životný štýl
+
+---
+
+I want to see entire systems to be directly democratic, in order to have quick self-reflection to transform these systems, and keep it transformed to create a new 'normal'.
+
+---
+
+pre niekoho hadka, pre ineho diskusia +
+pre niekoho hnus, pre ineho delikatesa
+
+---
+
+Gott hat die Natur kreiert. Die Natur ist vollkommen sogar in ihren Fehlern. Ein Mensch ist ein Teil der Natur. Der Mensch ist vollkommen in seinen Fehlern. Wir sind vollkommen in unseren Fehlern.
+
+---
+
+die religion sagt,  die pfarer sagen: "seien sie perfekt, wie perfekt ihr himmlicher vater ist." und ich sage zur religion und den pfarern: "genau das ist der grund, warum immer mehr menschen so viel unter depression und psychische störungen leiden, und warum wir nicht fähig sind, uns das leben zu genießen."
+
+---
+
+beschuldigungen, kritik, vorwürfe, streitereien, auslachung, panik, stress, schuld oder schamerregung = interesse, pflege der anderen person um meine bequemheit, zufriedenheit, freiheit. obwohl es mich plötzlich verletzen mag, weil ich mehr empathie und verständnis meiner gefühle brauche, ich kann mir diese verletzende worte und taten als geschenke interpretieren, wie die anderen mein leben bereichern wollen. wenn es für mich unerträglich schmerzhaft ist, was sie gemacht oder gesagt haben, ICH gebe ihnen meine geschenke und sage ihnen, wie sie mein leben anders bereichern können. ich gebe den anderen das geschenk meiner schmerz. ich sage ihnen, was ich möchte, wie anders können sie denken, was anders können sie sagen, was anders können sie tun, um meine und ihre innere ruhe, unsere ruhe in der seele, zu beschützen.
+
+---
+
+different kinds of beauty +
+different kinds of intimity +
+beauty and intimity with honor, dignity, authenticity, privacy. for everybody, but  especially for girls and women +
+without sexualization, objectification, suffering, addiction promoting or any kind of direct or indirect violence
+
+---
+
+Psychosomatics example
+
+* crying / Weinen: a emotional thought in psyché causes a somatic reaction of crying
+
+Mindfulness example
+
+* myocardial infarction: you feel discomfort, pain, pressure under the chestbone area, although you don't see the heart or wound or trombus, you feel it; if there is no immediate medical intervention, the person's life is endangered.
+
+---
+
+*I want to see, how parents, managers, and teachers - especially  at the universities - take responsibility for the environment they create, pedagogy they practice, for values they're educating the students and others, and for the consequences it has on the students and people around them!* Authorities! Take responsibility! Face consequences! Admit that you're in pain! Admit that you fucked up! Lead by example!
