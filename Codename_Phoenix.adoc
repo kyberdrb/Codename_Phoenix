@@ -6397,7 +6397,7 @@ Und diese Gefühle erlebte ich regelmäßig, sie wurden und immer noch sind so s
 
 ---
 
-Odvodzovanie si vlastnej hodnoty od vykonov
+Odvodzovanie si vlastnej hodnoty od vykonov, majetku, zamestnania, znamosti ... od vonkajsich vplyvov - tak ako nas vychovali - kym sa neprevychovame
 
 Ked som pracoval vo firme, zo zaciatku ma to bavilo: riesit ulohy, skumat, skusat, hrat sa s rieseniami... Ale postupne som si zacal pracu brat domov, lebo som bol rozbehnuty z prace a chcel som uzavriet par veci. V praci som sa nedokazal sustredit na pracu, lebo som si nerozumel s kolegami v kancelarii, tak som radsej nad pracou rozmyslal doma, namiesto toho, aby som oddychoval.
 
@@ -6588,13 +6588,13 @@ Now you have power with that person. Now the other people have no power over you
 
 *Čo si ostatní o tebe pomyslia? / Was würden die Anderen über dich denken? / What will the others think of you?* [Chcel by som, aby si mysleli, že to čo robím, je tá najúžasnejšia vec na svete, akú môžem robiť. Chcel by som, aby ostatní videli, aký krásny je dar rozmanitosti. Ako nás Boh požehnal rôznorodosťou. Že existujú aj iné spôsoby, ako premýšľať nad ostatnými, nad udalosťami, ktore podporuju sucit, pokoj a radost zo zivota.]
 
-#### Dissolve revenge, retribution, resentment, desire to punish
+### Dissolve revenge, retribution, resentment, desire to punish
 
 * Čo by som chcel, aby ten druhý povedal, aby som bol spokojný?
 * Ako by som preložil to, čo som počul do nenásilnej komunikácie?
 * Čo by som chcel, aby ten druhý povedal, aby to bolo v súlade s princípmi nenásilnej komunikácie? [a tak videl jeho alebo jej ľudskosť, a tak si uchránil svoj pokoj v duši, aby som sa mohol lepšie sústrediť na starostlivosť o druhého, nie na to, kto má pravdu.]
 
-#### Dissolve fear of programming
+### Dissolve fear of programming
 
 * *Ich gehe nicht programmieren. Ich gehe mich um den Code kümmern. Ich gehe mich um ein Softwareprojekt kümmern.*
 
