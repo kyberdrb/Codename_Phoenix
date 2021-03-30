@@ -64,6 +64,12 @@ The needs is *the only reason*, why I'm feeling the way I'm feeling. Not the act
 link:https://storage.googleapis.com/cdn.thenewstack.io/media/2018/03/4d780610-screenshot-from-star-asciimation-wars.png[Inspiration]
 * things that you cannot buy, that are not even things, but that matter the most
 * foundation of life
+* one of the parts of empathy
+
+*What is empathy?*
+
+* respectful understanding of one's experiences
+* treating someones experiences with care, softness, gentleness, because the experiences may be fragile
 
 Properties of needs:
 
@@ -391,7 +397,8 @@ vedomie, že na mne a mojich potrebách záleží, že moje potreby sú dôleži
 * lightness / Leichtigkeit / ľahkosť
 * fluency, smoothness / Flüssigkeit / plynulosť
 * gracefulness / Anmut / ladnosť
-* elegance / elegancia
+* elegance / Eleganz / elegancia
+* airiness / Lüftigkeit, Nonchalance / vzdušnosť, bezstarostnosť
 * endurance, tenacity / Ausdauer, Beharrlichkeit / vytrvalosť, húževnatosť
 * naturalness / Natürlichkeit / prírodnosť, prirodzenosť
 * resonance / Resonanz / rezonancia, súzvuk
@@ -824,6 +831,7 @@ spreche, mit jemandem spreche, schreibe, zuhöre, mich dusche, mich mit kaltem W
   ** God has no religion. [Ghandi]
 * Canadian values: Peace, Order and Good Government vs US values: Life, Liberty and Pursuit of Happiness
 * freedom of speech vs responsibility of speech
+* Duty and Obligation vs Freedom and Responsibility
 * link:https://www.fachverband-gfk.org/wp-documents/anlage_3_schluesselunterscheidungen.pdf[und mehr Unterschiede...]
 
 Culturally learned beliefs - Life-harming beliefs - irrational beliefs:
@@ -937,6 +945,9 @@ link:https://en.wikipedia.org/wiki/Peter_principle#Summary[Peter Principle: Pete
 * expecting the best of myself [link:https://www.youtube.com/watch?v=p6Jp_xt2Xo4[John Cacioppo: Social Isolation], [Loneliness]]
 * eine Gruppe Leute, auf die ich mich immer verlassen kann, und die ich vertrauten kann
 * eine intime Beziehung, in der wir beide uns gegenseitig vertrauen
+* link:https://www.strongtowns.org/journal/2020/3/25/how-the-coronavirus-is-exposing-the-fragility-of-our-economy[antifragility] - persistent change [not the bullshit of returning 'back to normal' which is totally fragile, fabricated and unsustainable, but getting used to the 'new, more natural, more humane "normal"']
+  ** 11:20-11:29 :What is _fragile_? *Fragile is something, when exposed to disorder, falls apart, breaks.*
+  ** 21:04- : We've got ourselves into a really, really fragile place. This [coronavirus pandemic] just revealed to us. ... How do we crate systems that are bottom up, have really good feedback [self-reflection], are very robust, grow stronger over time as they're a subject of stress
 
 *2.) Preparation / Vorbereitung*
 
@@ -2938,7 +2949,16 @@ link:???[Maya Angelou]
   *This is a good example where the truth sets us free. The truth is, this person has feelings and needs. So why get caught up in their images?*
 ** 1:05:01-1:06:09 https://www.youtube.com/watch?v=8kaVztNodEM&feature=youtu.be&t=3901
   *** *Better to have [the Nonviolent Communication] in your heart and be broken for the words. "Whenever I really get connected to that energy, even when I speak jackal it's giraffe." So the words aren't as important as the consciousness of why I'm interrested in giraffe. The quality of the connection. If that's really what you're after, the words come with practice. But it's that spiritual quality at the beginning. Without that [spiritual quality] the rest doesn't help.*
-** 1:39:07-
+** 1:39:07-1:41:09
+  *** [It's] very important to understand the two uses of the word judgment in English. Because one are very critical, you can't live without it, and the other you're likely to die with it. We've got to get these to clear.
+  *** *[Life-Serving Judgements] The value judgments that we can't live without.* +
+  *Each of us each moment has to make certain value judgments about what is conducive to life and what isn't. What's best for us?* +
+  We make that judgment when we pick food, we don't run out in front of a car... We have all kinds of judgments that we're constantly making about what's good for our well-being and what isn't.
+  *** *[Moralistic Judgements] The other use of the word judgment is *what we do when somebody doesn't behave in a way that is in harmony with our value judgment.* If we then say that they are sick, bad, stupid, inappropriate... 
+  *If we label them in any way that implies that they are they deserve blame and punishment, it's that use of judgment that I think is counterproductive.*
+  *** So we don't want to mix that up as parents. For example we want to be very explicit in giraffe +
+   +
+  *"Here are my values. This is what I really [believe in and] how I want us as a family to behave. Here is what I would like you to do. I'm not going to be shy, and I hope that in my life and all of the years that I lived I have something to offer you I want to make it available to you. I'm not permissive. Here's what I believe. Here's what I value. It's yours. When I value it so much I know I don't have to use coercive means to sell you on it. I only want you to do this if you're willing. I don't want to force you to not hear a good thing because you and I get into a power struggle. So here's what I value but please do it only when you really feel that this is contributing to life."* And that's how we make our value judgments in giraffe.
   
 * link:https://www.youtube.com/watch?v=l7TONauJGfc[NVC Marshall Rosenberg - San Francisco Workshop - FULL ENGLISH SUBTITLES TRANSCRIPTION]
   ** 1:24:02-1:25:07 https://www.youtube.com/watch?v=l7TONauJGfc&feature=youtu.be&t=5042
@@ -6663,7 +6683,7 @@ Why people fear of anarchy? Because everybody does what they want. That was, tha
 ---
 
 Das christliche Leben ist erbaut, verbessert, und verändert durch die Gemeinschaft mit Jesus Christus, freiwillig und ungezwungen. +
-link:https://www.gottes-wort.com/erneuerung.html[ERNEUERUNG: GOTTES INNERE VERÄNDERUNGEN - Ungezwungen]
+link:https://www.gottes-wort.com/erneuerung.html[ERNEUERUNG: GOTTES INNERE VERÄNDERUNGEN - Kapitel "Ungezwungen"]
 
 ---
 
@@ -6931,6 +6951,8 @@ es ist schwierig für mich eine beziehung, besonders eine intime oder profession
 
 Luxus stelle ich mir anders aus: einfach reparierbare, robuste, ökologische - bei der Herstellung und beim Nutzen - nachhaltige Produkte.
 
+this godforsaken kitchen mini blender
+
 ---
 
 Len pre to, že je niečo v súlade so zákonom, neznamená, že je to morálne, etické alebo dlhodobo udržateľné. +
@@ -6971,7 +6993,7 @@ systems that will be receptive for self-reflexion. directly democratic systems t
 
 ---
 
-co by som ja mohol povedat, aby som poucil toho druheho cloveka? co by som vtedy mohol povedat, aby som jemu alebo jej ukazal, aka odpoved alebo cinnost od neho alebo od nej by mi danej chvili obohatila zivot najviac? stara mama: co si si to nedal skor robit. poor her. how could she enjoy life when shes making accusations all the time
+co by som ja mohol povedat, aby som poucil toho druheho cloveka? co by som vtedy mohol povedat, aby som jemu alebo jej ukazal, aka odpoved alebo cinnost od neho alebo od nej by mi danej chvili obohatila zivot najviac? stara mama: co si si to nedal skor robit. poor her. how could she enjoy life when shes making accusations and blames all the time. Nobody is good enough for her. Poor her. Mother thinks the same way. My sister thinks the same way.
 
 ---
 
@@ -7017,20 +7039,24 @@ pre niekoho hnus, pre ineho delikatesa
 
 Gott hat die Natur kreiert. Die Natur ist vollkommen sogar in ihren Fehlern. Ein Mensch ist ein Teil der Natur. Der Mensch ist vollkommen in seinen Fehlern. Wir sind vollkommen in unseren Fehlern.
 
+*Wir sind vollkommen in unseren Fehlern.*
+
 ---
 
 die religion sagt,  die pfarer sagen: "seien sie perfekt, wie perfekt ihr himmlicher vater ist." und ich sage zur religion und den pfarern: "genau das ist der grund, warum immer mehr menschen so viel unter depression und psychische störungen leiden, und warum wir nicht fähig sind, uns das leben zu genießen."
 
+Denk daran, dass Gott keine Religion hat.
+
 ---
 
-beschuldigungen, kritik, vorwürfe, streitereien, auslachung, panik, stress, schuld oder schamerregung = interesse, pflege der anderen person um meine bequemheit, zufriedenheit, freiheit, um eine beziehung mit mir, und will mir eine beziehung voller tiefen, emotionalen, empathischen verständnis, aber bittet darum in einer verzweifelten, schmerzvollen weise. obwohl es mich plötzlich verletzen mag, weil ich mehr empathie und verständnis meiner gefühle brauche, ich kann mir diese verletzende worte und taten als geschenke interpretieren, wie die anderen mein leben bereichern wollen. wenn es für mich unerträglich schmerzhaft ist, was sie gemacht oder gesagt haben, ICH gebe ihnen meine geschenke und sage ihnen, wie sie mein leben anders bereichern können. ich gebe den anderen das geschenk meiner schmerz. ich sage ihnen, was ich möchte, wie anders können sie denken, was anders können sie sagen, was anders können sie tun, um meine und ihre innere ruhe, unsere ruhe in der seele, zu beschützen.
+*beschuldigungen, kritik, vorwürfe, streitereien, auslachung, panik, stress, schuld oder schamerregung = interesse, pflege der anderen person um meine bequemheit, zufriedenheit, freiheit, um eine beziehung mit mir, und will mir eine beziehung voller tiefen, emotionalen, empathischen verständnis, aber bittet darum in einer verzweifelten, schmerzvollen weise. obwohl es mich plötzlich verletzen mag, weil ich mehr empathie und verständnis meiner gefühle brauche, ich kann mir diese verletzende worte und taten als geschenke interpretieren, wie die anderen mein leben bereichern wollen. wenn es für mich unerträglich schmerzhaft ist, was sie gemacht oder gesagt haben, ICH gebe ihnen meine geschenke und sage ihnen, wie sie mein leben anders bereichern können. ich gebe den anderen das geschenk meiner schmerz. ich sage ihnen, was ich möchte, wie anders können sie denken, was anders können sie sagen, was anders können sie tun, um meine und ihre innere ruhe, unsere ruhe in der seele, zu beschützen.*
 
 ---
 
 different kinds of beauty +
 different kinds of intimity +
 beauty and intimity with honor, dignity, humanity, authenticity, privacy. for everybody, but  especially for girls and women +
-without sexualization, objectification, suffering, addiction promoting, product promoting or any kind of direct or indirect violence
+without sexualization, objectification, suffering, addiction promoting, product promoting, service promoting, turning them into things or objects or doing any kind of direct or indirect violence to them.
 
 ---
 
@@ -7051,5 +7077,13 @@ Mindfulness example
 There are multiple truths
 * emotional truth / mindfulness: feelings and needs
 * observation: what I see, hear, taste, smell, touch and sense internally
-* mathematical truth
+* mathematical truth: what we can calculate and measure
 * and surely many others
+
+---
+
+Just because something is in accordance to the law, doesn't mean it's moral, ethical or sustainable in the long-term. +
+Nur deswegen, dass etwas in Übereinstimmung mit dem Gesetz, bedeutet nicht, dass es moral, ethisch oder langfristig nachhaltig ist. +
+Len preto, že je niečo v súlade so zákonom, neznamená, že je to morálne, etické alebo dlhodobo udržateľné.
+
+---
