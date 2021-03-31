@@ -881,7 +881,8 @@ You can try so hard, as hard as you can, to achieve something, when you don't ha
   ** Konspirationstheorien, die das Beste in den Leuten suchen, beschützen meine Ruhe in der Seele, meine innere Ruhe und Frieden.
 * freedom to choose my own interpretation - freedom to choose the interpretation that will enrich my life the most and protect my peace of soul with the respect to others
 * unconditional tolerance
-  ** tolerance to other people's beliefs, ideologies and worldviews
+  ** tolerance to other people's beliefs, ideologies, worldviews, religions, cultures, ethnic groups
+  ** Ich muss nicht notwendig damit einverstanden sein, aber ich verstehe.
 * vzťah plný hlbokého porozumenia, nehy a nesexuálnej intimity (túlenia, maznania, dotýkania, hladkania, škrabkania, šteklenia, bozkávania)
 * deep, healing, unconditional, emotional, respectful, empathic understanding = empathy
 * sincere, healing, unconditional, empathic gratitude
@@ -945,9 +946,23 @@ link:https://en.wikipedia.org/wiki/Peter_principle#Summary[Peter Principle: Pete
 * expecting the best of myself [link:https://www.youtube.com/watch?v=p6Jp_xt2Xo4[John Cacioppo: Social Isolation], [Loneliness]]
 * eine Gruppe Leute, auf die ich mich immer verlassen kann, und die ich vertrauten kann
 * eine intime Beziehung, in der wir beide uns gegenseitig vertrauen
-* link:https://www.strongtowns.org/journal/2020/3/25/how-the-coronavirus-is-exposing-the-fragility-of-our-economy[antifragility] - persistent change [not the bullshit of returning 'back to normal' which is totally fragile, fabricated and unsustainable, but getting used to the 'new, more natural, more humane "normal"']
-  ** 11:20-11:29 :What is _fragile_? *Fragile is something, when exposed to disorder, falls apart, breaks.*
-  ** 21:04- : We've got ourselves into a really, really fragile place. This [coronavirus pandemic] just revealed to us. ... How do we crate systems that are bottom up, have really good feedback [self-reflection], are very robust, grow stronger over time as they're a subject of stress
+* antifragility - [link:https://en.wikipedia.org/wiki/Antifragility[definition]] [link:https://www.strongtowns.org/journal/2020/3/25/how-the-coronavirus-is-exposing-the-fragility-of-our-economy[podcast]] - [persistent change, not the bullshit of returning 'back to normal' which is totally fragile, fabricated and unsustainable, but getting used to the 'new, more natural, more humane "normal"']
+  ** 5:05-5:55 : [The new people in a company need ramp up time, that help them to get acclimated.] I feel bad because we've got these delightful new people, they're just wonderful, amazing. *They're being throwned, in a sense, into a fire.* [which is something I would like to avoid - I would rather take the ramp-up time slower because I have bad, brutal experiences with so called 'work culture' and 'cooperation', 'competition', 'efficiency', 'productivity' and other myths and contradictions.]
+  ** 11:20-11:29: What is _fragile_? *Fragile is something, when exposed to disorder [entropy, chaos], falls apart, breaks.* International supply chains are increadibly fragile ... [because] it touches so many hands [there are very many moving pieces, it's massive]. +
+  *What is the opposite of being fragile?* Resilient, robust? *Robust means "you can take a hit and keep on going."* +
+   +
+  *Antifragile is something that gets stronger the more stress is subjected to them.* When that disorder takes down the fragile systems, the antifragile systems become stronger. +
+   +
+  e.g. *bones* - exercising makes them stronger; *fasting* - better immune response
+  ** 16:49-16:58: [We're] a part of this whole debt based economic system where if payments don't get made on time, the whole thing starts to collapse.
+  ** 18:15-18:39: It's just a matter of *"Do you wanna really double down on what is clearly very fragile [and still writing trillion dollar checks to bail out these big fragile players], or do we migrate to a different model?" And to me this different model is the bottom-up one.*
+  ** 19:49-20:28: [I wanted to] go back and repost half the stories I've written in the last decade, like *"Look! I was saying this! Look! Listen! and now "Okay. Now we're here. What do we do?"* The analogy is that + 
+   +
+  *"Don't focus on the last truck that went over that rickety bridge. The last truck that went over that rickety bridge took down the bridge? No! It's really the fact that you've build a rickety bridge. That was the problem. [The systems are fragile, and it's up to the individual to put up with that.]"* +
+  ** 21:04-21:40 : We've got ourselves into a really, really fragile place. This [coronavirus pandemic] just revealed that to us. ... How do we crate systems that are bottom up, have really good feedback [loops] [self-reflection], are very robust, grow stronger over time as they're a subject of stress. [Nonviolent Communication? Human Scale Economy and Barefoot Economics from Manfred Max-Neef? Focus on humanness, care, freedom and responsibility? Traditional, egalitarian cities?]
+  ** 21:41-22:34: [We used to live in traditional cities] before we've started to selling our whole way of life for the sake of _'efficiency'_. .. *[How can we manufacture products closer to the places where they're consumed, and produce them simpler, cheaper and more ecologically]?*
+  ** 23:54-23:58: *How do we think about the future we want to rebuild?*
+  ** 24:29-24:26: It may also mean [we'll start to notice thanks to this pandemic things that we were mostly overlooking or took for granted]. *I think [this pandemic may make us] better people. That's my optimism about this time.*
 
 *2.) Preparation / Vorbereitung*
 
@@ -994,66 +1009,67 @@ link:https://en.wikipedia.org/wiki/Peter_principle#Summary[Peter Principle: Pete
   Das, dass ich lerne ist wichtiger, als das, wie gut [oder schnell] ich lerne. +
   link:???[Alfie Kohn ??? + Cedric Dumont - From Fear to Flow ???]
 * People who I let myself to inspire from / Leute von denen ich mich inspirieren lasse:
-** Ivo Toman - TAXUS Learninig - Lernen einer Fremdsprache durch gleichzeitiges Hören und Lesen eines wortwortlichen Textes in der Mutter- oder Fremdsprache, der zu dem gehörtem Text gehört.
-** *Wim Hof - Wim Hof Methode*
-** Marie Kondo - Konmari-Methode
-** Blue Zones / Blaue Zonen - Forschung; überdurchschnittliche Gebiete mit überdurchschnittlicher Lebenslänge, z. B. Moai: Okinawa-Japan
-** Simon Sinek - Intensity vs Consistency
-** Josh Millburn & Ryan Nycodemus - minimalizmus
-** Fumio Sasaki - minimalizmus
-** *Maria Montessori - education; Buch: Montessori method / Il metodo della pedagogia scientifica applicato all'educazione infantile nelle case dei bambini* link:[(Maria Montessori - thehistorychicks: 1:24:24-1:24:32)]
-** *Lucia Rolcekova - Pilates, Physiotherapie; ActiveClinic*
-** *Kristina Zanova - Yoga; Rücken Rollen; ActiveClinic*
-** Matus Chochlik - FRI UNIZA -> GlobalLogic
-** Zdenko Pavlik - Scheid & Bachmann Zilina - Tankstellenabteilung -> GlobalLogic
-** James W. Pennebaker - Expressive writing
-** *Marshall B. Rosenberg - NVC: Nonviolent Communication*
-** *Alfie Kohn - education, parenting*
-** *Peter Gray - SDE: Self-Directed Education; play; Buch: Free to Play*
-** Bethany Butzer - Stop trying so hard. Achieve more by doing less. Reference to Doug Newburg's research.
-** *Doug Newburg - RPM: Resonance Performance Model*
-** Milan Ondrasovic - Referenz zu Autophagozytose von Yoshinori Ohsumi
-** Yoshinori Ohsumi - Autophagozytose: Hungern und seine Folgen aufs Gesundheit
-** *Mihály Csíkszentmihályi - Flow*
-** Cedric Dumont - From fear to Flow
-** Miki Kashtan - NVC Management and Leadership
-** *Daniel Markovits - Buch: The Meritocracy Trap*; Excellence vs. Superiority; "It's not about working hard, it's about doing the hard work." - connection to research from Doug Newburg: Resonance Performance Model
-** Lawrence Chong - Economy of Communion
-** *Manfred Max-Neef - Barefoot Economy*: Economy based on fulfilling of each other's needs; **Human Scale Development**
-** Christian Felber - Economy of Common Good / Gemeinwohl-Ökonomie
-** Scott Meyers - Effective C++, More Effective C++
-** Martin Fowler - Refactoring to Patterns
-** Howard Zehr - Restorative Justice
-** David Barter - Restorative Justice with NVC
-** Carl R. Rogers - Humanistic Psychology; Humanism; Reference from M. B. Rosenberg and Alfie Kohn
-** Mark Shepard - Permaculture; Buch: Restoration Agriculture
-** Peter Kropotkin (Pyotr Alexeyevich Kropotkin) - Anarcho-Communism, Kommunistischer Anarchismus; Bücher: Anarchist Communism: Its Basis and Principles; The Conquest of Bread
-** David Harvey - Buch: The 17 Contradiction of Capitalism
-** Ha-Joon Chang - Buch: 23 Thing They Don't Tell You About Capitalism; heterodox/heterogenous economy
-** Mark Fisher - Buch: Capitalist Realism
-** David Graeber - Bücher: Debt: The First 5000 Years; Bullshit Jobs
-** Paulo Freire - Buch: Pedagogy of the Oppressed; Critical Pedagogy
-** Sugata Mitra - link:https://en.wikipedia.org/wiki/Minimally_invasive_education[Minimally invasive education]
-  *** Minimally invasive education is a form of learning in which children operate in unsupervised environments.
-** Samuel P. Oliner, Pearl M. Oliner - Buch: _The Altruistic Personality: Rescuers of Jews in Nazi Europe_
-** Sepp Holzer - Permakultur; Buch: Zahrada k nakousnuti
-** Walter Kaufmann - Without Guilt and Justice: From Decidophobia to Autonomy
-    *** breaking the concept of "deserve"
-    *** suicidal effects and contradictory nature of retributive justice
-** James Gilligan - Violence: Our Deadly Epidemic and its Causes
-** Elizabeth M. Elliott - Security, with Care: Restorative Justice and Healthy Societies
-** Elinor Ostrom - Book: Governing the Commons: The Evolution of Institutions for Collective Action; The Tragedy of the Commons research; Design Principles for Collective Managing of Shared Resources - Arguments for collective ownership, collective decision making, direct democracy, and their mix with private [land] ownership
-  *** https://www.davidharvey.org/media/Harvey_on_the_Commons.pdf
-** Bruce Lipton, Peter Spork - Epigenetics
-** Thomas Szasz - Bücher: The Myth of the Mental Illness; Liberation by Oppression
-** John Cacioppo - Loneliness; Buch: Loneliness: Human Nature and the Need for Social Connection
-** Rafah Harfoush - born in Syria, lives in Canada, teaches in Paris,France; Buch: Hustle and Float: Reclaim Your Creativity and Thrive in a World Obsessed with Work [similarity to Bethany Butzer]
-** Brian Robertson - Holacracy [self-management system - transforming Superiority into Excellence - similarity to Daniel Markovits': link:https://www.youtube.com/watch?v=BLEvJUNfyBY&feature=youtu.be&t=592[Is Meritocracy a Sham? | Amanpour and Company - Difference between Excellence and Superiority: 9:52-11:32]]
-** Juraj Čokyna - Buch: link:https://www.martinus.sk/?uItem=681899[A okraje máš kde?]; Teach for Slovakia
-  *** pedagogy of the poor [similarity to the Paulo Freire]
-** Júlia Šimeková - Psychologin/Psychoterapeutin bei *O dušu o.z.*
-  *** systemický prístup (systemic approach): Krátka terapia zameraná na riešenie (Steve de Sheizer); Naratívna systemická terapia (Epston)
-** Robert Schleip - Fascia and its reactions to chemicals, emotions and movement
+  ** [line-through]#Ivo Toman - TAXUS Learning - Lernen einer Fremdsprache durch gleichzeitiges Hören und Lesen eines wortwortlichen Textes in der Mutter- oder Fremdsprache, der zu dem gehörtem Text gehört.#
+  ** *Wim Hof - Wim Hof Methode*
+  ** Marie Kondo - Konmari-Methode
+  ** Blue Zones / Blaue Zonen - Forschung; überdurchschnittliche Gebiete mit überdurchschnittlicher Lebenslänge, z. B. Moai: Okinawa-Japan
+  ** Simon Sinek - Intensity vs Consistency
+  ** Josh Millburn & Ryan Nycodemus - minimalizmus
+  ** Fumio Sasaki - minimalizmus
+  ** *Maria Montessori - education; Buch: Montessori method / Il metodo della pedagogia scientifica applicato all'educazione infantile nelle case dei bambini* link:[(Maria Montessori - thehistorychicks: 1:24:24-1:24:32)]
+  ** *Lucia Rolcekova - Pilates, Physiotherapie; ActiveClinic*
+  ** *Kristina Zanova - Yoga; Rücken Rollen; ActiveClinic*
+  ** Matus Chochlik - FRI UNIZA -> GlobalLogic
+  ** Zdenko Pavlik - Scheid & Bachmann Zilina - Tankstellenabteilung -> GlobalLogic
+  ** James W. Pennebaker - Expressive writing
+  ** *Marshall B. Rosenberg - NVC: Nonviolent Communication*
+  ** *Alfie Kohn - education, parenting*
+  ** *Peter Gray - SDE: Self-Directed Education; play; Buch: Free to Play*
+  ** Bethany Butzer - Stop trying so hard. Achieve more by doing less. Reference to Doug Newburg's research.
+  ** *Doug Newburg - RPM: Resonance Performance Model*
+  ** Milan Ondrasovic - Referenz zu Autophagozytose von Yoshinori Ohsumi
+  ** Yoshinori Ohsumi - Autophagozytose: Hungern und seine Folgen aufs Gesundheit
+  ** *Mihály Csíkszentmihályi - Flow*
+  ** Cedric Dumont - From fear to Flow
+  ** Miki Kashtan - NVC Management and Leadership
+  ** *Daniel Markovits - Buch: The Meritocracy Trap*; Excellence vs. Superiority; "It's not about working hard, it's about doing the hard work." - connection to research from Doug Newburg: Resonance Performance Model
+  ** Lawrence Chong - Economy of Communion
+  ** *Manfred Max-Neef - Barefoot Economy*: Economy based on fulfilling of each other's needs; **Human Scale Development**
+  ** Christian Felber - Economy of Common Good / Gemeinwohl-Ökonomie
+  ** Scott Meyers - Effective C++, More Effective C++
+  ** Martin Fowler - Refactoring to Patterns
+  ** Howard Zehr - Restorative Justice
+  ** David Barter - Restorative Justice with NVC
+  ** Carl R. Rogers - Humanistic Psychology; Humanism; Reference from M. B. Rosenberg and Alfie Kohn
+  ** Mark Shepard - Permaculture; Buch: Restoration Agriculture
+  ** Peter Kropotkin (Pyotr Alexeyevich Kropotkin) - Anarcho-Communism, Kommunistischer Anarchismus; Bücher: Anarchist Communism: Its Basis and Principles; The Conquest of Bread
+  ** David Harvey - Buch: The 17 Contradiction of Capitalism
+  ** Ha-Joon Chang - Buch: 23 Thing They Don't Tell You About Capitalism; heterodox/heterogenous economy
+  ** Mark Fisher - Buch: Capitalist Realism
+  ** David Graeber - Bücher: Debt: The First 5000 Years; Bullshit Jobs
+  ** Paulo Freire - Buch: Pedagogy of the Oppressed; Critical Pedagogy
+  ** Sugata Mitra - link:https://en.wikipedia.org/wiki/Minimally_invasive_education[Minimally invasive education]
+    *** Minimally invasive education is a form of learning in which children operate in unsupervised environments.
+  ** Samuel P. Oliner, Pearl M. Oliner - Buch: _The Altruistic Personality: Rescuers of Jews in Nazi Europe_
+  ** Sepp Holzer - Permakultur; Buch: Zahrada k nakousnuti
+  ** Walter Kaufmann - Without Guilt and Justice: From Decidophobia to Autonomy
+      *** breaking the concept of "deserve"
+      *** suicidal effects and contradictory nature of retributive justice
+  ** James Gilligan - Violence: Our Deadly Epidemic and its Causes
+  ** Elizabeth M. Elliott - Security, with Care: Restorative Justice and Healthy Societies
+  ** Elinor Ostrom - Book: Governing the Commons: The Evolution of Institutions for Collective Action; The Tragedy of the Commons research; Design Principles for Collective Managing of Shared Resources - Arguments for collective ownership, collective decision making, direct democracy, and their mix with private [land] ownership
+    *** https://www.davidharvey.org/media/Harvey_on_the_Commons.pdf
+  ** Bruce Lipton, Peter Spork - Epigenetics
+  ** Thomas Szasz - Bücher: The Myth of the Mental Illness; Liberation by Oppression
+  ** John Cacioppo - Loneliness; Buch: Loneliness: Human Nature and the Need for Social Connection
+  ** Rafah Harfoush - born in Syria, lives in Canada, teaches in Paris,France; Buch: Hustle and Float: Reclaim Your Creativity and Thrive in a World Obsessed with Work [similarity to Bethany Butzer]
+  ** Brian Robertson - Holacracy [self-management system - transforming Superiority into Excellence - similarity to Daniel Markovits': link:https://www.youtube.com/watch?v=BLEvJUNfyBY&feature=youtu.be&t=592[Is Meritocracy a Sham? | Amanpour and Company - Difference between Excellence and Superiority: 9:52-11:32]]
+  ** Juraj Čokyna - Buch: link:https://www.martinus.sk/?uItem=681899[A okraje máš kde?]; Teach for Slovakia
+    *** pedagogy of the poor [similarity to the Paulo Freire]
+  ** Júlia Šimeková - Psychologin/Psychoterapeutin bei *O dušu o.z.*
+    *** systemický prístup (systemic approach): Krátka terapia zameraná na riešenie (Steve de Sheizer); Naratívna systemická terapia (Epston)
+  ** Robert Schleip - Fascia and its reactions to chemicals, emotions and movement
+  ** Nassim Taleb, Chuck Marohn - Buch: Antifragile - Things that gain from disorder
 
 == Questions
 
@@ -1146,14 +1162,14 @@ included...]
 * K akým hodnotám vychovávajú rodičia svoje deti?
 * K akým hodnotám sa vychovávame navzájom?
 
-* Is that what I'm doing consistent with what I want?
-* Is that what I'm doing consistent with my long-term goals?
-* Do the things that I say and do contribute to my long term goals?
-* What are my long-term goals for other people to feel about themselves?
-* What are my long-term goals for other people to feel about their life in general? [connection to Doug Newburg - Resonance Performance Model questions]
-* Do my practices support these long-term goals?
-* Is what I do consistent with what I say and believe in?
-* What can I do for you to dissolve your concerns and doubts?
+* *Is that what I'm doing consistent with what I want?*
+* *Is that what I'm doing consistent with my long-term goals?*
+* *Do the things that I say and do contribute to my long term goals?*
+* *What are my long-term goals for other people to feel about themselves?*
+* *What are my long-term goals for other people to feel about their life in general?* [connection to Doug Newburg - Resonance Performance Model questions]
+* *Do my practices support these long-term goals?*
+* *Is what I do consistent with what I say and believe in?*
+* *What can I do for you to dissolve your concerns and doubts?*
 
 ---
 
@@ -2903,7 +2919,8 @@ Confucius
 * No minding! Just go! [Wim Hof - Fundamentals Course - 03-Energy Management]
 
 * God has no religion. [M. Gandhi] +
-link:https://www.quora.com/Why-did-Gandhi-say-god-has-no-religion?share=1[]
+link:https://www.quora.com/Why-did-Gandhi-say-god-has-no-religion?share=1[] +
+_God has all religions._
 
 * https://www.ia.gov.sk/data/files/np_PKSD/Analyzy/Stat/Prekazky_v_praci_a_ochrana_prace_NP_PKSD.pdf -- kapitola 2.12 Sabbatical - Syndróm vyhorenia
 
@@ -6981,7 +6998,7 @@ I'm transformimg the universe every day, in order to enjoy work, learning, progr
 
 ---
 
-domination systems are designed to disconnect people from their life, from their observations,  feelings, needs and requests and replaces them with moralistic judgements, analysis, diagnoses, obedience and the notion of duty.
+domination systems are designed to disconnect people from their life, from their observations,  feelings, needs and requests and replaces them with moralistic judgements, analysis, diagnoses, obedience and the consciousness, or the notion of duty.
 
 domination systems replaces our natural language, the language of life, the language for enjoying life, with the language of obedience to authority, guilt, shame, anger and depression.
 
@@ -7045,7 +7062,7 @@ Gott hat die Natur kreiert. Die Natur ist vollkommen sogar in ihren Fehlern. Ein
 
 die religion sagt,  die pfarer sagen: "seien sie perfekt, wie perfekt ihr himmlicher vater ist." und ich sage zur religion und den pfarern: "genau das ist der grund, warum immer mehr menschen so viel unter depression und psychische störungen leiden, und warum wir nicht fähig sind, uns das leben zu genießen."
 
-Denk daran, dass Gott keine Religion hat.
+Denk daran, dass Gott keine Religion hat, und hat gleichzeitig alle Religionen.
 
 ---
 
@@ -7085,5 +7102,20 @@ There are multiple truths
 Just because something is in accordance to the law, doesn't mean it's moral, ethical or sustainable in the long-term. +
 Nur deswegen, dass etwas in Übereinstimmung mit dem Gesetz, bedeutet nicht, dass es moral, ethisch oder langfristig nachhaltig ist. +
 Len preto, že je niečo v súlade so zákonom, neznamená, že je to morálne, etické alebo dlhodobo udržateľné.
+
+---
+
+V dobrom aj v zlom...
+
+No určite! To nie je moja skúsenosť. Väčšina ľudí ma mala rada len vtedy, keď zo mňa niečo mali.
+
+---
+
+Eines Tages werde ich gesund. +
+Eines Tages fange ich an zu programmieren.
+
+---
+
+Aj keď mám bolesti, trápenia a chronické choroby, stále nejakým spôsobom držím pohromade. Možno konečne som našiel vďaka týmto chorobám, traumám a bolestiam spiritualitu, ktorá je v súlade s mojimi hodnotami. Takže aj vďaka utrpeniu duševne silniem a som odolnejší, robustnejší Snažím sa hľadať to dobré na udalostiach a ľuďoch a byť si stále vedomý, prečo robím to, čo robím - aké potreby si chcem napĺňať, či tie činnosti napĺňajú moje potreby. Zamýšľam sa nad tým, ako chcem aby svet vyzeral? Ako chcem, aby ľudia rozprávali? Ako by som chcel, aby mi odpovedali, aby som bol spokojný? Ako im ohľaduplne povedať, čo mi vadí, čo mi chýba, čo by som od nich chcel, aby bol môj život, ale aj ich život pokojnejší, radostnejší? Aký spôsob myslenia uchráni, udrží a posilní môj pokoj v duši? Ale na to potrebujem tiché miesto a čas. Ale nikdy neviem koľko času. Rozmýšľam iba takto rýchlo, rýchlejšie to nejde. Iba by som sa znova zničil. Odpovede prichádzajú. Intelektuálne ich pochopiť je jednoduché. Ale pochopiť ich emocionálne ma enormne vyčerpáva. Vyžaduje to odomňa enormné úsilie a sústredenie, kým preplávam cez bahno bolesti, trápenia, tráum a cynizmu. Potom sa mi uľaví. Na chvíľu. Potom mnou zase niečo otrasie, a celé sa to začína odznova. A tak dokolečka. Neviem, či niekedy dokážem programovať s touto bolesťou. Skôr či neskôr by som aj tak znova vyhorel. Možno nadobro.
 
 ---
