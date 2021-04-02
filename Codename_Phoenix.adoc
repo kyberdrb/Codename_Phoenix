@@ -1025,7 +1025,7 @@ link:https://en.wikipedia.org/wiki/Peter_principle#Summary[Peter Principle: Pete
   ** Matus Chochlik - FRI UNIZA -> GlobalLogic
   ** Zdenko Pavlik - Scheid & Bachmann Zilina - Tankstellenabteilung -> GlobalLogic
   ** James W. Pennebaker - Expressive writing
-  ** *Marshall B. Rosenberg - NVC: Nonviolent Communication*
+  ** *Marshall Bertram Rosenberg - NVC: Nonviolent Communication*
   ** *Alfie Kohn - education, parenting*
   ** *Peter Gray - SDE: Self-Directed Education; play; Buch: Free to Play*
   ** Bethany Butzer - Stop trying so hard. Achieve more by doing less. Reference to Doug Newburg's research.
