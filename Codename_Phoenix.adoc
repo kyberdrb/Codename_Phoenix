@@ -557,9 +557,9 @@ link:???[Feelings vs Thoughts pdf]
 * abused
 * attacked
 * belitted
-* betrayed
-  ** feelings: hurt, in pain, sad, disappointed
-  ** needs: trust, support, 
+* betrayed / betrogen
+  ** feelings: pain, sadness, disappointment, rage, hatered, surprise, shock, fear
+  ** needs: trust, support, belonging
 * blamed
 * bullied
 * boxed in
@@ -685,6 +685,8 @@ link:???[Feelings vs Thoughts pdf]
 * charismatic
 * würdig
 * unwürdig
+* kresťan / Christ / christian
+* pohan / Heide / 
 
 == Feelings at fulfilled needs - Dream Feelings - Flow
 
@@ -883,8 +885,9 @@ You can try so hard, as hard as you can, to achieve something, when you don't ha
 * unconditional tolerance
   ** tolerance to other people's beliefs, ideologies, worldviews, religions, cultures, ethnic groups
   ** Ich muss nicht notwendig damit einverstanden sein, aber ich verstehe.
+  ** replacing moralistic judgements with unconditional tolerance and consciousness that even though i disagree, i understand; i can still try to stay calm and be conscious of my preferences; because my preferences are in accordance with my values and its ok when somebody disagrees with my preferences; i can still have respect and understanding of threir preferences.
 * vzťah plný hlbokého porozumenia, nehy a nesexuálnej intimity (túlenia, maznania, dotýkania, hladkania, škrabkania, šteklenia, bozkávania)
-* deep, healing, unconditional, emotional, respectful, empathic understanding = empathy
+* [mutual (ideally)] deep, healing, unconditional, emotional, respectful, empathic understanding = empathy
 * sincere, healing, unconditional, empathic gratitude
   ** for the diversity of people, animals, things, events and experiences in the world
   ** "Thank you, that you are. / Danke, dass du bist. / Ďakujem, že si."
@@ -1162,7 +1165,11 @@ included...]
 * K akým hodnotám vychovávajú rodičia svoje deti?
 * K akým hodnotám sa vychovávame navzájom?
 
-* TODO vychovavat
+* Aké deti chcú vychovávať rodičia?
+* Akých žiakov chcú vychovávať školy?
+* Akých študentov, učiteľov, ekonómov a menežérov chcú vychovávať vysoké školy?
+* Akých zamestnancov chcú vychovávať firmy?
+* Akých obyvateľov chce vychovávať štát?
 
 * *Is that what I'm doing consistent with what I want?*
 * *Is that what I'm doing consistent with my long-term goals?*
@@ -2287,9 +2294,9 @@ Sources:+
   
 * link:https://www.youtube.com/watch?v=mCyWaSPmRkA[Miki Kashtan - Social Change Series – Liberation in Three Chapters - 2 - From Competition, Command & Control to Collaboration for a Shared Purpose]
   ** 0:17-2:44
-    *** *Collaboration is a voluntary activity that starts with togetherness, shared purpose and willingness to come up with a joint strategy. Collaboration means constantly adapting to our differences.* If that's true then structures that we have in the world are fundamentally opposed to that happening. Within the context of *competition* it is incredibly difficult to create collaboration. [We assume scarce resources, not that it will be enough for everyone.] Because competition, by definition, means individuals against each other, or teams against each other, or always something against something else. 
+    *** *Collaboration [symbiosis based on excellence] is a voluntary activity that starts with togetherness, shared purpose and willingness to come up with a joint strategy. Collaboration means constantly adapting to our differences.* If that's true then structures that we have in the world are fundamentally opposed to that happening. Within the context of *competition [based on superiority]* *it is incredibly difficult to create collaboration.* [We assume scarce resources, not that it will be enough for everyone.] *Because competition, by definition, means individuals against each other, or teams against each other, or always something against something else.*
   ** 3:24-4:05
-    *** *Competition is one obstacle to collaboration. The other one is the structure of command and control.* Our current structures have *competition horizontally [among people at the same position in a hierarchy]* and *command and control vertically [from top to bottom, among different levels in a hierarchy]*. There is some competition between levels [when we deal with promotions].
+    *** *Competition is one obstacle to collaboration. The other one is the structure of command and control.* Our current structures have *competition horizontally [among people at the same position in a hierarchy]* and *command and control vertically [from top to bottom, among different levels in a hierarchy]*. There is some competition between levels [when we deal with promotions, demotions or other advantages or disadvantages].
   ** 4:53-
     *** How command and control interferes with collaboration? If I am in power, you are less likely to speak truthfully to me. If you don't speak truthfully to me, we don't collaborate. There are 4 things that you are less likely to tell me if you have less power:
     **** *Your needs*. Because the needs of the powerful, the ones on the top in a hierarchical structure, are prioritized.
@@ -2626,6 +2633,15 @@ Sources:+
     *** ... but the ususal public attitude ... is "There's nothing you can do with this population." It's like what ... I have been thaught before I first went into the prisons: "These people are untreatable. It's hopeless. Intractable. All you can do is lock them up and throw away the key." That is totally untrue. Another lesson is ... that punishment is not the answer. Although I do think that people who are harming others do need to be isolated from the community and restrained from harming others. I don't believe that throwing away the key and letting everybody out anymore, than locking them up and throwing away the key. Both of those are equally unworkable. When someone is robbing and murdering you've got to protect the public for as long time as they're continuing to be dangerous. But above and beyond that, punishment, that is the [retributive] infliction of further pain, is totally unnecessary once you've made the community safe by putting them behind locked doors. Further pain, which we call punishment, only increases the amount of violence they commit, or will commit in the future, not to mention the violence they commit in the jai or prison. So, I believe in ... restraining people who are hurting other people the same way I believe to restraining a two-year old who's running in front of traffic. If they don't respond to words and stop, you grab them, you put your arms around them, and you pull the back, so they won't get hurt [protective use of force]. But you don't hurt them. The whole point of all of this that they don't get hurt. Unfortunatelly, we've forgotten to treat adults the way we take for granted we would treat children. [I see it working both ways so that we can justify the violence done to children as well.] But adults respond to the same psychology. *The more punitive we are, the more violent society we have.* For example, the most extreme form of punishment is capital punishment.
   ** 1:07:54-1:09:08 https://www.youtube.com/watch?v=_rSYiy420B0&feature=youtu.be&t=4074
     *** ... [we know a lot more about violence than we did 40-some years ago in Massechusets Norfolk Prison - my first prison. 1:11:10] And ... our task now is to try to not only to educate ourselves about it, but also educate ... other people in positions of influence and authority. ... if you grasped the general principles I'm talking about, ... you can see for yourself how to apply them in your own particular context.
+
+* link:http://www.psych.purdue.edu/~willia55/120/9.ThinkingLanguageMM.pdf[Language and Thinking Relationship]
+  ** Language and thinking intricately intertwine. +
+  ** Heuristics are simple, thinking [and computing] strategies that allow us [and computers] to make judgments [and decisions] and solve problems [faster, at the cost of accuracy compared to algorithms. But sometimes the problem contains].
+
+* link:http://www.psych.purdue.edu/~willia55/120/9.ThinkingLanguageMM.pdf[Thinking and Language]
+  ** Linguistic: Benjamin Lee Whorf’s *Linguistic Relativity* states *language determines how we think*. This is most evident in polylinguals (speaking 2 or more languages). I.e. Someone who speaks English and Chinese will feel differently depending on which language they are using. English has many words describing personal emotions and Chinese has many words describing inter-personal emotions.
+  ** However, Thinking could occur without language. This is evident in pianists and artists where mental images nourish the mind.
+  ** Therefore, thinking and language affect each other in an enduring cycle.
 
 * link:https://www.youtube.com/watch?v=p6Jp_xt2Xo4[John Cacioppo: Social Isolation]
   ** link:https://www.youtube.com/watch?t=1112&v=p6Jp_xt2Xo4&feature=youtu.be[18:32-24:19]
@@ -4434,6 +4450,8 @@ Result of alienation: loneliness, from the lack of meaning, intimacy and communi
 * Ojibwe people (and other indigenous people in North and South America)
 * Chile - Revolution against government, constitution and economic system for better education, health care and pensions
 * The Hutterite Colonies (USA, Canada) - low-loneliness communities
+* Hopi people [link:http://www.psych.purdue.edu/~willia55/120/9.ThinkingLanguageMM.pdf[1]]
+* Dani people - Papua New Guinea [link:http://www.psych.purdue.edu/~willia55/120/9.ThinkingLanguageMM.pdf[1]]
 
 ---
 
@@ -7175,15 +7193,15 @@ You have to be brutalized in a certain way throughout your entire life from an e
 
 ---
 
-add to dream for unconditional tolerance: replacing moralistic judgements with unconditional tolerance and consciousness that even though i disagree, i understand; i can still try to stay calm and be conscious of my preferences; because my preferences are in accordance with my values and its ok when somebody disagrees with my preferences; i can still have respect and understandingfor threir preferences
-
----
-
 biases fallacies and conspirational theories doesn't have to be only bad or harmful. i can use all tese biases and fallacies and conspiration theories to promote empathy and my peace of soul. to think the best of people.
 
 ---
 
-freedom of speach - freedom to dishonor - the need for honor and accountability
+freedom of speach - freedom to dishonor, freedom to offend - the need for honor and accountability
+
+freedom of speach doesn't mean freedom to dishonor. it means freedom with responsibility. [link:https://m.huffingtonpost.co.uk/lucy-889/freedom-of-speech_b_6436852.html[1]]
+
+Solution? Maybe self-censorship. Why to rely on authorities? Do it yourself.[(link:https://www.huffingtonpost.co.uk/lucy-889/freedom-of-speech_b_6436852.html[2]]
 
 ---
 
@@ -7213,7 +7231,14 @@ even if you try, you can't do anything wrong. it's impossible.
 
 even if you try, you can't cause other people's feelings, pyschological pain or emotional suffering, or, on the other hand, hapiness, pleasure, joy of any other pleasureful feeling. any feeling. it's impossible.
 
-it' s the way of thinking that has this enormous power. I can feel the power of feelings and thinking in my body: in my heart, head, belly, stomach. we're being continuously, repetitively educated to enjoy violence on others and to use the language of donination, and think in a way that promotes violence, conflicts and pain. let's reeducate and reparent ojrsel es to the peace, calmness and deep, unconditional, mutual, emotional, empathic, healing understanding. And this way of thinking also promotes relaxation of my body, my muscles, slower hear rate and breathing. More peace of soul. The more chaos, the more peace of soul and the more gratitude for the chaos, for giving me the opportunity to exercise my new way of thinking, that promotes my inner peace, regardless of what's happening outside. My antifragile ideology :)
+it' s the way of thinking that has this enormous power. I can feel the power of feelings and thinking in my body: in my heart, head, belly, stomach. we're being continuously, repetitively educated to enjoy violence on others and to use the language of donination, and think in a way that promotes violence, conflicts and pain. But it's enormously difficult to change this way of thinking because it has been here for hundreds, maybe thousands of years, and it's being reinforced from all directions. let's reeducate and reparent ojrsel es to the peace, calmness and deep, unconditional, mutual, emotional, empathic, healing understanding. And this way of thinking also promotes relaxation of my body, my muscles, slower hear rate and breathing. More peace of soul. The more chaos, the more peace of soul and the more gratitude for the chaos, for giving me the opportunity to exercise my new way of thinking, that promotes my inner peace, regardless of what's happening outside. My antifragile ideology :)
 
 ---
 
+Linux/UNIX-based operating systems may be an example of symbiosis - cooperation based on excellence, not competition based on superiority.
+
+---
+
+Ďakujem ti, Marshall Bertram Rosensberg, za to, že si mi ukázal, že veci sa dajú robiť aj inak. Že udalosti a slová sa dajú vnímať aj tak, aby podporovali mier a pokoj v duši.
+
+---
