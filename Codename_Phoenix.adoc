@@ -1171,6 +1171,8 @@ included...]
 * Akých študentov, učiteľov, ekonómov a menežérov chcú vychovávať vysoké školy?
 * Akých zamestnancov chcú vychovávať firmy?
 * Akých obyvateľov chce vychovávať štát?
+* Akých veriacich a duchovných chcú vychovávať náboženstvá a ideológie?
+* Akých ľudí chce vychovávať ekonomika?
 
 * *Is that what I'm doing consistent with what I want?*
 * *Is that what I'm doing consistent with my long-term goals?*
