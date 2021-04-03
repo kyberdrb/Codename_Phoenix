@@ -7131,9 +7131,9 @@ There are multiple truths
 
 ---
 
-Just because something is in accordance to the law, doesn't mean it's moral, ethical or sustainable in the long-term. +
-Nur deswegen, dass etwas in Übereinstimmung mit dem Gesetz, bedeutet nicht, dass es moral, ethisch oder langfristig nachhaltig ist. +
-Len preto, že je niečo v súlade so zákonom, neznamená, že je to morálne, etické alebo dlhodobo udržateľné.
+Just because something is legal, i.e. in accordance to the law, doesn't mean it's moral, ethical or sustainable in the long-term. +
+Nur deswegen, dass etwas legal, d.h. in Übereinstimmung mit dem Gesetz, bedeutet nicht, dass es moral, ethisch oder langfristig nachhaltig ist. +
+Len preto, že je niečo legálne, t. j. v súlade so zákonom, neznamená, že je to morálne, etické alebo dlhodobo udržateľné.
 
 ---
 
