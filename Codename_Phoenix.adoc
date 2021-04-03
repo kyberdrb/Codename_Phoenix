@@ -7135,6 +7135,9 @@ Just because something is legal, i.e. in accordance to the law, doesn't mean it'
 Nur deswegen, dass etwas legal, d.h. in Übereinstimmung mit dem Gesetz, bedeutet nicht, dass es moral, ethisch oder langfristig nachhaltig ist. +
 Len preto, že je niečo legálne, t. j. v súlade so zákonom, neznamená, že je to morálne, etické alebo dlhodobo udržateľné.
 
+link:http://tsss.ca/channels/ethics/just-because-its-legal-doesnt-make-it-ethical[Just Because It’s Legal Doesn’t Make it Ethical] +
+link:https://businessethicsblog.com/2011/12/22/whats-legal-isnt-always-ethical/[What’s Legal Isn’t Always Ethical - The Business Ethics Blog]
+
 ---
 
 V dobrom aj v zlom...
