@@ -29,7 +29,12 @@ The needs is *the only reason*, why I'm feeling the way I'm feeling. Not the act
 * A present manifestation of divine energy within us. It's a life force. It's beauty. The life energy within me. link:https://www.youtube.com/watch?v=WfJ_NasCFfQ&feature=youtu.be&t=1422[Marshall Rosenberg Experiencing Needs as Gifts CD NVC Nonviolent Communication: 23:42-26:29]
 * The need is "Why you want something?" ... Then you will discover a pool of why's that all humans share. link:https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=4085[Miki Kashtan - Liberation 1: 1:08:05]
 * A need is something that all infants have. When an infant doesn't need it, it's not a need. link:https://www.youtube.com/watch?v=mErG7mSzwkc&feature=youtu.be&t=4085[Miki Kashtan - Liberation 1: 1:08:05]
-* values, reasons, causes, motives, purpose, meaning
+* value
+* princíp
+* reasons
+* causes
+* motive
+* purpose, meaning
 * filter [Marek Hayden]
 * nadhľad
 * prostriedok, ako nebrať veci osobne; ako sa odosobniť od vecí [Peter Buček]
@@ -859,12 +864,14 @@ Culturally learned beliefs - Life-harming beliefs - irrational beliefs:
 - "Netreba sa stále vyhovárať na prostredie." [Lenže, čo ak to nie sü výhovorky. Valídne sú vždy vnútorné aj vonkajšie príčiny a okolnosti. Ak by som pripisoval väčší význam iba tým vnútorným, osobným okolnostiam väčšiu váhu a zanedbával vplyv prostredia, dopustil by som sa základnej chyby atribúcie (Fundamental Attribution Error). Rastlinu tiež nesadíme medzi chemikálie. A toxické prostredie, pesticídy, počasie a zloženie pôdy tiež ovplyvňujú jej kvalitu a obsah živín, bez ohľadu, aká silná a odolná rastlina je. To isté platí pre zvieratá. To isté platí pre ľudí.]
 - Keď sa tomu nerozumieš, nechaj to tak [mamina]
 - Chcieť? Môžeš. [mamina]
-- Work has to be suffering. Work has to be unpleasant. Work has to be toil. [Miki Kashtan, Peter Gray]
+- Work has to be suffering. Work has to be unpleasant. Work has to be toil. If something has meaning, it cannot possibly be pleasurable. [Miki Kashtan, Peter Gray]
 - „Keby si sa viac snažil, mohol by si byť ako Ondrej!“ +
 „ Ako je možné, že Fero mohol mať jednotku a ty nie?“ +
 „Pozrite sa na Aničkin zošiť, takto má vyzerať krásny zošit!“ +
 „Tá písomka nemohla byť taká ťažká, keď to Evka, Lenka a Peťko zvládli bez akýchkoľvek problémov.“ +
 link:https://eduworld.sk/cd/zuzana-granska/457/jana-novackova-sutaze-by-v-skolach-mali-mat-minimalny-priestor[Jana Nováčková: Súťaže by v školách mali mať minimálny priestor - Zuzana Gránska]
+- Musím to dokončiť! [moje]
+- Keď to nejde urobiť poriadne, radšej to nechaj tak! [moje]
 
 == Resonance Performance Model [RPM]
 
@@ -1221,6 +1228,11 @@ included...]
 ---
 
 * Wie diese Nachricht beeinflüsst mein Leben jetzt? [Kritik der Nachrichten in Medien - sie sind immer länger, aber ihre Wert ist immer geringer. Sie behandeln über Probleme, die mich nicht direkt berühren. Ich habe genug meiner Sorgen.]
+
+---
+
+* Ako si predstavujem vzťah so ženou?
+* Ako by vyzeral všedný deň v domácnosti?
 
 === Connection Requests
 
@@ -3699,7 +3711,7 @@ link:https://veganvanguardpodcast.com/48-covid-19-and-seizing-the-means-part-2-w
 * I do not agree with what you have to say, but I'll defend to the death your right to say it. [Voltaire / François-Marie Arouet (1694-1778)] [link:https://www.huffingtonpost.co.uk/lucy-889/freedom-of-speech_b_6436852.html[HuffPost - The Freedom of Speech vs. the Responsibility of Freedom]] +
  +
 *[I don't agree with what may say, how you may say it, what you may do, how you may do it, what you may think or what your intentions may be, but I will always agree with the needs you want to fulfil. And I can be always grateful for these needs.]* +
-[But I also want you to see the short-term and long-term consequences of your actions, not only the freedom. I want to, and I will, hold you accountable.]
+[But I also want you to see the short-term and long-term consequences of your actions, not only the freedom. I want to, and I will, hold you accountable. I want them to take over responsibility for the consequences of their actions!]
 
 * The nakedness of standing without a frame, in a new paradigm, carries the pleasures of freedom but it also can evoke fears of looking foolish and exposed, feelings of shame that can readily erupt into rage and attack. This is the moment when we are most tempted to return to the familiar, to restore an old framework at all costs—this moment of paradigm shift, of epiphany or sudden radical insight, the creative moment in the lives of artists and scientists, the moment when our ordinary vision is removed and we come to see that the old ways of seeing were mistaken, were blinding us to what we now can see. link:https://www.uky.edu/~eushe2/quotations/gilligan.html[(Carol Gilligan, The Birth of Pleasure - Introduction)]
   ** reference to link:https://www.youtube.com/watch?v=s-1rSDJvo2U&t=301s[The Information Ecosystem: Why We’re Overwhelmed | Rahaf Harfoush: 5:01-5:08] +
@@ -7258,11 +7270,15 @@ co je to za sloboda ked "musim", ked "je to tvoja povinnost". to nie je sloboda,
 
 ---
 
-forgiveness and empathy is the same thing. 
+forgiveness and empathy is the same thing. +
+When you empathize, there is nothing to forgive. [[A Course in Miracles]]
 
-freedom and responsibility is the same thing.
-
+freedom and responsibility is the same thing. +
 there is not one without the other. otherwise relationships and systems collapse.
+
+work and play are the same thing.
+
+_to deserve_ and _to need_ is the same thing.
 
 ---
 
@@ -7348,6 +7364,10 @@ Kiež by sme sa všetci navzájom učili vnímavosti, nie k moralistickým úsud
 
 if language affects our thinking, and thinking causes our feelings, then language also affects our feeling. the way how we talk about things shapes our thoughts and feelings. so we can feel differently when we change the way we talk and think about things? our words and our thinking may come from a spirituality that is in accordance with our values, with our needs.
 
+keep in mind the power of the words.
+
+at the same time, keep in mind that the map is not the territory. the words are never what they say. we can ascribe them meaning whatever we want. we can interpret the words in a way that most enriches our life and the life of others, and preserves our power within ourselves, as opposed to giving our power away by submitting or rebelling.
+
 ---
 
 Fehler machen meine Sachen authentisch. Fehler machen mich authentisch. Authentizität, Natürlichkeit, Spontaneität ist etwas, was ich mir wertschätzen kann, nicht etwas, wofür ich mich schämen muss, weil ich "nicht normal" bin. Ich bin "normal" auf meiner eigener Weise. Jeder ist "normal" auf seiner oder ihrer eigener Weise. Und das ist in Ordnung.
@@ -7356,6 +7376,24 @@ Fehler machen meine Sachen authentisch. Fehler machen mich authentisch. Authenti
 
 Ideologie maju obvyke miesta a institucie, kde sa rozsiruju a upevnuju: krestanstvo ma kostoly, nabozenstva vseobecne maju posvätné miesta a duchovne budovy, no a kapitalizmus ma nakupne centra, akciove letaky, marketing, banky a dalsie miesta a sposoby, ako rozsirovat a upevnovat tuto ideologiu, kde prevlada vedomie "kupuj! minaj peniaze! peniaze ta robia stastnym? produkty ta robia stastnym! konzumuj! konzumuj viac! konzumuj viac sraciek! podporuj ekonomiku a hruby domaci produkt!"
 
-z krestanstva sa pomaly stava dalsia totalitna ideologia, podobne ako monarchie, fasizmus, komunizmus, aj kapitalizmus so svojim "slobodnym" trhom a zastupnou demokraciou, a meritokraciou. skoda. tolko dominancnych ideologii. podme vymysliet inu ideologiu. taku, ktora bude  podporovat zdravie: dusevne aj telesne, mier a pokoj v dusi. ideologia, ktora bude naplnat vsetky nase potreby. nie taku, ktora naplna nase penazenky a smetiska.
+z krestanstva sa pomaly stava dalsia totalitna ideologia, podobne ako monarchie, fasizmus, komunizmus, aj kapitalizmus so svojim "slobodnym" trhom a zastupnou demokraciou, a meritokraciou. skoda. tolko dominancnych ideologii. podme vymysliet inu ideologiu. taku, ktora bude  podporovat zdravie: dusevne aj telesne, mier a pokoj v dusi. ideologia, ktora bude naplnat vsetky nase potreby. nie taku, ktora naplna nase penazenky a smetiska. Lebo presne tam kapitalizmus vo svojej momentalnej, neoliberalnej forme patri: na smetisko.
+
+---
+
+Ich möchte nie meine Bedürfnisse auf Kosten des Anderen erfüllen. Ich möchte, dass der oder die Andere tut, worum ich sie bitte, nur wenn er oder sie das gerne oder freiwillig macht, oder, obwohl er oder sie damit nicht zufrieden sein mag, ist der andere Mensch bereit das zu machen.
+
+Nikdy by som si nechcel napĺňať svoje potreby na úkor niekoho iného. Chcel by som, aby ten druhý alebo tá druhá urobila, čo chcem, iba ak to urobí rada alebo dobrovoľne, alebo, hoci s tým ten druhý človek nemusí byť spokojný, tak je aspoň ochotný to urobiť.
+
+---
+
+---
+
+odkiaľ sa to nabralo, že mám tak odlišné prežívanie od ostatných?
+preco sa jednoducho nedokazem tesit zo zivota?
+co sa stalo, ze som tak ocitlivel.
+
+---
+
+co je na tom dobre, ze som prisiel o karieru, kvoli chronickej chorobe? nasiel som si novu spiritualitu? tato ekonomika serie na moju spiritualitu. ja som diera na trhu, ktoru nikto nezaplata. ani rodicia, ani menezeri, ani ucitelia, ani ekonomovia, ani nikto. zapatat sa mozem iba ha sam, ked ziskam schopnosti a prostredie, v ktorom sa dokazem ucit, a v ktorom sa budem citit vitany a v bezpeci! Potrebujem myslenie, ktore bude chranit a posilnovat moj pokoj v dusi.
 
 ---
