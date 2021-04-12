@@ -1252,6 +1252,7 @@ link:https://www.youtube.com/watch?v=AJ-ctpWQkZA&feature=youtu.be&t=4216[Nonviol
 * What do you say about it?
 * What feeling do you have from it?
 * Did something like this already happen to you? - Had something like this already happened to you? / Hat dir etwas änliches schon mal passiert?
+* Can you tell me what you heard, so that I could see that we understand each other?
 
 === Strategy Requests
 
@@ -1712,6 +1713,14 @@ link:https://www.youtube.com/watch?v=GZnXBnz2kwk&feature=youtu.be&t=92[CNVC org 
 
 ---
 
+Nonviolen communication is a dance
+
+Empathy - Honesty -- Empathy - Honesty ...
+
+Empathy - Honesty - Gratitude - Tenderness -- Empathy - Honesty - Gratitude - Tenderness ...
+
+---
+
 * What is the message of all religions?
 ** To live compassionately. To not do anything that isn't play. Unfortunately, religions are vague in the specific ways, how to live compassionately and enjoy compassionately.
 * What skill do we need to live compassionately?
@@ -1802,6 +1811,13 @@ They do what they're told by the people above. They do what their parents want. 
 The education to violence is just a temporary thing. Although it takes for approximately 5000 years. By the paleontologist Pierre Teilhard de Chardin, we are gradually returning back to the ways of living that are more natural.
 
 Everything that we do out of penitence or self-hate, fear of punishment, desire for reward, concept of deserve, duty, obligation, submission, rebellion, giving in or self-sacrifice, buying love, guilt, shame, anger, depression, everybody pays for it. Therefore *don't do things for other people. Do things only when you do so willingly to enrich your and other people's life.* If you do things from the energy that damages life, it will affect commitment to values that serve life, care about other people, depth of thinking, interest in learning, preference to challenge link:???[M.B. Rosenberg] link:???[tilt parenting - alfie kohn], link:https://www.youtube.com/watch?v=x4qRZt0VCak[Alfie Kohn at the OFJCC: Performance vs. Learning - The Costs of Overemphasizing Achievement]
+
+---
+
+More NVC resources
+
+* https://github.com/cognitivetech/Marshall-Rosenberg-NVC - cognitivetech/Marshall-Rosenberg-NVC
+  ** https://github.com/kyberdrb/Marshall-Rosenberg-NVC - kyberdrb/Marshall-Rosenberg-NVC (my fork)
 
 == Managing the commons
 
@@ -2622,7 +2638,7 @@ Sources:+
   ** 11:11-19:05
   ** 42:42-45:37
   
-* Dr. Valerie Baker also says this is because there is such a limited range of emotional expression that we are allowed under patriarchy. Men are allowed to express anger and aggression. They are not allowed to express grief, nurturing, being tender or vulnerable emotions. [Just look to any academic institution.] [When they do, they are categorized as gay] Women, on the other hand, are not allowed to express anger. We can express nurturing and vulnerability. But expressing grief is also not okay. link:https://www.learntruehealth.com/patriarchy-stress-disorder/[Patriarchy Stress Disorder]
+* Dr. Valerie Baker also says this is because there is such a limited range of emotional expression that we are allowed under patriarchy. Men are allowed to express anger and aggression. They are not allowed to express grief, nurturing, being tender or vulnerable emotions. [Just look to any academic institution.] [When men do express emotions, they are categorized as gay, pussy; sensitivity is seen as a weakness.] Women, on the other hand, are not allowed to express anger. We can express nurturing and vulnerability. But expressing grief is also not okay. link:https://www.learntruehealth.com/patriarchy-stress-disorder/[Patriarchy Stress Disorder]
 
 * link:https://www.youtube.com/watch?v=AhOcwhwumP4[Mark Fisher on why Modern Life causes Depression]
   ** 0:25-1:15 https://www.youtube.com/watch?v=AhOcwhwumP4&feature=youtu.be&t=25
@@ -3714,10 +3730,30 @@ HDP (hruby domaci produkt) zahrna (priamo ci nepriamo) aj predaj tovarov a sluzi
 link:https://80000hours.org/2015/08/what-are-the-10-most-harmful-jobs/[(What are the 10 most harmful jobs?)], +
 link:https://veganvanguardpodcast.com/48-covid-19-and-seizing-the-means-part-2-with-bitchy-shitshow/[(Mexie - veganvanguard - 48. - Covid-19 and Seizing the Means (Part 2) with Bitchy Shitshow: ??? 1:00:00)]
 
-* I do not agree with what you have to say, but I'll defend to the death your right to say it. [Voltaire / François-Marie Arouet (1694-1778)] [link:https://www.huffingtonpost.co.uk/lucy-889/freedom-of-speech_b_6436852.html[HuffPost - The Freedom of Speech vs. the Responsibility of Freedom]] +
- +
-*[I don't agree with what may say, how you may say it, what you may do, how you may do it, what you may think or what your intentions may be, but I will always agree with the needs you want to fulfil. And I can be always grateful for these needs.]* +
-[But I also want you to see the short-term and long-term consequences of your actions, not only the freedom. I want to, and I will, hold you accountable. I want them to take over responsibility for the consequences of their actions!]
+* *[I don't agree with what may say, how you may say it, what you may do, how you may do it, what you may think or what your intentions may be, but I will always agree with the needs you want to fulfil. And I can be always grateful for these needs.]* +
+[But I also want you to see the short-term and long-term consequences of your actions, not only the freedom. I want to, and I will, hold you accountable. I want them to take over responsibility for the consequences of their actions!] +
+[Voltaire / François-Marie Arouet (1694-1778)] [link:https://www.huffingtonpost.co.uk/lucy-889/freedom-of-speech_b_6436852.html[HuffPost - The Freedom of Speech vs. the Responsibility of Freedom]]
+
+* link:https://www.gottman.com/blog/stop-trying-fix-partners-feelings/[Stop Trying to Fix Your Partner’s Feelings]
+  ** As psychologist Carl Rogers put it, “When someone really hears you without passing judgment on you, without trying to take responsibility for you, without trying to mold you, it feels damn good!”
+  ** As Marshall Rosenberg says in Nonviolent Communication, “It may be difficult to empathize with those who are closest to us.” [perhaps because we care about the quality of relationship with them the most.]
+  ** Behind every complaint is a deep personal longing. [An unmet need.] When you realize this [and show yourself gratitude for the feelings and needs of the other and yourself], it becomes a lot easier to make the choice to be empathetic instead of taking your partner’s complaint personally and defending yourself.
+  ** Other empathizing statements include “Of course you feel…” and “How could you not feel…” [or "You must have felt..."]
+  ** As Brené Brown puts it, “rarely can a response make something better. What makes something better is connection.”
+
+* link:https://www.gottman.com/blog/the-one-daily-talk-that-will-benefit-your-marriage/[The One Daily Talk That Will Benefit Your Marriage]
+  ** 3. Don’t provide unsolicited solutions. It’s natural to want to fix problems or make your partner feel better when they express pain. Often partners just want an ear to listen and a shoulder to cry on. Unless your partner has asked for help, don’t try to fix the problem, change how they feel, or rescue them. Just be present with them. +
+   +
+  In heterosexual couples, men get caught up in this trap more frequently than women, but it is not the man’s responsibility to rescue his partner. Often trying to “save her” backfires. In the Love Lab, Dr. John Gottman noticed that when a wife shares her troubles, she reacts negatively to her husband offering advice right away. What she wants is to be heard and understood. +
+   +    
+  It’s not that problem-solving doesn’t have its place. It is important, but as psychologist Haim Ginott says, “Understanding must precede advice.” It’s only when your partner feels fully understood that they will be receptive to suggestions.
+  ** 4. Express your understanding and validate emotions. Let your spouse know that you understand what they are saying. Here’s a list of phrases I have my clients use.
+    *** “Hearing that makes perfect sense why you’re upset.”
+    *** “That sounds terrible.”
+    *** “I totally agree with how you see it.”
+    *** “I’d be stressed too.”
+    *** “That would have hurt my feelings too.”
+  ** 5. Take your partner’s side. Express support of your partner’s view even if you feel their perspective is unreasonable. If you back the opposition, your spouse will be resentful. When your partner reaches out for emotional support (rather than advice), your role is not to cast judgment or to tell them what to do. It’s your job to express empathy.
 
 * The nakedness of standing without a frame, in a new paradigm, carries the pleasures of freedom but it also can evoke fears of looking foolish and exposed, feelings of shame that can readily erupt into rage and attack. This is the moment when we are most tempted to return to the familiar, to restore an old framework at all costs—this moment of paradigm shift, of epiphany or sudden radical insight, the creative moment in the lives of artists and scientists, the moment when our ordinary vision is removed and we come to see that the old ways of seeing were mistaken, were blinding us to what we now can see. link:https://www.uky.edu/~eushe2/quotations/gilligan.html[(Carol Gilligan, The Birth of Pleasure - Introduction)]
   ** reference to link:https://www.youtube.com/watch?v=s-1rSDJvo2U&t=301s[The Information Ecosystem: Why We’re Overwhelmed | Rahaf Harfoush: 5:01-5:08] +
