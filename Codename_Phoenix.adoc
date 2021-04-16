@@ -919,6 +919,7 @@ You can try so hard, as hard as you can, to achieve something, when you don't ha
 * productivity with mindfulness
 * productivity with purpose
 * Pflege um Sachen, als ob sie lebending wären. / care of things, as if they were alive / starostlivosť o veci, ako keby boli živé
+* pokoj a pohoda na pracovisku, v rodine, vo vzťahoch, v duši, v tele
 
 ---
 
@@ -2451,7 +2452,8 @@ Sources:+
     *** Hundred years ago in Britain and other countries they put women to jail for asking for vote.
     *** Fifty, sixty years ago most of the founding fathers of developing nations, including Israel, were hunted down by the British and the French as terorrists.
     *** Twentyfive years ago Margaret Thatcher famously said "Anyone who thinks that there will be a black majority rule in South Africa lives in the cloud cockoo land". Which is where she was living.
-    *** *[That was the 'normal' state at that time! Therefore I'm being very cautious when I or other people describe things as 'normal' and translae it into their needs and preferences.s]*
+    *** *[Tax heavens are legal, but immoral.]*
+    *** *[That was the 'normal' state at that time! Therefore I'm being very cautious when I or other people describe things as 'normal' and rather translate it into their needs and preferences.s]*
     *** All these impossible things have happened because people fought for them. They don't give it to you. But when enough people fight for these things, things that once looked impossible can happen. [link:[Owen Jones meets Ha-Joon Chang | The economic argument against neoliberalism: 13:01-14:05]]
     *** *We need pessimism of the intellect, but optimism of the will. [Antonio Gramsci]*
     *** *It always seems impossible until it is done. [Nelson Mandela]*
@@ -2464,7 +2466,9 @@ Sources:+
 * link:https://www.youtube.com/watch?v=ti3rjogF_VU[Owen Jones meets Ha-Joon Chang | The economic argument against neoliberalism]
   ** 2:32-5:12
     *** *Socialism for the rich, capitalism for the poor a.k.a. corporate welfare a.k.a. privatize profits, socialize losses* link:https://en.wikipedia.org/wiki/Socialism_for_the_rich_and_capitalism_for_the_poor[Wiki], link:https://en.wikipedia.org/wiki/Lemon_socialism[Lemon socialism]
-    *** Businesses benefit from the public services, but when it comes to paying taxes, it's an option e.g. via paper company in some of the tax heavens, where they can ship all the profits.
+    *** *Businesses benefit from the public services, but when it comes to paying taxes, it's an option e.g. via paper company in some of the tax heavens, where they can ship all the profits.* +
+     +
+    *[Tax heavens are legal, but immoral.]*
     *** "Government is the enemy of business." and "Business people are wealth creators that shouldn't be constrained. If they don't want to pay taxes. That's their choice." are beliefs that are behind this way of thinking.
   
 * link:https://www.youtube.com/watch?v=MN9S0HD8VH8[36C3 - From Managerial Feudalism to the Revolt of the Caring Classes - David Graeber]
@@ -3945,7 +3949,7 @@ link:https://www.youtube.com/watch?v=jArsTeP66FE&feature=youtu.be&t=5863[Film 02
     Think that because somebody does something they deserve to suffer, they deserve to be punished. +
     A very dangerous word. And put those two together: *"He's doing what he shouldn't! He deserves to..."* +
     *Rewards are violent ... because they are part of 'power over' [game or authority model]. One person trying to use the power that they have _over_ another person.* +
-    *[For example] I have some money and you don't have, so I say: "You do this, I'll give you the money." ["Za čo ťa platím!"] You need to eat. "I'm not gonna give you the money unless you do this."* That's a way of using power over people.
+    *[For example] I have some money and you don't have, so I say: "You do this, I'll give you the money." ["Za čo ťa platím?!"] You need to eat. "I'm not gonna give you the money unless you do this."* That's a way of using power over people.
   ** 18:42-19:40 https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=1122
     *** Let's set boundaries, it's very important. But not [only] for children. [Set boundaries] for every human being. +
      +
@@ -4698,6 +4702,7 @@ expressive writing, empathy, NVC
 * svetloplachosť/Lichtscheu/Photophobia - susceptible to sensory overload by superstimulation
   ** pálenie, škriabanie, bolesť očí a hlavy a následná únava pri prechádzke vonku, sledovaní obrazoviek alebo čohokoľvek jasnejšieho
   ** the older I am the stronger the symptoms get
+  ** dying of exposure to light
 * visual snow
 * mouches volantes
 * NCCP: Non-Cardiac Chest Pain - somatic: spine, back tension; psychosomatic: worries, sadness, loneliness, exhaustion
@@ -7214,9 +7219,19 @@ There are multiple truths
 
 ---
 
-Just because something is legal, i.e. in accordance to the law or rules, doesn't mean it's moral, ethical or sustainable in the long-term. +
+* Just because something is legal, i.e. in accordance to the law or rules, doesn't mean it's moral, ethical or sustainable in the long-term. +
 Nur deswegen, dass etwas legal, d.h. in Übereinstimmung mit dem Gesetz oder Regeln, bedeutet nicht, dass es moral, ethisch oder langfristig nachhaltig ist. +
 Len preto, že je niečo legálne, t. j. v súlade so zákonom alebo pravidlami, neznamená, že je to morálne, etické alebo dlhodobo udržateľné.
+
+** link:https://www.youtube.com/watch?v=n5j5EW933Kw&feature=youtu.be&t=2634[Economics: The User's Guide | Ha-Joon Chang | Talks at Google: 43:54-44:28]
+  *** Two hundred years ago slavery was considered normal. [Look at the USA in 1800]
+  *** Hundred years ago in Britain and other countries they put women to jail for asking for vote.
+  *** Fifty, sixty years ago most of the founding fathers of developing nations, including Israel, were hunted down by the British and the French as terorrists.
+  *** Twentyfive years ago Margaret Thatcher famously said "Anyone who thinks that there will be a black majority rule in South Africa lives in the cloud cockoo land". Which is where she was living.
+  *** *[That was the 'normal' state at that time! Therefore I'm being very cautious when I or other people describe things as 'normal' and rather translate it into their needs and preferences.s]*
+  *** All these impossible things have happened because people fought for them. They don't give it to you. But when enough people fight for these things, things that once looked impossible can happen. [link:[Owen Jones meets Ha-Joon Chang | The economic argument against neoliberalism: 13:01-14:05]]
+
+All diese Sachen waren legal, aber unethisch, weil das auf Kosten der Gleichheit, Freiheit, Verantwortung und Leben ging. Natürlich für gute Gründe. [sarcasm]
 
 link:http://tsss.ca/channels/ethics/just-because-its-legal-doesnt-make-it-ethical[Just Because It’s Legal Doesn’t Make it Ethical] +
 link:https://businessethicsblog.com/2011/12/22/whats-legal-isnt-always-ethical/[What’s Legal Isn’t Always Ethical - The Business Ethics Blog]
@@ -7479,5 +7494,50 @@ Things can be imperfect and I can always be grateful for the needs they're fulfi
 We don't need to be perfect. We need to be robust. Antifragile.
 
 We don't need to be perfect, superior and dominating in order to be excellent.
+
+We don't have to be perfect, in order to be excellent.
+
+*We can be imperfect and still be excellent.* +
+*We can be sad and still be excellent.* +
+*We can suffer and still be excellent.* +
+*We can make mistakes and still be excellent!*
+
+---
+
+Asi napíšem knihu, alebo aspoň článok: *Spirituálne benefity chronickej choroby*
+
+Čo mi choroba dala? +
+Spiritualitu. Príležitosť rozmýšľať nad vecami, nad ktorymi by som asi nikdy nebol rozmýšľal, keby som bol zdravý. Tak sa zrodila moja ideológia, ktorú som nazval _Codename Phoenix_. Fénix zhorí na popol a znova sa z popola narodí. Ja som vyhorel a znova som sa narodil. Duchovne.
+
+---
+
+Pamätaj. Nežiješ, aby si bol zdravý a šťastný. Žiješ, aby si bol chorý, smutný. Aby si trpel. Aby si šiel príkladom. Aby si ukázal, že aj keď sa všetko rúca, lebo všetko je tak krehké a protirečí si, aj tak sa dá žiť v súlade so svojou spiritualitou. Spiritualitou ktorá mne nesmierne pomáha a druhým neškodí. Spiritualitou nenásilia.
+
+---
+
+slova nikdy nie su to, co hovoria. ale niekedy mam stale tazkosti vidiet ten vyznam za slovami. hlavne v napatych situaciach. bud chcem kricat naspat, alebo sa zlaknem a chcem co najrychlejsie ujst. 
+
+---
+
+ked si predstavim, ze budem zit v jednej domacnosti s dievcatom, citim, ako mi zviera hrdlo. je to presne ten isty pocit, ako ked som podpisoval pracovne zmluvy, alebo ked som chodieval do skoly, hlavne na zakladnej, ked som chodieval do Scheidt & Bachmann. Kazdym dalsim dnom som si prial vypadnut z toho prekliateho miesta. Srdce mi slablo a zvieralo, žalúdok aj črevo sa krútilo, celý som sa chvel.
+
+---
+
+Ich vertraue keinem Menschen, dass er mir das Beste tun will. So oft haben sich die Anderen ihre Bedürfnisse auf Kosten meiner erfüllt. Sie handelten egoistisch. Wir alle sind Egoisten. Ich bin ein Egoist. Aber es gibt mehrere Arten Egoismus. Ein Egoist versucht, seine oder ihre Bedürfnisse auf Kosten Anderer erfüllen. Wir nennen das _selbstsüchtiger Egoismus_. Andere Leute üben eine andere Art Egoismus. Ich versuche meine Bedürfnisse *mit Rücksicht* auf die Anderen. Marshall B. Rosenberg nannte das *Selbstvölligkeit*. Selbstsüchtiger Egoismus nehmt mir Geborgenheit, guten Willen, Bereitschaft, emotionale Energie und Ruhe. *Selbsterfüllender Egoismus gibt mir Geborgenheit, guten Willen, Bereitschaft, emotionale Energie und Ruhe.*
+
+---
+
+On: "Za čo ťa platím?!" +
+Ja: "Platíš ma z národného dlhu :D Za peniaze, čo dlží štát bankám :D :D Platíš ma z protirečenia kapitálu. Z protirečenia akumulácie kapitálu."
+
+---
+
+14.4.13:00 [Psychoterapia - p. Šútorová - 1. sedenie]
+
+Ja: Chcel som ešte niečo povedať..., ale už som zabudol, čo... +
+Doktorka: Ak je to dôležité, tak sa to vráti
+
+Doktorka: Teraz tlačíte na seba, aby ste netlačili. +
+Ja: Paradox.
 
 ---
