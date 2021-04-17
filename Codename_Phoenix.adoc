@@ -2520,7 +2520,11 @@ Sources:+
     
 * link:https://www.youtube.com/watch?v=PnWG0KpMnms[David Harvey - The 17 Contradictions of Capitalism]
   ** 47:13-48:58 https://www.youtube.com/watch?v=PnWG0KpMnms&feature=youtu.be&t=2833
-    *** I don't think the relation to nature and environmental issue in the end is a technical problem. It's, I think, an aesthethic, social and very human problem. That to degree to which we view nature and the natural world is purely instrumental to our own needs. We've become alienated from it. And this leads into the last notion which is the *universal alienation* which attaches to the fact that capital through commodity production defines condition of alienation. And that condition of alienation becomes the ore universal, the deeper the capital roots itself in social change [*internalized capitalism* - the more you internalize... - Pierce Delahunt]. It's very hard to think these days of meaningful jobs. It's hard to construct a meaningful life. And, I think, the loss of meaning which has come about through the new technologies of the labour process, through the new technologies of consumption, that the loss of meaning becomes in itself a destabilizing factor in a way in which the world works. 
+    *** I don't think the relation to nature and environmental issue in the end is a technical problem. It's, I think, an aesthethic, social and very human problem. *That the degree to which we view nature and the natural world is purely instrumental to our own needs. [Taking natural resources and turning it into commodities, or take something that was done between people, like empathy, and turn this into a service. - Miki Kashtan - Liberation - Part 1]* We've become alienated from [the nature]. And this leads into the last notion which is the *universal alienation* which attaches to the fact that capital through commodity production defines condition of alienation. And that condition of alienation becomes the more universal, the deeper the capital roots itself in social change. +
+     +
+    [*internalized capitalism* - the more you internalize [any domination] system, the more we ask the question "What we can extract from someone else?" which is the basis of capitalism [and domination systems]. - Pierce Delahunt]. +
+     +
+    It's very hard to think these days of meaningful jobs. It's hard to construct a meaningful life. And, I think, the loss of meaning which has come about through the new technologies of the labour process, through the new technologies of consumption, that the loss of meaning becomes in itself a destabilizing factor in a way in which the world works. 
   ** ???
     *** production and realization - not only to earn more, but also to pay less.
   ** 1:23:32-1:24:30 https://www.youtube.com/watch?v=PnWG0KpMnms&feature=youtu.be&t=5012
@@ -2534,7 +2538,13 @@ Sources:+
     *** *I'm a great believer with the idea that all politics begins in a locality. [Politics] beginns with personal, daily life.* And I don't think you can have any politics that is not rooted in daily life questions. Which is why I want to talk about the politics of realization. Because that's where people feel it. Clearly. And everybody feels in a houshold, not just the person who's working, but everybody. The kids. Everybody. But that will be scaled up in some way. ... You begin with the personal as political [Aaah, so that's where the *repolitization* comes from...]. And it's the personal response to daily life conditions which is political. *But it scales up. People come together in a factory, institutions, neighborhood, communities, and so on, so you move to a different level. So my personal politics and anger what the landlords are doing are similar to my neighbour. So there is another level which you may call a neighborhood level.* There're many different neighbourhoods. And alliances form between neighbourhoods. And people start to talk about the qualities of urban life of the city as a whole. Anarchist are very good at mobilizing in the neighborhood. They're not very good at talking how to organize a city as a whole. Water supplies, food supplies, garbage collection, sewage. Taking care of these things on a bio-regional basis. What are the ways to do that? And how do we set up an organizational form to do that? I'm talking about hierarchies here. An then the bio-regions fit into what's going on in a whole territory, like a state. *How do you put [the bio-regions] together?* *And there, this confederalism idea is important.* And you will go from all these scales to elsewhere [somewhere even higher, maybe]. So we will have these layers of activity [software layers, design and architectural patterns]. And one of the things that tended to happen is once you move through these different layers, you get a different poliltics. You get a different vision. You see things clearly o na bio-regional level, you don't see another level [data hiding, encapsulation - programming]. And you need a connection and explanation how the politics on the higher level relates to the politics on all other levels. Globally also. We have these issues of global warming, for example. We need to work somehow around those issues. So that the scale then becomes significant. *And as you move from personal to political, you need to remember to include the people on lower layers in order to ask them for feedback, whether the changes actually are helping them, and reaffirm what you're doing. Explain what you're doing on the bio-regional level, to a personal political level. Otherwise your politics gets hollowed out [vydlabaná], it looses its backs, purchase, [trustworthiness and meaning] in daily life.* We can think about these different layers. We can figure out the issues [needs and solutions] around the bio-regional or global level back to us, whether we need to do something in our daily lives, in order to meet a requirement [a need].
     *** I'm not anti-capitalist because I have some defect in my DNA. Nor am I anti-capitalist bacause I've been traumatized by some nasty capitalist who treated me badly and had my mind warped as an infant. I started to read Capital when I was 35 years old. *We can change these things via thoughtful configuration and thoughtful reflection on all these issues is vital for political action, so we understand where we are, what we're doing, and why are we doing it?*
     
-* link:[]
+* link:https://vimeo.com/23684185[RSA Animate - Crises of Capitalism]
+  ** 6:59-7:06
+    *** Capitalism never solves it's crisis problems. +
+    [But so don't communism, fascism or any other domination or totalitarian system. Maybe the solution is to have multiple economic systems combined, all focusing on humanity, taking the best of all of them and learning from our limitations and mistakes.] +
+    It moves them around geographically.
+  ** 10:05-
+    *** That's not a world I want to live in. And if you don't wanna live in it, be my guest. I don't see us debating and discussing this. I don't have the solutions. I think what the nature of the problem is, And unless we're prepared to have a very broad-based discussion. [We need] to get away from 'normal' problem in a political campaign "Everything is going to be okay next year if you vote for me :D " It's crap. You ... know it's crap! And say it is! [Because politicians and businesses support each other, businesses are lobbying in government and propose laws that favor wealth and power.] *And we have a [freedom and responsibility] those of us who are academics [in collaboration with other experts and people from all groups of society] that are seriously involved in the world to actually change our mode of thinking!* [reference to language and thinking]
     
 * link:https://www.youtube.com/watch?v=CtZZj4j5UpI[LSE Events | The Meritocracy Trap - Daniel Markovits]
   ** 5:28-5:37 https://www.youtube.com/watch?v=CtZZj4j5UpI&feature=youtu.be&t=328
@@ -2926,7 +2936,7 @@ That turns out to be the difference between marriages that are happy and marriag
       **** Demand - Amtssprache
       **** Deserve - making violence enjoyable
   ** 32:34-35:41
-    *** Capitalism, i.e. Anti-Socialism on an institutional level, forces us to be antisocial with each other because *the more you internalize the [domination] system, the more we ask the question "What we can extract from someone else?" which is the basis of capitalism.* It's "What can I get out of this?". Then every gift that I give to someone becomes a liability or loss that I have to account for. +
+    *** Capitalism, i.e. Anti-Socialism on an institutional level, forces us to be antisocial with each other because *the more you internalize [any domination] system, the more we ask the question "What we can extract from someone else?" which is the basis of capitalism [and domination systems].* It's "What can I get out of this?". Then every gift that I give to someone becomes a liability or loss that I have to account for. +
     Institutionalized socialism would mean, if implemented well [according to the Nonviolent Principles], connection with others and giving to others with everyone's needs met then there is no threatening over every last bit, or trying to accumulate more to ensure that we never suffer the loss that we don't have enough ever again.
   ** 43:06-45:47
   ** 50:49-51:00
@@ -7340,6 +7350,8 @@ there is not one without the other. otherwise relationships and systems collapse
 
 work and play is the same thing.
 
+natural resources and commodities is the same thing.
+
 _to deserve_ and _to need_ is the same thing.
 
 ---
@@ -7501,6 +7513,8 @@ We don't have to be perfect, in order to be excellent.
 *We can be sad and still be excellent.* +
 *We can suffer and still be excellent.* +
 *We can make mistakes and still be excellent!*
+*Ich kann mich bereuen, und das ist vollkommen in Ordung.* +
+*Ich kann mich bereuen, und immer exzellent sein.*
 
 ---
 
@@ -7539,5 +7553,18 @@ Doktorka: Ak je to dôležité, tak sa to vráti
 
 Doktorka: Teraz tlačíte na seba, aby ste netlačili. +
 Ja: Paradox.
+
+---
+
+Wie lösen wir gegenwärtige globale ekonomische Probleme? Dafür habe ich keine konkrete Antwort. Was ich aber sagen kann ist, dass wenn ich meine Beziehungen in Geld materialisiere, zerstört es mir die Beziehungen, die ich mir schätze. *Geld zerstört meine Beziehungen. In meisten Fällen. Durschnittlich.*
+
+---
+
+Diejenigen, die Geld haben, können sich den Anderen kaufen. +
+Diejenigen, die kein Geld habe, haben den Anderen.
+
+---
+
+*ich möchte, dass auch andere leute sehen, dass weibliche schönheit, sanftheit, weichheit, wärme, eleganz, gesundheit, zärtlichkeit und anmut kann man auch anders darstellen, als nur sexuell. es geht auch ohne objektifikation. mit ehre, würde, verantwortung und rücksicht auf die menschlichkeit der frauen und mädchen. intimität geht auch unsexuell. kuschel, berührungen, streicheln, riechen. ein erschöpfter mann, der seinen kopf auf die brust seiner frau hinliegt, und sie streichelt ihn an dem kopf. angenehme, erwärmende vorstellung. nicht frauen und mädchen als sexobjekte. frauen und mädchen als menschen, die wärme, pflege, zärtlichkeit und geborgenheit geben. so ein geschenk :)*
 
 ---
