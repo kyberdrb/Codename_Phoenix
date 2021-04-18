@@ -2988,12 +2988,27 @@ link:...[(Vince Lombardi - baseball player)]
 
 * It's not practice that makes perfect... but perfect practice that makes perfect. +
 Es ist nicht Übung die perfekt macht..., sondern perfekte Übung, die perfekt macht. +
-Nie je to tréning, ktorý robí majstra..., ale perfektný tréning, ktorý robí majstra. +
+Nie je to tréning, ktorý robí majstra..., ale majstrovský tréning, ktorý robí majstra. +
 link:???[(Cal Ripken Sr.)], link:???[(Daniel Markovits - Meritocracy and its Discontents: 48:40-49:30)]
   
 * Our greatest glory is not in never falling, but in rising every time we fall. +
 Unsere größte Ehre liegt nicht darin, nie zu fallen, sondern darin, dass wir jedes Mal aufstehen, wenn wir fallen. +
 Confucius
+
+* The properies/qualities of voice [link:https://blog.accusonus.com/deep-voice/voice-qualities/[What Are the Qualities of a Voice?
+]] +
+maybe this helps me to guess feelings and possible needs more accurately from the way we talk
+  ** Pitch
+  ** Tone
+  ** Fry - sizzling sound; as if you'd have a permanent slime in your throat, similar to cigarette smokers [link:https://en.wikipedia.org/wiki/Vocal_fry_register[1]]
+  ** Rhythm
+  ** Resonance
+  ** Tempo
+  ** Inflections
+  ** Intonation
+  ** Articulation
+  ** Fluency - delays between words
+  ** Harmony - fluency of the consecutive tones
 
 * No minding! Just go! [Wim Hof - Fundamentals Course - 03-Energy Management]
 
@@ -7580,5 +7595,15 @@ Myslíte si, že aj Kočner vnímal ostatných okolo seba ako ľudí? Nie ako n�
 Ich bin mir sicher, dass jeder Mensch nimmt einen Anderen als eien Menschen wahr, nicht als ein Objekt oder Werkzeug, oder als irgendwelche andere Objektifitation. Gleichzeitig habe ich Zweifel, dass wenn der oder die Andere den anderen Menschen als Objekte wahrnimmt, dann vielleicht weißt der Mensch nicht, wie er dem anderen Menschen Menschlichkeit zeigt. Er war dazu nicht beigebracht oder erzogen. Er war vielleicht dazu beigebracht und erzogen, sich seine oder ihre Bedürfnisse auf seinen oder ihren Kosten zu erfüllen. Vielleicht ein solcher Mensch wurde zu einem Diktator und weißt nicht, wie er sich seine Bedürfnisse mit Rücksicht auf Bedürfnisse Anderer erfüllen kann. Das ist eine Tragödie.
 
 Ja verím, že každý človek vníma toho druhého ako človeka. Keď tomu tak nie je, možno ten človek nevie, ako prejaviť ľudskosť inému človeku. Možno bol vychovaný a vzdelaný totalitnými autoritami, ktoré ho alebo ju brutalizovali, a bol medzi ľuďmi, ktorí si napĺňali svoje potreby na jeho alebo jej úkor. Možno taký človek sa sám stal diktátorom a nevie, ako si napĺňať svoje potreby s ohľadom na potreby ostatných. To je tragédia.
+
+---
+
+Boh sa nevie dočkať, kedy urobím ďalšiu chybu. Boh chce, aby som sa niečo naučil. Boh chce, aby som sa stále niečo nové učil. Boh ťa miluje bezpodmienečne, aj keď robíš chyby.
+
+Gott kann nicht warten, wann ich eine weitere Fehler mache. Gott will, dass ich etwas lerne. Gott will, dass ich immer etwas Neues lerne. Gott liebt dich bedingungslos, obwohl du Fehler machst.
+
+---
+
+Mám problém dôverovať ľuďom. Nikdy neviem, či sa len pretvarujú, aby dostali to, čo chcú, alebo to myslia naozaj úprimne. Doteraz väčšina mojich vzťahov bola pre mňa vyčerpávajúca, lebo buď si druhí napĺňali svoje potreby na môj úkor, alebo som ja napĺňal svoje alebo ich potreby na svoj úkor. Nikdy to nebolo vzájomné, bezpodmienečné dávanie a príjmanie založené na vzájomnom súcite, porozumení, ochote a starostlivosti. Niečo také ako "Buď urobíš, čo ti poviem, inak... !" alebo "Keď to urobíš 'dobre', dostaneš odmenu!" Hej. Ako pes, že? A nechcete ma rovno naučiť aportovať?
 
 ---
