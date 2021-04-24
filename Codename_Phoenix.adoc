@@ -1259,13 +1259,15 @@ link:https://www.youtube.com/watch?v=AJ-ctpWQkZA&feature=youtu.be&t=4216[Nonviol
 * What do you say about it?
 * What feeling do you have from it?
 * Did something like this already happen to you? - Had something like this already happened to you? / Hat dir etwas änliches schon mal passiert?
-* Can you tell me what you heard, so that I could see that we understand each other?
+* Can you tell me what you heard, so that I see that we understand each other?
+* How do you feel when you hear this? / How do you feel when you hear something like this?
 
 === Strategy Requests
 
 * Will you do ...?
 * Will you talk to ...?
 * Will you tell me ...?
+* Ich fühle mich einsam und ich verlange nach ein bisschen Nähe und Zärtlichkeit. Kann ich dich umarmen?
 
 == The Socrates Method
 
@@ -4708,11 +4710,16 @@ expressive writing, empathy, NVC
 
 == Diseases, Illnesses / Erkrankungen, Krankheiten / Choroby
 
+* Kopfschmerzen / headaches / bolesti hlavy
+  ** hluk
+  ** svetlo - akekolvek - bolesti oci a hlavy
+  ** npatie
 * Back pain - chronic - my entire life; muscle imbalances, pain from chestbone, through the rib up to the shoulderblades (underneath them)
   ** accordion playing played a role - sitting posture when playing: one-side rotated posture created muscle imbalances around cervical and thoracic, and maybe lumbal, spine
 * IBS: Irritable Bowel Syndrome [for the lack of a better name] (approx. since January 2017) - psychosomatic [somatized traumas and psychological pain?]
 * Gastritis (approx. since November 2015) - chronic; psychosomatic [somatized traumas and psychological pain? feeling of electric shock in my stomach], overeating, emotional tension
-* Duodenogastroesophageal reflux (approx. since 2017)
+* Duodenogastroesophageal reflux [DGER] / bile reflux / biliary reflux (approx. since 2017)
+  ** consequence: Gastroesophageal reflux [GERD] - the digestive juices are so agressive that they open the cardia and esophageal sphincter anyway
 * Stomach pain, Feeling of heavy stomach - after meal; the meal just doesn't move when I'm awake, working, or even walking. Even after after a walk I feel tired. Only when I'm resting with Ohrenstöpsel and a band over my eyes - maximum nonstimulation - then the meal in the stomach and bowel moves.- stomach ulcers and sensitive places, duodenum gate - usually after of any meal size for about one hour
 * Fatigue after meal - my body essentially shuts down; I can't work, speak, think - *unstable* - usually after of any meal size for about one hour; sometimes stronger, sometimes weaker - after milk products with added lactase-drops: Joghurt, Brimsen, Quark?
 * Headache - after meal or after longer time (approx. one hour or more) outside
@@ -7414,7 +7421,9 @@ Poďme spolu trpieť a zvíjať sa v bolestiach, na veky vekov, Amen.
 
 ---
 
-no more superstimuli. no more taste. no more sugar. no more porn. no more masturbation. no more television. no more radio. no more alcohol. no more cigarettes. no more drugs. no more curse words. no more computer games.
+no more superstimuli. no more taste. no more sugar. no more porn. no more masturbation. no more television. no more radio. no more alcohol. no more cigarettes. no more drugs. no more curse words. no more computer games, no more junk food.
+
+sex can also be a superstimulus, but i don't have a girlfriend to try it out and observe my body and thoughts for an addiction.
 
 no more violence. no more guilt induction. no more shame induction. no more consciousness of duty and obligation. no more punishments. no more rewards.
 
@@ -7422,7 +7431,7 @@ no more.
 
 Only pure, mutual, unconditional giving and receiving.
 
-Only fulfilling needs.
+Only fulfilling each other's needs with respect to everybody else.
 
 a bitter promise.
 
@@ -7561,12 +7570,14 @@ ked si predstavim, ze budem zit v jednej domacnosti s dievcatom, citim, ako mi z
 
 ---
 
-Ich vertraue keinem Menschen, dass er mir das Beste tun will. So oft haben sich die Anderen ihre Bedürfnisse auf Kosten meiner erfüllt. Sie handelten egoistisch. Wir alle sind Egoisten. Ich bin ein Egoist. Aber es gibt mehrere Arten Egoismus. Ein Egoist versucht, seine oder ihre Bedürfnisse auf Kosten Anderer erfüllen. Wir nennen das _selbstsüchtiger Egoismus_. Andere Leute üben eine andere Art Egoismus. Ich versuche meine Bedürfnisse *mit Rücksicht* auf die Anderen. Marshall B. Rosenberg nannte das *Selbstvölligkeit*. Selbstsüchtiger Egoismus nehmt mir Geborgenheit, guten Willen, Bereitschaft, emotionale Energie und Ruhe. *Selbsterfüllender Egoismus gibt mir Geborgenheit, guten Willen, Bereitschaft, emotionale Energie und Ruhe.*
+Ich vertraue keinem Menschen, dass er mir das Beste tun will. So oft haben sich die Anderen ihre Bedürfnisse auf Kosten meiner erfüllt. Sie handelten egoistisch. Wir alle sind Egoisten. Ich bin ein Egoist. Aber es gibt mehrere Arten Egoismus. Ein Egoist versucht, seine oder ihre Bedürfnisse auf Kosten Anderer erfüllen. Wir nennen das _selbstsüchtiger Egoismus_. Andere Leute üben eine andere Art Egoismus. Ich versuche meine Bedürfnisse *mit Rücksicht* auf die Anderen. Marshall B. Rosenberg nannte das *Selbstvölligkeit*, ich nenne das *altruistischer Egoismus*. Selbstsüchtiger Egoismus nehmt mir meine Geborgenheit, guten Willen, Bereitschaft, emotionale Energie und Ruhe weg. *Selbsterfüllender Egoismus gibt mir Geborgenheit, guten Willen, Bereitschaft, emotionale Energie und Ruhe.*
 
 ---
 
 On: "Za čo ťa platím?!" +
 Ja: "Platíš ma z národného dlhu :D Za peniaze, čo dlží štát bankám :D :D Platíš ma z protirečenia kapitálu. Z protirečenia akumulácie kapitálu."
+
+LEbo peniaze a dlh nie sú dve strany jednej mince. Peniaze sú dlh. Lebo vznikli ako zhmotnenie dlhu. Peniaze nemôžu existovat bez dlhu. Zlikviduj dlh, zlikviduješ aj peniaze. Aspoň monetárne. Peniaze sa zlikvidovať dajú. Dlh nie. Dlh je tu od počiatku časov. Ten dlh, ktorý pomáhal budovať komunity, a ktorý držal komunity pohromade. Vzťahový dlh. Láskavosť. Služba. Tento dlh tu bude stále, pretože je prirodzený. A to je v poriadku. Dlh je v poriadku.
 
 ---
 
@@ -7630,9 +7641,63 @@ there is no way to be responsible if you don't know the consequences of your act
 
 ---
 
-why i think "i'm not good enough?"
+*Why do I think that "I'm not good enough?"*
 
-* todo alfie kohn's ofjcc list - what else question ~1:10:00
+(link:https://www.youtube.com/watch?v=x4qRZt0VCak&t=3250s[Alfie Kohn at the OFJCC: Performance vs. Learning - The Costs of Overemphasizing Achievement: 54:10-1:08:43-1:21:53])
+
+I had been educated to focus more on *how well* I'm learning, not *what* I'm learning and how I feel. I wasn't educated to mindfulness, empathy, peace of soul and collaboration. I was educated to mindlessness, to obedience to authority, to domination, to performance, achievement, competition. This has consequences that I still feel strongly. This education damaged me in mmany ways:
+
+. *[People] tend to become less interested in the learning itself*
+. *When you get [people] focused on achievement, they tend to attribute their success or failure to factors they believe are outside their control, like ability [or luck]* 
+. *[People] tend to pick the easiest possible task if given a choice ... when you tell that what matters is "Being 'successful'!"* [or rather being an obedient ass-licker of authorities which is how 'success' is defined in most public schools]
+. *[People] tend to fall apart when they stop succeeding*
+. *The more you overemphasize achievement, the more damage you do to kid's social environments ... [because] the emphasis is not on helping each other, but instead the focus is on doing better than each other.*
+. *The more you overemphasize achievement, the less successful [people] are at meaningful indicators of intellecutal proficiency*
+
+What practices destructive education uses, that, quite logically,move people's focus from *what* they're doing, to *how well* they're doing it? [Not because the student is dumb or lazy, but because the outside environment - the institution - is such a strong and powerful stimulus - that can malforms one's critical thinking and destroys peace of soul.]
+
+. Grades
+. Credits
+. Points, Test scores
+. Charts and stickers based on how well they're complying or doing in school
+. Ranking people
+. Making ranking public
+. "One size fits all" instruction
+  ** Why everybody read the same book? Why in kindergarden are kids doing the same thing? *Why do teachers prepare a syllabus in high school or college for [people] they've never met? What they're saying is "Who you are as my students is irrelevant! I've already planned this course. I don't care who you are or what you need individually, or what interests you! Which might lead to this focus not on learning, but just on achievement. Process of elimination."*
+. Lack of teacher interest
+  ** Once the teacher is less excited about the learning, that's gonna have some effect on the [pedagogy], which in turn will undermine the kids interest
+. Pressure to raise standardized test scores
+. Segregating kids by alledged ability
+. Other rewards we give on a basis of achievement
+. Time and Period
+  ** "You have 47 minutes to do this!"
+  ** *"I'm sorry, we have to move on!" where the schedule trumps the learning.*
+. Too many kids together for too short of period
+. Compartmentalizing kids in younger and younger ages
+. Additional rewards or punishments that hinge on the grades.
+  ** There are parents who pay kids for good report cards. You can almost watch the interest in learning evaporate before your eyes. *This is a reward for a reward.* Or punish them conversly for the bad stuff.
+
+These structures when you combine them with the list of consequences gives us a pretty good hitlist of the things to move beyond for the sake of learning as well as for the sake of our children's health and well-being.
+
+There are two key underlying premisses [assumptions, beliefs] that I think drive this overachievement fanaticism
+. BGUTI - Better Get Used To It
+  ** When you're older, there is going to be a lot of stuff to make you miserable. And the best way to prepare you is start making you misearable right now. +
+   +
+  [We all know intuitively that what makes happy, content, robust, emphatizing, considerate children is to create an environment and people who will lead the child to empathy, peace, safety, autonomy, critical thinking and affection.]
+. "Harder is better" - The Cult of Rigor
+  ** People who assume that a more difficult test, or text, or teacher, or class is necessarily a higher quality one.
+  ** I wish I had a nickel for every parent that is complaining to me: +
+   +
+  *"I'm not so sure about this school. I don't think my Jason is challenged enough."* +
+   +
+  *Whereas I have very few people who look beyond the challenge level and say:* +
+   +
+  *"I don't see my child wake up and become excited about reading."* +
+   +
+  The focus is [mostly on] "Is it hard enough?!"
+    ** optimal difficulty is not the same thing as maximum difficulty [reference to Flow] [optimizing the experience from learning, emotional intelligence and empathy, not the amount of obedience and from-outside-learned knowledge].
+    ** Is really more difficult school or task really better? Better for who? Better for what? Better for increasing the interest in learning, depth of thinking and preference for challenge? At least ask these questions and don't assume right away that they're true.
+    ** *[Rigorous pedagogical practices] accelerates the worst forms of [education]. They are mostly, although there are exceptions, lecture based, textbook driven, and designed for the purpose not of thinking like a scientist, or like a historian, but on the purpose of getting 3, 4 or 5 on the test.*
 
 ---
 
@@ -7650,17 +7715,25 @@ bluznim snad?
 
 ---
 
-skla pocitacove a na silnejucu fotofobiu
+skla proti modremu svetlu z obrazoviek a na silnejucu fotofobiu
+
+nech filtruju vsetky vlnove dlzky az do 550nm do silno oranzova az cervena
+
+melaninove skla?
 
 essilor
 
 lumior, carmina
 
+Essilor Carmina 2 
+
+- https://www.essishop.fr/face-relevable-non-polaris%C3%A9e-essilor
+
+- https://www.essilor.fr/download/embed/file/60609
+
 LUCÉO® 550 XD - PRUNE [najsilnejsie filtrovanie, ale modrasty odtien - modra farba mi trochu vadi a drazdi mi oci], LUCÉO® 550 - ROUGE [najsilnejsi oranzovy odtien - oranzove odtiene ma upokojuju]
 
-https://www.technop.be/uploads/brands/02018_G_brochure_CPF-LUCEO-3-4_FR.pdf
-
-nech filtruju vsetky vlnove dlzky az do 550nm do silno oranzova
+- https://www.technop.be/uploads/brands/02018_G_brochure_CPF-LUCEO-3-4_FR.pdf
 
 ---
 
@@ -7675,5 +7748,25 @@ i'm safe in my spirituality
 ---
 
 incredible! impossible! unbelievable!
+
+---
+
+Je lahsie pre mna prejavit sucit, ked som v stave pokojneho smutku. +
+Es ist leichter für mich, Mitgefühl zu zeigen, wenn ich in dem Zustand einer ruhigen Traurigkeit bin. +
+It's easier for me to show empathy when I'm in a state of calm sadness.
+
+---
+
+ona: ale ja uz mam priatela. +
+ja: pozehnany muz :)
+
+---
+
+Wer ist der ideale Konsument im Kapitalismus? +
+Der Süchtige! Der Gehorsame!
+
+die mitfühlenden haben ein anderes ökonomisches system.
+
+dieses bewusstsein schützt mich vor weiteren süchtigkeiten.
 
 ---
