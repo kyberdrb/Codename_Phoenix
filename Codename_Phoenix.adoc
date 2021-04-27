@@ -5,8 +5,12 @@ Reborn from ashes.
 To burn, but to never burn out.
 
 How to stay healthy in a sick world. +
-Wie gesund bleiben, in einer kranken Welt. +
+Wie gesund zu bleiben in einer kranken Welt. +
 Ako zostať zdravý v chorom svete.
+
+How to live simple in a complex world. +
+Wie einfach zu leben in einer komplexen Welt. +
+Ako žiť jednoducho v komplexnom svete.
 
 _This document is in a constant work-in-progress state._
 
@@ -1268,6 +1272,7 @@ link:https://www.youtube.com/watch?v=AJ-ctpWQkZA&feature=youtu.be&t=4216[Nonviol
 * Will you talk to ...?
 * Will you tell me ...?
 * Ich fühle mich einsam und ich verlange nach ein bisschen Nähe und Zärtlichkeit. Kann ich dich umarmen?
+* Wenn ich ihre weiche Jacke sehe, möchte ich mich kuscheln. Kann ich Sie umarmen?
 
 == The Socrates Method
 
@@ -2282,6 +2287,7 @@ Sources:+
 
 * Internalized Powerlessness: link:https://www.youtube.com/watch?v=Qvmqeeme42M&feature=youtu.be&t=1008[(Miki Kashtan: Exiting the Either/Or Trap - Beyond Consensus vs. Command and Control: 16:48-22:20)]
     ** The upbringing to powerlesness and obedience starts with teaching kids the question "Can I ...?" +
+    [In my opinion, there is nothing wrong with the question, because this question can show the other person, that I value their needs equally as my own. That their needs matter to me as much as my own. And I don't want to fulfill my needs at the cost of others.]
     [Alternative questions: "Will I take <something> / Will I <do an action>? / I want to <...> What do you say?"]
     ** *When I say someone, e.g. a child, that he can not do something, then I interfere with what is true physically.* I not only control the others, but also mess with their understanding of the reality. If I tell the somebody *No, you can not turn on the TV* when in reality I'm saying *I really don't want you to turn on the TV, and if you turn on the TV I will punish you!*
     ** Between the somebody's action and my reaction is my choice. [Choice to take responsibility for my feelings, needs, for what I say, do and think. I can think in a way that promotes my peace of soul and quality of relationship with other people. The strategy I'm trying to choose at any moment is consistent with the ideology of nonviolence. I'm trying to fulfill my needs *with respoect* to the other people's needs. Never at the cost of their needs and well-being.]
@@ -4710,10 +4716,6 @@ expressive writing, empathy, NVC
 
 == Diseases, Illnesses / Erkrankungen, Krankheiten / Choroby
 
-* Kopfschmerzen / headaches / bolesti hlavy
-  ** hluk
-  ** svetlo - akekolvek - bolesti oci a hlavy
-  ** npatie
 * Back pain - chronic - my entire life; muscle imbalances, pain from chestbone, through the rib up to the shoulderblades (underneath them)
   ** accordion playing played a role - sitting posture when playing: one-side rotated posture created muscle imbalances around cervical and thoracic, and maybe lumbal, spine
 * IBS: Irritable Bowel Syndrome [for the lack of a better name] (approx. since January 2017) - psychosomatic [somatized traumas and psychological pain?]
@@ -4739,7 +4741,11 @@ expressive writing, empathy, NVC
 * dandruffs/Schuppen/lupiny
 * svrbenie po celom tele - hlavne na hlave
 * Tinnitus - ringing in the ears (especially in the right one), susceptible to sensory overload by superstimulation
-* headaches from noise - schwächere Durchblutung der Kopf durch die Nackenwirbelsäule? Neurologische Beschädigung? Ich habe das von klein auf - angeboren.
+* Kopfschmerzen / headaches / bolesti hlavy
+  ** headaches from noise - schwächere Durchblutung der Kopf durch die Nackenwirbelsäule? Neurologische Beschädigung? Ich habe das von klein auf - angeboren.
+  ** svetlo - akekolvek - bolesti oci a hlavy, unava
+  ** napatie
+  ** pomaha len oddych, spanok, ticho a sucit
 * svetloplachosť/Lichtscheu/Photophobia - susceptible to sensory overload by superstimulation
   ** pálenie, škriabanie, bolesť očí a hlavy a následná únava pri prechádzke vonku, sledovaní obrazoviek alebo čohokoľvek jasnejšieho
   ** the older I am the stronger the symptoms get
