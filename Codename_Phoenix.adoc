@@ -12,11 +12,15 @@ How to live simple in a complex world. +
 Wie einfach zu leben in einer komplexen Welt. +
 Ako žiť jednoducho v komplexnom svete.
 
+How to keep your freedom in a world in which everybody tries to enslave you.
+
 _This document is in a constant work-in-progress state._
 
 == Human needs / Menschliche Bedürfnisse / Ľudské potreby
 
-by / nach / podľa Manfred Max-Neef, Marshall B. Rosenberg and me
+Sources: Manfred Max-Neef, Marshall B. Rosenberg
+
+Extended version
 
 ---
 
@@ -237,7 +241,7 @@ vedomie, že na mne a mojich potrebách záleží, že moje potreby sú dôleži
 * goal / Ziel / cieľ
 * effectivity [Does it work, or not? - boolean] / Effektivität / efektivita
 * efficiency [How well does it work? As much as possible in as little time as possible, e.g. in case of algorithms or other things not people!] (in comparison to other things, not people) - float, percent) / Effizienz / efektivita
-* sufficiency / Suffizienz, Angemessenheit / dostatočnosť
+* sufficiency / Suffizienz, Genüge / dostatočnosť
 * excellence / Exzellenz / výnimočnosť
 * growth / Wachstum / rast
 * development / Entwicklung / rozvoj, vývoj (Precondition: individual initiative, dedication link:https://www.youtube.com/watch?v=lfkZJDxC-YY&feature=youtu.be&list=PLAWpwCQqndn68ADSHK1vsFUQ93n3hLcv4&t=1584[(source)])
@@ -1125,8 +1129,6 @@ included...]
 * _*How do I reconnect with my dream feelings when I face obstacles?*_
 * How do I recreate these feelings?
 * How do I experience these feelings again?
-* Am I willing to accept the risk that I can fail in the activities I engage in? / Bin ich bereit dem Risiko unterzuziehen?
-* Am I willing to accept the responsibility that I can succeed in the activities I engage in?
 
 ---
 
@@ -1218,7 +1220,7 @@ included...]
 * Does religion, childhood trauma, disfunctional families, oppression and obedience training in families, schools, work promote guilt, shame, ruminescing and regrets  about the past (spytovanie svedomia), worries and fear of the future (the great savior will come, but nobody knows when; will I go to heaven or to hell?; how can I buy the way to heaven most effectively? by following the rules of authority? really?); obedience instead of respect and responsibility, default mode network (DMN) hyperconnectivity, depression, compulsions, obsessions, anger? Well, they might say one thing and do another that totally contraditcts the words. Just because it's Holy Word doesn't mean it's nonviolent. Acts that negate and oppose the words. Let's remind us religious violence. Violence in the name of God. Destroying gifts of life that God is giving to us. Just like in the academy...
 * Can Nonviolent Communication (NVC) alter the inner voice of our inner educator and inner chooser [Dorso-Lateral Prefrontal Cortex (DLPFC)] in a way that can lead to calmer emotional state in rest and time wandering during Default Mode Network (DMN) activation? [reference do Default Mode Network (DMN)]
 * Warum sind ökologisch nachhaltige Produkte teurer als traditionelle? Warum kann nich jeder dieselben Möglichkeiten ökologisch zu leben haben? Wie der Kapitalismus und der Markt diese Ungleichheit unterstützen? Was für Änderungen brauchen wir, damit ökologisch nachhaltige Produte billiger als traditionelle Produkte werden,, und von den Menschen bevorzugt wurden?
-* Was is die Beziehung zwischen Krankheiten und chronischen Erkrankungen und systemischen Problemen in z. B. Ökologie, Ökonomie, Politik, Ausbildung, Management oder Erziehung?
+* Was is die Beziehung zwischen individuellen Krankheiten und chronischen Erkrankungen und systemischen Problemen in z. B. Ökologie, Ökonomie, Politik, Ausbildung, Management oder Erziehung?
 * Where are the people in positions of authority that show empathy?
 * Why can't I find any authorities in my work that can show me empathy?
 
@@ -1266,13 +1268,14 @@ link:https://www.youtube.com/watch?v=AJ-ctpWQkZA&feature=youtu.be&t=4216[Nonviol
 * Can you tell me what you heard, so that I see that we understand each other?
 * How do you feel when you hear this? / How do you feel when you hear something like this?
 
-=== Strategy Requests
+ === Strategy Requests
 
 * Will you do ...?
 * Will you talk to ...?
 * Will you tell me ...?
 * Ich fühle mich einsam und ich verlange nach ein bisschen Nähe und Zärtlichkeit. Kann ich dich umarmen?
 * Wenn ich ihre weiche Jacke sehe, möchte ich mich kuscheln. Kann ich Sie umarmen?
+* Ich bin traurig und möchte/bräuchte ein bisschen Zärtlichkeit. Kann ich Sie umarmen?
 
 == The Socrates Method
 
@@ -4714,42 +4717,67 @@ expressive writing, empathy, NVC
 * https://safety.gwu.edu/common-reactions-trauma
 * https://safety.gwu.edu/sites/g/files/zaxdzs2386/f/downloads/Common%20Reactions%20to%20Trauma_4.pdf
 
-== Diseases, Illnesses / Erkrankungen, Krankheiten / Choroby
+== Diseases, Illnesses, Symptoms / Erkrankungen, Krankheiten, Symptome / Choroby, Ochorenia, Príznaky
 
 * Back pain - chronic - my entire life; muscle imbalances, pain from chestbone, through the rib up to the shoulderblades (underneath them)
   ** accordion playing played a role - sitting posture when playing: one-side rotated posture created muscle imbalances around cervical and thoracic, and maybe lumbal, spine
+  ** Rippenschmerzen, Brustkorbschmerzen, Rückenschmerzen
+  ** der Schmerz wandert durch den ganzen Rücken
 * IBS: Irritable Bowel Syndrome [for the lack of a better name] (approx. since January 2017) - psychosomatic [somatized traumas and psychological pain?]
 * Gastritis (approx. since November 2015) - chronic; psychosomatic [somatized traumas and psychological pain? feeling of electric shock in my stomach], overeating, emotional tension
 * Duodenogastroesophageal reflux [DGER] / bile reflux / biliary reflux (approx. since 2017)
   ** consequence: Gastroesophageal reflux [GERD] - the digestive juices are so agressive that they open the cardia and esophageal sphincter anyway
 * Stomach pain, Feeling of heavy stomach - after meal; the meal just doesn't move when I'm awake, working, or even walking. Even after after a walk I feel tired. Only when I'm resting with Ohrenstöpsel and a band over my eyes - maximum nonstimulation - then the meal in the stomach and bowel moves.- stomach ulcers and sensitive places, duodenum gate - usually after of any meal size for about one hour
-* Fatigue after meal - my body essentially shuts down; I can't work, speak, think - *unstable* - usually after of any meal size for about one hour; sometimes stronger, sometimes weaker - after milk products with added lactase-drops: Joghurt, Brimsen, Quark?
-* Headache - after meal or after longer time (approx. one hour or more) outside
+* Fatigue throughout the entire day
+  ** stronger after every meal
+  ** I get headaches, my eyes start to hurt
+  ** my body essentially shuts down; I can't work, speak, think
+  ** symptoms are *unstable* - usually after of any meal size for about one hour; sometimes stronger, sometimes weaker
+  ** after milk products with added lactase-drops: Joghurt, Brimsen, Quark?
+  ** Mögliche Lösung: Essen mit Achtsamkeit und Genüge, Schläfchen
 * Pressure in heart and inner side of the left arm - usually after longer physical and mental exertion
 * Arythmia - usually when working when I try to finalize something and I'm physically and metally exhausted
 * Stool of different density: at the beginning thick, at the end almost liquid
 * Sklbanie svalov - nestale
 * Belching - after every meal, on full stomach, on empty stomach, everyday
-* Flatulence - after every fruit and vegetable
-* Heartburn (especially after waking (up to the tonsils and the roof of the mouth) or lying for longer time cca 10 minutes)
-* Overeating - psychosomatic: Du musst das aufessen, sonst...!
+* Flatulence - after every fruit and vegetable and anything...
+  ** sometimes with cramps
+* Heartburn (especially after waking (up to the tonsils and the roof of the mouth) or lying for longer time cca 10 minutes in any position)
+* Overeating - psychosomatic
+  ** "Du musst das aufessen, sonst...!" haben mir von klein auf, besonders meine Mutter und Großmutter gesagt
+  ** Mögliche Lösung: Bewusstsein von Bedürfnissen: Achtsamkeit, Genüge
 * Bruxism - psychosomatic
+  ** im Schlaf
+  ** von klein auf
+  ** Wie finde ich heraus, ob ich davon geheilt bin? Neue Zahnschutz
 * Snorring ?
-* [line-through]#Fußpilz# - hoffentlich geheilt
+* Fußpilz - beide Füße, hinter den Kleinefingern
 * Dry skin in cold or windy environment
-* Cold hands
+* Cold hands and feet
+  ** sensibel auf die Umgebungstemperatur: in Wärme schwitzen sie, in Kälte werden kalt
 * dandruffs/Schuppen/lupiny
 * svrbenie po celom tele - hlavne na hlave
 * Tinnitus - ringing in the ears (especially in the right one), susceptible to sensory overload by superstimulation
 * Kopfschmerzen / headaches / bolesti hlavy
   ** headaches from noise - schwächere Durchblutung der Kopf durch die Nackenwirbelsäule? Neurologische Beschädigung? Ich habe das von klein auf - angeboren.
   ** svetlo - akekolvek - bolesti oci a hlavy, unava
+  ** after meal, sooner or later
+  ** after longer time outside (approx. one hour or more)
   ** napatie
-  ** pomaha len oddych, spanok, ticho a sucit
+  ** pomaha len oddych, spanok, ticho a sucit - bezpecne prostredie
+* budenie sa v noci - Pereco sa budim?
+  ** kyselina az a podnebim
+  ** nutkanie na mocenie. sklbanie mechura
+  ** teplo - potim sa, prehriate telo
+  ** nedostatocna tma - svetlo presvita zvonku
 * svetloplachosť/Lichtscheu/Photophobia - susceptible to sensory overload by superstimulation
   ** pálenie, škriabanie, bolesť očí a hlavy a následná únava pri prechádzke vonku, sledovaní obrazoviek alebo čohokoľvek jasnejšieho
   ** the older I am the stronger the symptoms get
-  ** dying of exposure to light
+  ** the longer I'm exposed to light and the more intensive the light is, the more tired I get and the faster the fatigue 
+  ** Ursache ist mir unbekannt; Lichtscheu kann auch als ein Anzeichen einer anderen Erkrankung auftreten
+  ** Mögliche Lösung für dieses Symptom: Brille, die Blaulicht filtrieren
+* tiky do praveho oka
+  ** vielleicht vom Lichtscheu? Neurologische Beschwerden?
 * visual snow
 * mouches volantes
 * NCCP: Non-Cardiac Chest Pain - somatic: spine, back tension; psychosomatic: worries, sadness, loneliness, exhaustion
@@ -5767,7 +5795,7 @@ No one deserves anything. But everybody needs something. Everybody needs the sam
 
 ---
 
-I'm not a thing, agent, factor of production, social capital, human capital, human resource, commodity, number, letter, robot, machine, accesory, component of a machine, trash that sooner or later will be recycled, an animal, a sheep, a dog that has to obey or anything similar. I am a human being that has feelings that I want to express and needs that I want to fulfill in order to live a happy, satisfying and hopefully long life, and have consciousness that I can sustain my well-being despite problems and conflicts.
+I'm not a thing, agent, factor of production, social capital, human capital, human resource, commodity, number, letter, robot, machine, accesory, component of a machine, trash that sooner or later will be recycled, a doormat, rag, an animal, sheep, a dog that has to obey or anything similar. I am a human being that has feelings that I want to express and needs that I want to fulfill in order to live a happy, satisfying and hopefully long life, and have consciousness that I can sustain my well-being despite problems and conflicts.
 
 ---
 
@@ -6312,7 +6340,7 @@ Dying of exposure in work. Ehm, excuse me, paid empoyment.
 ---
 
 Ich will als ein Mensch wargenommen werden, +
-nicht als eine Nummer, Buchstabe, Produktionsfaktor, menschliche Resource, menschliches Kapital, Objekt, Risiko.
+nicht als eine Nummer, Buchstabe, Produktionsfaktor, menschliche Resource, menschliches Kapital, Objekt, Risiko, Lappen, Fußmatte.
 
 ---
 
@@ -7780,5 +7808,13 @@ dieses bewusstsein schützt mich vor weiteren süchtigkeiten.
 Každé protirečenie je príležitosť pre nový začiatok. Urobiť sebareflexiu a reflexiu systémov, prostredia okolo nás. +
 Jeder Widerspruch ist eine Gelegenheit für einen neuen Anfang. Für Selbstreflexie machen und Reflexie der Systemen, der Umgebung um uns.
 Every contradiction is an opportunity for a new beginning. To make a self-reflection and reflection of systems, the environment around us.
+
+---
+
+Je pre mňa nesmierne ťažké prejaviť súcit niekomu, kto dupe po mojom srdci a zaobchádza so mnou ako s handrou.
+
+---
+
+Scared when somebody screams. Ich schätze mir Rücksicht, Sensibilität und Sanftheit so sehr. In solcher Umgebung fühle ich mich geborgen.
 
 ---
