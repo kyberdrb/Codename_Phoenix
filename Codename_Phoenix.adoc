@@ -16,6 +16,16 @@ How to keep your freedom in a world in which everybody tries to enslave you.
 
 _This document is in a constant work-in-progress state._
 
+== Education / Ausbildung / Vzdelavanie
+
+* spanok: cirkadialny rytmus - minimum umeleho svetla po zapade slnka; tvrdy matrac; vankus pre pohodlny spanok na boku
+* oci: okuliare filtrujuce modre svetlo do 550nm - ochranna pomocka, maximalna ochrana proti degeneracii nervovych buniek sietnice - maximalne filtrovanie vlnovych dlzok, ktore najviac opotrebuvaju sietnicu, unavuju oci a brania produkcii spankoveho hormonu melatonin a tym narusaju prirodzeny spankovy rytmus; ocna joga - hybanie a kruzenie ocami do krajnych pozicii so vydrzou: natahovanie okohybnych svalov + striedave zaostrovanie na blizko (do 30cm) a do dialky (cim dalej, tym lepsie): natahovanie vnutroocnych svalov, ktore upinaju sosovku
+* dusa: nenasilna komunikacia, sucit
+* chrbtica: joga, pilates, rehabilitacie, fyzioterapia
+* strava: prirodna strava idealne lokalna; stravovanie s vnimavostou a dostatocnostou - prevencia pproti prejedaniu
+* odpocinok: vnimavost; stimulacia bludiveho nervu; hojenie; zotavovanie
+* odborne znalosti: programovanie
+
 == Human needs / Menschliche Bedürfnisse / Ľudské potreby
 
 Sources: Manfred Max-Neef, Marshall B. Rosenberg
@@ -161,11 +171,13 @@ link:https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=2486[Marshal
 * economy, thrift / Sparsamkeit / úspornosť, šetrnosť
 * [restorative] justice, fairness, equity / [wiederherstellende] Gerechtigkeit / spravodlivosť [založená na obnove (vzťahov) a oprave škôd]
 * compensation / Ausgleich / kompenzácia, odškodnenie - nie ako odplata alebo trest, ale ako pomoc pri napĺňaní nenaplnených potrieb pre niekoho iného
+* similarity / Ähnlichkeit / podobnosť
 * _fragileness / Zerbrechlichkeit (Bedürfnis nach Schutz (physisch) oder Empathie (psychisch)) / krehkosť_
 * [line-through]#power (over) / Macht (über) / moc (nad)#
 * [line-through]#domination / Herrschaft / dominancia#
 * [line-through]#retributive justice / vergeltende Gerechtigkeit / spravodlivosť založená na odplate#
 * [line-through]#war / Krieg / vojna#
+* [line-through]#competition / Wettbewerb / súťaž#
 * [line-through]#violence / die Gewalt / násilie#
 * [line-through]#government / die Regierung / vláda#
 * [line-through]#colonization / Kolonisation / kolonizácia#
@@ -199,7 +211,7 @@ link:https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=2486[Marshal
 * consciousness that my needs matter, that my needs are important and taken into consideration, that I mean something to somebody / +
 Bewusstsein, dass meine Bedürfnisse wichtig sind, und in Frage genommen sind, dass ich jemandem etwas bedeute / +
 vedomie, že na mne a mojich potrebách záleží, že moje potreby sú dôležité a brané do úvahy, že pre niekoho niečo znamenám
-* consideration / Rücksicht / ohľad (Precondition: importance / that my needs matter)
+* consideration / Rücksicht / ohľad, ohľaduplnosť (Precondition: importance / that my needs matter)
 * respekt / Respekt / rešpekt (Precondition: importance / that my needs matter)
 * honor / Ehre / úcta (Precondition: importance / that my needs matter)
 * dignity / Würde / dôstojnosť (Precondition: importance / that my needs matter)
@@ -224,6 +236,8 @@ vedomie, že na mne a mojich potrebách záleží, že moje potreby sú dôleži
 * [line-through]#sexuality / Sexualität / sexualita#
 * [line-through]#duty, obligation / die Pflicht / nutnosť, povinnosť#
 * [line-through]#commitment / Verpflichtung / obetavosť, oddanosť#
+* [line-through]#sacrifice / Aufopferunng, Hingabe, Selbstlosigkeit / obetavosť#
+* [line-through]#selfishness / Selbstsüchtigkeit / sebeckosť#
 
 ---
 
@@ -241,7 +255,7 @@ vedomie, že na mne a mojich potrebách záleží, že moje potreby sú dôleži
 * goal / Ziel / cieľ
 * effectivity [Does it work, or not? - boolean] / Effektivität / efektivita
 * efficiency [How well does it work? As much as possible in as little time as possible, e.g. in case of algorithms or other things not people!] (in comparison to other things, not people) - float, percent) / Effizienz / efektivita
-* sufficiency / Suffizienz, Genüge / dostatočnosť
+* sufficiency, enoughness / Suffizienz, Genüge / dostatočnosť, dostatok
 * excellence / Exzellenz / výnimočnosť
 * growth / Wachstum / rast
 * development / Entwicklung / rozvoj, vývoj (Precondition: individual initiative, dedication link:https://www.youtube.com/watch?v=lfkZJDxC-YY&feature=youtu.be&list=PLAWpwCQqndn68ADSHK1vsFUQ93n3hLcv4&t=1584[(source)])
@@ -491,15 +505,17 @@ What needs of the other are not being met?
 * frightened / verängstigt / vystrašený (vystrašiť)
 * alarmed / erschrocken / vystrašený (vystrašiť)
 * scared / erschrocken / vyľakaný (vyľakať)
-* anxious / besorgt / ustarostený (robiť si starosti, mať starosti, obávať sa)
-* fearful / ängstlich / ustarostený (robiť si starosti, mať starosti, obávať sa)
 * concerned / bekümmert / ustarostený (robiť si starosti, mať starosti, obávať sa)
 * worried / besorgt / ustarostený (robiť si starosti, mať starosti, obávať sa)
+* anxious / besorgt / úzkostný, úzkosť (robiť si starosti, mať starosti, obávať sa)
+* fearful / ängstlich / úzkostný, úzkosť (robiť si starosti, mať starosti, obávať sa)
 * shocked / schockiert / šokovaný (šokovať)
+* panicking / in Panik / v panike (panikáriť)
 * surprised / überrascht / prekvapený (prekvapiť)
 * disturbed / beunruhigt, gestört / znepokojený, rozrušený, vyrušený (znepokojiť, rozrušiť, rušiť, vyrušovať, rozptyľovať, vadiť)
 * irritated / irritiert / iritovaný, nervózny (iritovať, znervózniť)
 * nervous / nervös / nervózny (znervózniť)
+* vigilant, alert / wachsam / ostražitý, v strehu
 * discontented / unzufrieden / nespokojný
 * tense / angespannt / napätý (napínať)
 * frustrated / frustriert / frustrovaný (frustrovať)
@@ -852,9 +868,14 @@ spreche, mit jemandem spreche, schreibe, zuhöre, mich dusche, mich mit kaltem W
 * Canadian values: Peace, Order and Good Government vs US values: Life, Liberty and Pursuit of Happiness
 * freedom of speech vs responsibility of speech
 * Duty and Obligation vs Freedom and Responsibility
+* prisnost / rigor / Strengheit and dokladnost / thoroughness / Sorgfältigkeit *and* starostlivosť / care / Pflege
+* enemy vs someone who disagrees with me and has different opinions, experiences and ideology. and that's okay :) the other person is giving me an opportunity, to exercise my tolerance, with the help of their diversity and differences
+* rational understanding vs emotional understanding
+  ** rational intelligence, rational thinking,  rational memory and rational understanding is reinforced by the repetition of facts.
+  ** emotional intelligence, emotional thinking, emotional memory and emotional understanding is reinforced by the repetition of life events. Therefore the emotional intelligence takes so much longer to develop, and to change experiencing of various life events in a way, that will support my health and well-being and strenghten my empathy and connections to other people.
 * link:https://www.fachverband-gfk.org/wp-documents/anlage_3_schluesselunterscheidungen.pdf[und mehr Unterschiede...]
 
-Culturally learned beliefs - Life-harming beliefs - Violent beliefs - Irrational beliefs:
+### Culturally learned beliefs - Life-harming beliefs - Violent beliefs - Irrational beliefs:
 
 - spare the rod, spoil the child - Bible, Proverbs 13:24, Rosenberg - Resolving conflicts with children
 - No pain, no gain. [RPM contradiction]
@@ -882,116 +903,200 @@ link:https://eduworld.sk/cd/zuzana-granska/457/jana-novackova-sutaze-by-v-skolac
 - Keď to nejde urobiť poriadne, radšej to nechaj tak! [moje]
 - for more beliefs, see _Culturally learned beliefs - Life-harming beliefs - Violent beliefs - Irrational beliefs - continued_
 
-Culturally learned beliefs - Life-harming beliefs - Violent beliefs - Irrational beliefs - continued:
+### Culturally learned beliefs - Life-harming beliefs - Violent beliefs - Irrational beliefs - continued:
 
-* Naozaj sú to tie "Mal by / Nemal by" vety a presvedčenia, ktoré vo mne rozdúchavajú ten neutíchajúci oheň hnevu, pomsty, zúrivosti, nenávisti, intolerancie, násilia, hádok, konfliktov?
-* Naozaj sú to tie "Mal by / Nemal by" vety a presvedčenia, ktoré vo mne živia pocity viny, hanby, depresie, žiarlivosti, závisti, bezmocnosti, bezradnosti, frustrácie, zúfalstva, beznádeje?
+* Naozaj sú to tie "Mal by / Nemal by / Musieť / Nesmieť / Zaslúžiť si" vety a presvedčenia, ktoré vo mne rozdúchavajú ten neutíchajúci oheň hnevu, pomsty, zúrivosti, nenávisti, intolerancie, násilia, hádok, konfliktov?
+* Naozaj sú to tie "Mal by / Nemal by / Musieť / Nesmieť / Zaslúžiť si" vety a presvedčenia, ktoré vo mne živia pocity viny, hanby, depresie, žiarlivosti, závisti, bezmocnosti, bezradnosti, frustrácie, zúfalstva, beznádeje?
 
-. Rodicia by mali prejavovat svojim detom sucit.
-. Škola by nemala vychovávať svojich študentov k súťaživosti.
-. Ekonomický systém by nemal uprednostňovať peniaze na úkor zdravia.
-. Programovať by sa malo podľa jasných princípov.
-. Ľudia by si nemali protirečiť.
-. Psychológ by mal prejavovať predovšetkým súcit.
-. Ľudia by mi nemali ubližovať.
-. Ľudia by ma nemali spochybňovať.
-. Ľudia by nemali spochybňovať ideoogiu nenásilia.
-. Ľudia by sa nemali hádať.
-. Nemal by som sa hnevať.
-. Ľudia by nemali kričať v mojej prítomnosti.
-. Ľudia by nemali kričať na mňa.
-. Nemal by som robiť chyby.
-. Keď ostatní urobia chybu, mali by byť za ňu potrestaní.
-. Ľudia by ma nemali obviňovať za to, keď sa mi veci nedaria.
-. Ľudia by mi nemali vysmievať.
-. Zaslúžim si mať rovnaké príležitosti na prácu a vzdelávanie ako ostatní, bez ohľadu na moju socioekonomickú situáciu.
-. Mal by som pracovať v oblasti, ktorú som vyštudoval.
-. Mal by som robiť to, čo mi hovoria autority, alebo ľudia okolo mňa.
-. Ľudia by mi nemali hovoriť, čo by som mal robiť.
-. Ľudia by ma nemali manipulovať vinou a hanbou.
-. Nemal by som nikomu nič závidieť.
-. Nemal by si sa cítiť osamelý. Nie je normálne byť osamelý.
-. Veci by mali byť vždy upratané.
-. Mal by si byť schopný prejaviť súcit za každých okolností.
-. Ľudia by mi mali v napätých situáciách a kritických životných udalostiach prejavovať súcit.
-. Ľudia by mi mali rozumieť.
-. Mal by som rozumieť.
-. Mal by som pracovať rýchlo.
-. Mal by som vždy uspokojiť všetkých.
-. Mal by som byť dokonalý.
-. Za svoje chyby si zaslúžim trest.
-. Ľudia by ma nemali verejne ponižovať.
-. Veci by mali podporovať život.
-. Výroba a používanie vecí by malo byť ekologické.
-. Výroba vecí a starostlivosť o ne a o ľudí by mala byť dlhodobo udržateľná.
-. Veci by mali napĺňať potreby.
-. Veci by mali slúžiť nám, nie my im.
-. Ľudia by si nemali napĺňať vlastné potreby na úkor iných.
+Mozno toto pani Simekova myslela, ked povedala "Su ludia, ktory svoje trapenie z toho vreca utrpenia postupne odhadzuju veci.". Ze si staci uvedomit tie nasilne myslienky a presvedcenia, ktore boli doteraz implicitne, skryte a neuvedomoval som si ich. Potom ich znegovat a tak budpvat toleranciu, ktora mi bude budovat a udrziavat moj pokoj v dusi, ktori otvori cestu sucitu a premyslaniu, namiesto toho, aby som sa riadil pudmi. S kazdou odhalenou nasilnou myslienkou sa citim lahsi. S kazdym nasilnym presvedcenim, ktore si uvedomim, sa mi ulavi. S kazdym uvedomenym a pomenovanym pocitom v mojom tele, a s kazdou uvedomenou a pomenovanou nenaplnenou potrebou, ktora za tym pocitom stoji, a za kazdym myslenim, ktore je pricinou tychto pocitov, sa citim coraz lahsi, viac v bezpeci, blizsie k slobode. 
 
-. mal by / nemal by ...
+... a to je v poriadku. Všetci máme slobodu robiť, hovoriť a myslieť si, čo chceme. Možno práve "mal by / nemal by" vety, ktoré som sa zvonku, zo systémov, z okolia, od ľudí okolo seba naučil, vo mne rezonovali a ešte stále rezonujú, a všetky tie násilné myšlienky slová a činy, a možno ony spôsobujú, spúšťajú a podporujú psychické poruchy. *Systémové príčiny individuálnych problémov.* Možno nasledujúce vety mi pomôžu nájsť ten pokoj v duši, toleranciu a slobodu od násilia, po ktorej tak túžim. Toto je môj zdroj násilia, ktorú by som chcel premenit na toleranciu:
 
-Možno nasledujúce vety mi pomôžu nájsť ten pokoj v duši, po ktorom tak túžim.
+. Je v poriadku, keď rodicia neprejavuju svojim detom sucit. -- Rodicia by mali prejavovat svojim detom sucit.
+. Je v poriadku, keď skola vychovava svojich studentov k sutazivosti. -- Škola by nemala vychovávať svojich študentov k súťaživosti.
+. Je v poriadku, keď ekonomicky system uprednostnuje peniaze na úkor zdravia. -- Ekonomický systém by nemal uprednostňovať peniaze na úkor zdravia.
+. Je v poriadku, keď v sú programe niektoré princípy porušené. -- Programovať by sa malo podľa jasných princípov.
+. Je v poriadku, keď ľudia robia veci, ktoré nie sú v súlade s tým, čo hovoria. -- Ľudia by si nemali protirečiť.
+. Je v poriadku, keď psychológ prejavuje aj iné veci ako súcit. -- Psychológ by mal prejavovať predovšetkým súcit.
+. Je v poriadku, keď ľudia prejavujú aj iné veci ako súcit. -- Ľudia by mali prejavovať predovšetkým súcit.
+. Je v poriadku, keď mi ľudia ubližujú. -- Ľudia by mi nemali ubližovať.
+. Je v poriadku, keď ma ľudia spochybňujú. -- Ľudia by ma nemali spochybňovať.
+. Je v poriadku, keď ľudia spochybňujú ideológiu nenásilia. -- Ľudia by nemali spochybňovať ideoogiu nenásilia.
+. Je v poriadku, keď sa ľudia hádajú. -- Ľudia by sa nemali hádať.
+. Je v poriadku, keď sa hnevám. Môžem sa hnevať. Môžem napríklad nenásline kričať: kričať svoje pocity, potreby a prosby. -- Nemal by som sa hnevať.
+. Je v poriadku, keď sa ľudia hnevajú. Ľudia sa môžu hnevať. -- Ľudia by sa nemali hnevať.
+. Je v poriadku, keď ľudia kričia v mojej prítomnosti. -- Ľudia by nemali kričať v mojej prítomnosti.
+. Je v poriadku, keď na mňa ľudia kričia. -- Ľudia by nemali kričať na mňa.
+. Je v poriadku, keď robím chyby. Je v poriadku mýliť sa. Je v poriadku zlyhať. -- Nemal by som robiť chyby.
+. Je v poriadku, keď ostatní urobia chybu. -- Keď ostatní urobia chybu, mali by byť za ňu potrestaní.
+. Je v poriadku, keď mi ľudia hovoria, že je to moja vina, že sa mi veci nedaria. -- Ľudia by ma nemali obviňovať za to, keď sa mi veci nedaria.
+. Je v poriadku, keď sa ľudia smejú z vecí, ktoré robím, alebo poviem. -- Ľudia by mi nemali vysmievať.
+. Je v poriadku, keď mám iné príležitosti na prácu a vzdelávanie ako ostatní. -- Zaslúžim si mať rovnaké príležitosti na prácu a vzdelávanie ako ostatní, bez ohľadu na moju socioekonomickú situáciu.
+. Je v poriadku, keď pracujem v inej oblasti, než v tej, ktorú som vyštudoval. -- Mal by som pracovať v oblasti, ktorú som vyštudoval.
+. Je v poriadku, keď robím niečo iné, než to, čo mi hovoria autority, alebo ľudia okolo mňa. -- Mal by som robiť to, čo mi hovoria autority, alebo ľudia okolo mňa.
+. Je v poriadku, keď rozvíjam svoje kritické myslenie a súcit tým, že si vytváram svoje vlastné systémy a pravidlá, ktoré mi dávajú zmysel, a ktoré sú v súlade s mojou spiritualitou a víziou sveta. -- Mal by som veriť v to, čo mi hovoria autority, alebo ľudia okolo mňa.
+. Je v poriadku, keď mi niekto hovorí, čo by som mal robiť, alebo čo musím robiť. -- . Ľudia by mi nemali hovoriť, čo by som mal robiť, alebo čo musím robiť.
+. Je v poriadku, keď vo mne ľudia vyvolávajú pocity viny, hanby, strachu, úzkosti. -- Ľudia by ma nemali manipulovať vinou, hanbou, povinnosťou, odmenou a trestom.
+. Nemal by som nikomu nič závidieť. -- Je v poriadku, keď niekomu závidím.
+. Je v poriadku cítiť sa osamelý. -- Nemal by si sa cítiť osamelý. Nie je normálne byť osamelý.
+. Je v poriadku, keď veci nie sú upratané, alebo usporiadané náhodne či chaoticky. -- Veci by mali byť vždy upratané. Ľudia by mali mať vo veciach neustále poriadok.
+. Je v poriadku, keď mi chýba súcit. -- Mal by si byť schopný prejaviť súcit za každých okolností.
+. Je v poriadku, keď mi ľudia neprejavujú súcit. - Ľudia by mi mali v napätých situáciách a kritických životných udalostiach prejavovať súcit.
+. Je v poriadku, keď mi ľudia nerozumejú. -- Ľudia by mi mali rozumieť.
+. Je v poriadku nerozumieť. -- Mal by som rozumieť veciam a ľuďom, a vidieť súvislosti na prvý krát.
+. Je v poriadku, keď pracujem pomalšie než ostatní. -- Mal by som pracovať rýchlo.
+. Je v poriadku, keď je niekto nespokojný. -- Mal by som vždy uspokojiť všetkých.
+. Je v poriadku byť menej než dokonalý. Môžeme robiť chyby a stále byť dosť dobrý. -- Mal by som byť dokonalý.
+. Je v poriadku, keď prosím o pomoc, keď už neviem, ako si pomôcť sám. -- Mal by som si vždy vedieť poradiť sám.
+. Je v poriadku robiť chyby, smútiť nad nimi, zamýšľať sa, aké potreby som si chcel naplniť, aké to malo krátkodobé a dlhodobé následky, premýšľať, čo by som mohol robiť namiesto toho, čo by napĺňalo moje potreby, a viac prospievalo mne aj druhým. -- Za svoje chyby si zaslúžim trest.
+. Je v poriadku, keď ľudia zverejňujú moje nedostatky. -- Ľudia by ma nemali verejne ponižovať.
+. Veci by mali podporovať život. -- Je v poriadku, keď veci škodia životu, alebo ho aj likvidujú.
+. Je v poriadku, keď výroba a používanie vecí znečisťuje a poškodzuje životné prostredie. -- Výroba a používanie vecí by malo byť ekologické.
+. Je v poriadku, keď výroba vecí, starostlivosť o ne a starostlivosť o ľudí nie je dlhodobo udržateľná, a na úkor iných potrieb. -- Výroba vecí, starostlivosť o ne a starostlivosť o ľudí by mala byť dlhodobo udržateľná.
+. Je v poriadku, keď veci nenapĺňajú potreby. --  Veci by mali napĺňať potreby.
+. Je v poriadku, keď slúžime veciam. --  Veci by mali slúžiť nám, nie my im.
+. Je v poriadku, keď si ľudia napĺňajú vlastné potreby na úkor iných. -- Ľudia by si nemali napĺňať vlastné potreby na úkor iných.
+. Ľudia by ma nemali urážať, hovoriť ostré slová a ponižovať ma. -- Je v poriadku, keď ma ľudia urážajú a hovoria veci, ktoré sú mi nepríjemné, a vyvolávajú vo mne bolestivé pocity. Možno je to čas na sebareflexiu.
+. Je v poriadku, keď sú ľudia otravní. -- 
+. Je v poriadku, keď ma ľudia vyrušujú. Ľudia ma môžu vyrušovať.
+. Je v poriadku, keď ľudia manipulujú.  Ľudia môžu manipulovať.
+. Je v poriadku, keď so mnou ľudia manipulujú. Ľudia so mnou môžu manipulovať.
+. Je v poriadku, keď ľudia majú obavy. Ľudia môžu mať obavy.
+. Je v poriadku, keď sa ľudia boja. Ľudia sa môžu báť.
+. Je v poriadku, keď sa ľudia správajú ku mne alebo k iným ľuďom ako k veciam. Ľudia môžu objektifikovať ostatných aj samých seba.
+. Je v poriadku, keď ľudia obchodujú s ľuďmi. -- Ľudia by nemali obchodovať s ľuďmi.
+. Je v poriadku, keď ľudia hovoria aj inak než spisovne. --  Ľudia by mali hovoriť len spisovne.
+. Je v poriadku, keď ľudia kritizujú, a hovoria, čo s vecami a s ľuďmi nie je v poriadku. --  Ľudia by nemali kritizovať a hovoriť, čo s vecami a s ľuďmi nie je v poriadku.
+. Je v poriadku, keď ma ľudia kritizujú. --  Ľudia by ma nemali kritizovať.
+. Je v poriadku, keď veciam porozumiem s odstupom času. Je v poriadku, keď veciam neporozumiem vôbec. Je v poriadku, keď poprosím druhého človeka, aby mi veci vysvetlil znova. --  Mal by som všetkému porozumieť hneď, rýchlo a na prvý krát.
+. Je v poriadku, keď nie som dosť dobrý.
+. Je v poriadku, keď ľudia hovoria "nie". --  Ľudia by nemali hovoriť nie. Mali by vždy povedať, čo im bráni urobiť to.
+. Je v poriadku, keď sa ku mne ľudia správajú necitlivo a pohŕdajú mnou. Veľmi si cením keď so mnou niekto jedná citlivo a jemne, hlavne vtedy, keď ja tak nedokážem odpovedať.
+. Je v poriadku, keď existuje viacero ideológii a náboženstiev. Je v poriadku, keď ľudia vyznávajú viacero ideológii a náboženstiev. --  Mala by existovať iba jedna ideológia, jedno náboženstvo, jedna paradigma, jeden svetonázor, jeden univerzálny, normálny pohľad na svet. Jeden národ, jedna ríša, jeden vodca.
+. Je v poriadku, keď sa zľaknem.
+. Je v poriadku, keď sa ľudia snažia vyvolávať v iných strach a obavy.
+. Je v poriadku, keď ľudia rozprávajú nezrozumiteľne. --  Ľudia by mali stále rozprávať zrozumiteľne, dostatočne artikulovať a rozprávať dostatočne nahlas.
+. Je v poriadku, keď ľudia vysvetľujú veci, ktorým nerozumiem, a ktoré mi znejú komplikovane. --  Ľudia by mali vysvetľovať veci zrozumiteľne.
+. Je v poriadku, keď ľudia nevedia jemne a citlivo vyjadriť a prijať spätnú väzbu. --  Ľudia by si mali vždy vedieť vyjadriť aj prijať spätnú väzbu.
+. Je v poriadku, keď sa ľudia správajú inak, než by sme chceli. Existujú rozne druhy 'normálnosti'. V rôznych obdobiach, v rôzych momentoch, pre rôznych ľudí je 'normálne' niečo iné. A to je v poriadku. Je to dar rôznorodosti. A tento dar rôznorodosti môžem využiť na budovanie tolerancie. --  Ľudia by sa mali vždy snažiť, aby sa správali normálne.
+. Je v poriadku, keď sa ľudia správajú násilne ku mne a ostatným ľuďom. --  Ľudia by sa nemali správať násilne ani ku mne, ani k sebe, ani k ostatým ľuďom.
+. Je v poriadku, keď ma ľudia intenzívne a opakovane hovoria, že aj ja by som mal zdieľať ich názory, presvedčenia, náboženstvá, ideológie a aktivity. --   Ľudia by ma nemali presviedčať o svojich názoroch, presvedčeniach, náboženstvách, ideológiách a aktivitách, a tlačiť mi ich dole krkom, či sa mi to páči, alebo nie.
+. Je v poriadku, keď sa rozprávam s ľuďmi o svojej ideológii. --   Ja by som nemal presviedčať druhých ľudí o svojich názoroch.
+. Je v poriadku, keď sú veci komplikované a komplexné. --   Veci by mali byť jednoduché.
+. Je v poriadku, keď sú veci zložité, komplikované a časovo náročné na porozumenie a starostlivosť. -- Veci by mali byť jednoduché na porozumenie a starostlivosť.
+. Je v poriadku rozprávať sa s ľuďmi, ktorých nepoznáš, alebo ktorých vidíš prvý krát. --   Nemal by si sa rozprávať s cudzími ľuďmi. Nemal by si sa rozprávať s ľuďmi
+. Je v poriadku, keď ľuďom hovorím o svojich osobných zážitkoch a trápeniach. --   Nemal by si cudzím ľuďom hovoriť o svojich osobných zážitkoch a trápeniach.
+. Je v poriadku, keď mi ľudia hovoria a zdieľajú so mnou svoje osobné zážitky a trápenia.
+. Je v poriadku, keď ľudia porušujú pravidlá. --   Ľudia by mali dodržiavať pravidlá.
+. Je v poriadku, keď ľudia porušujú zákon. --    Ľudia by nemali porušovať zákon.
+. Je v poriadku, keď ľudia spochybňujú pravidlá. --    Ľudia by nemali spochybňovať pravidlá.
+. Je v poriadku, keď ľudia spochybňujú zákony. --    Ľudia by nemali spochybňovať zákony.
+. Je v poriadku, keď muži diskriminujú ženy. [ Melt down patriarchy with tenderness :)  - nonviolence] --   Muži by nemali diskriminovať ženy. [Smash patriarchy - violence]
+. Je v poriadku, keď ľudia znevýhodňujú ľudí, ktorí sú iní ako väčšina v danej komunite, organizácii, inštitúcii, oblasti, štáte alebo kontinente. --   Ľudia by nemali znevýhodňovať ľudí, ktorí sú iní ako väčšina v danej komunite, organizácii, inštitúcii, oblasti, štáte alebo kontinente.
+. Je v poriadku, keď ľudia znevýhodňujú ľudí len preto, že majú inú národnosť, pôvod, farbu pleti, výzoru, jazyk, správanie, iné poradie hodnôt, že zarábajú menej, sú z iného regiónu, alebo majú zdravotné znevýhodnenie. --    Ľudia by nemali znevýhodňovať ľudí len preto, že majú inú národnosť, pôvod, farbu pleti, výzoru, jazyk, správanie, iné poradie hodnôt, že zarábajú menej, sú z iného regiónu, alebo majú zdravotné znevýhodnenie.
+. Je v poriadku, keď ľudia trestaj'iných ľudí. --    Ľudia by nemali trestať iných ľudí.
+. Je v poriadku, keď ľudia trestajú mňa. --   Ľudia by nemali trestať mňa.
+. Je v poriadku, keď ľudia nadávajú. --   Ľudia by nemali nadávať.
+. Je v poriadku, keď sú ľudia bohatí. --   Ľudia by nemali byť bohatí.
+. Je v poriadku, keď sú ľudia chudobní. --    Ľudia by nemali byť chudobní.
+. Je v poriadku, keď trpím.
+. Je v poriadku, keď ľudia trpia.
+. Je v poriadku, keď ľudia vyhadzujú alebo vylievajú jedlo. --    Ľudia by nemali mrhať jedlom.
+. Je v poriadku, keď ľudia míňajú peniazmi. --    Ľudia by nemali mrhať peniazmi.
+. Je v poriadku, keď ľudia zverejňujú konšpirácie, domnienky, neoverené a interpretované informácie. --    Ľudia by mali zverejňovať iba overené a pravdivé informácie.
+. Je v poriadku miešať pozorovanie a posudzovanie. --    Ľudia by nemali miešať pozorovanie a posudzovanie.
+. Je v poriadku, keď inštitúcie a ideológie vzdelávajú a vychovávajú ľudí k tomu, čo o mne povedia druhí, k násiliu, nenávisti, súťaživosti, sebeckosti, poslušnosti. --    Inštitúcie a ideológie by nemali vzdelávať a vychovávať ľudí k tomu, čo o mne povedia druhí, k násiliu, nenávisti, súťaživosti, sebeckosti, poslušnosti.
+. Je v poriadku, keď inštitúcie a ideológie vzdelávajú a vychovávajú ľudí aj k iným hodnotám, ako ku ku kritickému mysleniu, spolupráci, tolerancii, samostatnosti, slobode, zodpovednosti. --   Inštitúcie a ideológie by mali vzdelávať a vychovávať ľudí ku kritickému mysleniu, spolupráci, tolerancii, samostatnosti, slobode, zodpovednosti.
+. Je v poriadku, keď ľudia porušujú pravidlá cestnej prmávky pri šoférovaní. --     Ľudia by mali šoférovať podľa pravidiel.
+. Je v poriadku, keď sú cesty hrboľaté, krehké a slabé.    Cesty by mali byť hladké a trvácne, odolné.
+. Je v poriadku, keď mi ľudia hovoria, čo by som mal, alebo nemal robiť, čo musím alebo nesmiem robiť.    Ľudia by mi nemali hovoriť, čo by som mal, alebo nemal robiť, čo musím alebo nesmiem robiť.
+. Je v poriadku, keď mi ľudia rozkazujú. --    Ľudia by mi nemali rozkazovať.
+. Je v poriadku, keď ľudia, a hlavne muži, hovoria o svojich pocitoch, ani o pocitoch ostatných, pretože je to prejav slabosti, zraniteľnosti, ženskosti, zženštilosti, pretože je to dôkaz ich odvahy, byť úprimný zo srdca. --     Ľudia, a hlavne muži, by nemali hovoriť o svojich pocitoch, ani o pocitoch ostatných, pretože je to prejav slabosti, zraniteľnosti, ženskosti, zženštilosti.
+. Je v poriadku, keď pozerám porno. --    Nemal by som pozerať porno.
+. Je v poriadku, keď ľudia pozerajú porno. --    Ľudia by nemali pozerať porno.
+. Je v poriadku, keď masturbujem. --    Nemal by som masturbovať.
+. Je v poriadku, keď ľudia masturbujú. --    Ľudia by nemali masturbovať.
+. Je v poriadku hovoriť o veciach a druhých ľuďoch, čo s nimi nie je v poriadku. --    Nemal by som hovoriť, čo s druhými nie je v poriadku.
+. Je v poriadku, požiadať o pomoc, keď je niekto zúfalý a frustrovaný, a už nevie, ako si pomôcť sám. --    Mal by som byť schopný, pomôcť si sám.
+. Je v poriadku nevedieť.
+. Je v poriadku vyhľadať pomoc odborníkov.
+. Je v poriadku vyhľadať pomoc.
+. Je v poriadku poprosiť o pomoc.
+. Je v poriadku poprosiť o radu.
+. Je v poriadku spýtať sa druhého človeka na názor alebo riešenie.
+. Je v poriadku, keď sa spýtam druhého človeka, ako sa cíti.
+. Je v poriadku poprosiť druhého človeka, aby urobil, alebo povedal niečo, čo by urobilo môj život krajším.
+. Je v poriadku zabudnúť. Je v poriadku zabúdať.
+. Je v poriadku, keď si ľudia skáču do reči. --    Ľudia by si nemali skákať do reči.
+. Je v poriadku, keď mi ľudia skáču do reči. --    Ľudia by mi nemali skákať do reči.
+. Je v poriadku pomýliť sa.
+. Je v poriadku odložiť veci na neskôr.
+. Je v poriadku nepomôcť.
+. Je v poriadku používať veci, ktoré predtým používal niekto druhý.
+. Je v poriadku, keď ľudia robia alebo hovoria veci, ktorým nerozumiem. -- Ľudia by nemali robiť ani rozprávať nezmysly.
+. Je v poriadku, keď ľudia posudzujú, odsudzujú, moralizujú, analyujú, diagnostikujú. --   Ľudia by nemali posudzovať, odsudzovať, moralizovať, analyzovať, diagnostikovať.
+. Je v poriadku, keď firmy vytvárajú podmienky a prostredie, ktoré zamestnancom škodí. --    Firmy by mali vytvárať také podmienky a prostredie pre zamestnancov, v ktorých budú pracovať radi.
+. Je v poriadku, keď školy vytvárajú podmienky a prostredie, ktoré žiakom a študentom škodí. --    Školy by mali vytvárať také podmienky a prostredie pre žiakov a študentov, v ktorých budú podporovať vlastnú motiváciu (intrinsic motivation), vnútornú kontrolu nad vecami (internal locus of control) a samostatnosť (self-directed executive functioning)
+. Je v poriadku, keď rodiny vytvárajú podmienky a prostredie, ktoré škodí deťom a ostatným členom domácnosti. --    Rodiny by mali vytvárať také podmienky a prostredie pre svoje deti a ostatných členov domácnosti, ktoré bude naĺňať ich potreby po bezpečí, bezpodmienečnej láske, dotyku, nežnosti, slobode a súcite.
+. Je v poriadku vytvárať také prostredie, ktoré podporuje akúkoľvek formu autoritariánstva. --    Politici, štát, a jeho inštitúcie by mali vytvárať také podmienky a prostredie, ktoré budú podporovať priamu demokraciu, a kde budú mať jeho obyvatelia vedomie, že na nich záleží, a že aj ich názor je dôležitý.
+. Je v poriadku rozprávať sa o sexe na verejnosti. --    Ľudia by sa nemali rozprávať o sexe na verejnosti.
+. Je v poriadku plakať na verejnosti. -- Ľudia by nemali plakať na verejnosti. Nemal by som plakať na verejnosti.
+. Je v poriadku, hádať sa so šéfom.
+. Je v poriadku, keď sa hádam s kolegami.
+. Je v poriadku, hádať sa.
+. Je v poriadku mať citlivejšie zmysly a vnútorné vnímanie.
+. Je v poriadku trpieť. -- Nemal by som trpieť.
+. Je v poriadku, keď ľudia zažívajú ešte väčšie utrpenia, než tie, ktoré som zažíval a zažívam teraz ja. -- Ľudia by nemali trpieť tak, ako ja.
+. Je v poriadku súťažiť. -- Ľudia by nemali súťažiť.
+. Je v poriadku, keď sa ľudia porovnávajú. -- Ľudia by sa nemali porovnávať.
+. Je v poriadku, keď ma ľudia porovnávajú s druhými ľuďmi. -- Ľudia by ma nemali porovnávať s druhými ľuďmi.
+. Je v poriadku, keď sa porovnávam s druhými ľuďmi. -- Nemal by som sa porovnávať s druhými ľuďmi.
+. Je v poriadku, keď preberáš zodpovednosť výhradne za svoje pocity, a pocity druhých ľuďí môžeš iba stimulovať, podnietiť, pokiaľ sa jedná iba o psychologickú, mentálnu bolesť, nie za fyzickú bolesť, tým že napríklad niekoho udriem. Mal by si preberať zodpovednosť za pocity iných ľudí, pretože práve druhí ľudia sú príčinou tvojich pocitov: príjemných aj bolestivých.
+. Je v poriadku mať v sebe presvedčenia, ktoré podporujú násilie.
+. je v poriadku vnimat veci a pocity v tele citlivejsie, imtenzivnejsie a na dlhsi cas.
+. je v poriadku med ludia smrdia a vhzeraju zanedbani
+. je v poriadku za behu si vytvarat a menit pravidla
+. ludi by nemali pit alkohol, fajcit a brat drogy, jest fast-food, ani vyhladavat cokolvek, co na nich posobi ako superstimulus, pretoze to skodi ich zdraviu.
+. ludia by nrmali ohrozovat svoj zivot a zivoty druhych ludi. 
+. ludia by nemali tolko cumiet do mobilov. nicia si oci a chrbticu.
+. ludia by nemali ludi premienat na objekty, tym ze ich pouzivaju v rejlamach na propagaciu produktov a zvysovanie predaja.
+. ludia by sa ma nemali dotykat.
+. je v poriadku, ked zizam na zeny.
+. je v poriadku, ked zazeram na ludi.
+. muzi by za nemali spravat ako zeny.
+. zeny by sa nemali spravat ako muzi.
+. nemal by som vyzerat ako slaboch.
+. nemal by som byt agresivny.
+. mal by som pracovat.
+. ludia by nemali vykoristovat druhych ludi.
+. ludia by nemali zarabat sni imym sposobom profitovat  a chorobe, utrpeni, zranitelnosti, nevedomosti, druhych ludi
+. ludia by nemali propagovat, sirit a podnecovat nasilie
+. nemal by som propagovat, sirit a podnecovat nasilie
+. nemal by som vyzerat zranitelne. 
+. nemal by som vyzerat ako slaboch. 
+. muz by nemal prejavovat pocity a hovorit o pocitoch, pretoze je to prejav slabosti a zranitelnosti, a muz by nemal vyzerat slaby a zranitelny, ale mal by stale vyzerat silny, stabilny, energicky. 
+. nemal by som posobit agresivne. 
+. je v poriadku mat nutkave, vtierave alebo nasilne myslienky. 
+. lidia by na mna nemali cumiet
+. k ludom by sme sa nemali spravat, akoby boli nahraditelni. 
+. je v poriadku, ked sa ludia, vratane mna, spravaju bezohladne. -- ludia by sa mali vzdy spravat ohladulne ku mne, k druhyma k sebe.
+. lidia by nemali veci komplikovat
+. je v poriadku vyzerat skaredo a zanedbane. 
+. ludia by nemali znecistovat prostredie. 
+. ludia by nemali rozpravat a spravat sa afektovane, prehanat, hystercit.
+. nemal by si pocuvat to, co ti hovori telo, to ako sa citis, a ako sa pocit prejavuje v tele a ucit sa vnimavosti a vsimavosti. mal by si a musis posluchat ludi v pozici autority, a starat sa o to, co si o tebe myslia druhi. 
+. vsetky veci, ktore patria mne, alebo so mnou suvisia, by som mal mat pod kontrolou. / vsetky veci, ktore patria mne, alebo so mnou suvisia, musim mat pod kontrolou.
+. ludia by nemali zneuzivat moju doveru
+. nemal by som zabudat
+. lidia by nemali rusit moj pokoj. 
+. ludia by nemali zasahovat do mojho sukromia.
+. ludia by mali byt neistale prirpdzeni, autemticki, sontanmi a uprimni. 
+. ludia by nemali klamat. 
+. ludoa by mali podvadzat. 
+. ludia by sa nemali podvadzat.
+. Mal by / Nemal by / Musieť / Nesmieť / Zaslúžiť si... -- Je v poriadku, keď...
 
-. Je v poriadku, keď rodicia neprejavuju svojim detom sucit.
-. Je v poriadku, keď skola vychovava svojich studentov k sutazivosti.
-. Je v poriadku, keď ekonomicky system uprednostnuje peniaze na úkor zdravia.
-. Je v poriadku, keď v sú programe niektoré princípy porušené.
-. Je v poriadku, keď ľudia robia veci, ktoré nie sú v súlade s tým, čo hovoria.
-. Je v poriadku, keď psychológ prejavuje aj iné veci ako súcit.
-. Je v poriadku, keď mi ľudia ubližujú.
-. Je v poriadku, keď ma ľudia spochybňujú.
-. Je v poriadku, keď ľudia spochybňujú ideológiu nenásilia.
-. Je v poriadku, keď sa ľudia hádajú.
-. Je v poriadku, keď sa hnevám. [Môžem napríklad nenásline kričať: kričať svoje pocity, potreby a prosby.]
-. Je v poriadku, keď ľudia kričia v mojej prítomnosti.
-. Je v poriadku, keď na mňa ľudia kričia.
-. Je v poriadku, keď robím chyby.
-. Je v poriadku, keď ostatní urobia chybu.
-. Je v poriadku, keď mi ľudia hovoria, že je to moja vina, že sa mi veci nedaria.
-. Je v poriadku, keď sa ľudia smejú z vecí, ktoré robím, alebo poviem.
-. Je v poriadku, keď mám iné príležitosti na prácu a vzdelávanie ako ostatní.
-. Je v poriadku, keď pracujem v inej oblasti, než v tej, ktorú som vyštudoval.
-. Je v poriadku, keď robím niečo iné, než to, čo mi hovoria autority, alebo ľudia okolo mňa.
-. Je v poriadku, keď mi niekto hovorí, čo by som mal robiť.
-. Je v poriadku, keď vo mne ľudia vyvolávajú pocity viny a hanby.
-. Je v poriadku, keď niekomu závidím.
-. Je v poriadku cítiť sa osamelý.
-. Je v poriadku, keď veci nie sú upratané alebo usporiadané náhodne alebo chaoticky.
-. Je v poriadku, keď mi chýba súcit.
-. Je v poriadku, keď mi ľudia neprejavujú súcit.
-. Je v poriadku, keď mi ľudia nerozumejú.
-. Je v poriadku nerozumieť.
-. Je v poriadku, keď pracujem pomalšie než ostatní.
-. Je v poriadku, keď je niekto nespokojný.
-. Je v poriadku byť menej než dokonalý. Môžeme robiť chyby a stále byť dosť dobrý.
-. Je v poriadku, keď prosím o pomoc. Keď už neviem, ako si pomôcť sám.
-. Je v poriadku, keď ľudia zverejňujú moje nedostatky.
-.     Veci by mali podporovať život.
-.     Výroba a používanie vecí by malo byť ekologické.
-.     Výroba vecí a starostlivosť o ne a o ľudí by mala byť dlhodobo udržateľná.
-.     Veci by mali napĺňať potreby.
-.     Veci by mali slúžiť nám, nie my im.
-.     Ľudia by si nemali napĺňať vlastné potreby na úkor iných.
-.     nepríjemní
-.     otravní
-.     Ľudia ma môžu vyrušovať.
-.     Ľudia môžu manipulovať.
-.     Ľudia so mnou môžu manipulovať.
-.   Je v poriadku, keď ľudia majú obavy. Ľudia môžu mať obavy.
-.   Je v poriadku, keď sa ľudia boja. Ľudia sa môžu báť.
-.   Je v poriadku, keď sa ľudia správajú ku mne alebo k iným ľuďom ako k veciam. Ľudia môžu objektifikovať ostatných aj samých seba.
-.     Ľudia by nemali obchodovať s ľuďmi.
-.     Ľudia by mali hovoriť len spisovne.
-.     Ľudia by nemali kritizovať a hovoriť, čo s vecami a s ľuďmi nie je v poriadku.
-.     Ľudia by ma nemali kritizovať.
-.     Mal by som všetkému porozumieť na prvý krát.
-.     Je v poriadku, keď nie som dosť dobrý.
-.     Ľudia by nemali hovoriť nie.
-.   Je v poriadku, keď sa ku mne ľudia správajú necitlivo a pohŕdajú mnou.
-.   Mala by existovať iba jedna ideológia, jedno náboženstvo. Jeden národ, jedna ríša, jeden vodca. -- Je v poriadku, keď ľudia vyznávajú viacero ideológii a rôzne náboženstvá.
-. Je v poriadku, keď ...
-
-Všetko je v poriadku. Všetci máme svoje dobré dôvody a životné príbehy, prečo robíme to, čo robíme. Robíme len to, čo v prítomnej chvíli s momentálnymi znalosťami a schopnosťami najlepšie naplní naše potreby. Robíme to, čo vieme, najlepšie ako vieme. Všetci máme slobodu robiť, hovoriť a myslieť si, čo chceme. Zároveň chcem, aby sme si uvedomovali, že každá z týchto viet má svoj zmysel, svoje dôsledky, výhody a nevýhody, ktoré sa menia podľa okolností, a že tým, že premýšľam nad tým, ako by veci mali a nemali byť, prispievam k násiliu na tejto planéte. Takto som schopný prevziať zodpovednosť za svoje rozhodnutia. Mám určité preferencie a predstavy o tom, ako by som chcel, aby veci vyzerali. Ale veci môžu vyzerať aj inak, a tiež môžu napĺňať potreby a podporovať život. V kažom prípade si budem uvedomovať, že chcem napĺňať vlastné potreby *s ohľadom na ostatných*, s ohľadom na potreby ostatných ľudí. Aj keď nie vždy som toho schopný a staré správanie, ktoré chcem nahradiť, prevládne. Však som 27 rokov bol indoktrinovaný k násiliu.
+Všetko je v poriadku. Všetci máme slobodu. Všetci máe slobodu robiť, hovoriť a myslieť si, čo chceme, a čo si myslíme, že najviac obohatí náš život. Aj keď niekedy ani tomu neverím, keď sa pozriem, ako vyzerá život v juhoázijských krajinách, Afrike, Južnej Amerike, diktatúrach a pseudodemokraciách. Všetci máme svoje dobré dôvody a životné príbehy a zážitky, prečo robíme to, čo robíme. Robíme len to, čo v prítomnej chvíli s momentálnymi znalosťami a schopnosťami najlepšie naplní naše potreby. Robíme to, čo vieme, najlepšie ako vieme. Všetci máme slobodu robiť, hovoriť a myslieť si, čo chceme. Zároveň chcem, aby sme si uvedomovali, že každá z týchto viet má svoj zmysel, svoje dôsledky, výhody a nevýhody, ktoré sa menia podľa okolností. *Dôsledky "mal by / nemal by" myšlienok sú také, že keď premýšľam nad tým, ako by veci mali a nemali byť, prispievam k násiliu na tejto planéte.* Náslie sa potom skôr, či neskôr, prejaví v mojom tele ako bolesť, nepohodlie, príznak, ktorý môže pri bolestivých pocitoch silnieť, alebo ako choroba. Chronická choroba, ak násilie trvá mesiace, roky. Takto som schopný prevziať zodpovednosť za svoje rozhodnutia. Mám určité preferencie a predstavy o tom, ako by som chcel, aby veci vyzerali. Ale veci môžu vyzerať aj inak, a tiež môžu napĺňať potreby a podporovať život. Niekto napríklad pracuje na ropnej plošine, vyrúbava lesy, stavia chaty v chránených prírodných oblastiach, masovo loví ryby, a z platu živí svoju rodinu, pretože žije v oblasti, kde je problém nájsť si inú prácu, alebo ten človek má iné dobré dôvody na to, aby zotrval v práci, ktorú vykonáva. V kažom prípade si budem uvedomovať, že chcem napĺňať vlastné potreby *s ohľadom na ostatných*, s ohľadom na potreby ostatných ľudí. Tak často a tak veľmi, ako len budem vládať. A neustále si to pripomínať, že práve to je ľudská prirodzenosť. Napĺňať si svoje potreby s ohľadom na druhých a napĺňať potreby druhých s ohľadom na seba. Iba toto je dlhodobo udržateľná stratégia. Aj keď nie vždy som toho schopný a staré správanie, ktoré chcem nahradiť, prevládne. Však som bol 27 rokov indoktrinovaný k násiliu. Takže zmena bude postupná, pomalá, namáhavá, a o to účinnejšia. V tom tkvie môj optimizmus.
 
 Mozem zostat pokojny a budovat svoju toleranciu voci odlisnostiam pomocou súcitu. Budovat si a starat sa o svoj pokoj v dusi, ktory mi da slobodu, v kazdej jednej chvili mat na mysli, ze mam vzdy na vyber, ako chcem reagovat a co chcem urobit. Tak, aby som si mohol slobodne vybrat, ze budem vychadzat zo svojej vlastnej spirituality - spirituality nenasilia. Starat sa o svoj pokoj v dusi. Prejavit sucit. Ist vzorom. Aplikovať princípy z ideológie nenásilia na samotnú ideológiu nenásilia.
 
@@ -1050,6 +1155,11 @@ You can try so hard, as hard as you can, to achieve something, when you don't ha
   ** me to others
   ** others of me
 * pozitok pri mojom vlastnom trapeni
+* citit sa v bezpeci, aj ked na mna niekto krici, ohrozuje ma na zdravi alebo na zivote, aj keď som v spoločnosti ľudí, ktorí vyzerajú inak, správajú sa inak a vyznávajú iné hodnoty, alebo robia nieco, čo mi vadí
+* chcem sa citit v bezpeci, aj ked urobim chybu
+* odvaha poprosit druheho cloveka o naplnenie mojich potrieb.
+* odvaha prijat odpoved druheho cloveka so sucitom, hlavne ked neurobi to, o co ho prosim
+  ** ...lebo potom citim este vacsiu bolest z mojich nenaplnenych potrieb, nez som mal predtym. to ma na tom odradza najviac. radsej budem trpiet menej, nez riskovat este vacsie utrpenie a smutok z  odmietnutia, pokazeneho vztahu, znicenej dovery a vycitiek. a zaroven si kazdy den predstavujem, ake prijemne by bolo, keby som nasiel dievca, ku ktorej by som sa pritulil, a ona by ma s radostou skrabkala vo vlasoch. ach, tak by sa mi ulavilo. tolko nehy som nezazil za cely svoj zivot. a nie len nehy, ale aj jemnosti, hebkosti, makkosti, citlivosti, vone, krasy, povabu, elegancie, plynulosti, cistoty. citit a vnimat teplo zeny ku ktorej by som sa mohol pritulit, s ktorou by som sa citil v bezpeci, ku ktorej by som mohol byt uprimny bez strachu. so zenou, ktora by sa o moju dusu starala jemne a citlivo. 
 
 ---
 
@@ -6122,10 +6232,11 @@ Robiť veci pre zisk je morálne zbankrotovaná myšlienka.
 Impostor syndrome, capitalism and Peter principle
 
 * One of the things that I didn't want to have happen to me as I entered this new life and lifestyle was I didn't want to begin to think that I had what I had because I'd worked hard, which is one of the patterns of thought very common to upper middle class. I don't believe that I got what I got because I worked hard. I believe that I got what I got *because the [economic] system [of capitalism] favors me* in a number of different ways - one, because I'm white, but also because I started out middle-class. And I think that it's uncomfortable for people who start out with more to be reminded of that. +
-So - and I do think that this is damaging in so many ways. The implication is that people who don't have enough have just not worked hard enough, and that's damaging to people who are working extremely hard and still don't have enough because they're being underpaid [or have grown up and educated in different conditions]. But it's also damaging to relationships between people who have more and people who have less if there is this implication hovering in the air that you could have as much as I have if only you just worked a little harder. [Eula Biss] +
+So - and I do think that this is damaging in so many ways. The implication is that people who don't have enough have just not worked hard enough, and that's damaging to people who are working extremely hard and still don't have enough because they're being underpaid [or have grown up and educated in different conditions]. But it's also damaging to relationships between people who have more and people who have less if there is this implication hovering in the air that you could have as much as I have if only you just worked a little harder *[the main condition to emotional exhaustion and burnout - just a little more, just a little harder, just a little longer, just ... SNAP! you get sick, maybe chronically sick, and you break down.]*. [Eula Biss] +
 link:https://text.npr.org/s.php?sId=908456873['Having And Being Had': A Book That Answers Your Questions On Capitalism]
 
 * ...impostor syndrome can apply to anyone “who isn’t able to internalize and own their successes... [Audrey Ervin] +
+[I wonder why would somebody think that way? Where does this belief come from?] +
 link:https://time.com/5312483/how-to-deal-with-impostor-syndrome/[Impostor syndrome]
 
 * *Peter principle: Each person in a hierarchy accompanies a position, for which is not sufficiently qualified. Each person in a hierarchy has a position that corresponds to the level of his/her incompetence (Peter's Plateau).*
@@ -6136,7 +6247,7 @@ link:https://time.com/5312483/how-to-deal-with-impostor-syndrome/[Impostor syndr
 
 What would the others think about me?
 
-* unfulfilled needs: spontaneity, authenticity
+* unfulfilled needs: spontaneity, authenticity, care about the well-being of others
 
 ---
 
@@ -7701,6 +7812,12 @@ People can be imperfect and I can always be grateful for the needs they're fulfi
 
 Things can be imperfect and I can always be grateful for the needs they're fulfilling, although they may fulfill these needs at the cost of needs of other people or the environment.
 
+sachen können imperfekt sein und immer gut genug sein.
+
+sachen können imperfekt sein und ich kann immer ehre für die arbeit anderer menschen haben.
+
+sachen müssen nicht die besten sein, um gut genug zu sein, uund um unsere bedürfnisse genügend zufrieden zu stellen.
+
 ---
 
 We don't need to be perfect. We need to be robust. Antifragile.
@@ -8006,3 +8123,87 @@ Hypotetický rozhovor s pani Luciou Šútorovou:
 Ja: +
 Ona: +
 ...
+
+---
+
+Emócie otvárajú brány kognícii. Pocity otvárajú brány rozumu a premýšľaniu.
+
+Taže darmo budem študovať a rozvíjať odborné vedomosti, a programovať, keď aj tak všetko, čo sa teraz naučím, sa skôr či neskôr rozsype, kvôli môjmu trápeniu a chronickým chorobám.
+
+---
+
+---
+
+ohladuplnost = citlivost + jemnost
+
+zodpvednost = uvedomenie si zmyslu [vnimavost] a dosledkov [predvidavost] toho, co robim
+
+---
+
+real-life ad block
+
+---
+
+vdacnost, obdiv, optimizmus, nadej, ze raz vsetci budeme zit s pokojom v dusi, v sulade s prirodou, v zdravi, s doverou, ze mame dostatok prostriedkov na to, aby potreby vsetkych mohli byt naplnene s ohladom na vsetkych ostatnych a na prostredie, v ktorom zijeme.
+
+---
+
+ludske telo je krehke a potrebuje starostlivost.
+
+ludske zdravie je krehke a potrebuje starostlivost.
+
+ludska mysel je krehka a potrebuje starostlivost.
+
+ludska dusa je krehka a potrebuje starostlivost.
+
+ludske vztahy su krehke a potrebuju starostlivost.
+
+dovera je krehka :)
+
+---
+
+psychologovia, a hlavne psychologicky su nasi anjeli strazni. davaju na nas pozor. beru nase trapenie a nasu bolest vazne. prejavuju nam sucit a porozumenie. su pri nas aj v tych najnapatejsich a najsmutnejsich chvilach. zale zi im na nasom pokoji v dusi.
+
+---
+
+there is nothing wrong with people who don't say things nonviolently. i just prefer the way of saying things nonviolently because it's something what i resonate to spiritualy.
+
+---
+
+bol som vzdelany a vychovany bat sa. preto mi teraz tak trva, kym naskrabem kusok odvahy.
+
+---
+
+zmiesane pocity z psychoterapie s pani Sutorovou
+
+Z odpovedi, ktore pocujem, a z pristupu, ktory dostavam, citim chlad..., obavy..., pochybnosti... 
+
+3 moznosti... 
+
+Co Vam brani, prejavit mi sucit? Bojite sa, ze sa na Vas naviazem? 
+
+Potrebujete si drzat odstup od ludi, ktori vas prosia o pomoc?
+
+bavi Vas Vasa praca? Naplna Vas Vasa praca?
+
+ja chcem mat slobodu, ktore oblasti mozgu si chcem rozvijat - dmn, pfc - a ktore chcem tlmit - amygdala.
+
+diar - plny ludi, ktorych vyprodukoval system
+
+skodlivost terajsich systemov
+
+nechcem, aby ste ma zachramovali, ale aby ste mi dali schopnosti, ako si s trapenim poradim sam. a analyzovanie mojich rozhodnuti, a debatovanie o tom, co so mnou nie je v poriadku, mi nepomaha. necitim sa tu ani viac v bezpeci, a necitim ani vacsiu doveru k vam. trasiem sa tu od strachu, co zase poviete, a koho vsetkeho ostatneho budete obhajovat, namiesto toho, aby ste stali pri mne a prejavovali mi sucit.
+
+chcem, aby ste mi dali schopnosti, ako sa branit pred skodlivymi icinkami tychto sysytemov. a tie mi date vtedy, ked mi pojdete vzorom v sucite. pretoze sucot je schopnost, ktora mi chybala, a schopnost, po ktorej sa mitak ulavi. teraz som prisiel ku vam, aby ste ma liecili sucitom. chcem mat slobodu, zvolit si svoj vlastny sposob terapie. alebo teda, ked nezmenite praktiky, tak zmenme vystup terapie, nie na zdraveho, samostatneho, sucitiaceho jedinca, ktory je schopny pestovat si a nachadzat pokoj v dusi aj v tych najnapatejsich a najnasilnejsich podmienkach, a vidiet ludskost v ostatnych, aj keby robili tie najvacsie nasilnosti. zmenme teda ciel terapie a terapeuta na "znovu traumatizovat cloveka a zmenit ho na objekt, na suciastku, ktora zapadbe do systemu", nie na kriticky mysliaceho, tvoriveho cloveka, ktory chce byt v zivote stastny a silny vo svojej spritualite. chcem, aby sa zo mna stal clovek, ktory si naplna vlastne potreby s ohladom na ostatnych, nie na ukor ostatnych.
+
+systemy sice nezmenime, ale maju na nas obrovsky vplyv. 
+
+ja nechcem, aby ste ma zachranovali tak, ze mi budete ponukat riesenia. chcem, aby ste ma naucili, ako si dokazen poradit so svojim trapenim sam.
+
+ako mozem predist tymto bolestivym stavom z vyhorenia v praci znovu? z toho mam najvacsie obavy. mam velke obavyz toho, ze aj ked sa dovzdelam na programatora, tak sa aj tak dostanem do prostredia, v ktorom znovu vyhorim. a ze firme to zase bude jedno, lebo "ty si len suciastka v stroji, ktora je nahraditelna". lebo teraz som "pokazeny" a ludia okolo mna, psychologicky, autority, lekari,  kamaratky, nikto mi nevie poradit, co s tym, ani mi nevedia prejavit sucit. zase som v problemoch sam. a nikto nevie, kedy vyzdraviem, a ci vobec niekedy budem zdravy, abudem mat pracu, ktora ma bude naplnat, vztahy, ktore mi daju sucit a bezpecie, priatelku, ktora mi da jemnost, citlivost a nehu, rodinu, ktora ma podpori, domov, kam sa budem rad vracat.
+
+ako sa citite, ked toto pocujete?
+
+velmi ma znepokojuje ideologia, ktoru vyznavate. ja verim, ze prave tieto presvedcenia su pricinou nasilia na tejto planete.
+
+---
