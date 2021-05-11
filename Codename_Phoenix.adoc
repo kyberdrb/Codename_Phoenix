@@ -1094,6 +1094,17 @@ Mozno toto pani Simekova myslela, ked povedala "Su ludia, ktory svoje trapenie z
 . ludia by nemali klamat. 
 . ludoa by mali podvadzat. 
 . ludia by sa nemali podvadzat.
+.   Mal by som mat dostatok prilezitosti na ucenie.
+.   Mal by som mat dostatok casu na ulohy.
+. Je v poriadku, keď ľudia hovoria, čo s nimi nie je v poriadku.
+. Je v poriadku, keď ľudia hovoria, čo s ostatnými nie je v poriadku.
+. Je v poriadku, keď si hovorím, čo so mnou nie je v poriadku.
+. Je v poriadku, keď si myslím, čo s ostatnými nie je v poriadku.
+. Je v poriadku, keď ľuďom hovorím, čo s nimi nie je v poriadku.
+. Je v poriadku, keď hovorím, čo so systémamy nie je v poriadku.
+. Je v poriadku, keď sa snažím spochybňovať a meniť systémy.
+. Je v poriadku, keď si vytváram vlastné systémy.
+. *Je v poriakdu, pokaziť veci. Je v poriadku kaziť veci.*
 . Mal by / Nemal by / Musieť / Nesmieť / Zaslúžiť si... -- Je v poriadku, keď...
 
 Všetko je v poriadku. Všetci máme slobodu. Všetci máme slobodu slova. Všetci máme slobodu robiť, hovoriť a myslieť si, čo chceme, a čo si myslíme, že najviac obohatí náš život. Aj keď niekedy ani tomu neverím, keď sa pozriem, ako vyzerá život v juhoázijských krajinách, Afrike, Južnej Amerike, diktatúrach a pseudodemokraciách. Všetci máme svoje dobré dôvody a životné príbehy a zážitky, prečo robíme to, čo robíme. Robíme len to, čo v prítomnej chvíli s momentálnymi znalosťami a schopnosťami najlepšie naplní naše potreby. Robíme to, čo vieme, najlepšie ako vieme. Všetci máme slobodu robiť, hovoriť a myslieť si, čo chceme. Zároveň chcem, aby sme si uvedomovali, že každá z týchto viet má svoj zmysel, svoje dôsledky, výhody a nevýhody, ktoré sa menia podľa okolností. *Dôsledky "mal by / nemal by" myšlienok sú také, že keď premýšľam nad tým, ako by veci mali a nemali byť, prispievam k násiliu na tejto planéte.* Náslie sa potom skôr, či neskôr, prejaví v mojom tele ako bolesť, nepohodlie, príznak, ktorý môže pri bolestivých pocitoch silnieť, alebo ako choroba. Chronická choroba, ak násilie trvá mesiace, roky. Takto som schopný prevziať zodpovednosť za svoje rozhodnutia. Mám určité preferencie a predstavy o tom, ako by som chcel, aby veci vyzerali. Ale veci môžu vyzerať aj inak, a tiež môžu napĺňať potreby a podporovať život. Niekto napríklad pracuje na ropnej plošine, vyrúbava lesy, stavia chaty v chránených prírodných oblastiach, masovo loví ryby, a z platu živí svoju rodinu, pretože žije v oblasti, kde je problém nájsť si inú prácu, alebo ten človek má iné dobré dôvody na to, aby zotrval v práci, ktorú vykonáva. V kažom prípade si budem uvedomovať, že chcem napĺňať vlastné potreby *s ohľadom na ostatných*, s ohľadom na potreby ostatných ľudí. Tak často a tak veľmi, ako len budem vládať. A neustále si to pripomínať, že práve to je ľudská prirodzenosť. Napĺňať si svoje potreby s ohľadom na druhých a napĺňať potreby druhých s ohľadom na seba. Iba toto je dlhodobo udržateľná stratégia. Aj keď nie vždy som toho schopný a staré správanie, ktoré chcem nahradiť, prevládne. Však som bol 27 rokov indoktrinovaný k násiliu. Takže zmena bude postupná, pomalá, namáhavá, a o to účinnejšia. V tom tkvie môj optimizmus.
@@ -1479,6 +1490,11 @@ included...]
 * preco sa jednoducho nedokazem tesit zo zivota?
 * co sa stalo, ze som tak ocitlivel?
 ako by som mohol premyslat, aby som ochranil svoj pokoj v dusi?
+
+---
+
+* Warum fühle ich mich so oft ungeduldig? Warum fühle ich dabei Enge und unangenehmes Kribbeln in meinem Bauch, Mangen und Därmen? Warum fühle ich das, wenn ich mich ärgere, wenn ich schimpfe, wenn ich mich rächen will, wenn ich Sorgen habe? Warum will ich so oft die Zeit beschleunigen oder verlangsamen, und alle Umstände um mich steuern?
+  ** Vielleicht deswegen will ich so oft die Zeit beschleunigen oder verlangsamen, weil ich mehr Gelegenheiten zum Lernen haben will, oder weil ich mehr Zeit für meine Aufgaben haben will. Ich möchte meine Sachen und Umgebung unter Kontrolle haben, damit ich mich effektiv lernen kann.
 
 === Connection Requests
 
@@ -8128,7 +8144,7 @@ Z odpovedi, ktore pocujem, a z pristupu, ktory dostavam, citim chlad..., obavy..
 
 3 moznosti... 
 
-Co Vam brani, prejavit mi sucit? Bojite sa, ze sa na Vas naviazem? 
+Co Vam brani, prejavit mi sucit? Bojite sa, ze sa potom pacienti na Vas naviazu? Chcete si chranit svoje sukromie?
 
 Potrebujete si drzat odstup od ludi, ktori vas prosia o pomoc?
 
