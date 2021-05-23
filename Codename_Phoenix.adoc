@@ -183,6 +183,7 @@ link:https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=2486[Marshal
 * economy, thrift / Sparsamkeit / úspornosť, šetrnosť
 * [restorative] justice, fairness, equity / [wiederherstellende] Gerechtigkeit / spravodlivosť [založená na obnove (vzťahov) a oprave škôd]
 * compensation / Ausgleich / kompenzácia, odškodnenie - nie ako odplata alebo trest, ale ako pomoc pri napĺňaní nenaplnených potrieb pre niekoho iného
+* comparison [of things, not people] / Vergleich [der Sachen, nicht der Menschen] / porovnávanie [vecí, nie ľudí]
 * similarity / Ähnlichkeit / podobnosť
 * _fragileness / Zerbrechlichkeit (Bedürfnis nach Schutz (physisch) oder Empathie (psychisch)) / krehkosť_
 * [line-through]#power (over) / Macht (über) / moc (nad)#
@@ -193,7 +194,6 @@ link:https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=2486[Marshal
 * [line-through]#violence / die Gewalt / násilie#
 * [line-through]#government / die Regierung / vláda#
 * [line-through]#colonization / Kolonisation / kolonizácia#
-* [line-through]#comparison / Vergleich / porovnávanie
 
 ---
 
