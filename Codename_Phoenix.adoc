@@ -84,10 +84,15 @@ The needs is *the only reason*, why I'm feeling the way I'm feeling. Not the act
                  |_| |_|
                 /__| |__\
 
-link:https://storage.googleapis.com/cdn.thenewstack.io/media/2018/03/4d780610-screenshot-from-star-asciimation-wars.png[Inspiration]
+link:https://storage.googleapis.com/cdn.thenewstack.io/media/2018/03/4d780610-screenshot-from-star-asciimation-wars.png[inspiration]
+  ** ein Loch im Herz / a hole in the heart
+  ** co je pre mna osamelost? +
+  diera v srdci, alebo skôr diera namiesto srdca
 * things that you cannot buy, that are not even things, but that matter the most
 * foundation of life
 * one of the parts of empathy
+* power
+* attributes of a relationship
 
 *What is empathy?*
 
@@ -98,6 +103,11 @@ link:https://storage.googleapis.com/cdn.thenewstack.io/media/2018/03/4d780610-sc
 *geduldige, sensible, rücksichtsvolle Dankbarkeit für die Wahrnehmungen und Erlebnise des Anderen* +
 *trpezlivá, citlivá, ohľaduplná vďačnosť za vnímanie a zážitky toho druhého*
 * treating someone's experiences with care, softness, gentleness (because their thinking may be fragile)
+* schopnost dotýkať sa, hladiť a objímať sa slovami a bozkávať sa dušami.
+* prejav dusevnej a duchovnej, spiritualnej, ideologickej zrelosti, dospelosti.
+
+Co pre mna znamena empatia? +
+Vsetko. je to moj zmysel zivota.
 
 Properties of needs:
 
@@ -144,6 +154,7 @@ Properties of needs:
 * environment / Umwelt, Umgebung / prostredie
 * _pain / Schmerz / bolesť_
 * _illness / Krankheit / choroba_
+* [line-through]#sweets / Süßigkeiten / sladkosti#
 
 ---
 
@@ -181,6 +192,7 @@ link:https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=2486[Marshal
 * [line-through]#violence / die Gewalt / násilie#
 * [line-through]#government / die Regierung / vláda#
 * [line-through]#colonization / Kolonisation / kolonizácia#
+* [line-through]#comparison / Vergleich / porovnávanie
 
 ---
 
@@ -212,6 +224,7 @@ link:https://www.youtube.com/watch?v=KdFc2B-tZLc&feature=youtu.be&t=2486[Marshal
 Bewusstsein, dass meine Bedürfnisse wichtig sind, und in Frage genommen sind, dass ich jemandem etwas bedeute / +
 vedomie, že na mne a mojich potrebách záleží, že moje potreby sú dôležité a brané do úvahy, že pre niekoho niečo znamenám
 * consideration / Rücksicht / ohľad, ohľaduplnosť (Precondition: importance / that my needs matter)
+  ** ohladuplnost = citlivost + jemnost
 * respekt / Respekt / rešpekt (Precondition: importance / that my needs matter)
 * honor / Ehre / úcta (Precondition: importance / that my needs matter)
 * dignity / Würde / dôstojnosť (Precondition: importance / that my needs matter)
@@ -446,6 +459,7 @@ vedomie, že na mne a mojich potrebách záleží, že moje potreby sú dôleži
 * habit / Gewohnheit / zvyk
 * courage / Mut / odvaha (Precondition: mutual aid -> mutual confidence)
 * responsibility / Verantwortung / zodpovednosť
+  ** zodpovednost = uvedomenie si zmyslu [vnimavost] a dosledkov [predvidavost] toho, co robim
 * altruism / Altruismus / altruizmus
 * solidarity / Solidarität / solidarita
 * humanity / die Menschlichkeit / ľudskosť
@@ -578,7 +592,7 @@ Feelings caused by *thinking* that is *disconnected from life/needs* and *violen
 * envious / neidisch / závistlivý (závidieť)
 * jealous / eifersüchtig / žiarlivý (žiarliť)
 * embarassed / verlegen / rozpačitý, v rozpakoch
-* anxious [when there's no immediate danger] / ängstlich [wenn es da keine unmittelbare Gefahr gibt] / ustráchaný [keď nie je žiadna bezprostredná hrozba]
+* anxious [when there's no immediate danger] / ängstlich [wenn es da keine unmittelbare Gefahr gibt] / ustráchaný, úzkosť [keď nie je žiadna bezprostredná hrozba]
 
 *Not-feelings - thoughts, analyses, diagnoses, interpretations, criticisms / Nicht Gefühle / ne-pocity*
 
@@ -720,7 +734,7 @@ link:???[Feelings vs Thoughts pdf]
 * würdig
 * unwürdig
 * kresťan / Christ / christian
-* pohan / Heide / 
+* pohan (veriaci v iné náboženstvo než v kresťanstvo) / Heide / atheist
 
 == Feelings at fulfilled needs - Dream Feelings - Flow
 
@@ -873,9 +887,12 @@ spreche, mit jemandem spreche, schreibe, zuhöre, mich dusche, mich mit kaltem W
 * rational understanding vs emotional understanding
   ** rational intelligence, rational thinking,  rational memory and rational understanding is reinforced by the repetition of facts.
   ** emotional intelligence, emotional thinking, emotional memory and emotional understanding is reinforced by the repetition of life events. Therefore the emotional intelligence takes so much longer to develop, and to change experiencing of various life events in a way, that will support my health and well-being and strenghten my empathy and connections to other people.
+* menschliche Natürlichkeit vs kapitalistische Natürlichkeit, Natürlichkeit der Dominanzsysteme und Homo Economicus
+  ** Wie sieht die menschliche Natürlichkeit aus? Wie sieht Menschlichkeit aus? Schaut mal die kleinen Kinder an. Sie sind neugierig, sie wollen die Welt verstehen, sie wollen spielen, sie wollen mit anderen Kindern spielen, sie wollen die Sachen ausprobieren, sie haben Spaß am Lernen. Sie sind erfüllte, gesunde Menschen.
+  ** An der anderer Seite ist Homo Economicus. Herzloser, selbstsüchtiger Mensch, oder lieber Mann, weil das von Patriarchie auskommt. Ein Mensch, der sich seine eigene Bedürfnisse erfüllen will, und sein Nutzen am effektivsten maximieren will, auch auf Kosten anderer Menschen.
 * link:https://www.fachverband-gfk.org/wp-documents/anlage_3_schluesselunterscheidungen.pdf[und mehr Unterschiede...]
 
-### Culturally learned beliefs - Life-harming beliefs - Violent beliefs - Irrational beliefs:
+### Culturally learned beliefs - Life-harming beliefs - Violent beliefs - Irrational beliefs - Pain-inducing beliefs:
 
 - spare the rod, spoil the child - Bible, Proverbs 13:24, Rosenberg - Resolving conflicts with children
 - No pain, no gain. [RPM contradiction]
@@ -901,16 +918,25 @@ spreche, mit jemandem spreche, schreibe, zuhöre, mich dusche, mich mit kaltem W
 link:https://eduworld.sk/cd/zuzana-granska/457/jana-novackova-sutaze-by-v-skolach-mali-mat-minimalny-priestor[Jana Nováčková: Súťaže by v školách mali mať minimálny priestor - Zuzana Gránska]
 - Musím to dokončiť! [moje]
 - Keď to nejde urobiť poriadne, radšej to nechaj tak! [moje]
+- Never give up.
+- Chlapi neplačú.
+- To nie sú ľudia. to sú Židia. [fašisti]
+- These aren't people. These are animals. [Donald Trump] [link:https://eu.usatoday.com/story/news/politics/2018/05/16/trump-immigrants-animals-mexico-democrats-sanctuary-cities/617252002/[1]], [link:https://www.youtube.com/watch?v=aib5Ts2cDI8[video]]
+- To nie sú ľudia. To sú študenti. [Akademici - česť výnimkám, ktoré ]
+- To nie sú ľudia. To sú zamestnanci. [Menežéri - česť výnimkám]
+- Vstávaj! Prídeš neskoro do školy! Nepočul si?! [mamina]
 - for more beliefs, see _Culturally learned beliefs - Life-harming beliefs - Violent beliefs - Irrational beliefs - continued_
 
-### Culturally learned beliefs - Life-harming beliefs - Violent beliefs - Irrational beliefs - continued:
+### Culturally learned beliefs - Life-harming beliefs - Violent beliefs - Irrational beliefs -  - Pain-inducing beliefs - continued:
 
 * Naozaj sú to tie "Mal by / Nemal by / Musieť / Nesmieť / Zaslúžiť si" vety a presvedčenia, ktoré vo mne rozdúchavajú ten neutíchajúci oheň hnevu, pomsty, zúrivosti, nenávisti, intolerancie, násilia, hádok, konfliktov?
 * Naozaj sú to tie "Mal by / Nemal by / Musieť / Nesmieť / Zaslúžiť si" vety a presvedčenia, ktoré vo mne živia pocity viny, hanby, depresie, žiarlivosti, závisti, bezmocnosti, bezradnosti, frustrácie, zúfalstva, beznádeje?
 
-Mozno toto pani Simekova myslela, ked povedala "Su ludia, ktory svoje trapenie z toho vreca utrpenia postupne odhadzuju veci.". Ze si staci uvedomit tie nasilne myslienky a presvedcenia, ktore boli doteraz implicitne, skryte a neuvedomoval som si ich. Potom ich znegovat a tak budpvat toleranciu, ktora mi bude budovat a udrziavat moj pokoj v dusi, ktori otvori cestu sucitu a premyslaniu, namiesto toho, aby som sa riadil pudmi. S kazdou odhalenou nasilnou myslienkou sa citim lahsi. S kazdym nasilnym presvedcenim, ktore si uvedomim, sa mi ulavi. S kazdym uvedomenym a pomenovanym pocitom v mojom tele, a s kazdou uvedomenou a pomenovanou nenaplnenou potrebou, ktora za tym pocitom stoji, a za kazdym myslenim, ktore je pricinou tychto pocitov, sa citim coraz lahsi, viac v bezpeci, blizsie k slobode. 
+Mozno toto pani Simekova myslela, ked povedala "Su ludia, ktory svoje trapenie z toho vreca utrpenia postupne odhadzuju veci.". Ze si staci uvedomit tie nasilne myslienky a presvedcenia, ktore boli doteraz implicitne, skryte a neuvedomoval som si ich. Potom ich znegovat a tak budovat toleranciu, ktora mi bude budovat a udrziavat moj pokoj v dusi, ktori otvori cestu sucitu a premyslaniu, namiesto toho, aby som sa riadil pudmi a starym spravanim, na ktore som si zvykol, a ktoré vo mne okolie a systemy podporovali a udrziavali. S kazdou odhalenou nasilnou myslienkou sa citim lahsi. S kazdym nasilnym presvedcenim, ktore si uvedomim, sa mi ulavi. S kazdym uvedomenym a pomenovanym pocitom v mojom tele, a s kazdou uvedomenou a pomenovanou nenaplnenou potrebou, ktora za tym pocitom stoji, a za kazdym myslenim, ktore je pricinou tychto pocitov, sa citim coraz lahsi, viac v bezpeci, blizsie k slobode.
 
-... a to je v poriadku. Všetci máme slobodu robiť, hovoriť a myslieť si, čo chceme. Možno práve "mal by / nemal by" vety, ktoré som sa zvonku, zo systémov, z okolia, od ľudí okolo seba naučil, vo mne rezonovali a ešte stále rezonujú, a všetky tie násilné myšlienky slová a činy, a možno ony spôsobujú, spúšťajú a podporujú psychické poruchy. *Systémové príčiny individuálnych problémov.* Možno nasledujúce vety mi pomôžu nájsť ten pokoj v duši, toleranciu a slobodu od násilia, po ktorej tak túžim. Toto je môj zdroj násilia, ktorú by som chcel premenit na toleranciu:
+Mozno toto je to co Jana Mladá myslela s link:https://www.koucmed.sk/etikoterapia/[*etikoterapiou*]. Vidieť svoje násilné presvedčenia, vidieť násilné presvedčenia iných ľudí, vidieť násilné presvedčenia náboženstiev a ideológií. Uvedomiť si svoje presvedčenia, pozrieť sa na to, ktoré mi pomáhajú k pokoju v duši a k súcitu, a ktoré sú mi bariérou k mojej spokojnosti.
+
+... a to je v poriadku. Je v poriadku veriť v násilie a hľadať násilné presvedčenia v sebe a všade naokolo. Všetci máme slobodu robiť, hovoriť a myslieť si, čo chceme. Možno práve "mal by / nemal by" vety, ktoré som sa zvonku, zo systémov, z okolia, od ľudí okolo seba naučil, vo mne rezonovali a ešte stále rezonujú, a všetky tie násilné myšlienky slová a činy, a možno ony spôsobujú, spúšťajú a podporujú psychické poruchy. *Systémové príčiny individuálnych problémov.* Možno nasledujúce vety mi pomôžu nájsť ten pokoj v duši, toleranciu a slobodu od násilia, po ktorej tak túžim. Toto je môj zdroj násilia, ktorú by som chcel premenit na toleranciu:
 
 . Je v poriadku, keď rodicia neprejavuju svojim detom sucit. -- Rodicia by mali prejavovat svojim detom sucit.
 . Je v poriadku, keď skola vychovava svojich studentov k sutazivosti. -- Škola by nemala vychovávať svojich študentov k súťaživosti.
@@ -928,7 +954,7 @@ Mozno toto pani Simekova myslela, ked povedala "Su ludia, ktory svoje trapenie z
 . Je v poriadku, keď ľudia kričia v mojej prítomnosti. -- Ľudia by nemali kričať v mojej prítomnosti.
 . Je v poriadku, keď na mňa ľudia kričia. -- Ľudia by nemali kričať na mňa.
 . Je v poriadku, keď robím chyby. Je v poriadku mýliť sa. Je v poriadku zlyhať. -- Nemal by som robiť chyby.
-. Je v poriadku, keď ostatní urobia chybu. -- Keď ostatní urobia chybu, mali by byť za ňu potrestaní.
+. Je v poriadku, keď ostatní robia chyby. -- Ľudia by nemali robiť chyby. Ľudia nesmú robiť chyby. Keď ostatní urobia chybu, mali by byť za ňu potrestaní.
 . Je v poriadku, keď mi ľudia hovoria, že je to moja vina, že sa mi veci nedaria. -- Ľudia by ma nemali obviňovať za to, keď sa mi veci nedaria.
 . Je v poriadku, keď sa ľudia smejú z vecí, ktoré robím, alebo poviem. -- Ľudia by mi nemali vysmievať.
 . Je v poriadku, keď mám iné príležitosti na prácu a vzdelávanie ako ostatní. -- Zaslúžim si mať rovnaké príležitosti na prácu a vzdelávanie ako ostatní, bez ohľadu na moju socioekonomickú situáciu.
@@ -1084,7 +1110,7 @@ Mozno toto pani Simekova myslela, ked povedala "Su ludia, ktory svoje trapenie z
 . je v poriadku vyzerat skaredo a zanedbane. 
 . ludia by nemali znecistovat prostredie. 
 . ludia by nemali rozpravat a spravat sa afektovane, prehanat, hystercit.
-. nemal by si pocuvat to, co ti hovori telo, to ako sa citis, a ako sa pocit prejavuje v tele a ucit sa vnimavosti a vsimavosti. mal by si a musis posluchat ludi v pozici autority, a starat sa o to, co si o tebe myslia druhi. 
+. je v poriadku pocuvat svoje telo, davat mu starostlivost, ktoru potrebuje, vnimat, ako sa pocity v tele prejavuju, pomenovavat ich, davat ich tomu druhemu najavo. -- nemal by si pocuvat to, co ti hovori telo, to ako sa citis, a ako sa pocit prejavuje v tele a ucit sa vnimavosti a vsimavosti. mal by si a musis posluchat ludi v pozici autority, a starat sa o to, co si o tebe myslia druhi. 
 . vsetky veci, ktore patria mne, alebo so mnou suvisia, by som mal mat pod kontrolou. / vsetky veci, ktore patria mne, alebo so mnou suvisia, musim mat pod kontrolou.
 . ludia by nemali zneuzivat moju doveru
 . nemal by som zabudat
@@ -1105,6 +1131,83 @@ Mozno toto pani Simekova myslela, ked povedala "Su ludia, ktory svoje trapenie z
 . Je v poriadku, keď sa snažím spochybňovať a meniť systémy.
 . Je v poriadku, keď si vytváram vlastné systémy.
 . *Je v poriakdu, pokaziť veci. Je v poriadku kaziť veci.*
+. je v poriadku citit uzkost, obavy, nervozitu, mravcanie v bruchu, zaludku, crevach, tlak pod hrudnou kostou.
+. je v poriadku nicit veci. je v poriadlu burat veci. je v poriadku likvidovat veci. je v poriadku vyhadzovat veci. je v poriadku robit vo veciach chaos. je v poriadku, spinit veci.
+. ludoa by nemali chciet, aby som bol rovnako vykonny, ako vsetci ostatni v time.
+. ludia by mi nemali branit, aby som daval zoseba to najlepsie. 
+. ludia by mali vyzerat a spravat sa normalne
+. nemal by si robit hriesne veci. nesmies robit hriesne veci. 
+. nemal by si pachat hriechy. nemal by si pachat zlo. nesmies achat hriechy. nesmies pachat zlo.
+. je v poriadku mat pocity. je prirodzene mat pocity. sme emocionalne bytosti, ktore obcas myslia.
+. nemal by som mysliet na sex. nesmiem mysliet na sex.
+. nemal by som v pritomnosti zien mysliet na sex
+. mysliet na sexualnu intimitu je hriesne a trestuhodne.
+. ludia by ma mi prijat, aj ked som iny.
+. nemala by ma odmietnut.
+. mala by sa ku mne spravat vzdy milo, privetivo, citlivo a jemne.
+. nemal by som sa bat. nesmies sa bat. musis byt vzdy odvazny. 
+. nemal by som citit uzkost. nesmies citit uzkost. 
+. nemal by si sa prejedat. nesmies sa prejedat.
+. nemal by si byt vystaveny umelemu osvetleniu v tme. nesmies byt vystaveny umelemu osvetleniu v tme. 
+. pocity su prirodzene. clovek je emocionalna bytost, ktora obcas mysli. -- myslenie je prirodzene. clovek je racionalna bytost ktora obcas citi. prejavit sucit je nad ludske sily.
+. ludia ma mozu odmietat. -- ludia by ma nemali odmietat. ludia ma nesmu odmietat.
+. ludia mozu utlacat a bykoristovat inych ludi.
+. ludia si mpzu naplnat svoje potreby na ukor inych.
+. ludia si mozu naplnat svoje potreby na ukor prostredia.
+. ludia by mi mali davat iba konstruktivnu spatnu vazbu.
+. Je v poriadku, keď ... there is nothing wrong with people who don't say things nonviolently. i just prefer the way of saying things nonviolently because it's something what i resonate to spiritualy. -- Všetci ľudia by mali poznať nenásilnú komunikáciu a prijať ju za svoju ideológiu. Ľudia musia poznať nenásilnú komunikáciu.
+. je v poriadku hnevat sa. je v poriadku byt agresivny, kricat. je v poriadku, ked sa hnevam, som agresivny, kricim. je v poriadku, ked sa ludia hnevaju, su agresivny, kricia.
+. je v poriadku, ked sa hnevam, ziarlim, zavidim, zurim, smutim, som deprimovany, placem, trapim sa. je v poriadku, ked sa ludia hnevaju, ziarlia, zavidia, zuria, smutia, su deprimovany, placu, trapia sa.
+. je v poriadlu ked ludia klamu, zavadzaju, podvadzaju, beru uplatky. je v poriadku, ked klamem, zavadzam, podvadzam, beriem. uplatky. -- Ludia by mali byt vzdy uprimmy a cestny. Ludia musia but vzdy iprimny a cestny. Inak tu nemaju co robit. Ja by som mal byt vzdy uprimny a cestny. Inak som zlyhal a nezasluzim si mic dobre.
+. ludia by ma nemali strasit a zastrasovat
+. ludia by nemali ohrozovat moje bezpecie
+. ludia by mnou nemali opovrhovat
+. ludia by nemali znizovat moju hodnotu.
+. je v poriadku koktat
+. je v poriadku zamotat sa v reci
+. je v poriadku robit veci pomaly
+. je v poriadku premyslat pomalsie
+. je v poriadku mat pomalsie reakcie
+. je v poriadku mat kazdy den bolesti hlavy
+. je v poriadkuxitit sa kazdy den vycerpany
+. je zle robit gramaticke chyby. nemal by si robit gramaticke chyby. nesmies robit gramaticke chyby.
+. je v poriadku byt priemerny. 
+. je v poriadku byt podpriemerny. 
+. je v poriadku uspiet na ukor druhych. 
+. je v poriadku verit v boha
+. je v poriadku verit aj v ine veci nez v boha. 
+. je v poriadku stratit vieru
+. je v poriadlu stratit nadej
+. je v poriadlu ochoriet. 
+. je v poriadkucitit uzkost cely den, kazdy den. 
+. je v poriadku, ked pocujem cely den v hlave neustale opakujuce pesnicky a reci. 
+. je v poriadku byt iny
+. je v ppriadku mysliet inak. 
+. musis programovat bez chyby. 
+. musis hrat na akordeone bez chyby. 
+. musis rozpravat po nemecky a anglicly bez chyby. 
+. musis rozpravat plynule a bez chyby. 
+. musis robit co najmenej chyb. 
+. je v poriadku robit si veci po svojom -- veci by so mal rpbit tak, ako ti povedali druhi. veci musis robit tak, ako ti povedali ludoa v pozicii autority. 
+. je v poriadku upravovat si veci po svojom
+. je v poriadku byt pretazeny
+. je v poriadku mat pretazene zmysly
+. je v poriadku byt citlivejsi
+. je v poriadku mat citlivejsie zmysly
+. je v poriadku byt nezamestnany
+. je v poriadku poberat socialne davky
+. je v poriadku zabudnut alebo nechat odist myslienku, ktoru povazujem za dolezitu. 
+. je v poriadku, ked ma pocity ovladnu. 
+. je v poriadku ist zlym prikladom. -- mal by si vzdy ist bezchybnym prikladom, a mal by si vzdy konat v dokonalom sulade so svojou spiritualitou. musis 
+. je v poriadku porusovat pravidla. -- 
+. je v poriadku citit sa znechuteny.
+. ludia by nemali byt prisny. 
+. musis vzdy uspokojit kazdeho, aj na svoj ukor. -- 
+. mal by si robit vsetko, o co ta niekto druhy poziada, aby si sa mu alebo jej zapacil.
+. ludia nesmu zanevriet na ludskost a sucit. -- 
+. ludia by nemali verit len trhu. 
+. ludia, hlavne zeny a dievcata, by sa nemali chichotat a sepkat si v mojej pritomnosti. 
+. ludia by sa nemali chvalit. 
 . Mal by / Nemal by / Musieť / Nesmieť / Zaslúžiť si... -- Je v poriadku, keď...
 
 Všetko je v poriadku. Všetci máme slobodu. Všetci máme slobodu slova. Všetci máme slobodu robiť, hovoriť a myslieť si, čo chceme, a čo si myslíme, že najviac obohatí náš život. Aj keď niekedy ani tomu neverím, keď sa pozriem, ako vyzerá život v juhoázijských krajinách, Afrike, Južnej Amerike, diktatúrach a pseudodemokraciách. Všetci máme svoje dobré dôvody a životné príbehy a zážitky, prečo robíme to, čo robíme. Robíme len to, čo v prítomnej chvíli s momentálnymi znalosťami a schopnosťami najlepšie naplní naše potreby. Robíme to, čo vieme, najlepšie ako vieme. Všetci máme slobodu robiť, hovoriť a myslieť si, čo chceme. Zároveň chcem, aby sme si uvedomovali, že každá z týchto viet má svoj zmysel, svoje dôsledky, výhody a nevýhody, ktoré sa menia podľa okolností. *Dôsledky "mal by / nemal by" myšlienok sú také, že keď premýšľam nad tým, ako by veci mali a nemali byť, prispievam k násiliu na tejto planéte.* Náslie sa potom skôr, či neskôr, prejaví v mojom tele ako bolesť, nepohodlie, príznak, ktorý môže pri bolestivých pocitoch silnieť, alebo ako choroba. Chronická choroba, ak násilie trvá mesiace, roky. Takto som schopný prevziať zodpovednosť za svoje rozhodnutia. Mám určité preferencie a predstavy o tom, ako by som chcel, aby veci vyzerali. Ale veci môžu vyzerať aj inak, a tiež môžu napĺňať potreby a podporovať život. Niekto napríklad pracuje na ropnej plošine, vyrúbava lesy, stavia chaty v chránených prírodných oblastiach, masovo loví ryby, a z platu živí svoju rodinu, pretože žije v oblasti, kde je problém nájsť si inú prácu, alebo ten človek má iné dobré dôvody na to, aby zotrval v práci, ktorú vykonáva. V kažom prípade si budem uvedomovať, že chcem napĺňať vlastné potreby *s ohľadom na ostatných*, s ohľadom na potreby ostatných ľudí. Tak často a tak veľmi, ako len budem vládať. A neustále si to pripomínať, že práve to je ľudská prirodzenosť. Napĺňať si svoje potreby s ohľadom na druhých a napĺňať potreby druhých s ohľadom na seba. Iba toto je dlhodobo udržateľná stratégia. Aj keď nie vždy som toho schopný a staré správanie, ktoré chcem nahradiť, prevládne. Však som bol 27 rokov indoktrinovaný k násiliu. Takže zmena bude postupná, pomalá, namáhavá, a o to účinnejšia. V tom tkvie môj optimizmus.
@@ -1146,6 +1249,7 @@ You can try so hard, as hard as you can, to achieve something, when you don't ha
   ** "Thank you, that you are. / Danke, dass du bist. / Ďakujem, že si."
   ** dissolving every tension and pain
 * Bewusstsein, dass ich immer zur Auswahl habe
+* pozitok, sustredenie, pokojny smutok z toho, ked si niekto robi zo mna srandu, ked sa ludia smeju z toho, ako vyzeram, co a ako robim, co a ako hovorim, ked ma niekto ponizuje, zosmiesnuje, uraza, zastrasuje, vyhraza sa
 * Entspannung unter Leuten und in einem Kollektiv
 * unconditional love and empathy
   ** because unconditional empathy is a practical sign of unconditional love
@@ -1170,7 +1274,17 @@ You can try so hard, as hard as you can, to achieve something, when you don't ha
 * chcem sa citit v bezpeci, aj ked urobim chybu
 * odvaha poprosit druheho cloveka o naplnenie mojich potrieb.
 * odvaha prijat odpoved druheho cloveka so sucitom, hlavne ked neurobi to, o co ho prosim
-  ** ...lebo potom citim este vacsiu bolest z mojich nenaplnenych potrieb, nez som mal predtym. to ma na tom odradza najviac. radsej budem trpiet menej, nez riskovat este vacsie utrpenie a smutok z  odmietnutia, pokazeneho vztahu, znicenej dovery a vycitiek. a zaroven si kazdy den predstavujem, ake prijemne by bolo, keby som nasiel dievca, ku ktorej by som sa pritulil, a ona by ma s radostou skrabkala vo vlasoch. ach, tak by sa mi ulavilo. tolko nehy som nezazil za cely svoj zivot. a nie len nehy, ale aj jemnosti, hebkosti, makkosti, citlivosti, vone, krasy, povabu, elegancie, plynulosti, cistoty. citit a vnimat teplo zeny ku ktorej by som sa mohol pritulit, s ktorou by som sa citil v bezpeci, ku ktorej by som mohol byt uprimny bez strachu. so zenou, ktora by sa o moju dusu starala jemne a citlivo. 
+  ** ...lebo potom citim este vacsiu bolest z mojich nenaplnenych potrieb, nez som mal predtym. to ma na tom odradza najviac. radsej budem trpiet menej, nez riskovat este vacsie utrpenie a smutok z  odmietnutia, pokazeneho vztahu, znicenej dovery a vycitiek. a zaroven si kazdy den predstavujem, ake prijemne by bolo, keby som nasiel dievca, ku ktorej by som sa pritulil, a ona by ma s radostou skrabkala vo vlasoch. ach, tak by sa mi ulavilo. tolko nehy som nezazil za cely svoj zivot. a nie len nehy, ale aj jemnosti, hebkosti, makkosti, citlivosti, vone, krasy, povabu, elegancie, plynulosti, cistoty. citit a vnimat teplo zeny ku ktorej by som sa mohol pritulit, s ktorou by som sa citil v bezpeci, ku ktorej by som mohol byt uprimny bez strachu. so zenou, ktora by sa o moju dusu starala jemne a citlivo.
+* vdacnost za meritokraciu
+  ** veda a vyskum
+  ** medicina: vakciny
+  ** IT: informacne systemy, umela inteligencia, technologicke inovacie
+  ** umenie
+* utrpenie s dôstojnosťou
+  ** cez súcit
+* odvazna zranitelnost odo mna sucitom
+* sokujuce upokojenie pre druheho
+  ** sokovat toho druheho mojim pokojom, porozumenim, sucitom, aj ked na mna niekto zvysuje hlas. zobrat mu moju moc nado mnou, a premenit ju na moc so mnou.
 
 ---
 
@@ -1483,6 +1597,7 @@ included...]
 
 * Ako si predstavujem vzťah so ženou?
 * Ako by vyzeral všedný deň v domácnosti?
+* co mi brani rozmyslat v pritomnosti zien, ktore sa mi pacia?
 
 ---
 
@@ -1495,6 +1610,12 @@ ako by som mohol premyslat, aby som ochranil svoj pokoj v dusi?
 
 * Warum fühle ich mich so oft ungeduldig? Warum fühle ich dabei Enge und unangenehmes Kribbeln in meinem Bauch, Mangen und Därmen? Warum fühle ich das, wenn ich mich ärgere, wenn ich schimpfe, wenn ich mich rächen will, wenn ich Sorgen habe? Warum will ich so oft die Zeit beschleunigen oder verlangsamen, und alle Umstände um mich steuern?
   ** Vielleicht deswegen will ich so oft die Zeit beschleunigen oder verlangsamen, weil ich mehr Gelegenheiten zum Lernen haben will, oder weil ich mehr Zeit für meine Aufgaben haben will. Ich möchte meine Sachen und Umgebung unter Kontrolle haben, damit ich mich effektiv lernen kann.
+
+---
+
+* co mi brani prikst so prace, odkrutit si 8 hodin, ist zase naspat domov a robot to den, co den?
+* ako sucasne systemy podporuju zdravy zivotny styl? [ekonomicky, politicky, kultura, spolocnost, vzdelanie, skolstvo atd.]
+* ako sucasne systemy podporuju prevenciu pred telesnymi chorobami, dusevnymi poruchami a psychosomatickymi ochoreniami?
 
 === Connection Requests
 
@@ -3048,7 +3169,7 @@ That turns out to be the difference between marriages that are happy and marriag
   ** *Before we discuss and analyze something and especially make recommendations about _it_, we better be sure what the _it_ is.* [17th century English jurist (who?)]
   ** So what is this _it_? (Or rather what it is not?)
     *** ... in my opinion it is not illness, in the strict medical sense.
-    *** *[I see 'mental illness' as a low level of emotional intelligence and lack of empathy from oneself and others*, which can be learned by creating inner and outer environment to support self-directed executive functioning, internal locus of control and empathy]
+    *** *[I see 'mental illness' as a lack of emotional intelligence, or as a low level of emotional intelligence and lack of empathy and unconditional love from oneself and others*, which can be learned by creating inner and outer environment to support self-directed executive functioning, internal locus of control, intrinsic motivation and empathy.]
   ** illness is a bodyly lesion; someting wrong with the human anatomy or physiology - part of physics or chemistry - something objectively measurable, indentifiable
   ** brain is [also] a part of our body [thus also affected by diseases - brain illneses]
   ** if the brain disease is indentifiable by doctors, then it belongs to the neurology. But when it is not, then people talk about mental illness and they talk about finding the lesion in the body [in the brain] and *various treatments of [these, so called mental illnesses have been] all based on the idea that there is something wrong with the body.*
@@ -4822,6 +4943,7 @@ Result of alienation: loneliness, from the lack of meaning, intimacy and communi
 * The Hutterite Colonies (USA, Canada) - low-loneliness communities
 * Hopi people [link:http://www.psych.purdue.edu/~willia55/120/9.ThinkingLanguageMM.pdf[1]]
 * Dani people - Papua New Guinea [link:http://www.psych.purdue.edu/~willia55/120/9.ThinkingLanguageMM.pdf[1]]
+* Ojmjakon [Оймякон] (Rusko) - najchladnejsie trvalo osidlene miesto na svete
 
 ---
 
@@ -4968,6 +5090,7 @@ expressive writing, empathy, NVC
   ** Rippenschmerzen, Brustkorbschmerzen, Rückenschmerzen
   ** der Schmerz wandert durch den ganzen Rücken
 * IBS: Irritable Bowel Syndrome [for the lack of a better name] (approx. since January 2017) - psychosomatic [somatized traumas and psychological pain?]
+  ** anxiety stomach bowel
 * Gastritis (approx. since November 2015) - chronic; psychosomatic [somatized traumas and psychological pain? feeling of electric shock in my stomach], overeating, emotional tension
 * Duodenogastroesophageal reflux [DGER] / bile reflux / biliary reflux (approx. since 2017)
   ** consequence: Gastroesophageal reflux [GERD] - the digestive juices are so agressive that they open the cardia and esophageal sphincter anyway
@@ -4983,6 +5106,7 @@ expressive writing, empathy, NVC
 * Arythmia - usually when working when I try to finalize something and I'm physically and metally exhausted
 * Stool of different density: at the beginning thick, at the end almost liquid
 * Sklbanie svalov - nestale
+  ** pri silnej plynatosti, napr. z lanovych semienok alebo razneho chleba, mam problemy zaspat. nie len kvoli zapachu, ale aj kvoli krcom a nervozite. 
 * Belching - after every meal, on full stomach, on empty stomach, everyday
 * Flatulence - after every fruit and vegetable and anything...
   ** sometimes with cramps
@@ -5009,13 +5133,15 @@ expressive writing, empathy, NVC
   ** after longer time outside (approx. one hour or more)
   ** napatie
   ** pomaha len oddych, spanok, ticho a sucit - bezpecne prostredie
-* budenie sa v noci - Pereco sa budim?
+* budenie sa v noci - Preco sa budim?
   ** kyselina az a podnebim
   ** nutkanie na mocenie. sklbanie mechura
   ** teplo - potim sa, prehriate telo
   ** nedostatocna tma - svetlo presvita zvonku
+  ** sucho v ustach
 * svetloplachosť/Lichtscheu/Photophobia - susceptible to sensory overload by superstimulation
   ** pálenie, škriabanie, bolesť očí a hlavy a následná únava pri prechádzke vonku, sledovaní obrazoviek alebo čohokoľvek jasnejšieho
+  ** light-induced headache, blue light induced headache and insomnia
   ** the older I am the stronger the symptoms get
   ** the longer I'm exposed to light and the more intensive the light is, the more tired I get and the faster the fatigue 
   ** Ursache ist mir unbekannt; Lichtscheu kann auch als ein Anzeichen einer anderen Erkrankung auftreten
@@ -5024,7 +5150,10 @@ expressive writing, empathy, NVC
   ** vielleicht vom Lichtscheu? Neurologische Beschwerden?
 * visual snow
 * mouches volantes
-* NCCP: Non-Cardiac Chest Pain - somatic: spine, back tension; psychosomatic: worries, sadness, loneliness, exhaustion
+* unava z tepla/vycerpanie z tepla ? 
+* NCCP: Non-Cardiac Chest Pain
+  ** somatic: spine, back tension
+  ** psychosomatic: worries, sadness, loneliness, exhaustion
 * PTSD: Post-Traumatic Stress Disorder, Trauma
   ** after my experiences from work, school and home
   ** trauma from authoritarian, violent and abusive upbringing and education
@@ -6178,7 +6307,7 @@ On the other side there is the
 
 * freedom to change my opinion
 * freedom to choose
-* freedom to choose my own interpretation that best preserves my peace of soul and enriches my life with respect to otherpeople
+* freedom to choose my own interpretation that best preserves my peace of soul and enriches my life with respect to other people
   ** not that interpretation that I have been indoctrinated or programmed by the upbringing, education, institutions, culture, society, media and religion
 * freedom to take responsibility
 * freedom to disagree and understand
@@ -6190,6 +6319,15 @@ On the other side there is the
 * freedom to choose my own pedagogy
 * freedom to choose my own teacher
 * freedom to learn what I want the way I want
+* freedom to choose my own ideologies
+* freedom to choose my own economic, political, spiritual ideologies
+* freedomto create my own ideologies
+* freedom to oscilate - between sympathetic and parasympathetic state
+* freetom to take a break
+* freedom to rest
+* freedom to be raised, study, work and live in humane conditions
+* freedom to choose what I'll do, how I'll do it and how long I'll do it
+* freedom to live in dignity
 
 ---
 
@@ -8105,15 +8243,9 @@ Ist prikladom. Ukazat, ako prakticky prejavovat emocionalnu inteligenciu. Co ja 
 
 Pretoze vtedy to jedine, co mi zostane, je moja zranitelnost. A ja to risknem. Skusim vyliat svoje srdce druhym ludom, aj ked riskujem, ze moje srdce rozdupu a dobodaju. Rany sa zahoja. Z toho prameni moja nadej, ze niekedy dosiahnem stabilnejsi pokoj v dusi. Taky pokoj v dusi, ktory si budem vediet udrzat aj v tych najneludskejsich podmienkach. Taky pokoj v dusi a taky sucit, ktory bude rast so zvysujucim sa nasilim.
 
-So zvysujucim sa chaosom budem silniet.
+So zvysujucim sa chaosom budem silnieť.
 
 Stanem sa antikrehkým. [antifragile]
-
----
-
-* menschliche Natürlichkeit  und  kapitalistische Natürlichkeit, Natürlichkeit der Dominanzsysteme und Homo Economicus
-  ** Wie sieht die menschliche Natürlichkeit aus? Wie sieht Menschlichkeit aus? Schaut mal die kleinen Kinder an. Sie sind neugierig, sie wollen die Welt verstehen, sie wollen spielen, sie wollen mit anderen Kindern spielen, sie wollen die Sachen ausprobieren, sie haben Spaß am Lernen. Sie sind erfüllte, gesunde Menschen.
-  ** An der anderer Seite ist Homo Economicus. Herzloser, selbstsüchtiger Mensch, oder lieber Mann, weil das von Patriarchie auskommt. Ein Mensch, der sich seine eigene Bedürfnisse erfüllen will, und sein Nutzen am effektivsten maximieren will, auch auf Kosten anderer Menschen.
 
 ---
 
@@ -8184,14 +8316,6 @@ Taže darmo budem študovať a rozvíjať odborné vedomosti, a programovať, ke
 
 ---
 
----
-
-ohladuplnost = citlivost + jemnost
-
-zodpvednost = uvedomenie si zmyslu [vnimavost] a dosledkov [predvidavost] toho, co robim
-
----
-
 real-life ad block
 
 ---
@@ -8214,7 +8338,7 @@ dovera je krehka :)
 
 ---
 
-psychologovia, a hlavne psychologicky su nasi anjeli strazni. davaju na nas pozor. beru nase trapenie a nasu bolest vazne. prejavuju nam sucit a porozumenie. su pri nas aj v tych najnapatejsich a najsmutnejsich chvilach. zale zi im na nasom pokoji v dusi.
+psychologovia, a hlavne psychologicky su nasi anjeli strazni. davaju na nas pozor. beru nase trapenie a nasu bolest vazne. prejavuju nam sucit a porozumenie. su pri nas aj v tych najnapatejsich a najsmutnejsich chvilach. zalezi im na nasom pokoji v dusi.
 
 ---
 
@@ -8225,3 +8349,257 @@ there is nothing wrong with people who don't say things nonviolently. i just pre
 bol som vzdelany a vychovany bat sa. preto mi teraz tak trva, kym naskrabem kusok odvahy.
 
 ---
+
+Vyzera to tak, ze pokym neprijmem tento svet, aj ked je iny, nez som si ho predstavoval, ani svet ma neprijme, aj ked som iny, nez by ma systemy chceli mat.
+
+---
+
+empathic giving / empathic receiving
+
+der anderen person mit meinem mitgefühl schokieren
+
+nezavadzaj! -- 
+
+postav sa! neseď na zemi! -- 
+
+pod sem. -- 
+
+ty si chcela klamat?! -- 
+
+Nehanbis sa za to? -- 
+
+Pohni si! -- 
+
+Hocikto tu ma prednost pred Vami. -- 
+
+---
+
+*Zodpovednost pre mna znamena uvedomovanie si v kazdom momente, zmysel a dosledky svojich cinov, slov a myslienok.* A to trva nejaky cas. Za ten cas clovek robi chyby. Kazdou chybou je blizsie k zodpovednosti, za predpokladu, ze toho cloveka vzdelali a vychovali k tomu, aby bral chyby ako prilezitost obohatit zivot. *Chyby vedu k zodpovednosti.* Lenze pokial je clovek vzdelany a vychovany k tomu, aby sa nenavidel za svoje chyby, ze chyby su hriesne, ze nie je dost dobry a nikdy ani nebude, pokial je neustale vychovavany a vzdelavany k Amtssprache, aby "musel" "nesmel", "mal by" nemal by" "zasluzit si odmenu alebo trest", pokial bol svedkom a obetou nasilia doma a v skole, potom je clovek aktivne vedeny k poslusnosti, nie k zodpovednosti, pokial bolo v jeho zivote viac nasilia nez nehy, jemnosti, pôžitku, podpory, lásky, naklonnosti, dovery, bezpecia, potom je clovek vedeny k tomu, ze autority su zodpovedne za jeho zivot, ze vsetci ostatni su zdrojom jeho trapenia. Potom je nasilie neodvratne. A z to moze podporit vznik navykov, ktore vedu k dalsim psychickym a telesnym porucham. Potom chyby nevedu k zodpovednosti, ale k poslusnosti a nasiliu. A mozno k perfekcionizmu - lebo kazda chyba je katastrofou.
+
+*Neha ako prevencia.*
+
+---
+
+Nie je to tvoja chyba, že cítis toľko úzkosti tak strašne trpíš. Mal si smolu.
+
+---
+
+mentale Krankheit / mentale Störung = ein Mangel an emotionaler Intelligenz
+
+---
+
+*Nenásilná komunikácia je metóda, ktorá ma zachránila od samovraždy a psychiatrickej liečebne.*
+
+---
+
+*Súcit znamená pre mňa schopnosť starať sa o svojich utláčateľov.* A to ide len vtedy, ak nedávam preč svoju moc druhým ľuďom, ale nechávam si ju pre seba tým, že prejavujem súcit.
+
+---
+
+---
+
+tieto systemy ma pucia, dlavia, skrtia, dusia.
+
+presnejsie, su to tie presvedcenia, ktore som sa z tychto systemov naucil. systemy a institucie vyznavaju ideologie, ktore nepodporuju mier na tejto planete. aspon v priemere.
+
+---
+
+Ich verstehe wirklich nicht, was das Wort "müssen" oder "sollen" mit Demokratie zu tun hat.
+
+---
+
+Ich glaube nicht, dass mentale Krankheiten existieren. Ich glaube, dass mentale Krankheiten sind ein Mangel an emotionaler Intelligenz. Und das ist nicht ein individuelles Problem, sondern ein systemisches problem mit der Erziehung und Ausbildung.
+
+Ich würde mentale Krankheiten als mentale Unbequheiten nenmen. Es ist nicht krank, sich umbequen und unanhenehm sich zu fühlen. Es ist natürlich. Gefühle sind natürlich.
+
+---
+
+trauma from work / trauma von arbeit / trauma v praci, trauma z prace
+
+---
+
+uzkost tiez odpaja cloveka od jeho pocitov a potrieb. uzkost je tiez "alarm feeling".
+
+uzkost nie je strach. uzkost vnimam ako nervozitu a obavy z toho, co si one pomyslia druhi, pretoze mne zalezi na mojom vztahu k nim, a na ich pohodli a spokojnosti. mozno preto som vyhorel. lebo som zostal zaseknuty v tomto pocite, ktory pomaly, postupne, ale isto likvidoval moje telo.
+
+---
+
+uzkost citim v bruchu, v zaludku, v crevach, v srdci, ako zmatenost v hlave, a obcas aj ako paniku
+
+---
+
+uzkosti a obavy:
+
+uzkost z policie
+
+uzkost z programovania
+
+uzkost z rozhovorov
+
+uzkost v pritomnosti ludi
+
+* uzkost a znechutenie z prace
+  ** discouraged to work after burnout / entmutigt wieder zu arbeiten nach ausbrennung
+
+uzkost, ze sa mi zhorsi zdravotny stav
+
+uzkost, ze ma vylucia z kolektivu
+
+uzkost, ze sa znovu budem kazdy den hadat a natahovat s kolegami
+
+uzkost, ze uzkost mi zhorsi zdravotny stav
+
+uzkost, ze uzkost pride znova, a ochromi ma natolko, ze nebudem. schopny fungovat v praci, ani doma, ze mi stale bude drazdit zaludok a crevo, a ja sa nikdy nedostanem zo svojich chronickych zdravotnych problemov, a budem do konca zivota zit zivot osameleho invalida
+
+uzkost, ze doma ma bude cakat priatelka, s ktorou sa zase budem kazdy den hadat, a pre ktoru nebudem nikdy dost dobry
+
+uzkost, ze ak znova zacnem doverovat ludom, znova ma podrazia
+
+uzkost, ze do konca zivota sa budem citit osamely.
+
+uzkost, ze do konca zivota budem trpiet na chronicke bolesti a unavu
+
+uzkost, ze budem zavisly od rodicov az do ich, alebo mojej, smrti
+
+uzkost z porovnavania
+
+uzkost zo sutazenia
+
+uzkost z vystupovania
+
+uzkost z hodnotenia
+
+---
+
+aky chcem mat postoj k uzkosti? 
+
+starostlivost a zodpovednost
+
+co je starostlivost?
+
+co je zodpovednost?
+
+ako naucit cloveka zodpovednosti?
+
+ako vyvodit zodpovednost?
+
+vdacnost za to, ze te to pocit dokazem vnimat v tele a pomenovat ho
+
+---
+
+uzkost mi pripomina, na com mi tak velmi zalezi.
+
+---
+
+uzkost mi hovori, ze moj vztah s druhym clovekom je ohrozeny. a mne zalezi na nasom vztahu, a ja by som sa chxel starat o nas vztah. a zaeoven ma velmi boli a je mi velmi luto co sa stalo, pretoze mi tak velmi zalezi na tom, aby lidia hovorili veci jemne a citlivo. velmi mi zalezi na citlivosti, jemnosti, makkosti, ohladuplnosti, sucite, porozumeni, pokoji, nehe. 
+
+---
+
+chyby su prirodzenou sucastou pri uceni sa zodpovednosti
+
+intolerancia chyb, trestanie za chyby, chvalenie za uspechy brzdi rozvoj zodpovednosti, samostatnosti a vnimavosti.
+
+---
+
+co ked sa mu budi ludia znovu posmievat? -- uzkost v bruchu a srdci -- ludia by sa mi nemali posmievat. ludia sa mi nesmu posmievat. ludia vy sa nemali posmievat z druhuch.
+
+od ludi ku mne,; medzi ludmi; odomna k ludom -> posmievat, kricat, ignorovat, vyhrazat sa, porovnavat
+
+potrebujem bezpexne prostredie, aby som sa znova maucil doverovat druhym. aby som konecne mal proatredie, kde by spm mal sancu vyzdraviet. 
+
+desim sa poprosit ludi o naplnenie mojich potrieb. predovsetlym sa desim poprosit zeny o naplnenie mojich intimnych pptrieb. tu uzkost a nervozitu citim ako tazobu na zaludku a drazdenie pod hrudnou kostou. strach ma chce ochranit pred dalsim zahanbenim.
+
+uz sa stalo. spytal som sa, nevuslo to. a potom sme sa kazdy den v skole stretavali, a ja som zakazdym, ked som ju videl, citil rovnake neprijemne ppcity v bruchu. 
+
+niekedy su tie obavy, pocity uzkosti a bezmocnosti neznesitelne. ja uz by som velmi chcel zazivat aj prijemne pocity, ako radost, ulavu, spokojnost, uvolnenie, nadsenie, sustredenie, citit sa ponoreny do prace... a tak velmi to nejde. nech sa snazim ako chcem, nech robim co chcem, nejde to. tie neprijemne pocity zostavaju v bruchu a neustale sa vracaju. 
+
+uz je neskoro. psychika UZ somatizovala. pocity sa premenili na telesnu, chronicku chorobu. pocity z nenaplnenych potrieb prevazili, pretoze moje potreby boli chronicky ignorovane. 
+
+---
+
+nemam celkom slobodu nad tym, ako sa budem citit. vsetci mame slobodu slova a mozeme hovorit, co chceme. ale mam slobodu nad tym, ako nad svojimi pocitmi budem rozmyslat. mozno sa prerozmyslam k sucitu a k pokoju v dusi, a budem si ho vediet rychlejsie obnovit. ja neviem. mozno. lebo ja tie pocity neviem jwdnoduchp hodit za hlavu. moj mozpg mi tie udalosti prehrava znova a znova, tie pocity sa vracaju znova a znova, intemzivne, citim ich v tele rovnako, ako keby som tie udalosti zazival teraz. presstavivost je imagimarma, realita moze byt virtualna, ale pocit je skutocny, aj ked je podnet nehmatatelny, prchavy, neopakovatelny. nechapem. pocity maju svoju logiku, ktora sa pravdepodobne posilnuke prezivanim, nie raxuonalnym ziskavanim informacii, faktov a racionalnym porozumenim a memorovanim. racio, rozum je povrxhny. emocie, pocity, to je sila. citenie ide do hlbky, az do spiku kosti, prechadza kazdou cievou, kazdym svalovym vlaknom, kazdou bunkou v tele. pocit, ako dosledok myslenia o naplnenych a nenalnenych potrebach. to mi bolo cudzie. to mi dava zmysel. to budem cvicit. ved naco by som chcel riadit pocity, ked sa mi riadot nedaju? preco by som chcel riadit nieco, nad cim nemam ziadnu kontrolu? naco. co ale mozem urobit je, ze budem premyslat nad tym, ake potreby vo mme su a nie au naplnene, ake potrebyspm si chcel ja naplnit, co presne chcem od toho druheho, aby urobil, abysom bolsppkojny, a odkial pochadza toto myslenie a presvedcenia o mojich naplnenych a nenaplnenych pptrebach. 
+
+ake uzasne by bolo byt medzi ludmi, ktori by si prejavovali sucit a porozumenie zakazdym, ked niekto urobi chybu. 
+
+ciste umysly chrania moj pokoj v dusi.
+
+pokial ja nebudem brat vazne problemy druhych, druhi nebudu brat vazne moje problemy.
+
+pokial ja neprijmem tento svet taky, aky je, potom ani tento svet ma neprijme takeho, aky som, aj ked som iny.
+
+---
+
+darujem zenam sukromie, bezpecie a uctu, a ony mne daruju pokoj, slobodu a nehu
+
+---
+
+ohladuplnosy = jemnost + citlivost
+
+---
+
+ako by si sa citil, kwbysi bol menej atraktivna zena alebo dievca, zena s vraskami a ovisajucou kozpu na tvari, a vsade okolo seba videl ludi a reklamy s krasnymi, atraktivnymi, zenami, dokomale aumernymi v tvari, s dokonalymi ucesmi, vzdy elegantne a vkusne oblecene? 
+
+ako bysisa citil, kebysi bolcely svojzivot nwuatale porovnavamy, hodnoteny, posudzovany? 
+
+ako by si sa citil, kebysi bolcely zivot vedeny k sutazivosti a vnimaniu druhych ako prekazku k svojmu vlastnemu uspexhu alebo ako k vnimaniu druhych ako zdroje alebo ludsly kapital, z ktorych musis vytazit a vtextrahovat co najvoac aj na ich alebosvoj ukor? 
+
+asi by to neboli projemme pocity, ze?
+
+---
+
+kult krasmych zien / fetis krasnych zoen
+
+ze zeny su nieco viac? ze krasne zeny su nieco viac? ze zeny su nieco menej? a ne sme si nahodou vsetci rovni? nemame nahodou vsetci rovnaku tuzbu po slobode? aj zenyaj muzi? preco si niekto stale mysli, ze je niekto viac? preco sme vedeni k tomu, ze existuju ludia, ktori znamenaju viac? 
+
+existuje tolko druhov krasy. +
+existuje tolko druhov bohatstva. 
+
+---
+
+"je to dobre? mam to dobre? moze by? hej? je to dobre? je to dobre? je to dobre?"
+
+neustale sa pozerat vonku na autority alebo na druhych ludi, ci vyhovujem ich predstavam. otazky vychovavajuce milych, mrtvych ludi. otrokov. namiesto toho, aby sme vzdelavali a vychovavali ludi, ktori budu, vnimavi k vlastnemu telu, ohladuplni k sebe a k druhym, ktori budu sirit mier, pokoj a nehu.
+
+---
+
+ked sa na mna niekto diva so zvrastenym obocim, alebona mna nikto zvysuje hlas, kritizuje ma ... staroatlivost... emocionalne porozumenie - pravidelne zazivat opakovane prijemne zazitky, aby som mal aspon sancu na vyliecenie... uzkost z neustaleho davania svojej moci druhym ludom, ked sa sameho seba pytam "co na to povedia druhi?" mam obavy, ze ked budem sam sebou, ludia ma neprijmu takehoto, lebo som iny, divny, zvlastny. mozem sa sustredit na to, ako budem premyslat o tom, co pozprujem a vnimam od druhych. mozem si zobrat spat a nechat si vsetku moc ktoru mam, tym ze sebe a ostatnym prejavim sucit. potichu alebo nahlas. funguje to rovnako. vezmem vsetkym okolo mna vsetku moc, ktoru maju nado mnou, sucitom. to je ale peoblem vo vypatych situaciach, lebo vtedysom zranitelny, panikarim, neviem co povedat. nedokazem sa spojit so svojimi pocitmi, potrebami a prosbami v tom momente. tak som radsej ticho. som vtedy smutny, hanbim sa, alebo sa branim, hnevam sa a zvysukem hlas, lebo chcem byt prijaty medizi ostatnych aj kex som iny. ja by som chcel tiez zazit, ake to je, ked sa niekto stara o mna, tak ako sa ja staram o drihych. ja by som tiez chcel pocut vdaku za to, co pre druhych eobim, a co pre nich znamenam. ja by som tiez chcel dostat ten liecivy sucit, ktory sa pokusam davat, kedykolvek to je v mojich silach. to by bolkrasny pocit. najst takupriatelku, a mat s nou taky vztak, ktorybyppsobil terapeuticky na oboch. 
+
+ked na mna niekto zvysuje hlas, zlaknem sa. hovorim si "zase som to dojebal. ja neviem nic urobit poriadne. som neschopny a pomaly. nikdy sa to nenaucim. na co sa to hram? nezasluzim si nic dobre. uz je neskoro. cosio mne ludia pomyslia? vyzeram ako idiot. co ak tomu nebudem rozumiet? zase to nevyjde a ja premrham dalsi drahocenmy cas. musis sa snazit! ked sa budes snazit dost, uspejes. lenze ty si neuspel. ty si zlyhal, pretoze si sa nesnazil dost vela. kebysi sa bol snazil o trochu viac, bol by si uspel,a nevyhorel by si. zase nie ai dost dobry. nikdy nebudes dost dobry. si chory parazit! zlodej! lenivec! babrak! slimak! ty si strasny kokot! skap! nevies pit?! kokot!" beriem si osobne, ked na mna niekto krici, kritizuje ma, skaredo sa na mna pozera. myslim si, ze so mnou nieco nie je v poriadku. ze ten clovek sa hneva kvoli mne. ze ja som na vine, ze sa ten clovek hneva, za to co som urobil alebo povedal. ze ja som pricinou jeho alebo jej hnevu, smutku, alebo inych ppcitov. a tak davam svoju moc do ruk druheho cloveka, a jedine, co mi zostava, je bud sa podriadit, alebo protestovat. v napatych sotuaciach zabudam na to, ze pricinou pocitov su potreby a nase myslenie o nich. lenze mne to vo vypatych situaciach nenapadne, pretoze som ako zamrznuty, pretazeny zo svojich pocitov. pocitov uzkosti. snazim sa vnimat svoje telo, snazim sa pomenovat ppcity, snazim sa pomenovat nenaplnene potreby, snazim sa vcitit sa do toho druheho, snazim sa dat si sucit, ale z toho vsetkeho som tak pretazeny, ze sa nezmozem na slovo. zaludpk sa stiahne, crevo sa chveje, srdce slabne, hlava boli, unava rastie... a ja neviem coskor. desim sa toho, byt zranitelny na verejnosti. mam obavy, ze ma ludia neprijmu takeho, aky som, aj ked som iny. bol som vzdelany a vychovany k tomu, aby som si bral veci osobne. ze ostatni ludoa su pricinou mojho trapenia. totosu sposoby, ako davam svoju moc do ruk druhych ludi. mozno, ked si uvedomim, ze totosu sposoby, ako ja davam svoju moc prec od seba druhym ludom, a ze takto ja davam druhym ludom moc nado mnou, toto uvedomenie mi bude to stacit na to, aby som si spomenul na to, ze vsetko, co ludia hovoria, je "prosim" alebo "dakujem". a ze to mi pptpm da silu sucitit a ochranit tak moje vztahy a moj pokoj v dusi. pretoze ked som pokojny, dokazem jasne rozmyslat.
+
+ked sucitis, ked sa odvazis byt zranitelny, beries ostatnym vsetku moc, ktoru maju mad tebou, a nechavas si ju pre seba, a tym sa staras a upevnujes si svoj pokoj  v dusi. tam nie je priestor pre hnev. je to pokojna, citliva, jemna, makka, ohladuplna, nezna obrana. pohladenie slovom. moja moc je to iste ako moj pokoj v dusi. sucit premiiena moc nad ludmi  a moc s ludmi. 
+
+brat si veci osobne - namiesto toho, abysom pocity druheho pripojil k niecomu konkretnemu - k sebe - pripojim pociry druheho k niecomu abstraktnemu, co obaja zdielame - k jeho alebo jej potrebam. namiesto toho, aby som pripojit pocity druheho k sebe, k tomu co som urobil alebo povedal, pripojim pocity druheho k jeho potrebam. odhadnem, ktore potreby by mphli byt naplnene a ktore nie. 
+
+zodpovednost - preberanoe zpdpvednosri za pocity druhych ludi - lebo mi tak velmi zalezi ma ich spokojnosti a nasom vztahu. aby som bol idealne zo vsetkymi za dobre, lebo zly vztah ma vycerpava, oslabuje, a otvara cestu chorobam. 
+
+ked sucitis, niet co odpustit. sucit je odpustenie. sucit a odustenie su tie iste veci. 
+
+ked sa naucis zachovavat svoju moc v sebe cez sucit, zacnes priemienat moc, ktoru maju druhy ludia nad tebou, na moc s ludmi. sucit a zranitelnost ochrania tvoj ppkoj v dusi. aj keby si bol v tom najtoxickejsom prostredi. nedam druhym ani ludom v instituciach  ani len sancu dehumanizovat, zneludstit, objektifikovat, mna, ani ma donutit, aby som sa ppdriadil, alebo protestoval, pretoze ja tych druhym zhumanizujem, poludstim, privediem k zivotu, sucitom tak intenzivne, ze zostane priestor iba pre zivot a uprimnost. 
+
+skrze sucit si zachovam svoj pokoj v dusi. beriem ostatnym. moc nado mnou, nechav si svoju moc v sebe, a premienm moc nado mnou na moc so mnou. tak sa ucim byt v bezpeci vosvojej vlastnej spiritualite. tak sa ucim, ze moje bezpecie zavisi len odo mna. aj odvztahov, ktpre si vybudujwm,a o ktore sa staram, a moznoaj vztahov, ktore ukoncim.
+
+radsej dam sucit, nez by som sa mal vzdat svojej moci, svojho pokoja v dusi, svojej slobody.
+
+---
+
+neprogramujem preto, aby som dokazal sebe aj ostatnym, ze na to mam. programujem, aby som sa naucil starat o kod, o softver, o ludi, ktori tie programy a aplikacie budu pouzivat. programujem, aby som videl, ze sa dokazem postarat o seba, o svoju rodinu, o svoju buducnost. 
+
+programovanie nie je sutaz. progranovanie je prilezitost, ako si naplnat svoje potreby.
+
+zivot nie ke sutaz. zivot je dar.
+
+rob chyby pri programovani. citit frustraciu a bezradnost pri programovani je v poriadku. robit chyby pri programovani je v poeiadku. je v poriadku programovat pomalsie a rozvaznejsie. 
+
+---
+
+pokial nevyriesim vacsinu svojich emocionalnych problemov, nepistim sa do programovania. pretoze moje boleative pocity mi brania premyslat. pevne verim, ze ked vyriesim vacsinu emocionalnych  problemov, otvori sa mi cesta ku logickemu mysleniu. riesit emocionalne peoblemy je racionalne. verit, ze clovek je emocionalna bytost, ktora obcas premysla, je racionalne. asi to spravim tak, ze psychoterapiu a programovanie budem robit paralelne, aby som pomaly, citlivo a jemne podporoval aj svoje logicke myslenie. tak sa budem pripravovat na svoju buducnost. aj ked ma budu bolestive spomienky na studium, programovanie, pracu prenasledovat kazdu sekundu, pri kazdom riadku kodu, dokonca aj pri tej najmensej myslienke na prpgramovanie. je mi lito co sa mi stalo. som utny z toho, ze to, co ma ma zaciatku tak bavilo a naplnalo, sa stalo mojou nocnou morou, trapenim, neznesitelnou bolestou. lenze ja si meviem predstavit, ze budem robit nieco ine. nic ine poriadne ani robit neviem...
+
+---
+
+aj ked sa niekto bude pokusat, nasilim mi odnat moju moc, pokoj v dusi a slobodu, ja si svoju moc ochranim nenasilne - sucitom. ja tomu drujemu cloveku mozem dat sucit aj vtedy, ked vo mme jeho alebo jej slova vyvolaju bolestive pocity. a budem mat aj silu, vzdy dat tomu druhemu cloveku sucit, retoze tu silu mi da vedomie, ze "kedykolvek prejavim sucit, beriwm tomu druhemu, alebo tej druhej, moc nado mnou, aby ma zneludstila, beriem si svoju moc spat, nechavam si ju pre seba a premienam ju na moc s ludmi." na nasilie odpovedam nenasilim, aj ked ma to moze chvilu boliet. mozno to je prakticke vyuzitie myslienky "kto do teba kamenom, ty dohno chlebom." nie je to sebaobeta, a podriadovanie sa. je to skor ohladuplne, citlive, jemne, emocionalne porozumenie prezivania toho druheho, alebo tej druhej. potom sa mozem spytat: "Mas zlu skusenost s...?" tak skusim vyjadrit uctu k prezivaniu a nazoru druheho cloveka. potom mualebo jej opisem, ako jeho alebo jej slova na mna vplyvali, a pokusim sa sformulovat prosbu, ktora by urobila moj zivot trochu krajsim. v kritickym situaciach mozem zacat hned od toho, ako na mna slova druheho vplyvaju. pretoze niekedy ma pocity ovladnu.
+
+ked ma ppcity paralyzuju, nemusim hovorit nic. mozem mlcat. mozem odist. mozem spracovat tieto podnety a pocity neskor, aby som si dokazal v buducnosti zachovat svoj pokoj v dusi, slobodu a zdravie. aby bol moj pokoj v dusi vo mne hlboko zakoreneny. zamysliet sa, co chyba mne, co chyba druhym. o co prosim ja ich? o co prosia oni mna? predstavit si to znova. vyliecit sa zo stresu sucitom. 
+
+---
+
+aj uzkostou, hnevom, zurivostou, vinou, hanbou, ziarlivostou, zavistou, myslienkami a slovami o pomste, o tom, co s druhymi ludmi alebo so mnou nie je v poriadku, davam svoju moc, pokoj v dusi, slobodu a zdravie druhym ludom. spomeniem si na tuto myslienku. citim ten prud energie ako uz neprudi odomna prec, ale ako prudi od druhych ku mne naspat. pockam s odpovedou. prejavim sucit sebe potichu. prejavim sucit druhemu cloveku, nahlas alebo potichu.
