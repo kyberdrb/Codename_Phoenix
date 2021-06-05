@@ -84,16 +84,19 @@ The needs is *the only reason*, why I'm feeling the way I'm feeling. Not the act
                  |_| |_|
                 /__| |__\
 
-  ein Loch im Herz / a hole in the heart
   Čo je pre mňa osamelosť?
   Diera v srdci, alebo skôr diera namiesto srdca
+  ein Loch im Herz / a hole in the heart
 
 link:https://storage.googleapis.com/cdn.thenewstack.io/media/2018/03/4d780610-screenshot-from-star-asciimation-wars.png[inspiration] +
 * things that you cannot buy, that are not even things, but that matter the most
 * foundation of life
 * one of the parts of empathy
 * power
+* something that is important, meaningful, dear to us
 * attributes of a relationship
+* relationship between people
+* various apects of a relationship
 
 *What is empathy?*
 
@@ -421,6 +424,7 @@ vedomie, že na mne a mojich potrebách záleží, že moje potreby sú dôleži
 * [line-through]#productivity / Produktivität / produktivita#
 * [line-through]#talent / Talent#
 * [line-through]#destruction / Zerstörung / ničenie#
+* [line-through]#perfection / Vollkommenheit, Makellosigkeit / dokonalosť, bezchybnosť#
 
 ---
 
@@ -494,12 +498,12 @@ vedomie, že na mne a mojich potrebách záleží, že moje potreby sú dôleži
 * faith / Glaube / viera
 * voluntariness / Freiwilligkeit / dobrovoľnosť
 * willingness, good will / Bereitschaft, Entgegenkommen / ochota
-
+* [line-through]#market / Market / trh#
 ---
 
 link:https://static1.squarespace.com/static/52898555e4b0d5b9928e8aa5/t/575773a58259b5658351e8d3/1465349030412/Needs+%26+Feelings+List.pdf[Feelings and Needs list]
 
-== Feelings at unfulfilled needs (Sweet pain - Girrafe mourning) / Gefühle bei unerfüllten Bedürfnissen
+== Feelings at unfulfilled needs - Sweet pain - Girrafe mourning - Painful "please"-saying feelings* / Gefühle bei unerfüllten Bedürfnissen
 
 These feelings come from needs, from the connection to our needs or the needs of others.
 
@@ -565,7 +569,9 @@ bezmocný (často zamieňaný so _stresom_)
 * suffer / sich quälen / trápiť sa
 * pain (to ache) / der Schmerz (wehtun) / bolesť (bolieť)
 
-*Bitter pain - Alarm feelings / Bittere Schmerzen - Weckgefühle*
+*Bitter pain - Alarm feelings / Bittere Schmerzen - Weckgefühle / Very painful "please"-saying feelings*
+
+*Feelings that we have when we give our power to other people. Take you power! Take your power back from the other people! Show empathy! Show empathy to yourself! Show empathy to them!*
 
 Unnatural feelings
 
@@ -736,6 +742,7 @@ link:???[Feelings vs Thoughts pdf]
 * unwürdig
 * kresťan / Christ / christian
 * pohan (veriaci v iné náboženstvo než v kresťanstvo) / Heide / atheist
+* ziadostivy
 
 == Feelings at fulfilled needs - Dream Feelings - Flow
 
@@ -885,12 +892,16 @@ spreche, mit jemandem spreche, schreibe, zuhöre, mich dusche, mich mit kaltem W
 * Duty and Obligation vs Freedom and Responsibility
 * prisnost / rigor / Strengheit and dokladnost / thoroughness / Sorgfältigkeit *and* starostlivosť / care / Pflege
 * enemy vs someone who disagrees with me and has different opinions, experiences and ideology. and that's okay :) the other person is giving me an opportunity, to exercise my tolerance, with the help of their diversity and differences
-* rational understanding vs emotional understanding
+* rational understanding, rational intelligence vs emotional understanding, emotional intelligence
   ** rational intelligence, rational thinking,  rational memory and rational understanding is reinforced by the repetition of facts.
   ** emotional intelligence, emotional thinking, emotional memory and emotional understanding is reinforced by the repetition of life events. Therefore the emotional intelligence takes so much longer to develop, and to change experiencing of various life events in a way, that will support my health and well-being and strenghten my empathy and connections to other people.
+  ** rozvoj emocionalnej inteligencie ovplyvnuje prezivanie. emocionalnu inteligenciu a emocionalne porozumenie rozvija iba sucit a kontakt so zivotom v sebe a v druhych ludoch. ked chceme mat ine pocity z urcitych udalosti, potrebujeme trenovat nas sucit k sebe a k druhym ludom, k vonkajsim podnetom, tieto situacie prezivat v bezpecnom prostredi s ludmi, ktorym zalezi na nasom pohodli, dusevnej pohode, pokoji v dusi. a ked nie, tak mat odvahu poprosit ich o to s vedomim, ze si chcem naplnat svoje potreby s ohladom na potreby druhych a prostredie, nikdy nie na ich ukor, co mi dodava este viac odvahy. pocity sa daju zmenit len opakovanym prezivanim inych pocitov v danych situaciach. nie citanim knih a clankov, pozeranim videi, racionalne porozumenie ma povrchny vplyv na pocity a prezivanie, ale prezivanim inych pocitov pri skutocnom, zivom kontakte s druhymi ludmi. Aby sa mi obnovilo vedomie, ze svet je bezpecne miesto, ze ludia chcu pre mna to najlepsie, ze sa oplati doverovat ludom, ze druhym ludom zaliezi na mojich potrebach rovnako, ako na ich vlastnych, ze druhemu cloveku, zalezi na mojich potrebach rovanko, ako na jeho alebo jej potrebach, ze ostatni ludia si chcu naplnat svoje potreby s ohladom na moje potreby.
 * menschliche Natürlichkeit vs kapitalistische Natürlichkeit, Natürlichkeit der Dominanzsysteme und Homo Economicus
   ** Wie sieht die menschliche Natürlichkeit aus? Wie sieht Menschlichkeit aus? Schaut mal die kleinen Kinder an. Sie sind neugierig, sie wollen die Welt verstehen, sie wollen spielen, sie wollen mit anderen Kindern spielen, sie wollen die Sachen ausprobieren, sie haben Spaß am Lernen. Sie sind erfüllte, gesunde Menschen.
   ** An der anderer Seite ist Homo Economicus. Herzloser, selbstsüchtiger Mensch, oder lieber Mann, weil das von Patriarchie auskommt. Ein Mensch, der sich seine eigene Bedürfnisse erfüllen will, und sein Nutzen am effektivsten maximieren will, auch auf Kosten anderer Menschen.
+* Firmy a institucie, ktore dbaju na dusevne zdravie svojich ludi (sabattical, wellness, firemny psycholog) vs Firmy a institucie typu mlyncek na maso (Najmu ludi a ti ludia po roku, po dvoch proste odidu vyzmykany, a uz sa nikdy nevratia, lebo maju tej firmy plne zuby.) [Bez nej zle, v nej ešte horšie. Ako zvládnuť stratu práce a vyhorenie? - Matúš Bakyta]
+* Peniaze ako dar, Peniaze ako prejav vdaky vs Peniaze ako prostriedok moci nad ludmi +
+Money as a gift, Money as a sign of gratitude vs Money as a tool of power over people
 * link:https://www.fachverband-gfk.org/wp-documents/anlage_3_schluesselunterscheidungen.pdf[und mehr Unterschiede...]
 
 ### Culturally learned beliefs - Life-harming beliefs - Violent beliefs - Irrational beliefs - Pain-inducing beliefs:
@@ -1208,10 +1219,27 @@ Mozno toto je to co Jana Mladá myslela s link:https://www.koucmed.sk/etikoterap
 . ludia nesmu zanevriet na ludskost a sucit. -- 
 . ludia by nemali verit len trhu. 
 . ludia, hlavne zeny a dievcata, by sa nemali chichotat a sepkat si v mojej pritomnosti. 
-. ludia by sa nemali chvalit. 
+. ludia by sa nemali chvalit.
+. svet je zle miesto, ludia su zli, hriesni, chamtivy, skodoradostni a vezmu si cokolvek, co chcu, aj na ukor druhych ludi a prostredia. -- svet je bezpecne miesto. tvoje bezpecie zavisi od teba. ak svet nie je bezpecnym miestom, dokazes si toto bezpecie vytvorit. aspon na chvilu. aspon lokalne. dokazes poprosit druhych, aby urobili nieco konkretne, co naplneni tvoje potreby. to, kto si, je dost dobre. to, co robis, je dost dobre. to, ako vyzeras teraz, je uz dost dobre. to, kto si teraz, je uz dost dobre. to, co robis teraz, je uz dost dobre. svet, taky, aky je teraz, je uz dost dobry. aj ked sa prestanes vzdelavat. aj ked si nebudes rozumiet s ludmi. aj ked budes pracovat v inej oblasti, nez ktoru si vystudoval. aj ked vyzeras inak, nez si predstavujes.
+. svet a tato ekonomika je chorasvet je dost dobry teraz, aj ked je iny, nez aky by som ho chcel vidiet. aj ked systemy a institucie, ktore sme si z celej nasej slobpdy a tvorivosti vytvorili, drzia pohromade predovsetkym pomocou nasilia, a naplnaju si svoje potreby na obrovsky ukor inych potrieb druhych ludi a prostredia. *Podme pouzit nasu slobodu a tvorivost, aby sme vytvorili a premienali systemy a institucie, a vzdelavali ludi, ktori si budu naplnat svoje potreby, nie ma ukor druhych ludi a prostredia, ale s ohladom na druhych ludi a prostredie.*
+. mal by si si odvodzovat svoju hodnotu od svojich vonkajsich prejavov, svojej prace, zamestnania, spolocenskeho postavenia, penazi, zdravia, libida a dalsich veci, ktore su sucastou vonkajsich prejavov, alebo slabnu s casom alebo s vekom. Musis si odvodzovat svoju hodnotu od svojej prace, zamestnania, spolocenskeho postavenia, penazi, zdravia, libida a dalsich veci, ktore su sucastou vonkajsich prejavov, alebo slabnu s casom alebo s vekom.
+. mal by si si odvodzovat hodnotu druhych ludi od ich vonkajsich prejavov, ich prace, zamestnania, spolocenskeho postavenia, penazi, zdravia, libida a dalsich veci, ktore su sucastou vonkajsich prejavov, alebo slabnu s casom alebo s vekom. Musis odvodzovat ich hodnotu od svojej prace, zamestnania, spolocenskeho postavenia, penazi, zdravia, libida a dalsich veci, ktore su sucastou vonkajsich prejavov, alebo slabnu s casom alebo s vekom.
+. ludia sa musia prezentovat v tom najlepsom svetle!
+. je v poriadku iba pozorovat, seba druhych, prostredie okolo seba, bez toho, aby som cokolvek povedal, urobil, hodnotil alebo posudzoval.
+. je v poriadku, ked si zeny obnazuju casti svojho tela.
+. je v poriadku, ked si ludia obnazuju casti svojho tela.
+. je v poriadku, ked zena nevyzera dokonale krasne, ked ma menej sumernu tvar, vacsie boky, mensie prsia, spicatejsie prsia, nesumerne prsia, nesumernu tvar, hustejsie obocie, viac vrasok, mensie prsia, ovisnutejsie prsia, plochejsi zadok, ovisnutejsi zadok, celulitidu, vpadnutejsie lica, ostru bradu, velky nos, krivy nos, spicaty nos, horenos, uzke pery, je bez make-upu - nenamalovana, ...
+. je v poriadku, ked muz nevyzera dokonale krasne, ked ma plesinu, je tenky, zhrbeny, slaby, vacsie brucho, vystrcene rebra, velky nos, krivy nos, spicaty nos, horenos, ...
+. je v poriadku vyzerat smiesne.
+. je v poriadku nenaplnit potreby niekoho ineho, pokial by to bolo proti mojej voli alebo na moj ukor.
+. je v poriadku, ked zena starne. -- TODO
+. je v poriadku, ked sa ludia v mojej pritomnosti necitia prijemme.
+. je v poriadku, ked sa necitim prijemne s druhymi ludmi.
+. je v poriadku, ked sa necitim prijemne s niektorymi ludmi.
+. je v poriadku, ked neuspokojim kazdeho.
 . Mal by / Nemal by / Musieť / Nesmieť / Zaslúžiť si... -- Je v poriadku, keď...
 
-Všetko je v poriadku. Všetci máme slobodu. Všetci máme slobodu slova. Všetci máme slobodu robiť, hovoriť a myslieť si, čo chceme, a čo si myslíme, že najviac obohatí náš život. Aj keď niekedy ani tomu neverím, keď sa pozriem, ako vyzerá život v juhoázijských krajinách, Afrike, Južnej Amerike, diktatúrach a pseudodemokraciách. Všetci máme svoje dobré dôvody a životné príbehy a zážitky, prečo robíme to, čo robíme. Robíme len to, čo v prítomnej chvíli s momentálnymi znalosťami a schopnosťami najlepšie naplní naše potreby. Robíme to, čo vieme, najlepšie ako vieme. Všetci máme slobodu robiť, hovoriť a myslieť si, čo chceme. Zároveň chcem, aby sme si uvedomovali, že každá z týchto viet má svoj zmysel, svoje dôsledky, výhody a nevýhody, ktoré sa menia podľa okolností. *Dôsledky "mal by / nemal by" myšlienok sú také, že keď premýšľam nad tým, ako by veci mali a nemali byť, prispievam k násiliu na tejto planéte.* Náslie sa potom skôr, či neskôr, prejaví v mojom tele ako bolesť, nepohodlie, príznak, ktorý môže pri bolestivých pocitoch silnieť, alebo ako choroba. Chronická choroba, ak násilie trvá mesiace, roky. Takto som schopný prevziať zodpovednosť za svoje rozhodnutia. Mám určité preferencie a predstavy o tom, ako by som chcel, aby veci vyzerali. Ale veci môžu vyzerať aj inak, a tiež môžu napĺňať potreby a podporovať život. Niekto napríklad pracuje na ropnej plošine, vyrúbava lesy, stavia chaty v chránených prírodných oblastiach, masovo loví ryby, a z platu živí svoju rodinu, pretože žije v oblasti, kde je problém nájsť si inú prácu, alebo ten človek má iné dobré dôvody na to, aby zotrval v práci, ktorú vykonáva. V kažom prípade si budem uvedomovať, že chcem napĺňať vlastné potreby *s ohľadom na ostatných*, s ohľadom na potreby ostatných ľudí. Tak často a tak veľmi, ako len budem vládať. A neustále si to pripomínať, že práve to je ľudská prirodzenosť. Napĺňať si svoje potreby s ohľadom na druhých a napĺňať potreby druhých s ohľadom na seba. Iba toto je dlhodobo udržateľná stratégia. Aj keď nie vždy som toho schopný a staré správanie, ktoré chcem nahradiť, prevládne. Však som bol 27 rokov indoktrinovaný k násiliu. Takže zmena bude postupná, pomalá, namáhavá, a o to účinnejšia. V tom tkvie môj optimizmus.
+Všetko je v poriadku. Všetci máme slobodu. Všetci máme slobodu slova. Všetci máme slobodu robiť, hovoriť a myslieť si, čo chceme, a čo si myslíme, že najviac obohatí náš život. Aj keď niekedy ani tomu neverím, keď sa pozriem, ako vyzerá život v juhoázijských krajinách, Afrike, Južnej Amerike, diktatúrach a pseudodemokraciách. Všetci máme svoje dobré dôvody a životné príbehy a zážitky, prečo robíme to, čo robíme. Robíme len to, čo v prítomnej chvíli s momentálnymi znalosťami a schopnosťami najlepšie naplní naše potreby. Robíme to, čo vieme, najlepšie ako vieme. Všetci máme slobodu robiť, hovoriť a myslieť si, čo chceme. Zároveň chcem, aby sme si uvedomovali, že každá z týchto viet má svoj zmysel, svoje dôsledky, výhody a nevýhody, potreby ktoré napĺňa viac a potreby, ktoré napĺňa menej, ktoré sa menia podľa okolností. *Dôsledky "mal by / nemal by" myšlienok sú také, že keď premýšľam nad tým, ako by veci mali a nemali byť, prispievam k násiliu na tejto planéte.* Náslie sa potom skôr, či neskôr, prejaví v mojom tele ako bolesť, nepohodlie, príznak, ktorý môže pri bolestivých pocitoch silnieť, alebo ako choroba. Chronická choroba, ak násilie trvá mesiace, roky. Takto som schopný prevziať zodpovednosť za svoje rozhodnutia. Mám určité preferencie a predstavy o tom, ako by som chcel, aby veci vyzerali. Ale veci môžu vyzerať aj inak, a tiež môžu napĺňať potreby a podporovať život. Niekto napríklad pracuje na ropnej plošine, vyrúbava lesy, stavia chaty v chránených prírodných oblastiach, masovo loví ryby, a z platu živí svoju rodinu, pretože žije v oblasti, kde je problém nájsť si inú prácu, alebo ten človek má iné dobré dôvody na to, aby zotrval v práci, ktorú vykonáva. V kažom prípade si budem uvedomovať, že chcem napĺňať vlastné potreby *s ohľadom na ostatných*, s ohľadom na potreby ostatných ľudí. Tak často a tak veľmi, ako len budem vládať. A neustále si to pripomínať, že práve to je ľudská prirodzenosť. Napĺňať si svoje potreby s ohľadom na druhých a napĺňať potreby druhých s ohľadom na seba. Iba toto je dlhodobo udržateľná stratégia. Aj keď nie vždy som toho schopný a staré správanie, ktoré chcem nahradiť, prevládne. Však som bol 27 rokov indoktrinovaný k násiliu. Takže zmena bude postupná, pomalá, namáhavá, a o to účinnejšia. V tom tkvie môj optimizmus.
 
 Mozem zostat pokojny a budovat svoju toleranciu voci odlisnostiam pomocou súcitu. Budovat si a starat sa o svoj pokoj v dusi, ktory mi da slobodu, v kazdej jednej chvili mat na mysli, ze mam vzdy na vyber, ako chcem reagovat a co chcem urobit. Tak, aby som si mohol slobodne vybrat, ze budem vychadzat zo svojej vlastnej spirituality - spirituality nenasilia. Starat sa o svoj pokoj v dusi. Prejavit sucit. Ist vzorom. Aplikovať princípy z ideológie nenásilia na samotnú ideológiu nenásilia.
 
@@ -1235,9 +1263,14 @@ You can try so hard, as hard as you can, to achieve something, when you don't ha
 
 *Dream feelings / Traumgefühle:*
 
-* peace of soul / Ruhe in der Seele / pokoj v duši
+* processing difficult and painful emotions in real-time [Brene & Nagoski TODO ENTER FULL TITLE AND TIME WITH LINK]
+* peace of soul / Ruhe in der Seele / pokoj v duši +
+= +
+visceral calmness / Ruhe der inneren Organe / visceralny pokoj, pokoj vnutornych organov
   ** um mich um meine Gesundheit zu kümmern, mein Nervus Vagus zu stimulieren, mein Vagaltonus zu stimulieren, meine Heilung zu unterstützen.
   ** Konspirationstheorien, die das Beste in den Leuten suchen, beschützen meine Ruhe in der Seele, meine innere Ruhe und Frieden.
+  ** *moje vedomosti a schopnosti chrania moj kapital a pokoj v dusi.* +
+  *Meine Kenntnisse und Fähigkeiten beschützen mein Kapital und Ruhe in der Seele.*
 * freedom to choose my own interpretation - freedom to choose the interpretation that will enrich my life the most and protect my peace of soul with the respect to others
 * unconditional tolerance
   ** tolerance to other people's beliefs, ideologies, worldviews, religions, cultures, ethnic groups
@@ -1250,6 +1283,8 @@ You can try so hard, as hard as you can, to achieve something, when you don't ha
   ** "Thank you, that you are. / Danke, dass du bist. / Ďakujem, že si."
   ** dissolving every tension and pain
 * Bewusstsein, dass ich immer zur Auswahl habe
+* odvaha poprosit druheho cloveka o naplnenie mojich potrieb
+  ** chcem si naplnat svoje potreby s ohladom na druhych
 * pozitok, sustredenie, pokojny smutok z toho, ked si niekto robi zo mna srandu, ked sa ludia smeju z toho, ako vyzeram, co a ako robim, co a ako hovorim, ked ma niekto ponizuje, zosmiesnuje, uraza, zastrasuje, vyhraza sa
 * Entspannung unter Leuten und in einem Kollektiv
 * unconditional love and empathy
@@ -1275,7 +1310,7 @@ You can try so hard, as hard as you can, to achieve something, when you don't ha
 * chcem sa citit v bezpeci, aj ked urobim chybu
 * odvaha poprosit druheho cloveka o naplnenie mojich potrieb.
 * odvaha prijat odpoved druheho cloveka so sucitom, hlavne ked neurobi to, o co ho prosim
-  ** ...lebo potom citim este vacsiu bolest z mojich nenaplnenych potrieb, nez som mal predtym. to ma na tom odradza najviac. radsej budem trpiet menej, nez riskovat este vacsie utrpenie a smutok z  odmietnutia, pokazeneho vztahu, znicenej dovery a vycitiek. a zaroven si kazdy den predstavujem, ake prijemne by bolo, keby som nasiel dievca, ku ktorej by som sa pritulil, a ona by ma s radostou skrabkala vo vlasoch. ach, tak by sa mi ulavilo. tolko nehy som nezazil za cely svoj zivot. a nie len nehy, ale aj jemnosti, hebkosti, makkosti, citlivosti, vone, krasy, povabu, elegancie, plynulosti, cistoty. citit a vnimat teplo zeny ku ktorej by som sa mohol pritulit, s ktorou by som sa citil v bezpeci, ku ktorej by som mohol byt uprimny bez strachu. so zenou, ktora by sa o moju dusu starala jemne a citlivo.
+  ** ...lebo potom citim este vacsiu bolest z mojich nenaplnenych potrieb, nez som mal predtym. to ma na tom odradza najviac. radsej budem trpiet menej, nez riskovat este vacsie utrpenie a smutok z  odmietnutia, pokazeneho vztahu, znicenej dovery a vycitiek. a zaroven si kazdy den predstavujem, ake prijemne by bolo, keby som nasiel dievca, ku ktorej by som sa pritulil, a ona by ma s radostou skrabkala vo vlasoch. ach, tak by sa mi ulavilo. tolko nehy som nezazil za cely svoj zivot. a nie len nehy, ale aj jemnosti, hebkosti, makkosti, citlivosti, vone, krasy, povabu, elegancie, plynulosti, cistoty, vdaky, co pre nu robim. citit a vnimat teplo zeny ku ktorej by som sa mohol pritulit, s ktorou by som sa citil v bezpeci, ku ktorej by som mohol byt uprimny bez strachu. so zenou, ktora by sa o moju dusu starala jemne a citlivo.
 * vdacnost za meritokraciu
   ** veda a vyskum
   ** medicina: vakciny
@@ -1285,10 +1320,14 @@ You can try so hard, as hard as you can, to achieve something, when you don't ha
   ** cez súcit
 * odvazna zranitelnost odo mna sucitom
 * sokujuce upokojenie pre druheho
-  ** sokovat toho druheho mojim pokojom, porozumenim, sucitom, aj ked na mna niekto zvysuje hlas. zobrat mu moju moc nado mnou, a premenit ju na moc so mnou.
+  ** sokovat toho druheho mojim pokojom, porozumenim, sucitom, aj ked na mna niekto zvysuje hlas. zobrat mu moju moc nado mnou, a premenit ju na moc so mnou. a mozno prekvapit sameho seba, coho som schopny
 
 ---
 
+* consciousness that world is a safe place [ TODO presny cas+ link: Brene and Nagoski 48:58-49:01]
+  **...but I never got that message, because I was raised and educated in a constant, intensive hostile, competitive encironment, not in am environment, where people would love me unconditionaly. i was living in a constant worries and anxiety, which blocked the activation of parasympathetic mervous system, which blocked healing and digestion and many other thing, that further damaged my body and soul.* +
+  *the illness was inevitable.*
+  ** ich wurde zur Krankheit und Ausbrennung erzogen und ausgebildet. jetzt repariere und dämpfe ich die Schaden.
 * relaxed speed / entspannte Geschwindigkeit
 * easy effort / einfache Mühe
 * connection to feelings and needs also under the most painful circumstances / Verbindung mit Gefühlen und Bedürfnissen auch unter den schmerzhaftesten Umständen
@@ -1439,11 +1478,12 @@ link:https://en.wikipedia.org/wiki/Peter_principle#Summary[Peter Principle: Pete
       *** suicidal effects and contradictory nature of retributive justice
   ** James Gilligan - Violence: Our Deadly Epidemic and its Causes
   ** Carol Gilligan - The Birth of Pleasure
+  ** Thomas Szasz - Bücher: The Myth of the Mental Illness; Liberation by Oppression
+  ** Bruce Levine - Book: Resisting Illegitimate Authority
   ** Elizabeth M. Elliott - Security, with Care: Restorative Justice and Healthy Societies
   ** Elinor Ostrom - Book: Governing the Commons: The Evolution of Institutions for Collective Action; The Tragedy of the Commons research; Design Principles for Collective Managing of Shared Resources - Arguments for collective ownership, collective decision making, direct democracy, and their mix with private [land] ownership
     *** https://www.davidharvey.org/media/Harvey_on_the_Commons.pdf
   ** Bruce Lipton, Peter Spork - Epigenetics
-  ** Thomas Szasz - Bücher: The Myth of the Mental Illness; Liberation by Oppression
   ** John Cacioppo - Loneliness; Buch: Loneliness: Human Nature and the Need for Social Connection
   ** Rafah Harfoush - born in Syria, lives in Canada, teaches in Paris,France; Buch: Hustle and Float: Reclaim Your Creativity and Thrive in a World Obsessed with Work [similarity to Bethany Butzer]
   ** Brian Robertson - Holacracy [self-management system - transforming Superiority into Excellence - similarity to Daniel Markovits': link:https://www.youtube.com/watch?v=BLEvJUNfyBY&feature=youtu.be&t=592[Is Meritocracy a Sham? | Amanpour and Company - Difference between Excellence and Superiority: 9:52-11:32]]
@@ -1453,6 +1493,7 @@ link:https://en.wikipedia.org/wiki/Peter_principle#Summary[Peter Principle: Pete
     *** systemický prístup (systemic approach): Krátka terapia zameraná na riešenie (Steve de Sheizer); Naratívna systemická terapia (Epston)
   ** Robert Schleip - Fascia and its reactions to chemicals, emotions and movement
   ** Nassim Taleb, Chuck Marohn - Buch: Antifragile - Things that gain from disorder
+  
 
 == Questions
 
@@ -1614,9 +1655,28 @@ ako by som mohol premyslat, aby som ochranil svoj pokoj v dusi?
 
 ---
 
-* co mi brani prikst so prace, odkrutit si 8 hodin, ist zase naspat domov a robot to den, co den?
+* co mi brani prijs so prace, odkrutit si 8 hodin, ist zase naspat domov a robot to den, co den?
+
+---
+
 * ako sucasne systemy podporuju zdravy zivotny styl? [ekonomicky, politicky, kultura, spolocnost, vzdelanie, skolstvo atd.]
 * ako sucasne systemy podporuju prevenciu pred telesnymi chorobami, dusevnymi poruchami a psychosomatickymi ochoreniami?
+* kto je zodpovedný za prevenciu?
+* Who's responsibility is to teach processing of emotions?
+* Who's responsibility is to teach emotional intelligence and empathy?
+* wessen ist die verantwortung, uns zum kritischen Denken auszubilden? 
+* wessen ist die verantwortung, uns zur verantwortung auszubilden?
+
+---
+
+* preco sme si vytvorili ekonomiku, kulturu, spolocnost, systemy a metodiky, ktore preferuju vynimky, nie priemer?
+* preco, ked chce niekto zit zdravo a starat sa o svoje zdravie, neexistuje ina moznost, ako robit to na ukor druhych ludi a prostredia? to iste plati aj pre vzdelanie doma a v skolach.
+
+---
+
+* do you want to live in a world, where health is available mainly for the rich, educated or powerful?
+* do you want to live in a world, where health of the individual depends on his or her wealth, education or power?
+* do you want to live in a world, where people profit from suffering, illness, vulnerability of other people?
 
 === Connection Requests
 
@@ -1631,7 +1691,8 @@ link:https://www.youtube.com/watch?v=AJ-ctpWQkZA&feature=youtu.be&t=4216[Nonviol
 * What feeling do you have from it?
 * Did something like this already happen to you? - Had something like this already happened to you? / Hat dir etwas änliches schon mal passiert?
 * Can you tell me what you heard, so that I see that we understand each other?
-* How do you feel when you hear this? / How do you feel when you hear something like this?
+* How do you feel when you hear this? / How do you feel when you hear something like this? / Wie fühlst du dich, wenn du das hörst? / Ako sa cítiš, keď toto počuješ?
+* How do you feel, when I said this? Ako sa cítiš, keď ti toto hovorím?
 * Chcel by som porozumieť... [Júlia Šimeková - Systemický prístup]
 
  === Strategy Requests
@@ -1813,7 +1874,9 @@ link:https://www.amazon.com/gp/customer-reviews/R2DAAW85AQT7LG/ref=cm_cr_dp_d_rv
                                               2.) What needs was the perpetrator trying to meet? The needs may be the same as the needs that didn't get met. Or did get met at the cost of other needs. +
                                               3.) How is the perpetrator feeling after empathizing with the victim?
 | What the punishment will be? | What can we do to repair the harm? | *Searching for ways to meet everybody's needs that will be more effective and less costly.* +
-                                                                      1.) What can we do to fulfil these needs?
+                                                                      1.) What can we do to fulfil these needs? +
+                                                                      2.) What can we do to teach people responsibility and repair the relationship with other people?
+                                                                      3.) Ako vyvodiť zodpovednosť a napraviť škody?
 |===========================
 
 ** link:https://slideplayer.com/slide/6835782/[Building Positive Relationships Through Restorative Justice - Joan Packer]
@@ -2052,6 +2115,8 @@ This survey of antropologists lead me to three conclusions that I think are real
       **** *I'm not a victim of faith or circumstance.*
       **** *I can be in charge of my own life.*
       **** *I can take responsibility for my own life.*
+      **** *[World is a safe place. and when the world isn't a safe place, I can create my safe place, at least for myself for a while to heal and cope with difficult feelings with self-reflection and empathy for myself and others.]*
+      **** *[World is a safe place, and when it isn't, I can make it safe. at least for myself.]*
       **** There's actually a psychological test for clinical questionare that assesses the degree to which people have this internal locus of control. And no surprise, ever since the test was developed, around 1960, the scores on internal locus of control for school age children has been continuously going down. I'm convinced that this is because they're not allowed to take control of their own lives. They're always being controlled. They're always being told what to do. *This sense of ... responsibility for [our] own life. is way more important than the academic things that we learn in school. The academic things you learn in school are easy to learn once you have learned to take control of your own life.*
     *** *External Locus of Control*
       **** control by circumstances outside of the person
@@ -3034,12 +3099,206 @@ Sources:+
 * link:https://veganvanguardpodcast.com/37-could-capitalism-exist-without-patriarchy/[37. Could Capitalism Exist Without Patriarchy?]
   ** 11:11-19:05
   ** 42:42-45:37
+
+* link:https://s324.podbean.com/pb/02cc1171adb8f3774b51268b59fb145d/60b34cb5/data1/fs114/3520424/uploads/Podcast_TIMEA_KERESZT_NYIOV_MIX.mp3?pbss=3d595554-0501-5a30-ae0e-3623fc02ca07[Timea Keresztényiová: Mýtus (nielen) ženskej krásy]
+  ** 00H:08m:26s
+  ** 16m
+    *** 17 ročná broskynka :)
+  ** 00H:17m:15s
+    *** Veľmi túžime byť mladí, krásni, energickí naveky. [Aspoň po tom dominančné ideológie túžia. A potom ponúkajú všetko možné, stroje, krémiky, služby, len aby sme boli dokonalí, ideálni, perfektní.] Je prirodzené starnúť, slabnúť, ochabnúť, zomrieť. Niekde život začína, niekde končí. [Ale vytvorili sme si spoločnosť a kultúru, v ktorej uctievame dokonalosť, produktivitu, krásu, aj za cenu nášho zdravia a duševnej pohody.]
+    *** Sú krajiny [kultúry, komunity], kde sú viac zameraní na mladosť, sviežosť a výkon.
+    *** Niektorí ľudia sa hanbia za to, a vadí im, ako vyzerajú.
+  ** 00H:21m:03s
+    *** Rozmýšľam nad tým, ktoré ženy to priznajú, že 
+      **** áno, krása im pomáha
+      **** áno, krása im otvára dvere
+      **** áno, to ako vyzerajú, a že ich ľudia na základe toho berú inak, im zjednodušuje život?
+    *** [kolko programatorov a uspesnych ludi prizna, ze:]
+      **** ano, to ze som mal pokojnu domacnost, mi pomohlo lepsie sa sustredit na studium, mat pozitok z ucenia a podavat lepsie vykony
+      **** ano, to ze som mal kamarata vo vyssom rocniku, znameho alebo rodica programatora, mi pomohlo v studiu
+      **** ano, to ze som od malicka dostaval technicke vzdelanie, mi vyrazne prispelo k rychlejziemu porozumeniu technickych veci
+      **** ano, to ze som vyrastal v pokojnej domacnosti, kde mi nic nechybalo, a kde ma rodicia a ludia okolo podporovali a milovali bezpodmienecne, mi pomaha zachovavat pokoj v dusi aj v narocnych a vypätych situaciach.
+      **** ano, to ze som mal naplnene potreby po spolupatricbosti, mi pomaha zachovavat pokoj v dusi aj v narocnych a vypätych situaciach.
+      **** ano, to, ze som mal naplnene potreby po naklonnosti, jemnosti, citlivosti, neznosti, lasky, dotyku, dovere, sucite, a to ze som ma mozno k svojej priatelke alebo priatelovi tulil a objimali sme sa, mi pomohlo vyrovnat sa s vypätými situáciami.]
+    *** Podľna mňa, aj keď žena je krásna, neprizná si to. Ja vidím, že veľmi krásne ženy majú problém hovoriť o svojej kráse a priznať si ju. Z mojej skúsenosti, väčšinou veľmi krásne ženy majú problém hovoriť o svojej kráse. Tie najkrajšie ženy, ktoré ja z nášho šoubiznisu poznám, sa vôbec nevnímajú ako krásne, nie sú spokojné s tým, ako vyzerajú. Ja im hovorím, aká som nadšená z toho, keď vidím niečo pekné, a tie ženy sú v takom pomykove a hovoria "Ale nie. Pozrite, tu mám vrásku, tu mám faldu, nemám rada svoje lícne kosti, tu si chcem ešte niečo dopichnúť, tam predĺžiť, takúto diétu dodržiavať" a čo ja viem čo ešte... a pritom sú krásne aj bez make-upu.
+  ** 00H:23m:10s
+    *** Cybil Sheperd ako prvá žena konečne povedala v šou Oprah Winfrey, "Áno, moja krása, moj výzor mi zjednodušili život a boli mojim bonusom." Oprah bola úplne ohromená a šokovaná, lebo konečne nejaká žena úprimne priznala výhody svojej krásy.
+    *** Podľa mňa je tiež dôležité rozprávať o tom, čo sa deje, keď tá krása ustupuje, a vyrovnávať sa s tým.
+  ** 00H:25m:17s
+    *** Ak necháš vedomie svojej sebahodnoty založený na niečom, čo je krehké, čo vädne, mizne, rozpadáva sa, klesá, slabne, tak to skôr či neskôr človeka ničí [reference to Nagoski]. K čomu nás systémy, inštitúcie a ľudia okolo nás vychovávajú a vzdelávajú, a možno indoktrinujú, na čom by chceli, aby sme si my zakladali svoju sebahodnotu? Na čom chcem ja zakladať svoju sebahodnotu? Čo silnie časom, vekom? Súcit? Keď ho človek trénuje? Kritické myslenie?
+  ** 00H:30m:58s
+    *** "Ona je už taká vráskavá?!"
+    *** Byť úprimný sám k sebe. Na čo sa budem hrať, že to tak nie je, keď to tak naozaj je?
+    *** Prečo sa tak desíme dávať na titulky staršie (65+) ženy, ženy, ktoré majú viac vrások, výraznejšie vrásky, menej make-upu, možno aj žiaden... Prečo je tak neznesiteľné pre médiá, aby ukazovali starších ľudí, ľudí s vráskami, bez make-upu, aj na titulkách? Prečo sa médiá tak bránia rozlišovať a oddeľovať pozorovanie a posudzovanie?
+    *** *Pripadá mi to také, ako keby sme si hrýzli chvost, ako keby sme si protirečili. Chceme tam mať niekoho pekného, aj keď umelo pekného, aby to ľudia čítali, a teraz tam dáme niekoho bez úprav, bez make-upu, tak, ako vyzerá prirodzene, a ľudia si potom vlastne uvedomia, že takto to nechcú, a nebudú to čítať alebo pozerať?*
+  ** 00H:34m:14s
+    *** Veci krásy každý rieši, lebo je to príležitosť, pozrieť sa na našu smrteľnosť. To ako ustupuje naša krása a mladosť je pripomienkou toho, čo sa blíži, čo má oveľa hlbší zmysel v sebe: krása spirituality - "Prečo robím to, čo robím?" - než vonkajšia krása: krása tela, krása správania. Možno nás desí, že už nás ostatný nepríjmu, lebo sme starší, škaredší, alebo kvôli niečomu inému, čo nie celkom dokážeme ovplyvniť. Možno nás desí, že bude ťažšie napĺňať si našu potrebu po spolupatričnosti a náklonnosti.. Že ako budeme starnúť, tak nás postupne budú ľudia opúšťať. Až nakoniec skončíme osamelí.
+  ** 00H:36m:16s
+    *** Páči sa mi byť za 'peknú'.
+    *** Povedala som si pred pár rokmi, že budem k sebe láskavá. A je to veľmidôležité! Kto iný, ak nie človek sám, má byť k sebe láskavý. [Lenže to by sme museli byť vychovaní bezpodmienečnou láskou, nie touto indoktrináciou k súťaživosti, porovnávaniu, posudzovaniu a odsudzovaniu. Náš vnútorný učiteľ k nám hovorí rovnakým, možno neláskavým, hlasom, ako naši rodičia, spolužiaci, učitelia, kňazi, a ďalší ľudia a autority.]
+    *** *Drvivá väčšina žien, ktoré poznám, je so sebou nespokojná.* Keby sme sa bavili čisto o vzhľade.
+  ** 00H:38m:13s
+    *** "Som rada, že takto vyzerám, a cítim sa príjemne vo svojom tele." Ale toto vedomie má máloktorý človek.
+    *** Skôr sme vedení k porovnávaniu. Dievčatá a ženy si porovnávajú
+      **** ktorá má lepšie nohy,
+      **** či máš dosť malý zadok, alebo či ho nemáš až taký veľký,
+      **** máš ho vypuklý, alebo ho nemáš vypuklý,
+      **** takéto boky máš, alebo inaké boky máš
+      **** máš dosť veľké prsia, alebo nie
+    *** Ja mám veľmi jemné a krátke vlasy, preto som nikdy nevyzerala v tom ľudovom súbore ako ostatné s dlhým, hrubým vrkočom. Som štíhla, ale mám menšie prsia a nikdy som nevyzerala v tom kroji ako [ten fašistický-komunistický-kapitalistický dokonalý, perfektný ideál krásy] krv a mlieko [alebo skôr krv v mlieku - kto toto vymyslel?]. Veľmi intenzívne a ťažko som to prežívala. A boli samozrejme momenty, kedy chlapci, muži alebo ženy veľmi kruté, len kvôli tomu, ako som vyzerala. Asi po 40 nastal vo mne ten zlom, uvedomila som si svoj postoj ku kráse, a povedala som si, že mám byť za čo vďačná. A že moje telo stvorilo, vynosilo, a porodilo 3 zdravé deti. Som ohromená z toho, že to moje telo zvládlo. Že som zdravá. Mala som obdobie, kedy som bola v nemocnici, kedy to vyzeralo veľmi zle, a keď som sa vrátila domov bez diagnózy, ktorej som sa bála, tak som si vtedy povedala, že môžem byť naozaj za všetko, čo mám, vďačná. Vidím, cítim, mám dve ruky. Som taká pekná aká som. Mám takú pleť, také zuby, také vlasy... Toto uvedomenie ma veľmi oslobodilo.
+  ** 00H:45m:48s
+    *** Žena na titulke musia byť:
+      **** známe, významné
+      **** chudé, štíhle
+      **** krásne - podľa možnosti
+  ** 00H:48m:18s
+    *** Snažím sa nesúdiť podľa človeka podľa toho, ako jeho telo vyzerá, a odvodzovať môj vzťah k nim alebo ich hodnotu podľa ich tela alebo výzoru. Vonkajšia krása je rovnako dôležitá ako vnútorná krása - zdravie, spiritualita - tak ako všetky ostatné potreby sú rovnako dôležité, ako krása. Dotklo by sa ma, keby aj oni odvodzovali moju hodnotu od môjho vzhľadu alebo tela. Nie je to nebezpečné, aby sme prezentovali v médiách iba takých ľudí, ktorí nejakým spôsobom vyzerajú? Že reprezentujú nejaký ten dokonalý, perfektný, fetišizovaný ideál krásy, úspechu, produktivity...
+    *** Hlavne keď sa to na teba doslova vyvalí z toho Instagrame. Dnes, keď ja si pozriem, čo sleduje moja 14 ročná dcéra na tom instagrame, tam sa podľa mňa odohráva to skutočné nebezpečie. Vyfiltrované, ženy a dievČatá, ktoré dávajú jasný a 100% príklad toho, že ti stačí v živote iba vyzerať, aby si dosiahla karéru, peniaze, slávu, atď... To sú tí influenceri: plata ti za to, aké fotky dávaš. 
+  ** 00H:51m:29s
+    *** Súcit k žene, ktorá ti povie "Aha! Tuto, keď sa pozrieš! Vidíš? Tu mám celulitídu!"
+      **** Trápi ťa tvoj fyzický vzhľad? Chcela by si sa lepšie starať o svoje telo? Chceš, aby túto starostlivosť videli aj ostatní?
+  ** 00H:52m:34s
+    *** Aj muži sa chcú starať o svoju krásu. Niekedy tiež aj na úkor iných potrieb.
+  ** 00H:53m:43s
+    *** Podľa mňa ten tlak spoločnosti na mužov, aký musia byť výkonní, úspešní, musí byť aj pre nich nepríjemný až neznesiteľný. +
+    Rovnako ako tlak spoločnosti na ženy, aké musia byť krásne, musí byť pre ne nepríjemný až neznesiteľný. +
+    Rovnako ako tlak spoločnosti a inštitúcií na všetkých, akí musíme byť produktívni. +
+    Pritom by možno stačilo, keby sme mali vedomie, že stačí, že sa o seba samých a o seba navzájom staráme najlepšie, ako vieme, a že práve to je dosť dobré.
+    *** dva extrémy poznám
+      **** úspešný podnikateľ po pobyte v indii, a prestane mu záležať tak veľmi na materiálnom
+      **** chudnúci muž
+  ** 00H:56m:40s-00H:57m:48s
+    *** Prečo sa ženy, prispôsobujú mužom, alebo aj všeobecne, prečo sa ľudia prispôsobujú druhým ľuďom, aj keď je to na ich úkor, a robia tie veci proti svojej vôli?
+    *** Aby boli "dobré" partnerky a tak prejavovali lásku? Ako sebaobetovanie? Láska sa prejavuje úplne inak. Udržateľná, vzájomná láska sa prejavuje vzájomným sebanaplnením. Napĺňaním vlastných potrieb s ohľadom na partnera a druhých ľudí, a napĺňaním potrieb partnera a druhých s ohľadom na seba.
+  ** 00H:58m:43s
+    *** Nechodievajte do trojky. Najprv botox, a potom trojka... Ja som to s Demi Moore strašne precítila, dokázala som sa vcítiť do toho zúfalstva, keď tak strašne miluješ, viac ako ten druhý, a chceš byť ten dobrý partner alebo tá dobrá partnerka, že nielen že ideš kúpiť tie bataty a to všetko, ale si aj povieš, že aj toto by som mohla alebo mohol ešte urobiť, aby sme prejavili svoju lásku svojmu partnerovi alebo partnerke, aby sme ukázali, ako veľmi nám na tom druhom záleží. Že robíme veci aj na svoj úkor v nádeji, že nás ten druhý alebo tá druhá bude mať radšej. Kupujeme si svoju priazeň. Kupujeme si svoju cestu do neba. A zo všetkého toho zmätku, zúfalstva a bolesti zabúdame na svoje pohodlie a pokoj v duši. "Asi by som v istom veku robila to isté."
+  ** 00H:59m:43s-01H:03m:14s
+    *** bojime sa vychadzat zo svojej prirodzenosti a spontannosti, taki aki sme, aj ked sme ini, lebo chceme byt prijati ostatnymi ludmi, aj za cenu, ze sa budeme pretvarovat, lebo nam zalezi na dobrych vztahoch s druhymi ludmi, na ich spokojnosti a pohodli. ten strach z toho, ze nebudeme lubeni a prijaty taki, aki sme, aj ked sme ini, je to co nas robi vystresovanymi, ze nie sme taki pekni, taki posobivi, taki muzni, take zenske, ake by sme, podla nasho kulturneho treningu vzdelavanim a vychovou, mali byt. pretvarujeme sa, a robime veci v mene spolupatricnosti, naklonnosti a lasky, ktore by sme inak neurobili, lebo mozno tak trochu tusime, ze ti druhi nas maju radi podmienecne. Iba vtedy, ked rozpravame nejako, iba ked sa obliekame nejako, iba ked vyzerame nejako, iba ked robime nejake veci... Lebo aj nas mozno mali radi hlavne podmienecne: iba vtedy, ked sme boli blizko dokonalosti, idealu. Perfektni. Budte dokonali ako je dokonaly vas nebesky Otec, ze krestania? Aj takto krestania vychovavaju perfekcionistov. Cim blizsie sme k imaginarnemu vzoru dokonalosti boli, tym viac nas ostatni mali radi. Cim dalej sme od dokonalisti boli, tym viac sme boli vychovavani a vzdelavani, ze si zasluzime trest, a ze je v poriadku, ked si druhi ludia naplnaju svoje potreby na nas ukor. A potom si toto spravanie zvnutornime. Vzoprieme sa. Ked sme robili to, co od nas kazdy chcel, tak nas ludia mali radi. Az do chvile, kedy sme si zacali naplnat nase potreby na ukor druhych ludi, alebo ked sme nas ideal nezacali nanucovat osatnym ludom, lebo sme sa tak chceli starat o ich spokojnost a pohodlie Az kym neprideme na to, ze vlastne skodime sebe aj druhym. A pokial si sami neprejavime, alebo nam niekto neprejavi obrovsku mieru sucitu, empatie, tak ten stres a pocity viny, hanby a dalsich neprijemnych, bolestivych negativych emocii nas zozieraju, likviduju nase telo, nasu dusu, nasho ducha, nas rozum...
+    *** Empatia k výroku ženy: "Myslíš si, že keď schudnem, že už ma tí muži budú chcieť? Tak už ma budú ľúbiť?" Nádherná žena, 40+. Tej žene otec 
+  ** 01H:03m:14s
+    *** Ako deti, dcéry, ostatným ľuďom budeme šíriť posolstvo "Buďme k sebe vľúdnu a láskaví. Buďme k sebe vľúdne a láskavé."? Čo jej hovoríš?
+    *** Moja dcéra je mulatka, a to ju vyčleňuje zo spoločnosti ešte viac, pretože na Slovensku sme ešte stále úple rasisticky nastavená spoločnosť.
+    *** Hovorím jej, čo je hnusné, odporné neprirodzené na umelých, upravených fotkách na Instagrame, Facebooku, a pod. Si nádherná taká, aká si. To je práve tvoja výhoda do života. To čo máš v sebe namiešané, vďaka farbe svojej pleti. Máš v sebe niečo, čo iné ženy v sebe nemajú. Má prekrásne vlasy, pery, takú tú černošskú šľachovitosť v tej postave, oblé zadky. Jej stačí veľmi málo cvičiť a jej sa okamžite začnú rysovať svaly. My biele nemiešané sa nadrieme omnoho viac. Upriamujem ju na vďačnosť za jej krásu. Hovorievam jej, aby sa starala o svoje telo, pohybom a stravou.
+  ** 01H:06m:16s
+    *** Hovorím ženám "Buďte spokojné s tým, čo máte.", ale má to istú hranicu. Nad istú hranicu je to už o zdraví.
+    *** Jedna vec je, keď sa ti postava zmení po hormonálnych zmenách po pôrode, a druhá, keď sa nestaráš o svoje telo terapeutickým pohybom, stravou, vnímavosťou. Alebo tomu bránia traumy z minulosti, alebo nevedomosť, slabé vzdelanie o dôsledkoch spomenutých vecí.
+    *** Ak teda vychovávame deti k tomu, že sa potrebujeme starať o svoje telo a jeden o druhého, prispejeme tým k mieru a pokoju na tejto planéte. Pretože naše deti budú okrem stúpajúceho stresu z práce budú zažívať aj stres zo životného prostredia.
+    *** Normálna žena má podľa mňa konfekčnú veľkosť 38-42
+  ** 01H:09m:51s
+    *** Chcela by som, aby moja dcéra, a dievčatá a ženy, vnímala, ako sa oblieka. Neexistuje aby si si dala výstrih. Nevystavuj ho. Alebo obtiahnuté tielko a minisukňu. Oblieka sa tak maskulínne do takého hip-hoperského oblečenia.
+    *** Upozorňujem ju na to, že Instagram nám ukazuje svet absolútne pokrivených, vyretušovaných, fotografii dorobených dievčat. Má zákaz sa maľovať. Ukazujem jej, ktoré tváre sú dorobené, čo je hnusné na tých vyzväčšovaných ústach, 6D mihalniciach a tigrovaných nechtoch. Chýba mi tam prirodzenosť, autentickosť. Chýbajú mi tam nedokonalosti. Chýbajú mi tam chyby.
+  ** 01H:11m:30s
+    *** Keby chcela robiť modelku? Je to náročná robota. Fotenie v extrémnych podmienkach, skoré ranné vstávanie.
+    *** Tie baby sú múdre inteligentné, bystré, robia si dobré školy...
+    *** Predsudky voči pekným ženám už nie sú aktuálne. Tak, ako si pekná žena povie, že "Áno, krása je mojá výhoda.", tak my si sa zbavíme predsudkov voči krásnym ženám, alebo aj menej pekným ženám, a povieme si "Pekná žena musí byť nevyhnutne naivná a taká trochu primitívna." A keď sa vyskytne, že je aj krásna, a ešte aj múdra, tak jej bolo dopriate: mala šťastie, dobrú genetiku, starostlivých rodičov, pevné zdravie, ľudí, ktorí ju podporovali, viac príjemných zážitkov, než tých bolestivých.
+    *** Modeling je spôsob, ako si zarobiť
+  ** 01H:13m:17s
+    *** Téma "Matka samoživiteľka", "Osamelá matka", "Osamelý rodič". Dnes som písala TODO...
+  ** 01H:17m:04s
+  ** 01H:19m:03s-01H:22m:29s
+
+* link:https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2lwY2tvaG1tbS9mZWVkLnhtbA/episode/aXBja29obW1tLnBvZGJlYW4uY29tL2Y0ZDBhOGJkLWM4YWMtMzMzOC1hN2U0LWJhNGZmZDE4ODI2YQ?sa=X&ved=0CA0QkfYCahcKEwjQnpW8hbrwAhUAAAAAHQAAAAAQAQ[Keď slová ubližujú najviac. Ako tomu zabrániť? - Peter Kukliš - hmmm... | podcast psychologickej poradne IPčko.sk] [link:https://s303.podbean.com/pb/2b12f332fbea774e515f5d08540bf675/60b675ad/data1/fs191/4327048/uploads/HMMM_60_KUKLIS_FINAL_MIX_28022020.mp3?pbss=3a93aaad-a22e-53f5-b8b6-cabc4cec1010[original source]]
+  ** 43:40-45:39-46:46-49:25
+    *** Hoci nenásilná komunikácia je komplikovanejšia na vyjadrenie, ten čas sa mi vráti, pretože prioritizujem dobrý vzťah s druhým človekom, namiesto okamžitého riešenia problému. Hlavne, keď sa jedná o citlivé, dlhotrvajúce alebo intenzívne konflikty. Nenásilná komunikácia pomáha   rozdiskutovať veci a riešiť konflikty do hĺbky, čo síce trvá dlhšie, ale na druhej strane zyšuje pravdpodobnosť toho, že sa už konflikt na danú tému nebude opakovať - stane sa jednorázovým (v ideálnom svete).
+    *** Vedieť povedať tomu druhému viac o sebe vyžaduje viac slov, než napr. "Spomaľ!" - príkaz (niekedy v kritickej situácii funguje lepšie než obkecávanie.) Niekedy je lepšie povedať príkaz, niekedy je lepšie opísať hlbšie a presnejšie, ako na nás určité slová, veci a ľudia vplývajú. Ale ktoré sú to situácie, to už 
+  ** 45:39-46:45
+    *** Nevyzeráme potom slabí, keď pomenovávame emócie? Nemajú potom ľudia nepríjemné pocity, a že potom sú za slabochov? Napríklad manažéri, ktorí, keď sa zaĉnú takto komplikovane vyjadrovať, a ešte aj hovoriť o pocitoch... Nebránia sa ľudia nenásilnej komunikácii z tohto dôvodu?
+    *** Prejavovať a pomenovávať pocity môže v istých situáciách byť považovaný za prejav slabosti, napr. v patriarchálnych kultúrach alebo prostrediach. Viac sa stretávam viac s tým, že keď si dovolím byť zraniteľný pred inými ľuďmi, môže byť považované za prejav sily. *Zraniteľnosť je sila. Nachádzať odvahu, zraniteľne sa vyjadrovať, môže byť oslobodzujúce.* Môže to byť prejavom toho, že som už dosť dobrý, taký, aký som, a tak dávame odkaz aj ostatným, že je v poriadku byť zraniteľný.
+  ** 46:46-49:25
+    *** Neásilná komunikácia nemá limity :) [Ale najviac ju používam rozprávam sám so sebou v hlave. Je lepšie ju používať hlavne v kritických, napätých alebo smutných udalostiach.]
+    *** Ľudia sú inšpirovaný nenásilnou komunikáciou tak veľmi, že zakladajú škôlky a školy.
+    *** To, že dieťa nevie vyjadriť svoje pocity a potreby neznamená, že ich nemá, a že sa ich nepokúša vyjadriť. *To, že niečo nevidíme, alebo nevieme pomenovať, neznameá, že to neexistuje.* Čo rodičom často funguje je to, keď pomáhajú deťom prečítať ten pocit a tú potrebu za to dieťa, a tie povedať naspäť. "Aha, no tak, si unaveý a chcel by si si trochu pospať?" V podstate vyjadriť empatiu. Empatia urýchľuje nadväzovanie kontaktu s druhou stranou. Má to svoje úskalia a limity, napr. pri tínedžeroch. Ale viem, že sa dá používať nenásilná komunikácia a súcit v rôznych situáciách s rôznymi ľuďmi, a ľudia to riešia.
+  ** 49:26
+    *** Je dobré si nenásilnú komunikáciu opakovať a vracať sa k nej, lebo v pokojných podmienkas sa to robí možno ľahšie, ale v napätých situáciách a v zhone z každodenného života. 
+
+* link:https://www.youtube.com/watch?v=FelySkdUPBs[Rahaf Harfoush - Speakers Associates: Speakers Bureau]
+  ** 3:50-4:55 https://www.youtube.com/watch?v=FelySkdUPBs&t=230s
+    *** Notifications can be addictive. [but it can also turn to anxiety to notifications, to companie's chat and emails, when the messages aren't pleasant to read, the people are difficult to talk to and we have unpleasand, painful feelings when talking to specific people, or when specific people are present in the same room, floor, building.] The reason for that hypothesis is, that when your phone pings, rings or vibrates, your brain releases pleasure hormones - dopamine, oxytocine - because we like when people are interested in us, when they care for us, and when we can care for our social circle, for our community, for our friends. [in the anxiety the brain releases cortizol and adrenaline] Like Pavlov's dogs, we train ourselves, we seek out this constant cycle of stimulation. ... When this stimulation is constant and regular, we get used to it, and, eventually, get addicted to it. When we don't get this stimulation, we might feel unpleasant, nervous, because we broke this constant stream of information.
+    *** What's more, is that we've created a culture, where noone is bored. There's never a minute in a day, that you don't have an access to some form of content.
+  ** 4:55-5:31 https://www.youtube.com/watch?v=FelySkdUPBs&t=295s
+    *** We're living in an era of constant distractions. These distractions are impacting our abilities to focus, to concentrate, to create and be creative. *Because creativity requires space, time, destimulation, boredom, quiet.* I mention creativity specifically, and not innovation, because *you can't inovate without being creative.* While we're developing frameworks and methodologies for innovation, *many of them don't take into account our need for quiet uninterrupted time.*
+  ** 5:32- https://www.youtube.com/watch?v=FelySkdUPBs&t=332s
+    *** *What's worse, many of the tools we are using to help us work better, are specifically designed to be addictive, and to give us the false sense of urgency.* Social media has created an environment where everyone is reachable all the time. *This desire for immediate responsiveness is moving into organizations* into email culture, or internal network culture and chat culture like Yammer or Slack. But these platforms are giving us the opposite of what we need to work well. *Some of the most innovative tools actually get in the way of innovation.* +
+    *Is your technology supporting you [in your well-being, comfort, to enjoy your work more, to help you rest] or distracting you?*
+  ** 6:47- https://www.youtube.com/watch?v=FelySkdUPBs&t=407s
+    *** Now I want to talk about our *work culture*.
+    *** We have a very complicated relationship with work. To sum up a three-year research project that I did basically *we associate work with our identity, our status, our validation and our self-worth. [This is dangerous! To infer our self-worth off of something that misfades, detoriorates over time... so much violence directed toward an individual just because of economics and market - reference to Katarína Strýčková - Timea Keresztényiová].* Much of our contemporary work culture comes from *The American Dream™* which is this idea we're all familiar with it that +
+     +
+    *"If you work hard enough, you will be successful."* +
+    [we'll see now, how toxic, damaging, violent this idea really is...]
+     +
+    I know that we have an international audience which is why I still want to emphasize this point that, even though the American Dream is quite American, the core of this idea of The American Dream™ has been exported all over the world, because some of our biggest and most admired technology companies today are American. Think Google, Apple, Facebook, Amazon, Tesla, Microsoft... So globally our cultural standards of success have been influenced by the companies from USA by their performance and even by the habits of their CEOs, *because these CEOs are considered to be modern day work heroes.* *And there is a common theme that you will spot in how we talk about highly successful people in that we always focus on how much they work and how hard they work as a justification for their success [and the violence they're doing, as if "Sacrifice is inevitable and honorable! You must! I must!"].* +
+     +
+    The problem is that the American Dream has a dark side. What we often don't say, is what I call *The Shadow Dream®* and The Shadow Dream® is this: +
+     +
+    *If you believe that if you work really hard you'll be successful,* +
+    *then if for whatever reason you're not successful,* +
+    *you're going to believe that it's because you haven't worked hard enough.* +
+     +
+    And if you're not working hard enough then it means you just need to find a way to do it. [You'll start to think] you need to keep pushing harder, later nights, more emails, getting up early. That's why on social media you start seeing these hashtags #The5AMClub, #TheHustleHardClub, #TheTeamNeverSleeps [or rather #TheTeamNeverHeals ...] *Especially what so many people are finding themselves out of work or without much to do, they feel bad because they've internalized that somehow it's their fault and if they're not keeping busy then there working towards their success.* +
+     +
+    *[What's wrong with you?! You have to work! You have to work harder! Why are you so sensitive? You shouldn't be so sensitive! Do your job! We're not paying you for resting! There must be something wrong with you, when you're so sensitive, exhausted, sluggish! You're doing too much mistakes. You're not good enough! You're fired! We don't want you!]* +
+     +
+    *We have created a culture where any time that is not spent being productive or actively working is considered to be a waste.* *These are ideals that are constantly reinforced we always tell people about:*
+      **** *"Oh, here's how to get more done!"*
+      **** *"Here's another article about how to get more done."*
+    *** *What we don't say is that by constantly telling people that they need to get more done, we're always implying that what they're currently doing is not good enough.* +
+    *** *So what ends up happening on a cultural level is that we are creating a narrative in a society that celebrates over work.* This is why people brag about being busy, about being tired, about how much work they have and if you're suddenly not busy, well, of course you're gonna feel anxious and sad, *because we have linked busyness to productivity and productivity to success. [reference to Daniel Markovits - The Meritocracy Trap - LSE - How a meritocrat answers the question "How are you?". The right answer is "So busy!"].*
+    *** *[Just] like with distractions, overwork kills creativity. You cannot be creative if you're*
+      **** *distracted*
+      **** *exhausted*
+      **** *sleep-deprived*
+      **** or *stressed [have bad relationships and every-day conflicts in the workplace, the deadlines are enforced, you're feeling anxious when you go to work, when you're at work, you can't concentrate on work because of emotional or physical pain...],* +
+      *it just doesn't work.* This is our opportunity to stop being so busy. This pandemic has forced a lot of people to slow down, and that could be a good thing.
+  ** 9
+    *** *Overwork kills creativity.* You cannot be creative when you're stressed, overworked, exhausted, or constantly distracted from outside with _always urgent_ messages
+    *** *Needs support creativity. Creativity is effortless. [Yoram Mosenzon]*
+  ** 10:03
+    *** *Are you prioritizing recovery and rest? [Is the company aware of the importance of recovery, rest, mental well-being and good relationships among coworkers?]*
+    *** *Daydreaming, or letting our mind wander, is an essential brain function to becoming more creative. [DMN, PNS, nervus vagus, "The world is a safe place."]*
+    *** *How are you incorporating recovery [healing] into your workflow?*
+  ** 10:23
+    *** Continuous adaptation vs One-way transformation
+    *** We're never going to go back to 'normal'. We are going to get used to new 'normal' states.
+    *** *FOPA - Future-Oriented - Present-Acting: Is this getting us closer to our desired future state?*
+  ** 12:02
+    *** *We need to redefine the _innovation_ in a way that includes ethical, sustainable, inclusive and transparent technologies [management, pedagogy, development, parenting, politics, economics]* in order to avoid breaking democracy and privacy.
+  ** 12:35-13:53
+    *** *Are you willing to align your present with your future?*
+    *** *What kind of society we want to have?*
+    *** *Is this destination of 'success' or 'beauty' we've been running so hard and so fast for, still the one we want to get to?*
+    *** *If we're not insisting on ethical, sustainable, inclusive and transparent technologies, management, pedagogy, education, development, parenting, politics, economics, of the tools and methods that we're using today, then how can we expect ethical, sustainable, inclusive and transparent technologies, management, pedagogy, education, development, parenting, politics, economics to be implemented in the future?*
+    *** *Is that, what we're doing now, going to help us or hurt us in the future?* And the answer is "Both."
+    *** *Is that, what we're doing now, going to make the life more wonderful for as many people as possible? Or are ruining our lives as best as possible for as many people as possible?*
+    *** We have power to choose, what we invent, and whose inventions we support.
+
+* link:https://www.rtvs.sk/radio/archiv/11474/1501358[RTVS: Hosť sobotného Dobrého rána - Ľuboš Urban - artytmológ] [link:https://radio-arch-pp.stv.livebox.sk/a520/00/0025/002557/00255770-1.mp3[source stream]]
+  ** 14:45-17:37
+    *** zdravý životný štýl - prevencia [vágne - viď _Vzdelávanie_]
+    *** hlavný indikátor - vysoký krvný tlak
+    *** primárna prevencia a osveta je lacnejšia než liečba [lenže koho je zodpovednosť robiť osvetu o chorobách a ich prevencii?]
+    *** osobné príbehy ľudí s ochoreniami - ako ich prežívajú; aké na nich má alebo mala choroba následky, aj celoživotné
+  ** 30:03-32:38
+    *** Deti: Ľudia, ktorí nás budú živiť nasledujúce generácie. Aké deti chceme vychovávať? K čomu ich cheme vzdelávať? Berie výchova a vzdelávanie našich detí ohľad na ich potreby? Alebo si napĺňame naše potreby aj na ich úkor, lebo na to máme právo, lebo si to zaslúžia, lebo máme slobodu?
+    *** Akých ľudí si vychováme, takú spoločnosť budeme mať.
+
+* link:https://www.rtvs.sk/radio/archiv/11436/1568664[RTVS: Hosť sobotného Dobrého rána - Marián Brestič - profesor geológie] [link:https://radio-arch-pp.stv.livebox.sk/a520/00/0027/002747/00274773-1.mp3[source stream]]
+  ** 32:17-36:53
+    *** *Učitelia ma nadchli pre moje terajšie povolanie. Mal som veľmi dobrých profesorov na strednej škole.* Profesor Emil Miklášik. To bola mimoriadna osobnosť. Bol vynikajúci uĉiteľ. Prednášal ako na vysokej škole. Nechodil s klasifikačným hárkom. Nikto sa ho nebál. Každého vedel zaujať. Keď skúšal "len z hlavy - odpovedaj mi". A o týžeň zapisoval známky do klasifikačného hárku. Nám to bolo strašne sympatické. Vtiahol nás do svojho rozprávania. Mňa to úplne nadchlo. Nevedel som si vybrať inú cestu ako študovať biológiu. ... On nás previedol akoby filmom o nervovej, tráviacej sústavu. Bol to vynikajúci odborník. Predbehol svoju dobu.
+    *** "To, čo mi on povedal, mám uložené v emóciách." - Zabudol som na jeho detaily. Na jeho slová. Pamätám si na jeho výraz tváre. Na jeho zahľadenosť. ... Po približne 30 rokoch sme sa znovu stretli. Rozprávali sme sa o veciach, ktoré sú pre mňa pamätné. Rozprávali sme sa o emócii, o pozitívnej emócii, ktorá sa mi vrátila z tých jeho hodín, a ktorú mám dodnes. A rád na ňu spomínam. Od človeka, ktorý mi naozaj dal veľmi veľa, a ktorý mi dal životnú inšpiráciu.
+  ** 1:02:11-1:05:23
+    *** Vy učíte viacero predmetov [Vysoká škola poľnohospodárska v Nitre / Poľnohospodárska Univerzita v Nitre]: fyziológia rastlín, plodín a drevín, produkčná ekológia a klimatická zmena, stresová fyziológia rastlín. Študenti sa zapájali a prispievali svojimi postrehmi do mojej prednášky. To bol pre mňa doslova mystický zážitok. Nahradili sme _fyziológiu rastlín_ na programe _výživa ľudí_, predmetom _primárna produkcia a kvalita v podmienkach klimatickej zmeny_, pretože študenti na výžive ľudí nechcú počuť mechanizmy. Oni sa chcú dozvedieť niečo viacej. To, čo má pre nich zmysel. Sú to budúci menežéri a výživový poradcovia. Inžinieri a externí študenti reagovali podobne. Mnohí už mali vyštudované vysoké školy. Prednášky boli tvorivé. Študenti mali možnosť aktívne sa zapájať do tvorby prednášok. Prednášky neboli suché, len o mojom monológu. Ja sa spolu s nimi učím, že skutočne *teraz prichádza trochu iná generácia, ktorá sa chce učiť, nie definície, ale ktorá chce počuť použiteľné poznatky, a ktorá si chce potvrdiť na tých prednáškach, to čo čítajú, to v čom majú možno zmätok z médií a časopisov. Pretože dovtedy sa ešte nezačítali do vedeckej alebo odbornej literatúry.*
+  ** 1:31:19-1:33:53
+    *** ... od 5 ráno do 7 sme s Číňanmi cvičili tai-chi, naraňajkovali sme sa a utekali sme do práce, kde sme boli do 10 večer. Veľmi intenzívne sa tam žije. *Ten intenzívny život ma tam akosi nikdy neubíjal. Stačilo mi tam spať minimum a mal som toľko energie, ako keby som spal 10 hodín. ... Tí ľudia robia radi. To ich poháňa dopredu. Sú dobre vybavení. Štát významne podporuje výskum. Snažia sa robiť zmysluplný výskum.*
+  ** 1:33:53-1:36:35
+    *** Urobil som tam aj pokus na rastlinách. Nechali sme na géloch naklíčiť rôzne rastliny, ktoré sme vystavili sme rôznym toxickým látkam. ... Experimenty, ktoré sme robili v Číne ukázali, že rastliny dokážu rásť koreňmi hore a listami dolu. Jedovaté látky rozladili hormonálny systém v rastline, zmenila sa polarita v rastlinách, a to sa v prírode môže aj stať. Ak budeme mať zneĉistené prostredie určitými toxickými látkami, môžme poškodiť prírodu takýmto spôsobom. ... Je to hrozné, že nejakými vonkajšími priemyselými časticami, dokážeme takto poškodiť fyziológiu rastlín.
+    *** Potrebujeme pre ochranu a zotavenie prírody urobiť oveľa viac, ako robíme. Začať hneď. A sám od seba. Nepomôžu žiadne triky typu "vytvoríme skupinu a budeme veliť". Zmena začína naozaj vonútri. Alebo teda aj skupinovo, ale vovnútri. *Keď zmeny prichádzajú zvonka, tak to neveští nič dobré.*
   
-* Dr. Valerie Baker also says this is because there is such a limited range of emotional expression that we are allowed under patriarchy. Men are allowed to express anger and aggression. They are not allowed to express grief, nurturing, being tender or vulnerable emotions. [Just look to any academic institution.] [When men do express emotions, they are categorized as gay, pussy; sensitivity is seen as a weakness.] Women, on the other hand, are not allowed to express anger. We can express nurturing and vulnerability. But expressing grief is also not okay. link:https://www.learntruehealth.com/patriarchy-stress-disorder/[Patriarchy Stress Disorder]
+* Dr. Valerie Baker also says this is because there is such a limited range of emotional expression that we are allowed under patriarchy. Men are allowed to express anger and aggression. They are not allowed to express grief, nurturing, being tender or vulnerable emotions. [Just look to any academic institution.] [When men do express emotions, they are categorized as gay, faggot, pussy; sensitivity is seen as a weakness.] Women, on the other hand, are not allowed to express anger. We can express nurturing and vulnerability. But expressing grief is also not okay. link:https://www.learntruehealth.com/patriarchy-stress-disorder/[Patriarchy Stress Disorder]
 
 * link:https://www.youtube.com/watch?v=AhOcwhwumP4[Mark Fisher on why Modern Life causes Depression]
   ** 0:25-1:15 https://www.youtube.com/watch?v=AhOcwhwumP4&feature=youtu.be&t=25
-    *** [The people I feel very uncomfortable with are] the very high earners who propagate all this stuff to keep us in a state of panic anxiety ... and radical competitive individualism, so we can't act togehter ... The big lie that's been sold to us by neoliberalism is that "if you withdraw security from people, the ... social security, and suddenly [and enormous amout] of creativity will just emerge." ... *All that happens if you remove security from people, is that they get like I was when I was self-employed. All of that creative energy goes into "How can I make money?"* That's the energy of the society. That's the stupid thing for people to have to think about a lot of the time. 
+    *** [The people I feel very uncomfortable with are] the very high earners who propagate all this stuff to keep us in a state of panic anxiety ... and radical competitive individualism, so we can't act togehter ... The big lie that's been sold to us by neoliberalism is that "if you withdraw security from people, the ... social security, and suddenly [an enormous amout] of creativity will just emerge." ... *All that happens if you remove security from people, is that they get like I was when I was self-employed. All of that creative energy goes into "How can I make money?"* That's the energy of the society. That's the stupid thing for people to have to think about a lot of the time. 
   ** 1:37-1:54
     *** *But don't expect to also admire you, and that you'd be the model for everybody else all the time. We shouldn't be worried about making money all every waking hour of our days. That's the depressing ... reality that has been artificially imposed on us, and we can break out of that.* 
   ** 1:54-2:45
@@ -3308,6 +3567,9 @@ That turns out to be the difference between marriages that are happy and marriag
     *** *This idea that the psychiatrist should be responsible for the patients in a way that no other doctor is, also opens them up to other responsibilities.* [which might endager them, therefore maybe they commit these atrocities] [violation of the Single Responsibility Principle - SOLID principles; NVC - Responsibility: my responsibility, responsibility of other people, obedience vs. responsibility (Atelier communication non violente - Marshall Rosenberg - Danemark); parent's responsibility for a child].
     *** Medicalization of Everyday Life - a book by Thomas Szasz
       **** medicalization of obesity, anorexia, internet addiction, ... These are now the new diseases? The new 'Drapetomania'? Religion, coersion, everything mixed up? Separation of power between church and state. These are all interlapping issues. Around the issue of coersion. That is always the cutting edge.
+
+* link:[Interview with Bruce Levine]
+  ** ...
       
 * link:https://veganvanguardpodcast.com/47-social-emotional-learning-sel-for-socialism-and-animal-liberation-with-pierce-delahunt/[47. Social Emotional Learning (SEL) for Socialism and Animal Liberation with Pierce Delahunt]
   ** 25:30-25:58
@@ -3895,7 +4157,7 @@ Mahatma Ghandi
   ** Think about how people used to consume newspapers. You have a beginning and an end, you read the newspaper, once you are finished, you are completely educated or you're reasonably educated about how the world was working. Same goes for watching the evening news.
   ** *What we have here is we have decades of an education philosophy that has taught us to engage with information in this way. But now the information ecosystem is very different we have moved from a limited and fixed end ecosystem, so one where it was very easy to tell where to begin and where to end, to a thriving infinite ecosystem that's unlimited and open-ended.*
   ** If you've ever tried to read an article online you're familiar with this process where you read the article, and then you click the link, and then you go to another article, and then a blog post, and then maybe a video, and then a tweet, and then a forum discussion from five years ago, and then another article, and essentially there is no end point, but even though rationally we know this we have been conditioned over decades to always still be seeking that exit point. To seek that end point. 
-  ** This becomes a bit challenging because with the advent of our devices we're constantly also being distracted with all of this influx of information and so what happens is we feel this pressure to get to the end to know everything to achieve mastery and instead we just get confused and distracted. *This is dangerous because most people's response to overwhelm is to throw their hands up and say: "You know what? I'm just gonna stick with what's comfortable. I'm just gonna stick with what I know." This is a very important behavior to understand that our psychological stress our "race to _inbox zero_", our "race to try _to read everything_ and _keep on top of everything_" is the behavior that has been taught to us for many many years.*
+  ** This becomes a bit challenging because with the advent of our devices we're constantly also being distracted with all of this influx of information and so what happens is we feel this pressure to get to the end to know everything to achieve mastery and instead we just get confused and distracted. *This is dangerous because most people's response to overwhelm is to throw their hands up and say: "You know what? I'm just gonna stick with what's comfortable. I'm just gonna stick with what I know. [I'm going back to violence. Because violence is the only thing that I know, that I've been, and I'm still being educated to every day.]" This is a very important behavior to understand that our psychological stress our "race to _inbox zero_", our "race to try _to read everything_ and _keep on top of everything_" is the behavior that has been taught to us for many many years.*
   ** *What we need to do instead and culturally, we need to start teaching this in schools and training and organizations, is we need to develop a state of what I call _informational Zen_.* I'm gonna give you guys a little secret which is: +
      +
     *It's never going to be possible to learn everything and to read everything, and that's okay.* +
@@ -5219,6 +5481,7 @@ Wie hängen diese Beschwerden zusammen?
 * objectification of women
 * toxic masculinity
 * male gaze
+* sexual predatorism / sexualny predatorizmus - filmopolis - radio fm 31.5.2021 22:35-27:06 - nadejna mlada zena
 * religious violence
 
 === Burnout
@@ -5321,12 +5584,185 @@ Ultimately, organisations should not lose sight of the largest piece in the puzz
 
 ---
 
-"Liekom na vyhorenie nemôže byť len starostlivosť k sebe. Je tiež potrebné, aby sme sa všetci starali aj trochu viac jeden o druhého." Emily a Amelia Nagosky +
+"Liekom na vyhorenie nemôže byť len starostlivosť k sebe. Je tiež potrebné, aby sme sa všetci starali aj trochu viac jeden o druhého." Emily a Amelia Nagoski +
+The cure is not “self-care.” The cure is simply care — all of us, caring for each other, by honoring our differences and loving one another because of them. +
+And it turned out the answer to our exhaustion was not “self-care” or revolution, but all of us caring for each other.
+link:https://enagoski.medium.com/burnout-you-dont-have-to-wait-for-the-revolution-to-feel-better-cb278867aebc[Burnout: You Don’t Have to Wait for the Revolution, to Feel Better
+] +
+link:https://www.powells.com/post/original-essays/the-answer-is-not-selfcare[The Answer Is Not Self-Care [or rather *not only* self-care]] +
 link:https://www.findhealthclinics.com/SK/Bratislava/809461452533331/Mindful---poradenstvo-a-tr%C3%A9ningy-v%C5%A1%C3%ADmavosti[Dare to Lead with Brené Brown: Mindful - poradenstvo a tréningy všímavosti] +
-link:https://duckduckgo.com/?q=psychologicka+ambulancia+%22sucit%22&ia=web[psychologicka ambulancia "sucit" - DuckDuckGo]
+link:https://duckduckgo.com/?q=psychologicka+ambulancia+%22sucit%22&ia=web[psychologicka ambulancia "sucit" - DuckDuckGo] +
+link:https://www.google.com/search?q=cure+for+burnout+can%27t+be+just+care+for+oneself+its+necessary+tha+we+all+care+about+each+other&sxsrf=ALeKk03-0CJqO67Lhi7zhE7OovknFaNbBg%3A1620384008111&ei=CBmVYOecBr_-7_UPtKC_mA4&oq=cure+for+burnout+can%27t+be+just+care+for+oneself+its+necessary+tha+we+all+care+about+each+other&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsANQ4KQBWOCkAWCr5wFoAXABeACAAW-IAcsBkgEDMS4xmAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&sclient=gws-wiz&ved=0ahUKEwjnwM_psLfwAhU__7sIHTTQD-MQ4dUDCA4&uact=5[google search results]
 
+---
 
+* link:https://open.spotify.com/episode/6L48OhNvYeIlv7Tir3yij0?go=1&utm_source=embed_v3&t=0&nd=1[Brené with Emily and Amelia Nagoski on Burnout and How to Complete the Stress Cycle] [or rather, how to cope with unpleasant emotions and heal yourself with empathy] [link:https://brenebrown.com/podcast/brene-with-emily-and-amelia-nagoski-on-burnout-and-how-to-complete-the-stress-cycle/[1]]
+  ** Book "Burnout: The Secret to Unlocking the Stress Cycle"
+  ** 2:59
+  ** 5:55
+    *** "This book says that *feelings exist in your body.*"
+  ** 8:13
+    *** Herbert Freudenberger - definition of burnout:
+      . Emotional exhaustion
+        **** The fatigue of caring too much for too long.
+      . Decreased sense of accomplishment
+        **** Futility. Consciousness that nothing you do makes any difference.
+      . Depersonalization
+        **** Depletion of empathy and caring.
+    *** especially women are endangered from burnout: worring about getting sick, worrying about anybody else getting sick, vicarious traumatization, caring for family, working, caring for the household, doing housework, taking care for themselves, planning
+  ** 11:43-17:12
+    *** *What is an emotion?*
+      **** *Emotions are involuntary, neurological cycles [we may feel the same emotions over and over again with the same or different stimuli] or events, happening in the entire nervous system in the body.*
+      **** Emotion is a neurobiological response to external or internal stimuli. They have a beginning, a middle and [hopefully] an end.
+      **** Emotions are tunnels. The natural way to process emotions is to get all the way through them. [They will fade eventually. The better we can process them, the sooner lose their intensity and power over us. Processing means giving empathy to yourself and to others. (reference to NVC)]
+    *** *"Just about every system in your body responds to the chemical and electrical cascade activated by your emotion. Emotion is automatic, instantaneous. It happens everywhere [in your body] and affetcs everything [in your body]."*
+    *** We are cognitive, rational beings that on occasion feel. +
+    *We are emotional being that on occasion thing.*
+    *** *Emotions are tunnels. If you get all the way through them, you get the light at the end. Exhaustion happens when we get stuck in an emotion.*
+    *** We may get stuck simply because we are constantly being exposed to situation that activate emotion. ... We are trapped. When we return to a stressful job every single day. ... Sometimes we get stuck because we can't find our way through. The most difficult feelings [all the alarm feelings], rage, grief, despair, helplessness, shame, may be too tretcherous to move through alone. We get lost, and need someone's loving presence to find our way through [or to give us the empathy we need so desperately by ourselves]. Many of us are trapped in this way, because of a problem we call *human giver syndrome (desire to save humanity and everyone in the world - what a gift of that much of intense caring for the well-being of others - let's also give other people the opportunity to feel the same joy from giving that I'm feeling. Let's let other people to give to me.) - [link:https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2lwY2tvaG1tbS9mZWVkLnhtbA/episode/aXBja29obW1tLnBvZGJlYW4uY29tL2JmZGJlZTY4LThkZjEtMzNiYi05NWNhLWVkZTdiMDFmZmJiNg?sa=X&ved=0CAUQkfYCahcKEwjA6d_LibfwAhUAAAAAHQAAAAAQAQ[syndróm vyhovenia (hmmm - Bez nej zle, v nej ešte horšie. Ako zvládnuť stratu práce a vyhorenie? - Matúš Bakyta - 23:13-24:20)]]*.
+    *** *Exhaustion happens when we get stuck in an emotion.* [We don't know how to process, accept, transform and learn from our difficult, unpleasant, painful emotions. We don't have the abilities or conditions to process our psychological pain in a consistent, reliable way. We are enslaved to our emotion and culturally learned beliefs, that had been, and still are being pushed to our heads all the time. Nobody teaches how to process psychological pain. Who's responsibility is to teach processing of emotions? Who's responsibility is to teach emotional intelligence and empathy?]
+    *** A lot of us are taught to believe that if we fix the problem that caused the stress or the emotion, then we will have dealt with the emotion itself. It turns out [that this is not the case]. There is a disconnect in a world we live in now between the stimuli, problems, stressors and feelings. When you deal with the problem, when you solve a problem, there is an emotion, a feeling associated with it. First we deal with the problem. Then we deal with the feelings, that had been stimulated. [And the most effective way I've learned, and am still learning, to process feelings, is to give empathy to oneself and to other people.] *Processing our feelings is a separate step from the dealing with the issue that activated or stimulated that feeling in our body.*
+    *** *A lot of us are tought to believe other people's opinions about our bodies more, than we believe what our bodies themselves are trying to say to us. [which has catastrophic, devastating impacts on our happiness, well-being, quality of life, satisfaction, peace of soul,...]* Phrases and beliefs that support the belief *that other people's opinions are more important than mindfulness of our own body*:
+      **** *"Well, you dealt with the issue, so you should be done feeling right now. So, why do you still have all these feelings?! We don't want to hear about your feelings anymore! Your feelings should be done, because the situation is done! So let it go! We are so tired of hearing about your feelings!"* +
+      [But I can't let it go. I don't know how. I never did. The feelings of others matter to me a lot. My feelings matter to me. The feelings and images keep returning and affect my well-being and happinness in the present so intensly, that I'm unable to function, until I start processing my feelings and give myself empathy.]
+    *** What internally resonates, that further support the belief that *other people's opinions are more important than mindfulness of our own body*
+      **** I must behave myself emotionaly, so that I don't interfere with anyone else's well-being. And so I am now ... officialy done with my feelings. And you smile, and you shub the feeling down into some organ system. I don't know which one. And the feeling gradually weakens your body, your immune system, your digestive system, your brain, your internal organs, your muscles and fascia, your energy, your power,... until you get so sick that even doctors can't figure out, what is going on within you. [That's how psychosomatic diseases emerge.]
+    *** Sometimes, maybe hiding our emotions and shubbing them down when a stressing stimuli are present is a strategy that preserves our integrity and safety. But after the stressing stimuli are gone, we need to process our emotions in order to take from the stressors our power, safety, health, freedom. [Processing = Empathy]
+  ** 18:47-19:24
+    *** *It's a moral obligation of all of us to be at all times pretty, happy, calm, generous, attentive to the needs of others, obedient to the authorities, in order to be nice, dead people, good citizens, good fathers, good mothers, good men, good women, good kids, good believer, good husbands, good wives, good employees, good friends... even at our own cost.* +
+    *And if we at any time fail in our moral obligation, then we deserve to be punished.* +
+    *If there is noone around to punish us, we would just punish ourselves because of our mistakes.*
+  ** 19:42-20:11
+    *** women are trained to care more about what other people say to them and to care more about other people's well-being that their own, even at the cost of their well-being [Marshall B.Rosenberg - women's cultural training]
+    *** feminine cultural norms
+      **** nice - smile; take care of other people
+      **** quiet
+      **** spending all resources on appearance
+    *** [men have complementary training - be hard, loud, selfish and spend all resources on symbols of power]
+  ** 21:36
+    *** *Emotions affect everything we do, all the time.* [yes, because when a need is or isn't getting met, it gives out a power, an energy in the form of a feeling.]
+  ** 21:56-23:04
+    *** *What happens when we get stuck in an emotion?* What happens if we repeatedly have feelings that we don't know how to process? What happens if difficult feelings keep returning over and over again and we don't have the consciousness, that how important empathy is for healing, we don't know, how to show ourselves empathy, we can't show ourselves empathy, or when we don't have anyone who would give us empathy?
+    *** *You end up in a hospital, like Amelia.* The reason why that happens is that feelings affect our body so strongly. Feelings, emotions are enormously powerful. They contribute to the fullfilment of our needs, or they may paralyze us. Or we may do something that does fulfill our needs, but for an enourmous cost of other needs. Take for example the effects of emotional stress on our cardiovascular system. Our heart and blood vessels are designed for our natural blood pressure. But when we have stress, sympathetic nervous system kicks in immediatly and strongly. Blood pressure rises, heart rate rises, we can't think clearly, we are nervous, anxious, worrying, frustrated ready to scream and shout, attack, rage... Our cardiovascular system is designed to sustain this amount of elevated blood flow with hormones chemical coctail for approximately 10 minutes on averatge, without life-threatening or life-long consequences. When these states come every day, multiple times a day, for hours, days, weeks, months, years, and we're unable to process it and nobody is willing to help us empathize with our pain, then it causes more and more damage in our blood vessels and weakens their inner lining. Worst case scenario - trombus, which leads to myocard infarction or brain hemmorage. That's how stress contributes to heart diseases.
+    *** Further damages: entocrine system - hormones; digestive system - nervus vagus can't be stimulated, because we're in a constant state of danger - "World is a dangerous place and I have to be aware at all times to protect myself from that danger." - Parasympathetic nervous system (PNS) gets never properly stimulated, which the digestive system needs in order to digest food, absorb nutriets and cares for peristaltics - proper bowel movement: direction and speed - no reflux, no constipation, no diarhea, no bloating, no cramps. That's how stress causes IBS - Irritable bowel syndrome.
+  ** 23:28-24
+    *** stressor = stimulus
+    *** stress = emotion, feeling
+    *** unfulfilled needs = root
+    *** thinking about our unfulfilled needs = cause
+    *** strategy = request; "Please."
+  ** 25:31-26:37
+    *** Removing external stimuli (people, noisy or disturbing environment), does not mean we processed the feelings stimulated by the stimuli. But after removing the external stimuli we have the opportunity to deal with the difficult and painful feelings separately and do our self-reflection and empathy [maybe in a calmer environment, with NVC, restorative justice by NVC, self-empathy]. Removing the external stimuli may help us to find a calmer environment to processed unpleasant, difficult, painful emotions.
+    *** *You don't have to wait for all the external, or internal stimuli to go away before you can start to process your feelings and the feelings of others (theoretically, yes. that's the ideal. processing difficult and painful emotions in real-time)*
+    *** Even when the external stimuli go away (people around whom we feel unpleasant, noisy or disturbing environment), we still need to process the difficult, painful emotion [which manifest in our entire body and affect our entire body], because when we don't process our emotions and do our self-reflection and give empathy to ourselves and to others. Otherwise we collapse, we get more and more tired until exhaustion, and eventually, we burn out.
+  ** 27:04-27:49
+    *** Ask yourself: *"What can I do that would make my life more wonderful? What can other people do, in order to give me a message that the world is a safe place?"* This activates prefrontal cortex, DMN (Default Mode Network). Then the parasympathetic nervous system gradually increases its activity, symathetic nervous system slows down, we start to relax and the body starts to heal. +
+     +
+    *When we don't or can't process our painful feelings, the feelings stay in our body (stomach, bowel, heart, head,...) with neurochemicals and hormones degrading our body. The symphatetic nervous system gets stuck activated, the parasympathetic nervous system is blocked by our feelings, we don't enter in the relaxation state. Your digestive system, immune system, cardiovascular system, musculosceletal system and reproductive system never get the signal that you're safe.*
+    *** *Every feeling manifests itself in our body.* That's the internal body language. The mindfulness. (Not the external bullshit of "crossed arms", "crossed legs", etc.)
+    *** *Body and emotion are one. There isn't one without the other. They're always together, whether we're conscious of it, or not.*
+  ** 27:49-28:50
+    *** Especially when it comes to illness and stress, there's an extra layer of complexity. Your central nervous system only has a limited amount of bandwidth. If you're super stressed, there is a lot of noise in your brain and spine. Systems of your body communicates to you through your nervous system via symptoms. [That's where mindfulness and empathy tries to understand the meaning of these messages and internal sensations.] Symptoms include headaches, exhaustion, pain and burning in the eyes, etc. +
+    *** *[The better and faster we can process our difficult and painful emotions, the more capacity we have for rational thinking, because we can better utilize our rational, congitive abilities, we see more context more clearly.* +
+     +
+    *The better we can process our difficult and painful emotions, the better for our brain and for our entire body.]* +
+     +
+    *Knowing, how to process our unpleasant, difficult, painful, negative emotions, and to have a supportive environment that recognizes the importance of peace of soul, is more efficient, because we can more efficiently use our rational, cognitive capacity.* +
+     +
+    *pocity nielen ze otvaraju cestu kognicii, rozumu, premyslaniu, ale aj fyzickej sile, vitalite [pretoze ovplyvnuju kazdu bunku v celom tele cez hormony a dalsie chemicke latky].* +
+    *nespracovane neprijemne, negativne, narocne, bolestive pocity nam brania rozmyslat. ked sa tieto pocity stale opakuju, a su pritomne viac nez prijemne pocity, prispieva to k nasmu vyhoreniu. cim lepsie vie clovek spracovat svoje neprijemne, narocne, bolestive, negativne pocity, tie pocity, ktore mame, ked nase potreby nie su naplnene, tym viac fyzickej sily a vitality clovek ma, pretoze ma menej prekazok, menej veci ho vycerpava, vie sa rychlejsie emocionalne zotavit, co prispieva ku fyzickemu, k telesnemu zotaveniu.*
+  ** 28:50-29:24
+    *** The feelings weaken and damage us faster that the external stimuli. Unless we do our self-reflection and give empathy to us and to the external stimuli - to other people, to institutions, to politics, to meritocrats, to academy, to authorities, to past and present traumatizing events...
+    *** We need to have the resources, internal - our abilities, and external - the environment, in order to process our unpleasant, difficult, painful, negative feelings. [reference to Doug Newburg - Resonance Performance Model (RPM)]
+    *** Why we get stuck?
+    *** We get stuck, because we're educated to listen to other people's opinions about us more that to our bodies. We're constantly giving our power away to other people. The same power that would move us out of the stuck emotional place, out of the difficult feelings, to a more calmer, safer feelings. The power we need to show empathy to ourselves and others. The empathy we need to heal.
+  ** 36:10-38:55
+    *** There is a _fight-flight-freeze_ hierarchy, a social ranking system, when we are educated that fight is better [maybe from all that violent action movies, I wonder...]. If you can't fight well, at least you can flee. If you freeze [or don't say anything and stay quiet], that means that you're weak and failed. All three strategies are morally neutral. All of them are strategies to save our lives, to help us survive. ... But the shame associated with flight and, especially, freeze, keeps us from recovering from trauma, because they hadn't had, or even now don't have a supportive environment and the abilities, to do the self-reflection and give empathy to themselves and to the external stimuli that stimulated these painful feelings.
+    *** This is the myth: "The tough folks fight, then they run, but only the weak people freeze."
+    *** This is the idea, with which I wrote the book +
+     +
+    *This is what happens in your body.* +
+    *And these are the cultural, systemic and structural barriers that keeps us from using that information.* +
+    *So, let's make sure we talk about the cultural, systemic and structural barriers first, so that the people can be conscious of them and be conscious of the consequences and power these barriers can have over us.*
+    *** Why we don't know this? Nobody knows this. We don't teach people essential skills for surviving, for living, and living well. [reference to Manfred Max-Neef - Summit]
+    *** It's okay to not know. Show kindness, compassion, empathy, to yourself and others. Do the self-reflection by the empathy by NVC and restorative justice by NVC (Nonviolent Communication). Even though it might be painful, exhausting and take months or years. We know, why we do it.
+  ** 38:19-49:55-50:24
+    *** What are the possible ways to process our unpleasant, difficult, painful, negative feelings?
+      **** Therapeutic, rehabilitative, physical activity - yoga, pilates
+      **** Breathing: at least 5 seconds inhale, at least 5 seconds exhale that is as long or longer that the inhale
+      **** Positive social interaction - to reprogramm, to retrain our emotional understanding, our experiencing of other people and the environment, in order to get the message "The world is a safe place. The people love me unconditionally."
+      **** Creative expression - imagination, hypothetical thinkin [Peter Gray - Self-Directed Education (SDE)]; imagining a situation, experiencing it in your mind and body, thinking about stimuli, feelings, needs, requests, what iritates me? what I would like to say differently? What is important for me? What the other person could say, to send me the message that the world is a safe place, and that my needs matter to him, or her equally, as his or her needs.
+  ** 50:45-
+    *** How do we know that we completed the cycle?
+    *** 
+  ** 55:04
 
+---
+
+* link:https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2lwY2tvaG1tbS9mZWVkLnhtbA/episode/aXBja29obW1tLnBvZGJlYW4uY29tL2JmZGJlZTY4LThkZjEtMzNiYi05NWNhLWVkZTdiMDFmZmJiNg?sa=X&ved=0CAUQkfYCahcKEwjA6d_LibfwAhUAAAAAHQAAAAAQAQ[hmmm - Bez nej zle, v nej ešte horšie. Ako zvládnuť stratu práce a vyhorenie? - Matúš Bakyta] [link:https://mcdn.podbean.com/mf/web/24ycvz/HMMM_61_BAKYTA_FINAL_MIX_10032021.mp3[original source]]
+  ** 1:38 - Čo je práca? *Práca je* podľa mňa nejaký *výkon, ktorý podávam, zároveň ma baví [napĺňa moje potreby, tvorivo sa realizujem], a zároveň je to aj príjem.*. 
+  ** 2 - Práca je automaticky spojená s utrpením. Intelektuálnych / Duševných povolaní pribúda [aj tých bullshit jobs, však David Graeber? :/ ]. Práve ľudia v týchto povolaniach sú náchylnejší na vyhorenie. ["Modli sa a pracuj!", "Práca šľachtí.", "Dokážeš, keď si myslíš, že dokážeš!" funguje iba u fyzickej práce (v továrni, v bani), nie u mentálnej. Staré rady nefungujú, škodia. Aktualizujeme...]
+  ** 3:45 - *Presvedčenie, že "Pravá práca je len taká, kde sa človek fyzicky namáha, potí. Intelektuálna, mentálna, duševná práca nie je práca."* 
+  ** 4:23 - *Chcel by som, aby sa ľudia spájali s tým, čo je ich pravá podstata. Čo ich baví. Čo ich vyživuje. Aby tá voľnočasová aktivita z detstva sa stala prácou. Aby sme sa čo najmenej museli nútiť do ranného vstávania, alebo do práce.* To je ideál. [Lenze ja som robil, co ma bavilo, a aj tak som vyhorel. Lebo som si nerozumel s ludmi. *Lebo clovek moze byt neviemaký odborník, ked si nerozumie s ludmi.* Lebo vsetci a vsetko okolo zo mna urobilo emocionalneho idiota, nie sucitiaceho cloveka.]
+  ** 4:51
+    *** *Z hľadiska prevencie vyhorenia a pre udržanie si nadšenia, radosti a zmyslu z práce je kľúčové, aby tých radostnejších momentov bolo čo najviac.*
+    *** *Kvôli čomu sa teším do práce? Kvôli čomu ma tá samotná práca napĺňa? Teším sa po práci domov?*
+  ** 5:42
+    *** Ľudia skôr vnímajú prácu ako niečo, čo im nerobí takú radosť, čo je pre nich náročné, unavujúce...
+    *** V knihe _Esencia práce_ som našiel výrok +
+     +
+    *Väčšina zamestnancov prežíva svoj bežný pracovný deň ako miernu chronickú chorobu. Človeka nezabije, ale je nepríjemná a bolestivá.*
+    *** Pri zoznamovaní sa pýtame toho druhého "Kde pracuješ?" A podľa profesie sa potom k tomu človeku možno aj správame a vynárajú sa v nás rôzne predsudky a presvedčenia.
+    *** Práca je pre niektorých aj súčasťou vlastnej identity. Aby som našiel alebo robil to, čo mňa vystihuje.
+    *** Práca sa stala nevyhnutným zlom a zároveň súčasťou našej identity. Na základe nej sami seba hodnotíme, alebo hodnotíme druhých.
+    *** *Kto si, keď nepracuješ?* Je v poriadku identifikovať sa s prácou, ktorú robím. Práca je dôležitou súčasťou mojej identity. "Toto som ja. Toto ma definuje. Toto ma baví."
+    *** *Na druhej strane, čo sa stane, ak človek túto prácu, alebo nejakú inú časť svojej identity, stratí?* Buď ho prestane baviť, cíti sa apatický a frustrovaný, alebo o prácu príde z vonkajších príčin (prepúšťanie, krach). Veľa ľudí, žiaľ, má prácu spojenú s utrpením [Alfie Kohn - Feel Bad Education]. K štúdiu psychológie ma priviedla otázka a údiv už od detstva z toho, *prečo niektorí ľudia vykonávajú práce, profesie, a je na nich na prvý pohľad vidno, že ich tá práca nebaví.*
+    *** Považujem za dôležité klásť si otázku *Kvôli čomu robím túto prácu?*
+  ** 9:21-10:48
+    *** *Kvôli čomu som do tej práce išiel? Prečo som si vybral túto profesiu? Čo ma na tom nebaví? Čo mi na tom vadí? Čo mi kazí náladu? Je v mojich silách to zmeniť?*
+    *** Nepoznám nikoho, kto by sa z každej pracovnej úlohy iba tešil. [akurát, že ja si nepamätám, kedy som sa naposledy z pracovnej úlohy tešil...] Snažím sa usporiadať si úlohy tak, aby v tom zozname boli aj úlohy na ktoré sa teším, aj úlohy, ktoré sú mi možno nepríjemné. Snažím sa vyhýbať situáciám, kedy mám za sebou napr. 10 nepríjemných úloh.
+  ** 17 - fluktuant za komunizmu [totality] bol nebezpecny protistatny zivel
+  ** 20 - kvoli comu robim svoju pracu? Aby naozaj ludia viac robili to, co ich viac v zivote bavi, a menej trpeli. [no tak ja mam asi smolu. ja som viac trpel ako sa radoval. tak som vyhorel a ochorel.]
+  ** 22 - Co je to vyhorenie? Vyhorenie je nasledok dlhodobeho stresu. [being stuck in painful feelings.] pokles alebo strata nadsenia a zapalu pre pracu. unava, vycerpanost, telesne symptomy, traviace tazkosti, problemy so spankom.
+  ** 23:13-24:20
+    *** modelovy priklad cloveka, ktory rychlo a lahko vyhori: workoholik perfekcionista / spasitelsky syndrom. sy [vsak k obidvom som bol vychovany. pracoval som, lebo si nerozumel s ludmi a v uceni, studiu a praci som hladal unik od reality a od bolestivych pocitov, ktore som nevedel spracovat. emocionalnej inteligencii, sucitu, nenasilnej komunikacii, vnimavosti ma totiz ani nikto nenaucil, a neuvedomoval som si, ze je to tak dolezite pre dusevnu pohodu. perfekcionizmus sa rozvinul ako konzistentna neznasanlivost vsetkych okolo mna na moje chyby, nedostatky, podmienenu spolupatricnost, podmienenu lasku a naklonnost. musis nejako vyzerat, nejako sa spravat, aby sme ta prijali. nie je v poriadku, ze si iny, ze robis chyby. Spasitelsky syndrom sa ase rozvinie, ked je clovek vzdelany a vychovany k tomu, ze je zodpovedny za pocity druhych ludi. Ze on alebo ona, je pricinou pocitov ostatnych ludi. A veri, ze tym ze sa ich snazi uspokojit, si ziska ich naklonnost. Kupuje si cestu do neba. Poslusnostou. Sebaobetovanim.]
+    *** syndrom vyhovenia [tiez je k tomu clovek vzdelany a vychovany, ked je prijaty do skupiny a maju ho radi len, ked robi ludom laskavosti. ze sebaobetovanie je dobre, cnostne. ved aj kristus za nas zomrel. to je nas vzor. v com je dobre a zdrave to, ked clovek sluzi druhym na svoj ukor? V com je dobre to, ked clovek pocuva nazory druhych viac nez svoje telo? V com je dobre, ked clovek sluzi druhym na ukor svojho zdravia?]
+  ** 33:19
+    *** *Vedeli by ste s astotožniť s výrokom, že "Žijeme v  provýkonnostnej dobe", čo denno denne vidíme na link:IPčku[ipcko.sk], že ten tlak na výkon je nesmierny. Vedeli by ste sa stotožniť s výrokom, že "Čelíme epidémii vyhorenia?*
+    *** Určite áno. Tlak na výkon tu je. Prispievajú k tomu aj vonkajšie vplyvy a systémy.
+    *** Pribúda profesii, kde nevidíme na tej dennej báze výsledok svojej práce. [Hmatateľnosť výsledkov svojej práce ako prevencia? - Universal Alienation: Marx]
+  ** 36 - Aky silny je pocit uspokojenia z mojej prace? Do akej miery som spokojny so svojou pracou? Co mi brani byt spokojny v praci? Ako by som mohol dostat vdaku od svojho okolia za to, co robim?
+  ** 37 - Mat manualnu zalubu, ako prevenciu vyhorenia. K vyhoreniu sa viac nachylny ludia s intelektualnymi profesiami. Ale aj pri fyzickej praci posobi preventivne, ked praca cloveka naplna, namiesto toho, aby ho vycerpavala.
+  ** 46:02 - Firmy a institucie, ktore dbaju na dusevne zdravie svojich ludi (sabattical, wellness, firemny psycholog) vs Firmy a institucie typu mlyncek na maso (Najmu ludi a ti ludia po roku, po dvoch proste odidu vyzmykany, a uz sa nikdy nevratia, lebo maju tej firmy plne zuby.)
+     - Je dolezite hovorit o prevencii vyhorenia a o moznych katastrofalnych, devastacnych nasledkoch vyhorenia. Pytat sa na takyto druh benefitov - nepenaznych benefitov.
+  ** 48 - Da sa vobec odolat tlakom pracovnej kultury vo firmách, instituciách? [neviem, ako odolam stresu a zachovam si svoje nadsenie, alebo aspon radost pre pracu a pokoj v dusi po opakovanych traumach zo skolskeho, studijneho, pracovneho, rodinneho prostredia.]
+  ** 49 - Su ludia, ktori vyhoria aj v tych najidealnejsich pracovnych podmienkach.
+    *** beznadejne pripady
+    *** silne vonkajsie aj vnutorne vplyvy
+    *** pocity, ktore jednotlivca prevalcuju
+    *** vztahy, deti, partner / partnerka, zivobytie, dlhy, choroba (chronicka; viacero diagnoz; bezradny a bludiaci lekari)
+  ** 54
+    *** prevencia
+      **** dostatok zdraveho pohybu, stravy a spanku
+      **** sebareflexia: revizia zloziek osobnosti [miera naplnenia mojich potrieb]: fyzicka, socialna, intelektualna, spiritualna; ktoru z tychto zloziek potrebujem vyzivit? Myslim si, ze ak je socialna a intelektualna zlozka pretazena sucasne, tak to je presne to, co vedie k tomu vyhoreniu. Sme viac s ludmi, a viac rozmyslame, nez je nam prijemne, a nez nase telo vladze. Lenze v tejto chronicky hyperindividualizovanej, sutazivej, na vykon orientovanej ekonomiky a pracovnej kultury nie je miesto pre vnimavost vlastnych pocitov, vlastneho tela, sucit, ludskost...
+        ***** firemna kultura a pracovne prostredie
+        ***** problemy v sukromi
+        ***** naucene spravanie, vychova, vzdelanie, ako zvladat narocne situacie a bolestive pocity
+      **** dopriat si dovolenkovy pocit aspon 30 minut kazdy den. [lenze ja som pocas posledneho rocnika inzinierskeho studia si ani nedokazal oddychnut ani, ked som bol na chate, ani pri volnocasovych aktivitach. Vzdy sa to premenilo na nahananie efektivity, sutazivost, produktivitu, tuzbe po dokonalosti]
+      **** [Hmatateľnosť výsledkov svojej práce ako prevencia? - 34:23]
+      **** Vďačnosť ostatných ľudí za našu prácu; úcta ostatných ľudí k mojej práci; uznanie, že prispievam niečo do spoločnosti, čo ľuďom uľahčuje život [35:43] - vďačnosť od druhých ľudí prispieva k pocitu uspokojenia z mojej práce od ostatných ľudí (aj odo keď si dám vďaku sám sebe to má podobný účinok, ale od druhého človeka je to pre mňa o to silnejšia spätná väzba, že to, čo robím, má zmysel, a robí život druhých ľudí krajší a jednoduchší) + vďačnosť dopĺňa emocionálne sily + vďačnosť prispieva k uvedomeniu si, že som človek, na ktorom druhým ľuďom záleží, nie len koliesko v stroji, objekt, pes, ktorý musí poslúchať na slovo, alebo iný objekt.
+      **** porozumenie, pomoc, súcit, trpezlivosť keď spravím chybu, napr. keď nestihnem deadline, aby som si znovu vybudoval dôveru k ostatným ľuďom, že naozaj pre mňa chcú to najlepšie, a aby si druhí ľudia uvedomili, že ja nechcem profitovať na ich úkor
+      **** voľné deadliny
+      **** manuálna, fyzická voľnočasová činnosť [ale aj tu mi ani nemčina, ani akordeón nepomohli. práve naopak. hlavne akordeón ma stále viac a viac ubíjal, vyčerpával, krivil chrbticu]
+      **** vnímať svoje telo a stanoviť si hranice, aby som pracoval s ohľadom na hranice svojho tela. vnímať, ako sa pocit prejavuje v mojom tele, pomenovať pocity, pomenovať nenaplnené potreby, rozmýšľať nad tým, čo by som chcel aby drý človek urobil, alebo urobil inak, čo by urobilo môj život krajším, a čo by možno bol alebo bola ochotná urobiť
+  ** 56
+    *** Co mi berie to nadsenie z prace? Co su tie faktory, kvoli ktorym to vyhorenie nastava? Co mi na praci vadi? Co mi energiu berie? mozem si pomoct zlozkami osobnosti
+      **** ľudia
+      **** nepríjemné pocity
+    *** Co su moje zdroje? Co ma pred vyhorenim moze chranit? Co mi pomoze? Z coho mozem este cerpat radost zo zivota, ked jedna oblast mojho zivota sa ruca.
+  ** 58 - Co moze okolie spravit ako prevenciu vyhorenia? Ako moze okolie pomoct cloveku, na ktorom vidim, ze asi vyhara?
+    *** empatia [NVC?]
+    *** firemne benefity zamerane na dusevnu pohodu
 
 == Nervus Vagus + Parasympathetic Nervous System (PNS) / Vagus Nerv + Parasympatisches Nervensystem (PNS) / Blúdivý nerv + Parasympatický nervový systém
 
@@ -5980,20 +6416,21 @@ Do ďalších dvoch rokoch sa môj zdravotný stav pomaly zlepšoval. Asi som ma
 
 Čo vytvára našu realitu?
 
-* Vlastné vedomosti, vnímanie, interpretácie a ďalšie vnútorné vplyvy
-* Výchova
-* Vzdelanie
+* Vlastné vedomosti, vnímanie, interpretácie a ďalšie vnútorné vplyvy - Vnútorná politika; Spiritualita
+* Výchova - Politika v starostlivosti o domácnosť; Politika v rodine; Politika v intímnych vzťahoch
+* Vzdelanie - Politika vo vzdelávaní; Politika v školách
 * Vonkajšie prostredie
-** Médiá
-** Spoločnosť
-** Kultúra
-** Inštitúcie
-** Náboženstvo a ďalšie ideológie
+** Médiá - Prezentovanie politiky
+** Spoločnosť - Politika v spoločnosti
+** Kultúra - Politika 
+** Inštitúcie - Politika v inštitúciách; Politika pri práci; Politika na pracovisku, Politika vo firmách
+** Náboženstvo a ďalšie ideológie - Politika ideológií
+** Ekonomika - Politika vo svete
 ** a ďalšie vonkajšie vplyvy
 
 A teraz, vďaka epigenetike vieme zmerať, od ako vonkajšie prostredie vplýva na zdravie človeka. Vieme vytvoriť spojenie medzi spoločenskými vplyvmi a biológiou človeka. link:???[(Peter Spork - Gesundheit is kein Zufall)], link:???[(Zitat  - Peter Spork - Gesundheit is kein Zufall - Verbindung zwischen Soziologie und Biologie)]
 
-Chcel som si konečne začať užívať život, potom, čo som asi šesť krát vyhorel. Asi som vymyslel prevenciu proti vyhoreniu a zachovanie radosti zo života. Ale berte to s rezervou: žiadne, že buď 100% garancia spokojnosti, alebo vrátenie peniazí ;) Ale pomohlo mi to začať odznova. Postupne prekonávať depriesie. A menej sa nenávidieť za chyby :/ A pomaly sa liečiť z chorôb, keď lekári hovorili, že ma nevedia vyliečiť.
+Chcel som si konečne začať užívať život, potom, čo som niekoľkokrát (asi šesť krát) vyhorel. Asi som vymyslel prevenciu proti vyhoreniu a zachovanie radosti zo života. Ale berte to s rezervou: žiadne, že buď 100% garancia spokojnosti, alebo vrátenie peniazí ;) Ale pomohlo mi to začať odznova. Postupne prekonávať depriesie. A menej sa nenávidieť za chyby :/ A pomaly sa liečiť z chorôb, keď lekári hovorili, že ma nevedia vyliečiť. Keď som videl, že aj lekári sú bezradní a frustrovaní z toho, že mi nevedia pomôcť.
 
 *I just want to be healthy and live well! Do I want so much?!link:https://www.fileformat.info/info/unicode/char/203d/index.htm[‽]*
 
@@ -6329,6 +6766,7 @@ On the other side there is the
 * freedom to be raised, study, work and live in humane conditions
 * freedom to choose what I'll do, how I'll do it and how long I'll do it
 * freedom to live in dignity
+* freedom to be pretty or handsome and safe / sloboda byt krasny alebo krasna a v bezpeci
 
 ---
 
@@ -7818,6 +8256,10 @@ natural resources and commodities is the same thing.
 
 _to deserve_ and _to need_ is the same thing.
 
+_zdvihnuty prst (demand/Forderung)__ a _zlozene ruky (request/Bitte)_ is the same thing.
+
+_Empathy_ and _Unconditional Love_ is the same thing. 
+
 ---
 
 even if you try, you can't do anything wrong. it's impossible. 
@@ -8297,7 +8739,7 @@ systemy sice nezmenime, ale maju na nas obrovsky vplyv.
 
 ja nechcem, aby ste ma zachranovali tak, ze mi budete ponukat riesenia. chcem, aby ste ma naucili, ako si dokazen poradit so svojim trapenim sam.
 
-ako mozem predist tymto bolestivym stavom z vyhorenia v praci znovu? z toho mam najvacsie obavy. mam velke obavyz toho, ze aj ked sa dovzdelam na programatora, tak sa aj tak dostanem do prostredia, v ktorom znovu vyhorim. a ze firme to zase bude jedno, lebo "ty si len suciastka v stroji, ktora je nahraditelna". lebo teraz som "pokazeny" a ludia okolo mna, psychologicky, autority, lekari,  kamaratky, nikto mi nevie poradit, co s tym, ani mi nevedia prejavit sucit. zase som v problemoch sam. a nikto nevie, kedy vyzdraviem, a ci vobec niekedy budem zdravy, abudem mat pracu, ktora ma bude naplnat, vztahy, ktore mi daju sucit a bezpecie, priatelku, ktora mi da jemnost, citlivost a nehu, rodinu, ktora ma podpori, domov, kam sa budem rad vracat.
+ako mozem predist tymto bolestivym stavom z vyhorenia v praci znovu? z toho mam najvacsie obavy. mam velke obavyz toho, ze aj ked sa dovzdelam na programatora, tak sa aj tak dostanem do prostredia, v ktorom znovu vyhorim. a ze firme to zase bude jedno, lebo "ty si len suciastka v stroji, ktora je nahraditelna". lebo teraz som "pokazeny" a ludia okolo mna, psychologicky, autority, lekari,  kamaratky, nikto mi nevie poradit, co s tym, ani mi nevedia prejavit sucit. zase som v problemoch sam. a nikto nevie, kedy vyzdraviem, a ci vobec niekedy budem zdravy, a budem mat pracu, ktora ma bude naplnat, vztahy, ktore mi daju sucit a bezpecie, priatelku, ktora mi da jemnost, citlivost a nehu, rodinu, ktora ma podpori, ludi okolo seba, ktori mi daju vdaku za to, co pre nich robim, domov, kam sa budem rad vracat.
 
 ako sa citite, ked toto pocujete?
 
@@ -8305,7 +8747,7 @@ velmi ma znepokojuje ideologia, ktoru vyznavate. ja verim, ze prave tieto presve
 
 *Hypotetický rozhovor s pani Luciou Šútorovou:*
 
-Ja: +
+Ja: Rozmyslal som nad tym, o com sme sa rozpravali. Posobili ste na mna... smutne. Potom som si spomenul na Vas diar. Ten bol tiez plny ludi, ktori potrebovali pomoc. Citite sa vycerpana z toho, kolkym ludom pomahate? Ste sklamana, pretoze by ste chceli najst silu pomahat a prejavovat sucit? Chceli by ste, aby vasa terapia posobila na ludi, s ktorymi pracujete mozno liecivejsie? Ako sa citite, ked toto pocujete? +
 Ona: +
 ...
 
@@ -8375,7 +8817,7 @@ Hocikto tu ma prednost pred Vami. --
 
 ---
 
-*Zodpovednost pre mna znamena uvedomovanie si v kazdom momente, zmysel a dosledky svojich cinov, slov a myslienok.* A to trva nejaky cas. Za ten cas clovek robi chyby. Kazdou chybou je blizsie k zodpovednosti, za predpokladu, ze toho cloveka vzdelali a vychovali k tomu, aby bral chyby ako prilezitost obohatit zivot. *Chyby vedu k zodpovednosti.* Lenze pokial je clovek vzdelany a vychovany k tomu, aby sa nenavidel za svoje chyby, ze chyby su hriesne, ze nie je dost dobry a nikdy ani nebude, pokial je neustale vychovavany a vzdelavany k Amtssprache, aby "musel" "nesmel", "mal by" nemal by" "zasluzit si odmenu alebo trest", pokial bol svedkom a obetou nasilia doma a v skole, potom je clovek aktivne vedeny k poslusnosti, nie k zodpovednosti, pokial bolo v jeho zivote viac nasilia nez nehy, jemnosti, pôžitku, podpory, lásky, naklonnosti, dovery, bezpecia, potom je clovek vedeny k tomu, ze autority su zodpovedne za jeho zivot, ze vsetci ostatni su zdrojom jeho trapenia. Potom je nasilie neodvratne. A z to moze podporit vznik navykov, ktore vedu k dalsim psychickym a telesnym porucham. Potom chyby nevedu k zodpovednosti, ale k poslusnosti a nasiliu. A mozno k perfekcionizmu - lebo kazda chyba je katastrofou.
+*Zodpovednost pre mna znamena uvedomovanie si v kazdom momente, zmysel a dosledky svojich cinov, slov a myslienok.* A to trva nejaky cas. Za ten cas clovek robi chyby. Kazdou chybou je blizsie k zodpovednosti, za predpokladu, ze toho cloveka vzdelali a vychovali k tomu, aby bral chyby ako prilezitost obohatit zivot. *Chyby vedu k zodpovednosti.* Lenze pokial je clovek vzdelany a vychovany k tomu, aby sa nenavidel za svoje chyby, ze chyby su hriesne, ze nie je dost dobry a nikdy ani nebude, pokial je neustale vychovavany a vzdelavany k Amtssprache, aby "musel" "nesmel", "mal by" nemal by" "zasluzit si odmenu alebo trest", pokial bol svedkom a obetou nasilia doma a v skole, potom je clovek aktivne vedeny k poslusnosti, nie k zodpovednosti, pokial bolo v jeho zivote viac nasilia nez nehy, jemnosti, pôžitku, podpory, lásky, naklonnosti, dovery, bezpecia, vdaky, potom je clovek vedeny k tomu, ze autority su zodpovedne za jeho zivot, ze vsetci ostatni su zdrojom jeho trapenia. Potom je nasilie neodvratne. A z to moze podporit vznik navykov, ktore vedu k dalsim psychickym a telesnym porucham. Potom chyby nevedu k zodpovednosti, ale k poslusnosti a nasiliu. A mozno k perfekcionizmu - lebo kazda chyba je katastrofou.
 
 *Neha ako prevencia.*
 
@@ -8431,44 +8873,52 @@ uzkost citim v bruchu, v zaludku, v crevach, v srdci, ako zmatenost v hlave, a o
 
 uzkosti a obavy:
 
-uzkost z policie
-
-uzkost z programovania
-
-uzkost z rozhovorov
-
-uzkost v pritomnosti ludi
-
-* uzkost a znechutenie z prace
+* uzkost z policie
+* uzkost z kodu
+  ** zhltni slona teraz a naraz! = pochop cely projekt okamzite! pochop cely projekt za co najkratsi cas! cas bezi!!! Ponahlaj sa! Nezabudni! Cim rychlejsie budes pracovat, tym rychlejsie vyhoris!
+* uzkost z programovania
+  ** mozno mi uzkost z kodu a z programovania pomoze znizit, ked si budem stanovovat co najmensie ciastkove ciele.
+    . najprv skusim sam prist na to, ake casti tvoria celok. podla toho si stanovim ciastkove ciele, ktore potom vytvoria celok.
+    . potom tieto ciastkove ciele skusim aj sam naplnit.
+* uzkost z rozhovorov
+* uzkost v pritomnosti ludi
+* uzkost a znechutenie z prace a z pracovnej kultury
   ** discouraged to work after burnout / entmutigt wieder zu arbeiten nach ausbrennung
+* uzkost z prace pracovnej kultury A PRACOVNEHO PROSTREDIA - COHOKOLVEK, CO PRIPOMINA KANCELARSKE PRIESTORY
+* uzkost z chatov, firemny chatov a mailov
+* uzkost, ze sa mi zhorsi zdravotny stav
+* uzkost, ze ma vylucia z kolektivu
+* uzkost, ze sa znovu budem kazdy den hadat a natahovat s kolegami
+* uzkost, ze uzkost mi zhorsi zdravotny stav
+* uzkost, ze uzkost pride znova, a ochromi ma natolko, ze nebudem. schopny fungovat v praci, ani doma, ze mi stale bude drazdit zaludok a crevo, a ja sa nikdy nedostanem zo svojich chronickych zdravotnych problemov, a budem do konca zivota zit zivot osameleho invalida
+* uzkost, ze doma ma bude cakat priatelka, s ktorou sa zase budem kazdy den hadat, a pre ktoru nebudem nikdy dost dobry
+* uzkost, ze ak znova zacnem doverovat ludom, znova ma podrazia
+* uzkost, ze do konca zivota sa budem citit osamely.
+* uzkost, ze do konca zivota budem trpiet na chronicke bolesti a unavu
+*uzkost, ze budem zavisly od rodicov az do ich, alebo mojej, smrti
+* uzkost z porovnavania
+* uzkost zo sutazenia
+* uzkost z vystupovania
+* uzkost z hodnotenia
 
-uzkost, ze sa mi zhorsi zdravotny stav
+uzkost mi pripomina, na com mi tak velmi zalezi.
 
-uzkost, ze ma vylucia z kolektivu
+---
 
-uzkost, ze sa znovu budem kazdy den hadat a natahovat s kolegami
+Fetise a kulty:
 
-uzkost, ze uzkost mi zhorsi zdravotny stav
-
-uzkost, ze uzkost pride znova, a ochromi ma natolko, ze nebudem. schopny fungovat v praci, ani doma, ze mi stale bude drazdit zaludok a crevo, a ja sa nikdy nedostanem zo svojich chronickych zdravotnych problemov, a budem do konca zivota zit zivot osameleho invalida
-
-uzkost, ze doma ma bude cakat priatelka, s ktorou sa zase budem kazdy den hadat, a pre ktoru nebudem nikdy dost dobry
-
-uzkost, ze ak znova zacnem doverovat ludom, znova ma podrazia
-
-uzkost, ze do konca zivota sa budem citit osamely.
-
-uzkost, ze do konca zivota budem trpiet na chronicke bolesti a unavu
-
-uzkost, ze budem zavisly od rodicov az do ich, alebo mojej, smrti
-
-uzkost z porovnavania
-
-uzkost zo sutazenia
-
-uzkost z vystupovania
-
-uzkost z hodnotenia
+* fetis pre dokonalost
+* fetis pre perfektnost
+* fetis pre bezchybnost
+* fetis pre ideal
+* fetish for skill
+* fetish for money
+* fetish for status
+* fetis krasy / kult krasy
+* kult krasmych zien / fetis krasnych zoen
+  ** ze zeny su nieco viac? ze krasne zeny su nieco viac? ze zeny su nieco menej? a ne sme si nahodou vsetci rovni? nemame nahodou vsetci rovnaku tuzbu po slobode? aj zenyaj muzi? preco si niekto stale mysli, ze je niekto viac? preco sme vedeni k tomu, ze existuju ludia, ktori znamenaju viac? 
+  ** existuje tolko druhov krasy.
+  ** existuje tolko druhov bohatstva. 
 
 ---
 
@@ -8488,11 +8938,7 @@ vdacnost za to, ze te to pocit dokazem vnimat v tele a pomenovat ho
 
 ---
 
-uzkost mi pripomina, na com mi tak velmi zalezi.
-
----
-
-uzkost mi hovori, ze moj vztah s druhym clovekom je ohrozeny. a mne zalezi na nasom vztahu, a ja by som sa chxel starat o nas vztah. a zaeoven ma velmi boli a je mi velmi luto co sa stalo, pretoze mi tak velmi zalezi na tom, aby lidia hovorili veci jemne a citlivo. velmi mi zalezi na citlivosti, jemnosti, makkosti, ohladuplnosti, sucite, porozumeni, pokoji, nehe. 
+uzkost mi hovori, ze moj vztah s druhym clovekom je ohrozeny. a mne zalezi na nasom vztahu, a ja by som sa chxel starat o nas vztah. a zaeoven ma velmi boli a je mi velmi luto co sa stalo, pretoze mi tak velmi zalezi na tom, aby lidia hovorili veci jemne a citlivo. velmi mi zalezi na citlivosti, jemnosti, makkosti, ohladuplnosti, sucite, porozumeni, pokoji, nehe, vdacnosti.
 
 ---
 
@@ -8534,10 +8980,6 @@ darujem zenam sukromie, bezpecie a uctu, a ony mne daruju pokoj, slobodu a nehu
 
 ---
 
-ohladuplnosy = jemnost + citlivost
-
----
-
 ako by si sa citil, kwbysi bol menej atraktivna zena alebo dievca, zena s vraskami a ovisajucou kozpu na tvari, a vsade okolo seba videl ludi a reklamy s krasnymi, atraktivnymi, zenami, dokomale aumernymi v tvari, s dokonalymi ucesmi, vzdy elegantne a vkusne oblecene? 
 
 ako bysisa citil, kebysi bolcely svojzivot nwuatale porovnavamy, hodnoteny, posudzovany? 
@@ -8545,15 +8987,6 @@ ako bysisa citil, kebysi bolcely svojzivot nwuatale porovnavamy, hodnoteny, posu
 ako by si sa citil, kebysi bolcely zivot vedeny k sutazivosti a vnimaniu druhych ako prekazku k svojmu vlastnemu uspexhu alebo ako k vnimaniu druhych ako zdroje alebo ludsly kapital, z ktorych musis vytazit a vtextrahovat co najvoac aj na ich alebosvoj ukor? 
 
 asi by to neboli projemme pocity, ze?
-
----
-
-kult krasmych zien / fetis krasnych zoen
-
-ze zeny su nieco viac? ze krasne zeny su nieco viac? ze zeny su nieco menej? a ne sme si nahodou vsetci rovni? nemame nahodou vsetci rovnaku tuzbu po slobode? aj zenyaj muzi? preco si niekto stale mysli, ze je niekto viac? preco sme vedeni k tomu, ze existuju ludia, ktori znamenaju viac? 
-
-existuje tolko druhov krasy. +
-existuje tolko druhov bohatstva. 
 
 ---
 
@@ -8604,3 +9037,284 @@ ked ma ppcity paralyzuju, nemusim hovorit nic. mozem mlcat. mozem odist. mozem s
 ---
 
 aj uzkostou, hnevom, zurivostou, vinou, hanbou, ziarlivostou, zavistou, myslienkami a slovami o pomste, o tom, co s druhymi ludmi alebo so mnou nie je v poriadku, davam svoju moc, pokoj v dusi, slobodu a zdravie druhym ludom. spomeniem si na tuto myslienku. citim ten prud energie ako uz neprudi odomna prec, ale ako prudi od druhych ku mne naspat. pockam s odpovedou. prejavim sucit sebe potichu. prejavim sucit druhemu cloveku, nahlas alebo potichu.
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+tak ako kristus premienal vodu na vino, tak aj ja premienam _moc nado mnou_ na _moc so mnou_ cez _sucit_.
+
+cez nenasilie, cez sucit pre seba a pre druheho cloveka si beriem spät si vsetku moc, ktoru mi nasilnym slovom alebo cinom zobral druhy clovek, a premienam ju na moc so sebou a s druhymi ludmi. 
+
+sucit zachovava paretov princip optimality: druhym neskodim a sebe pomaham.
+
+sucit mi vracia vsetku moc, ktoru som v minulosti stratil. ktoru som daval ostatnym ludom. 
+
+teraz si predstavujem, ze sucit je moja supers hopnost. kamkolvek pridem, snazim sa vnimat pocity a potreby v sebe aj v druhych a nasavat ich do seba,. alebo vnimat svoje pocity a potreby, a nasavat ich zo seba. zhlbola sa nadychen a vysychnem. vnimat tietopocity a potreby, tento sucit a vnimavost, ako moju moc, ktoru si beriem od druhych k sebe, alebo schopnost ktorou aktivujem svoju moc v sebe. asavam vsetku moc, ktoru maju, alebo ktoru davam ostatnym ludom a veciam nad sebou, nechavam si ju pre seba, a premienam moc nad ludmi na moc s ludmi, zdravie, pokoj v dusi, slobodu a silu. tu energiu citim v bruchu, a spiralovito v prudoch sa proti smeru hodinlvych ruciciek tiahne az do mojej hlavy. uvolni sa mi napatie v bruchu a zmierni bolest hlavy. zacnem mat viac energie. citim spokojnost, ulavu, vdaku, ze konecne som zrejme prisiel na to, ako spracovavat scoje emocie, svoje pocity. asi postupne emocionalne chapem, ze moje bezpecie zavisi odo mna. posilnujem si internal locus of control: vnimam v sebe neprijemne pocity a viem ich spracovat tak, ze sebe pomozem a druhym prinajmensom neuskodim. staci, ked vnimam a nasavam do seba moc zo svojich nenaplnenych potrieb, prejavim si sucit, moc z nenaplnenych potrieb druhych, prejavim sucit im, a skusit sformulovat moju aj ich prosbu, ktora by nas zivot urobila krajsim. a tak prispievat k mieru na tejto planete.
+
+pripomina mit to dragonborna zo skyrimu ako nasava do seba dusu draka.
+
+---
+
+kazdou chybou som blizsie k zodpovednosti
+
+---
+
+ako sa citis, ked toto pocujes? 
+
+---
+
+nakupovanie moze byt navykove. nakupovanie moze byt superstimulus. 
+
+pracovanie moze byt navykove. praca moze byt superstimulus. 
+
+---
+
+naplnajuca praca, praca spojena so sebarealizaciou vs vycerpavajuca praca, praca spojena s utrpenim
+
+---
+
+chcem mat prostredie a schopnosti, ktore mi umoznia starat sa o svoju dusevnu pohodu rovnako, ako aj o moje odborne znalosti
+
+---
+
+¡kriciaca empatia!
+
+daj mi moju moc! 
+daj mis spat moju moc! 
+ja si vezmem tvoju moc nado mnou sucitom! 
+zober si svoju moc! 
+zober mu svoju moc! 
+zober jej svoju moc! 
+zober vsetkym svoju moc!
+zober vsetkym moc nad tebou!
+sucitom!
+
+---
+
+bez spokojnosti niet odbornosti.
+
+ked clovek trpi, tazko sa mu uci. clovek, ktory je v pohode, sa uci sam od seba.
+
+---
+
+vtedy, ked robim chyby, potrebujem pomoc a sucit viac, nez kedykolvek predtym. nie tresty, analyzy, diagnozy, dobre rady, utesovanie, odlucenie.
+
+pomoc a sucit. som nedostal, ked som robil chyby. 
+
+pomoc a sucit. sa stali pre mna mytmi. uz nedufam, ze mi niekto pomoze. ze mi niekto prejavi sucit, okrem mna. 
+
+uz neverim ludom, ze pre mna chcu to najlepsie.
+
+pomoc a sucit. 
+
+---
+
+najviac sa obavam, ze ked zacnem pracovat, pocity ma zase prevalcuju az k vyhoreniu, a ani sucit mi nepomoze. 
+
+---
+
+4 hodiny prace; najviac
+4 hodiny spracovavamia emocii z prace; mozno aj viac
+
+---
+
+Ich werde nie mwhr für die Fehler der Autoritäten leiden. Ich werde zu meiner eigenen, legitimen Autorität.
+
+---
+
+je v poriadku, mat niektore potreby chronicky, dlhodobo nenaplnene. (aj ked to boli. boli ma to v celom tele. aj prezivat tieto pocity, aj vyjadrit sa zranitelne a prosit alebo sucitit.)
+
+---
+
+yelling at somebody is the same as requesting something from somebody.
+
+criticism, insults, vulgarisms, accusations, put-downs, doubts, anxiety (uzkost), sadness, anger, intimidation, blackmailing is the same as please
+
+---
+
+"zase ste do dojebali. my mame vsetci kosele, iba vy dve mate zase nieco ine."
+
+pb park tinedzerka - den potom, kedy mi prisli okuliare ARDON na svetloplachost
+
+---
+
+zdravie je komplikované.
+
+---
+
+*Nepodmienená vďaka / Unconditional gratitude / Bedingungslose Dankbarkeit*
+
+firma mne daruje peniaze a +
+ja firme darujem svoju pracu.
+
+firma mi daruje peniaze ako jej vdaku za pracu a +
+ja darujem firme pracu ako vdaku za jej vdaku.
+
+Dakujem za vasu vdaku. 
+
+Dakujem ja tvoju vdaku. 
+
+peniaze ako prostriedok na vyjadrenie vdaky vs peniaze ako prostriedok moci nad ludmi 
+
+---
+
+dokonalost nie je efektivna. 
+
+dokonalost skodi. 
+
+lebo vytvara uzkost, nervozitu a mmozstvo dalsich neprijemnych pocitov. 
+
+dokonalost zakryva hnisajuce, krvacajuce, bolestive, nehojace sa rany kapitalizmu. 
+
+za dokonalost a ideal platime vysoku cenu. nie len peniazmi, ale aj nasou spokojnostou, zdravim, pokojom v dusi. 
+
+---
+
+je pre mna nesmierne tazke, vidiet nieco dobre za vsetkym tym nasilim, ktore ludia a institucie pachaju.
+
+chcem sa nasiliu branit, ale nejde mi to. je vsadepritomne. vidim, pocujem a vnimam ho vsade. aj v sebe. vyhybanie sa nasiliu mi sposobuje uzkosti a obavy, lebo chcem mat kontrolu nad svojim prostredim. chcem mat prostredie, ktore ma bude naplnat jemnostou, citlivostou, mäkkostou, ohladuplnostou, sucitom, porozumenim, vdacnostou, neznostou, slobodou, zodpovednostou, spolupatricnostou, doverou. 
+
+---
+
+chcel by som, aby ludia a institucie vnimali chyby nie tak, ze "chyby au neziaduce", ale ze "chyby su prirodzenou sucastou tvorenia." "chyby podporuju zodpovednost. kazdou chybou sa stavame zodpovednejsimi, pokial sme ochotni, poucit sa z nasich chyb, a brat ich ako podnet k tomu, ako mozme nas zivot a zivot ostatnych ludi urobit krajsim." lenze my sme vychovany a vzdelany nenavidiet sa za nase chyby. citime vinu a hanbu, pocity, ktore podporuju agresivitu a depresiu. vytvorili sme si kulturu, ktora likviduje pokoj v dusi a dusevnu pohodu.
+
+bohuzial, vzdelavaci system je velmi intolerantny voci chybam. kazda chyba je tvrdo potrestana. tak brania skoly rozvoju zodpovednosti. namiesto toho stavaju poslusnost ako ideal dokonaleho ziaka. to iste v rodinach, to iste vo firmach a instituciach.
+
+---
+
+chyby nam pripominaju jedinecne zivotne udalosti.
+
+chyby robia nas a nase veci jedinecnymi, unikatmymi, autentickymi, spontannymi.
+
+---
+
+zbavil som sa hriechu tym, ze som zistil, ze ziadny hriech neexistuje. hriech mozeme napriklad nazyvat chybou. hriech ani chyba nie su ani zle, ani dobre. hriech je cinnost alebo udalost, kedy si naplname jedny potreby na ukor inych. a ked sa nieco take deje, je dolezite byt k sebe vludny a laskavy, a prejavit si sucitnu sebareflexiu a sucit k sebe a k druhym ludom, k veciam,  ktore stimulovali moje pocity, k mysleniu, ktore sposobilo moje pocity, a vnimat hriech, vnimat chyby a prirodzenu sucast tvorenia, ako prirodzenu sucast zivota. chyby su prirodzene. hriech je prirodzeny. nabozenstva ucia nenavisti za za chyby, za hriechy. hovoria, ze iba pokanim, iba seba nenavistou a svatym odpustenim sa mozeme ocistit. lenze to sa ukazuje ako nasilny sposob, ktory podporuje vinu a hanbu, a ktore dalej podporuju nasilie v cloveku samom a medzi ludmi. zacneme sa nenavidiet, kritizovat za svoje chyby. zacnene nenavidiet, kritizovat chyby druhych. zacneme mat uzkost z toho, ze cokolvek spravime, bude to hriesne a boh nas za to tak ci tak potresta. uplne zabudame, ze chyby su prilezitost, ako urobit zivot krajsim pre seba, pre ludi okolo seba, pre prostredie, v ktorom zijeme tym, ze si prejavime hlboku, vludnu, laskavu lutost sucitom s potrebami, ktore na pboch stranach neboli naplnene nasimi myslienkami, slovami a skutkami. mame sancu rozmyslat, co by sme chceli povedat alebo robit inak. prehodnotit, ako by sme mohli kmysliet a konat v sulade so svojou spiritualitou, poucit sa z chyb, a robit veci, ktore naplnia co najviac nasich nenaplnenych potrieb, a tak prispievat k zivotu na tejto planete. intolerancia, neznasanlivost chyb nabozenstvami, ideologiami, mediami, vychovou, vzdelavanim, skolami, spolocnostou, kulturou, v praci, brzdi nas rozvoj k zopdovednosti, pretoze vnimame chyby ako zdroj trestu, nie ako zdroj zodpovednosti, sebareflexie a sucitu. Cielom nie je ocistenie sa od hriechu spovedou, pokanim, sebanenavistou. cielom je rozvijat sucit a pokoj v dusi, a kazdu chybu vidiet prilezitost, ako mozeme zit viac v sulade so svojou spiritualitou, a prist na to, ako by sme mohli robit veci tak, aby naplnlnali co najviac nasich potreby s ohladom na nas a potreby druhych ludi a prostredia, a tak trenovat nasu bezpedmomienecnu lasku, a prispievat k bezpeciu, zdraviu, pohode, pokoju a mieru na tejto planete. tesit sa z nasich chyb, hriechov a nedokonalosti, ked to ide, a vidiet za tym prilezitost zistit, ako to na nas vplyva a na com nam tak velmi zalezi. alebo smutit, ked to nejde. ale nie smutit v depresii, pokani, sebanenavisti, ale smutit laskavo, vludne a s hlbokym, ohladuplnym, dostojnym sucitom.
+
+chyby su zdrojom zivota, hriech je zdrojom zivota, konanie proti zivotu je zdrojom zivota, pokial sa z chyb co najskor poucime, a uvidime krasu nenaplnenych potrieb.
+
+je v poriadku robit chyby opakovane. je v poriadku zlyhavat v tom, poucit sa z chyb. 
+
+---
+
+sucit: stahuje sa mi zaludok, ked na mna niekto hovori naliehavo, zvysenym hlasom, ze so mnou nieco nie je v poriadku, a ze to kvoli mne trpi ten druhy clovek aj jeho rodina alebo komunita. Tym vo mme vzbudzuje pocity hanby a viny, ktore ma bolestivo paralyzuju, a pptom citim bezmocnost z hanby a viny, pretoze sa im nedokazem ubranit, a pretoze mi brania prejavit sucit sebe aj druhym ludom v tom momente. zalezi mi na vztahu s druhymi ludmi, na ich pohode a spokojnosti; na dobrych susedskych vztahoch, na pokojnom pracovnom prostredi - ja by som chcel, aby to ludia hovorili jemmejsie, citlivejsie; aby sme boli obaja vdacni. nechcem si naplnat svoje potreby na svoj ukor, alebo ukor druhych. to iste by som chcel, aby chceli aj druhi: chcel by som, aby si aj druhi naplnali svoje potreby s ohladom na moje potreby.
+
+---
+
+jasne! to je ono! chcel by som dat druhemu cloveku dar, ze ma slobodu, a ze si moze ulavit tym, ze moze na mna, bezpecne aj nebezpecne, kricat ziapat, vysmievat sa mi, ponizovat ma, vyvolavat vo mne pocity viny a hanby, provokovat ma, vyhrazat sa mi, vydierat ma, zastrasovat ma, traumatizovat ma, trestat ma, hodnotit ma, posudzovat ma, odsudzovat ma, diagnostikovat ma, analyzovat ma, hovorit mi co "by som mal" alebo "musim" robit, moze mat predsudky alebo obavy z ineho alebo neznameho, prikazovat mi, rozkazovat mi, fyzicky ma ohrozovat alebo mi ublizovat, bez obav, ze ho budem mat menej rad, pretoze bude vediet, ze cokolvek spravi, dostane bud sucit odo mna, alebo ja kunmu budem uprimny zo srdca, ked nebudem vladat dat druhym sucit, ked bude nad moje sily dat druhym sucit. ja budem bud davat vedomie druhym, ze svet je bezpecne miesto, alebo ja druhym budem davat najavo, ze ja by som chcel, aby bol svet pre mna bezpecnym miestom. to musi byt pre toho druheho ulava. to musi byt pre toho druheho obrovsky dar. a zaroven si sucitom vezmem spat vsetku svoju moc, ktoru maju druhi ludia nado mnou, aby ma zneludstili, a premienam ju na moc s ludmi.
+
+---
+
+praca ako vazenie: hlavne ked uz som unaveni a nevladzem uz viac pracovat; nemozem odist: neskoncila mi este pracovna doba, ani nemam prestavku, a nikde vo firme si oddychnut neviem
+
+tak trp a hni! v robote, ktora sa postupne stava mojim peklom
+
+priznaky chronickych chorob silneju, unava rastie. vyhorenie je blizko. znovu.
+
+---
+
+nesudit ludi podla vonkajsich prejavov.
+
+---
+
+je to v poriadku. nie je to tvoja vina.
+
+ale boli to.
+
+sucit hoji rany a tlmi bolest. aj ked prejavit ho je tiez obcas bolestive a vycerpavajuce.
+
+---
+
+todo
+
+empathie zu mir selbst, wie verängstigt ich mich fühle, wenn jemand bewusst oder unbewusst in mir schuld oder scham auslöst.
+
+---
+
+todo
+
+empathie für mich selbst, wenn die arbeit zur hölle wendet
+
+---
+
+in-credible! im-possible! un-be-lievable!
+
+---
+
+deti mi doplnaju energiu. ked vidim ich zvedavost, radost, energickost. spomeniem si na zivot, zdravie, chut do zivota. usmejem sa. ulavi sa mi.
+
+---
+
+*Sucit k programatorom, programatorkam, a vsetkym, co pracuju v IT*
+
+asi naozaj potrebujeme sucitit s tym, ked si myslime, ze jeden programovaci jazyk je lepsi nez druhy, jeden mavrhovy vzpr je lepsi nez iny, jedna implementacia je lepsia nez ina, jedna udajova struktura je lepsia nez ina, jeden algoritmus je lepsi nez iny, jedna paradigma je lepsia nez ina, jedna teoria je lepsia nez ina..., namiesto toho, aby sme sa zamerali na to, ktore potreby dana vec alebo nastroj naplna viac, a ktore menej, a skumali, experimentovali a debatovali o vyhodach a nevyhodach jednotlivych pristupov, podla potrieb, ktore sa snazi naplnat nastroj, podla potrieb, ktore sa snazime naplnit my, a hladat prienik, ktore nastroje a veci naplnaju najviac nasich potrieb do najvacsej moznej miery.
+
+co z toho vyplyva? mozno *humanisticka informatika*? *informatika s humanistickou pedagogikou*? *informatika s Montessori pedagogikou*? Hracky sa menia. Pristup zostava.
+
+---
+
+stimul: vyvrtal som dieru do ula, ako vstup pre vcielky +
+pocit: citil som uzkost +
+potreba: chcem pracu odviest co najlepsie +
+myslenie: krivolaka diera; odvodzovanie si vlastnej hodnoty od svojej prace; obavy z otcovej kritiky, ktora nastastie neprisla; premuslanie nad tym, odkial som sa naucil, odvodzovat si svoju hodnotu od svojej prace, alebo od vonkajsich prejavov: ako vyzeram, ako som obleceny, co a ako robim - nie preco to robim a co ma zaujima - ako vyzera, ako sa oblieka, co vlastnim, co mam, kde byvam, a to vsetko aplikovat aj na ludi okolo mna, mojich blizkych, moju (buducu) priatelku...: skola a rodina a praca, kde som bol neustale hodnoteny a posudzovany podla mojich vykonov druhymi ludmi a autoritami - toto spravaniensom si zvnutornil, lebo som chcel byt dobre dieta, dobry syn, dobry ziak, najlepsi ziak; najproduktivnejsi zamestnanec, najzodpovednejsi zamestnanec - potom ja odsudzujem druhych, ked oni zoseba nedavaju to najlepsie; obavy, ze ma neprijmu do skupiny: spolupatricnost; obavy, ze sa moja praca nebude ucitelom, rodicom, sefom pacit - kupovanie si ich sympatii a svojej cesty do neba: potreba uznania a vdaky za to, co pre druhych robim, uznanie a vdaka odo mna druhym ludom aj k sebe, ked oni alebp ja odvedieme menej nez dokonalu pracu, pretoze sme aj tak odviedlitunajlepsiu pracu, ako sme len vtedy vedeli, tak ako vzdy;zalwzi mi na tom, abysom odviedolconajlepsiu pracu, abysom dal zoseba vzdy to najlepsie. zalezi mi na tom tak velmi, ze si od toho odvodzujem svoju vlastnu hodnotu. cim viac chyb spravim, tym mensia je moja hodnota. cim som blizsie k dokonalosti, tym vacsia je moja hodnota. a to ma vexie k perfekcionizmu a uzkostnemu dorazu na detaily. odkial toto spravanie prislo? odkial som sa ho naucil? odkial som ti toto spravanie a tieto presvedxenia zvnutornil? z rodiny, zo skol, z prace, z nabozenstva. bol som neustale posudzovany a hodnoteny. cim blizsie som bol k dokonalosti, k perfektnosti, k idealu, tym viac uznania, chvaly, ucty, vdaky sa mi dostavalo. cim dalej som bol od dokonalosti, cim viac chyb som robil, tym viac opovrhnutia, ignorancie, posmechu, kritiky, vylucenia zo skupiny, skaredych pohladova este skaredsich slov, zlerobenia, trestov, fyzickeho ublizovania a tym menej sucitu a porozumenia od ostatnych. naucil som sa, ze robit chyby je zle. ze ti, co robia chyby, ti, co pachaju hriech, su hriesny a zly. ze chyby su zle. ludoa by nemali rpbit chyby. kazda chyba je katastrofou. a uplne majhorsie je, ked aj urobim nejaku pracu, najlepsie ako viem, a niekomu druhemu sa nepacia skritizuje ma zanu: "vies co, radsej to nechaj tak. je to na hovno. cokolbek, courpbis, nie je dost dobre, a nech budes robit cokolvek, nildy ani nebude! a ja nie som jediny, kto si to mysli. babrak skurveny! " ja by som mu povedal "a toto je presne tomyslenie, ktore mi prispieva k nasiliu na tejto planete. taketo situacie mi brania mat pozotpk z prace a vidiet kej zmysel, a prispievaju k mojmu dusevnej nepohpde, vycerpaniu, smutku, silnejsim bolestiam mojej psychosomatickej choroby, znizeneho uspokojenia z odvedenej prace, k tomi, ze ja nie som clovek, ale iba objekt na ktoriostatni mozu ibanahucat. a toto cele vo mne vyvolava len viac a viac uzkosti z programovania, znechutenie z prace, pochybnostiam a nedovere, ze ludia pre mna chcu len to najlepsie, a posuva ma len blizsie k dalsiemu vyhoreniu. chcel by som od druhych ludi pocut viac uznania a vdaky za pracu, ktoru pre ostatnych robim. chcel by som od ostatnych pocut kritiku s jemnostou, citlivostpu, ohladuplnostou. mozno dokonca aj s makkostou. mas slobodu na mna nahucat. ja mam slobodu povedat ti, zei tovadi, a boli ma to, pretoze mi zalezi na mojom. vztahu s druhymi ludmi, a na tom aby sme si my dvaja rozumeli. tentorozhovor je pre mna vycerpavajuci. potrebujem sioddychnut. porozpravame sa zajtra, ked pochopim, cosa vlastne teraz udialo, a na com ti tak velmi zaleizi, ze si ochotny kricat na niekoho ineho. chcel bysom, aby si rozmyslal nad tym, co sa tu stalo, a co som ti povedal."
+
+chybami k zodovednosti
+chybami k tvorivosti
+chybami k roznorodosti
+chybami k tolerancii
+chybami k slobode
+chybami k sucitu
+
+---
+
+sebadoveru si tiez clovek zvnutornuje z prostredia. cim podporujucejsie, stabilnejsie, pokojnejsie, sucitnejsie prostredie clovek mal ako dieta, tym viac sebadovery a sucitu a tolerancie vie prejavit sebe a druhym.
+
+---
+
+som vdacny za svoje choroby. vdaka nim si uvedomujem, na com mi v zivote najviac zalezi.
+
+ucitel pozoruje studenta a ucitel zastavi studenta v samovzdelavani, pokial sa student citi unaveny, nervozny, alebo ma ine pocity, ktore vyplyvaju z jeho nenaplnenych potrieb, ktore mu ucitel pripomenie sucitom. dakujem ti, maria montessori.
+
+---
+
+su naozaj chyby, konflikty, hadky tak zle a neziaduce? vsak aj z tej najhorsej chyby sa nakoniec poucime, aj ked to v danom momente vyzera katastrofne a tragicky. v kazdej chybe sa skryva mudrost, ktora caka na to, aby sme ju odhalili. tak preco sa stale bojime robit chyby? preco sa vyhybame hadkam? preco sa stale nahaname za dokonalostou? vsak ani priroda nie je dokonala. ale je dost dobra. udrzi samu seba, podporuje samu seba v nekonecnych kolobehoch.
+
+---
+
+Ako by si sa citil, keby si bol zena, a vsetci muzi by na teba cumeli, zizali, ako na korist, a predstavovali si ta iba ako sexualny objekt? ako im skacu na palici? 
+
+---
+
+
